@@ -1,0 +1,726 @@
+"""
+<Program Name>
+  libnanny.r2py (Adapted from nanny.py)
+
+<Started>
+  11 June 2014
+
+<Author>
+  Justin Cappos
+  Seth Miller
+
+<Purpose>
+  This library provides a user with the tools to manage resource 
+  usage associated with the collection of data from smartphone
+  sensors and gives them the ability to limit how and when said 
+  resources are accessed.
+
+
+Examples uses:
+
+  Can set up a nanny two ways:
+
+  1.  start_resource_nanny()
+      # Add resources one at a time.
+      add_resource('gps', 1, ['renewable_resources', 'quantity_resources'])
+
+  2.  # Note: units for resource quanities are chosen by the user; they are
+      # opaque to the nanny
+      resourcesdict = {'gps':1, 'webrequest': 10, 'packagesretrieved': 20,
+          'an_individual_item_resource':set(['an_item'])}
+      resourcetypdict = {'renewable_resources':['gps', 'webrequest'], 
+         'quantity_resources':['gps', 'webrequest'], 
+         'fungible_item_resources':['packagesretrieved'], 
+         'individual_item_resources':['an_individual_item_resource']}
+
+      # resourcesdict and resourcetypedict are only used for filling 
+      # the nanny with resource information
+      start_resource_nanny(resourcesdict, resourcetypedict)
+
+
+  To rate limit a renewable resource:
+
+  # Say we receive two requests for gps polls in a second, but
+  # we have the rate limt for gps polls at once/sec. 
+  # Then we can tattle the request rate to the nanny before 
+  # we take the polls, and the nanny will slow us down. 
+  tattle_quantity('gps', 2)
+  # We're done waiting, so now take two gps polls...
+
+  To add an item to a fungible item resource:
+
+  # Say we want to add a package to the resource 'packagesretrieved'
+  tattle_add_item('packagesretrieved', 'a_package')
+
+  To remove an item from a fungible item resource:
+
+  # Say we want to remove the package we added before
+  tattle_remove_item('packagesretrieved', 'a_package')
+
+  To see if an_item can be acquired by an_individual_item_resource:
+  
+  is_item_allowed('an_individual_item_resource', 'an_item')
+
+  To remove a resource from the nanny:
+  
+  # Say we want to remove the resource 'gps' from the nanny
+  remove_resource('gps')
+
+  To remove  all resources from the nanny:
+  remove_all()
+  
+
+  Here is an example in which we use the nanny to blur a stack.
+
+  class BlurredStack:
+    def __init__(self, maxsize):
+      self._items = []
+      self._max_size = maxsize
+      self._size = 0
+
+    def pop(self):
+      self._size -= 1
+      return self._items.pop()
+
+
+    def push(self, item):
+      if self._size != self._max_size:
+        self._items.append(item)
+      self._size += 1
+
+
+  a_BlurredStack = BlurredStack(5)
+  start_resource_nanny()
+  # rate limit pop to once/sec and push to twice/sec
+  add_resource('pop', 1, ['renewable_resources', 'quantity_resources'])
+  add_resource('push', 2, ['renewable_resources', 'quantity_resources'])
+
+  start = getruntime()
+  # E.g. request rate equal to rate limit .
+  tattle_quantity('push', 2)
+  for i in range(2):
+    a_BlurredStack.push("Item "+str(i))
+  # This should tell us approximately 0 seconds have passed.
+  log("Pushed 2 items "+str(getruntime() - start)+" secs after request.\n")
+
+  sleep(1)
+  start = getruntime()
+  # E.g. request rate greater than rate limit after 1 sec renew time
+  tattle_quantity('push', 3)
+  for i in range(3):
+    a_BlurredStack.push("Item "+str(i + 2))
+  # This should tell us approximately 0.5 secs have passed because
+  # 2 push calls renew in the 1 sec we waited (our rate limit) and 
+  # then 1 more push can be done in 0.5 secs.
+  log("Pushed 3 items "+str(getruntime() - start)+" secs after request.\n")
+
+  start = getruntime()
+  # E.g. request rate equal to rate limit
+  tattle_quantity('pop', 1)
+  # This should tell us approximately 0 seconds have passed.
+  log(str(a_BlurredStack.pop())+" popped "+str(getruntime() - start)+\
+      " seconds after request.\n")
+
+  sleep(0.5)
+  start = getruntime()
+  pop_list = []
+  # E.g. request rate greater than rate limit after 0.5 sec renew time
+  tattle_quantity('pop', 2)
+  for i in range(2):
+    pop_list.append(a_BlurredStack.pop())
+  # This should tell us approximately 1.5 secs have passed because
+  # 0.5 pop calls renew in the 0.5 secs we waited and then 1.5 more
+  # pops can be done in 1.5 secs (1.5 pops/1.5 secs = 1 pop/sec)
+  log(pop_list, " popped "+str(getruntime() - start)+" secs after request.")
+
+"""
+
+# These will be filled when the nanny is started
+_resource_type_dict = {'renewable_resources':[], 'quantity_resources':[], 
+    'fungible_item_resources':[], 'individual_item_resources':[]}
+
+_resources_allowed_dict = {}
+
+_resources_consumed_dict = {}
+
+
+
+class InvalidResourceError(Exception):
+  """A resource has an invalid resource value or resource type"""
+
+
+
+# I want to check a resource's types aren't overlapping,
+# i.e., contradicting each other.
+def _check_overlap(resource, resourcetypedict):
+  
+  if resource in resourcetypedict['quantity_resources']:
+    if resource in resourcetypedict['fungible_item_resources'] or \
+        resource in resourcetypedict['individual_item_resources']:
+      raise InvalidResourceError("Resource '"+resource+"' cannot be both " \
+          "quantity and item based!")
+
+
+  if resource in resourcetypedict['fungible_item_resources']:
+    if resource in resourcetypedict['individual_item_resources']:
+      raise InvalidResourceError("Resource '"+resource+"' cannot be both " \
+          "fungible and individual item based!")
+
+  if resource in resourcetypedict['renewable_resources']:
+    if resource not in resourcetypedict['quantity_resources']:
+      raise InvalidResourceError("Resource '"+resource+"' must be quantity " \
+          "based if it's renewable!")
+
+
+# Updates the values in the consumption table (taking the current time into 
+# account)
+def _update_resource_consumption_table(resource):
+
+  thetime = getruntime()
+
+  # I'm going to reduce all renewable resources by the appropriate amount given
+  # the amount of elapsed time.
+
+  elapsedtime = thetime - _resources_consumed_dict['renewable_update_time'][resource]
+
+  _resources_consumed_dict['renewable_update_time'][resource] = thetime
+
+  if elapsedtime < 0:
+    # A negative number (likely a NTP reset).   Let's just ignore it.
+    return
+
+  # Remove the charge
+  reduction = elapsedtime * _resources_allowed_dict[resource]
+    
+  if reduction > _resources_consumed_dict[resource]:
+
+    # It would reduce it below zero (so put it at zero)
+    _resources_consumed_dict[resource] = 0.0
+  else:
+
+    # Subtract some for elapsed time...
+     _resources_consumed_dict[resource] = _resources_consumed_dict[resource] - reduction
+
+
+
+# I want to wait until a resource can be used again...
+def _sleep_until_resource_drains(resource):
+
+  # It'll never drain!
+  if _resources_allowed_dict[resource] == 0:
+    raise InvalidResourceError("Resource '"+resource+"' limit set to 0, won't drain!")
+    
+
+  # We may need to go through this multiple times because other threads may
+  # also block and consume resources.
+  while _resources_consumed_dict[resource] > _resources_allowed_dict[resource]:
+
+    # Sleep until we're expected to be under quota
+    sleeptime = (_resources_consumed_dict[resource] - _resources_allowed_dict[resource]) / _resources_allowed_dict[resource]
+
+    sleep(sleeptime)
+
+    _update_resource_consumption_table(resource)
+
+
+
+
+def _create_resource_consumption_dict():
+  """
+  <Purpose>
+    Initializes the consumed resource portion of the nanny.   This tracks
+    resource use (instead of resource quantity)
+
+  <Arguments>
+    None.
+         
+  <Exceptions>
+    None.
+
+  <Side Effects>
+    None.
+
+  <Returns>
+    None.
+  """
+
+  # things that are quantities should start at 0.0
+  for resource in _resource_type_dict['quantity_resources']:
+    _resources_consumed_dict[resource] = 0.0
+  
+  for resource in _resource_type_dict['fungible_item_resources']:
+    _resources_consumed_dict[resource] = set()
+
+  for resource in _resource_type_dict['individual_item_resources']:
+    _resources_consumed_dict[resource] = set()
+
+  # I need locks to protect races in accesses to some items...
+  _resources_consumed_dict['fungible_locks'] = {}
+  for init_resource in _resource_type_dict['fungible_item_resources']:
+    _resources_consumed_dict['fungible_locks'][init_resource] = createlock()
+
+  _resources_consumed_dict['renewable_locks'] = {}
+  for init_resource in _resource_type_dict['renewable_resources']:
+    _resources_consumed_dict['renewable_locks'][init_resource] = createlock()
+
+
+  # I also need to track when the last update of a renewable resource occurred
+  _resources_consumed_dict['renewable_update_time'] = {}
+
+  # (Aside) JAC: I've thought about this and looked through the commit history.
+  # I don't see any reason to initialize the renewable resources with the
+  # current time (as was done before).
+  for init_resource in _resource_type_dict['renewable_resources']:
+    _resources_consumed_dict['renewable_update_time'][init_resource] = 0.0
+
+
+############################## Externally called ######################################
+
+# adds a single resource to the nanny
+def add_resource(resource, resourcevalue, resourcetypelist):
+  """
+  <Purpose>
+      Allows the nanny to add a new resource
+
+  <Arguments>
+    resource:
+      A string with the resource name.
+    resourcevalue:
+      The value associated with a resource, such as the quantity or item(s).
+    resourcetypelist:
+      A list containg resource types
+
+  <Exceptions>
+    InvalidResourceError is raised if the resourece is a duplicate
+    (InvalidResourceError could also be raised during call to _check_overlap()) 
+
+  <Side Effects>
+    None.
+
+  <Returns>
+    None.   
+  """
+
+  # We don't want to accidentally change existing resources...
+  if resource in _resources_allowed_dict:
+
+    # But we can add to individual item resources without the
+    # worry of overwriting anything.
+    if resource in _resource_type_dict['individual_item_resources']:
+      # items should have sets
+      if not isinstance(resourcevalue,set):
+        raise InvalidResourceError("Individual item resource '"+resource+\
+            "' has no set of items!")
+
+      _resources_allowed_dict[resource] = _resources_allowed_dict[resource] | resourcevalue
+      return
+
+    raise InvalidResourceError("Duplicate resource violation. Resource '"\
+        +resource+"' already exists.")
+
+  
+  # Checking for overlaps requires a dict, not a list.
+  resourcetypedict = {'renewable_resources':[], 'quantity_resources':[], 
+      'fungible_item_resources':[],'individual_item_resources':[]}
+  for typename in resourcetypelist:
+    resourcetypedict[typename].append(resource)
+
+  _check_overlap(resource, resourcetypedict)
+
+  if resource in resourcetypedict['individual_item_resources']:
+    if not isinstance(resourcevalue,set):
+      raise InvalidResourceError("Individual item resource '"+resource+\
+          "' has no set of items!")
+
+  # It's safe to add the resource now.
+  _resources_allowed_dict[resource] = resourcevalue
+  for typename in resourcetypelist:
+    _resource_type_dict[typename].append(resource)
+
+  # We need to put the resource into the consumption table as well.
+
+  if resource in _resource_type_dict['quantity_resources']:
+    _resources_consumed_dict[resource] = 0.0
+
+    if resource in _resource_type_dict['renewable_resources']:
+      _resources_consumed_dict['renewable_locks'][resource] = createlock()
+      _resources_consumed_dict['renewable_update_time'][resource] = 0.0
+
+    # We don't care about the item stuff to follow, so return.
+    return
+
+  if resource in _resource_type_dict['fungible_item_resources'] or \
+      resource in _resource_type_dict['individual_item_resources']: 
+   _resources_consumed_dict[resource] = set()
+
+  if resource in _resource_type_dict['fungible_item_resources']:
+    _resources_consumed_dict['fungible_locks'][init_resource] = createlock()
+    
+
+
+def remove_resource(resource):
+  """
+  <Purpose>
+    Removes a resource completely from the nanny.
+
+  <Arguments>
+    resource:
+      A string with the resource name.
+         
+  <Exceptions>
+    None.
+
+  <Side Effects>
+    None.
+
+  <Returns>
+    None.
+  """
+
+  del _resources_allowed_dict[resource]
+  del _resources_consumed_dict[resource]
+  
+  for resourcetype in _resource_type_dict:
+    if resource in _resource_type_dict[resourcetype]:
+      _resource_type_dict[resourcetype].remove(resource)
+
+  # We might need to remove locks from the consumption table too.
+  if resource in _resource_type_dict['renewable_resources']:
+    del _resources_consumed_dict['renewable_locks'][resource]
+    del _resources_consumed_dict['renewable_update_time'][resource] 
+  if resource in _resource_type_dict['fungible_item_resources']:
+    del _resources_consumed_dict['fungible_locks'][resource]
+
+
+ 
+    
+def remove_all():
+  """
+  <Purpose>
+    Removes all resources completely from the nanny.
+
+  <Arguments>
+    None.
+         
+  <Exceptions>
+    None.
+
+  <Side Effects>
+    None.
+
+  <Returns>
+    None.
+  """
+  temp = _resources_allowed_dict.copy()
+  for resource in temp:
+    remove_resource(resource)
+
+# let the nanny know that the process is consuming some resource
+# can also be called with quantity '0' for a renewable resource so that the
+# nanny will wait until there is some free "capacity"
+def tattle_quantity(resource, quantity):
+  """
+  <Purpose>
+    Notify the nanny of the consumption of a renewable resource.   A 
+    renewable resource is something like GPS or web request that is 
+    speficied in quantity per second.
+
+  <Arguments>
+    resource:
+      A string with the resource name.   
+    quantity:
+      The amount consumed.   This can be zero (to indicate the program 
+      should block if the resource is already over subscribed) but 
+      cannot be negative
+
+  <Exceptions>
+    InvaildResourceError is raised if quantity is negative or the resource
+    is not renewable 
+
+  <Side Effects>
+    May sleep the program until the resource is available.
+
+  <Returns>
+    None.
+  """
+
+
+  # I assume that the quantity will never be negative
+  if quantity < 0:
+    # This will cause the program to exit and log things if logging is
+    # enabled. -Brent
+    raise InvalidResourceError("Resource '"+resource+
+        "' has a negative quantity "+str(quantity)+"!")
+
+  # It's renewable, so I can wait for it to clear
+  if resource not in _resource_type_dict['renewable_resources']:
+    # Should never have a quantity tattle for a non-renewable resource
+    # This will cause the program to exit and log things if logging is
+    # enabled. -Brent
+    raise InvalidResourceError("Resource '"+resource+"' is not renewable!")
+    
+  # get the lock for this resource
+  _resources_consumed_dict['renewable_locks'][resource].acquire(True)
+  
+  # release the lock afterwards no matter what
+  try: 
+    # update the resource counters based upon the current time.
+    _update_resource_consumption_table(resource)
+
+    _resources_consumed_dict[resource] = _resources_consumed_dict[resource] + quantity
+    # I'll block if I'm over...
+    _sleep_until_resource_drains(resource)
+  
+  finally:
+    # release the lock for this resource
+    _resources_consumed_dict['renewable_locks'][resource].release()
+    
+
+
+
+def tattle_add_item(resource, item):
+  """
+  <Purpose>
+    Let the nanny know that the process is trying to consume a fungible but 
+    non-renewable resource.
+
+  <Arguments>
+    resource:
+      A string with the resource name.   
+    item:
+      A unique identifier that specifies the resource.   It is used to
+      prevent duplicate additions and removals and so must be unique for
+      each item used.
+         
+  <Exceptions>
+    InvalidResourceError is raised if the consumption of the resource has
+    met or exceded the limit.
+
+  <Side Effects>
+    None.
+
+  <Returns>
+    None.
+  """
+
+  _resources_consumed_dict['fungible_locks'][resource].acquire(True)
+
+  # always unlock as we exit...
+  try: 
+
+    # It's already acquired.   This is always allowed.
+    if item in _resources_consumed_dict[resource]:
+      return
+
+    if len(_resources_consumed_dict[resource]) > _resources_allowed_dict[resource]:
+      raise InvalidResourceError("Should not be able to exceed resource count")
+
+    if len(_resources_consumed_dict[resource]) == _resources_allowed_dict[resource]:
+      # it's clobberin time!
+      raise InvalidResourceError("Resource '"+resource+"' limit exceeded!!")
+
+    # add the item to the list.   We're done now...
+    _resources_consumed_dict[resource].add(item)
+
+  finally:
+    _resources_consumed_dict['fungible_locks'][resource].release()
+
+    
+
+
+
+def tattle_remove_item(resource, item):
+  """
+  <Purpose>
+    Let the nanny know that the process is releasing a fungible but 
+    non-renewable resource.
+
+  <Arguments>
+    resource:
+      A string with the resource name.   
+    item:
+      A unique identifier that specifies the resource.   It is used to
+      prevent duplicate additions and removals and so must be unique for
+      each item used.
+         
+  <Exceptions>
+    KeyError is raised if the given item does not exist.
+
+  <Side Effects>
+    None.
+
+  <Returns>
+    None.
+  """
+
+  _resources_consumed_dict['fungible_locks'][resource].acquire(True)
+ 
+  # SMM: KeyError associated with removing a non-existing
+  # item is no longer passed because we don't want the user
+  # thinking they removed something when they didn't.  
+  _resources_consumed_dict[resource].remove(item)
+    
+  _resources_consumed_dict['fungible_locks'][resource].release()
+
+
+
+# used for individual item resources
+def is_item_allowed(resource, item):
+  """
+  <Purpose>
+    Check if the process can acquire a non-fungible, non-renewable resource.
+
+  <Arguments>
+    resource:
+      A string with the resource name.   
+    item:
+      A unique identifier that specifies the resource.   It has some
+      meaning to the caller (like a port number for TCP or UDP), but is 
+      opaque to the nanny.   
+         
+  <Exceptions>
+    None.
+
+  <Side Effects>
+    None.
+
+  <Returns>
+    True or False
+  """
+
+  if item in _resources_allowed_dict[resource]:
+    # this is semi nonsensical, but allows us to indicate which ports are used
+    # through get_resource_information()
+    _resources_consumed_dict[resource].add(item)
+    return True
+
+  else:
+    return False
+
+
+
+
+def start_resource_nanny(resourcesdict=None, resourcetypedict=None):
+  """
+   <Purpose>
+      Initializes the resource information the nanny needs to do monitoring.
+
+   <Arguments>
+      resourcesdict: 
+         dict containing the resources we'll use
+      resourcetypedict: 
+         dict containing lists of resources with resource types (i.e. renewable_resources,
+         quantity_resources, fungible_item_resources, individual_item_resources) as keys
+
+      None:
+        The user may initialize the consumption table and add resources individually later
+        if they wish.
+          
+   <Exceptions>
+      InvalidResourceError is raised if an individual item resource is given with no 
+      set of items.
+      (InvalidResourceError could be raised during call to _check_overlap)
+
+   <Side Effects>
+      None
+
+   <Returns>
+      None
+  """
+
+  # Only need to create resource consumption table if no args are given.
+  if(resourcesdict and resourcetypedict):
+    # Need to check the given resources for mistakes.
+    # This way we don't fill the nanny with stuff that
+    # could be difficult to remove.
+
+    # check the resource types don't overlap 
+    for resourcename in resourcesdict:
+      _check_overlap(resourcename, resourcetypedict)
+ 
+    # items should be sets
+    for resourcename in resourcetypedict['individual_item_resources']:
+      if not isinstance(resourcesdict[resourcename], set):
+        raise InvalidResourceError("Individual item resource '"+resourcename+\
+            "' has no set of items!")
+
+    # It's safe to put resources into the nanny now.
+    for resource in resourcesdict:
+      _resources_allowed_dict[resource] =  resourcesdict[resource]
+    for typename in resourcetypedict:
+      _resource_type_dict[typename] = resourcetypedict[typename] 
+
+  # This sets up a dictionary with the correct locks, etc. for tracking
+  # resource use.
+  _create_resource_consumption_dict()
+
+
+# Armon: This is an extremely basic wrapper function, that just allows
+# for pre/post processing if required in the future
+def get_resource_limit(resource):
+  """
+  <Purpose>
+    Returns the limit or availability of a resource.
+
+  <Arguments>
+    resource:
+      The resource about which information is being requested.
+
+  <Exceptions>
+    KeyError if the resource does not exist.
+
+  <Side Effects>
+    None
+
+  <Returns>
+    The resource availability or limit.
+  """
+
+  return _resources_allowed_dict[resource]
+
+
+
+def get_resource_information():
+  """
+  <Purpose>
+    Returns information about how many resources have been used.
+  
+  <Arguments>
+    None
+  
+  <Exceptions>
+    None
+  
+  <Side Effects>
+    None
+
+  <Returns>
+    A tuple: (the allowed resource dict, and usage dict).   Usage information
+    is sanitized to remove unnecessary things like locks.
+  """
+
+
+  # the resources we are allowed to use is easy.   We just copy this...
+  resource_limit_dict = _resources_allowed_dict.copy()
+
+  
+  # from the other dict, we only take the resource information.   (this omits
+  # locks and timing information that isn't needed)
+
+  # first, let's do the easy thing, the quantity resources.   These are just 
+  # floats
+  resource_use_dict = {}
+  for resourcename in _resource_type_dict['quantity_resources']:
+    resource_use_dict[resourcename] = _resources_consumed_dict[resourcename]
+
+  # for the fungible resources (files opened, etc,), we only need a count...
+  for resourcename in _resource_type_dict['fungible_item_resources']:
+    resource_use_dict[resourcename] = len(_resources_consumed_dict[resourcename])
+
+  # for the individual item resources (ports, etc,), we copy the set...
+  for resourcename in _resource_type_dict['individual_item_resources']:
+    resource_use_dict[resourcename] = _resources_consumed_dict[resourcename].copy()
+
+  # and that's it!
+  return (resource_limit_dict, resource_use_dict)
+
