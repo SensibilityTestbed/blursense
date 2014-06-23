@@ -1,0 +1,193 @@
+"""
+	Author: Seth Miller
+
+	Program: nannytest.r2py
+
+	Start Date: 11 June 2014
+
+	Description:
+
+	This tests the functionality of the nanny library (libnanny.r2py),
+	demonstrating results of valid and invalid calls to each of its
+	available functions.
+"""
+
+dy_import_module_symbols("libnanny.r2py")
+
+
+resourcesdict = {'gps':1, 'webrequest':0, 'packagesretrieved': 2,
+    'an_individual_item_resource':set(['an_item'])}
+
+resourcetypedict = {'renewable_resources': ['gps', 'webrequest'], 
+    'quantity_resources': ['gps', 'webrequest'],
+    'fungible_item_resources': ['packagesretrieved'],
+    'individual_item_resources': ['an_individual_item_resource']}
+
+# cpu should not be both quantity and fungible
+badresourcetypedict1 = {'renewable_resources': ['gps'], 
+    'quantity_resources': ['gps'],
+    'fungible_item_resources': ['gps'],
+    'individual_item_resources': []}
+
+# cpu should not be both quantity and an individual item resource
+badresourcetypedict2 = {'renewable_resources': ['gps'], 
+    'quantity_resources': ['gps'],
+    'fungible_item_resources': [],
+    'individual_item_resources': ['gps']}
+
+
+###################### Testing start_resource_nanny #######################
+
+# invalid start calls
+
+# a resource is both a quantity and item resource,
+# so we should get an error with the first two start calls
+
+try:
+  start_resource_nanny(resourcesdict, badresourcetypedict1)
+except InvalidResourceError as e:
+  log("Expected error: "+str(e)+'\n')
+  pass
+
+try:
+  start_resource_nanny(resourcesdict, badresourcetypedict2)	
+except InvalidResourceError as e:
+  log("Expected error: "+str(e)+'\n')
+  pass
+
+# valid call
+start_resource_nanny(resourcesdict, resourcetypedict)
+
+# print the resource information
+log(get_resource_information())
+
+######################## Testing tattle_quantity ##########################
+
+# valid tattle call
+
+# check the time so we can see if tattle sleeps properly
+start = getruntime()
+tattle_quantity('gps', 2)
+log("\nGPS polled twice "+str(getruntime() - start)+' seconds after tattle.\n')
+
+# invalid tattle calls
+
+# negative quantity should produce error
+try:
+  tattle_quantity('gps', -1)
+except InvalidResourceError as e:
+  log("Expected error: "+str(e)+'\n')
+  pass
+
+
+# nonrenewable resource should produce error
+try:
+  tattle_quantity('packagesretrieved', 10)
+except InvalidResourceError as e:
+  log("Expected error: "+str(e)+'\n')
+  pass
+
+
+
+# resource was initialized with quantity 0, so this
+# should produce error when nanny tries to drain it
+try:
+  tattle_quantity('webrequest', 1000000)
+except InvalidResourceError as e:
+  log("Expected error: "+str(e)+'\n')
+  pass
+
+
+
+####################### Testing tattle_add_item ############################
+
+# valid tattle call will add item event1 to resource events
+tattle_add_item('packagesretrieved', 'a_package')
+
+# invalid tattle call;
+# exceeding resource limit should produce error
+try:
+  tattle_add_item('packagesretrieved', 'another_package')
+except InvalidResourceError as e:
+  log("Expected error: "+str(e)+" Limit was "+\
+      str(nanny.get_resource_limit('packagesretrieved'))+'\n')
+  pass
+
+
+######################## Testing tattle_remove_item ########################
+
+# will remove item event1 from resource events
+tattle_remove_item('packagesretrieved', 'a_package')
+
+# we should now be able to add event2 without an error
+# since the we're under the limit
+tattle_add_item('packagesretrieved', 'another_package')
+
+
+# invalid tattle produces key error associated wtih attempting 
+# to remove an item 
+try:
+  tattle_remove_item('packagesretrieved', 'item_not_there')
+except KeyError as e:
+  log("Expected KeyError: "+str(e)+'\n')
+  pass
+
+
+######################### Testing is_item_allowed ##########################
+
+
+if is_item_allowed('an_individual_item_resource', 'an_item'):
+  log("Item 'an_item' is allowed.\n")
+
+# item is not allowed, should return false
+if not is_item_allowed('an_individual_item_resource', 'an_item_not_allowed'):
+  log("Item 'an_item_not_allowed' is not allowed.\n")
+
+
+################### Testing add_resource & remove_resource ##################
+
+# valid calls
+
+add_resource('a_new_resource', 10000, ['renewable_resources', 'quantity_resources'])
+log("'a_new_resource' limit: "+str(get_resource_limit('a_new_resource'))+'\n')
+
+remove_resource('a_new_resource')
+# this will produce a keyerror if resource has been removed
+try:
+  log(get_resource_limit('a_new_resource'))
+except KeyError as e:
+  log("Expected KeyError: "+str(e)+'\n')
+  pass
+
+
+# adding more items to an existing indiviual item resource is okay;
+# note that the resource type list is not necessary
+add_resource('an_individual_item_resource', set(['another_item']), None)
+
+# invalid calls
+
+# should produce error since it's an individual item resource,
+# which must have a set of items as its resource value
+try:
+  add_resource('an_individual_item_resource', 'some_item', None)
+except InvalidResourceError as e:
+  log("Expected error: "+str(e)+'\n')
+  pass
+
+
+# should produce error for trying to duplicate the resource
+try:
+  add_resource('packagesretrieved', 25, ['fungible_item_resources'])
+except InvalidResourceError as e:
+  log("Expected error: "+str(e)+'\n')
+  pass
+
+
+# should produce error for defining the resource as both quantity and item based
+try:
+  add_resource('a_renewable_resource', 10, ['quantity_resources', 'individual_item_resources'])
+except InvalidResourceError as e:
+  log("Expected error: "+str(e)+'\n')
+  pass
+
+
