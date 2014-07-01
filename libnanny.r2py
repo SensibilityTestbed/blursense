@@ -18,7 +18,20 @@
 
 Examples uses:
 
-  Can set up a nanny two ways:
+  To use this library, it must be imported in one of two ways:
+  
+  1. dy_import_module_symbols("libnanny.r2py")
+  
+  2. nanny = dy_import_module("libnanny.r2py")
+     # In this case, functions must be called on the nanny object.
+     # E.g. nanny.start_resource_nanny()
+     
+  To run your program in command line:
+  
+  python repy.py restrictionsfile dylink.r2py yourprogram
+  
+
+  A nanny can be set up two ways:
 
   1.  start_resource_nanny()
       # Add resources one at a time.
