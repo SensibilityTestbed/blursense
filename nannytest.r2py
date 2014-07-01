@@ -1,15 +1,23 @@
 """
-	Author: Seth Miller
+  <Program Name>
+    nannytest.r2py
 
-	Program: nannytest.r2py
+  <Started>
+    11 June 2014
 
-	Start Date: 11 June 2014
-
-	Description:
-
-	This tests the functionality of the nanny library (libnanny.r2py),
-	demonstrating results of valid and invalid calls to each of its
-	available functions.
+  <Author>
+    Seth Miller
+    
+  <Purpose>
+    This tests the functionality of the nanny library (libnanny.r2py),
+    demonstrating results of valid and invalid calls to each of its
+    available functions. All tests have passed if all errors are 
+    labeled as "Expected."
+  
+  
+  To run this program, use the following command in the terminal:
+  python repy.py restrictionsfile dylink.r2py nannytest.r2py
+  
 """
 
 dy_import_module_symbols("libnanny.r2py")
