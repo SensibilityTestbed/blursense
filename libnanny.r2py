@@ -16,6 +16,32 @@
   resources are accessed.
 
 
+How to define resources:
+
+  There are four types of resources:
+  1. 'quantity_resources':
+         These resources have a quantity, e.g., a disk has some
+         quantity of usable space. The units of these quanities are
+         up to the discretion of the user.
+  2. 'renewable_resources':
+         These resources are always quantity resources (and must be 
+         specified as such!). However, they have the additional 
+         requirement of being renewable, meaning their consumption will 
+         decrease over time spent not in use. E.g. a gps might have
+         a limited poll rate.
+  3. 'fungible_item_resources':
+         These resources have a fixed number of items they can possess. 
+         E.g., the number of packages one can retrieve could be the value
+         for a 'packagesretrieved' resource.
+  4. 'individual_item_resources':
+         These resources have a list of unique items that can be used. 
+         E.g., a list of usable sensors could be the value for a
+         'sensorsused' resource.
+
+  *Note: Resources cannot be both item and quantity based resources.
+         Item resources cannot be both fungible and individual item based.
+
+
 Examples uses:
 
   To use this library, it must be imported in one of two ways:
@@ -37,8 +63,7 @@ Examples uses:
       # Add resources one at a time.
       add_resource('gps', 1, ['renewable_resources', 'quantity_resources'])
 
-  2.  # Note: units for resource quanities are chosen by the user; they are
-      # opaque to the nanny
+  2.
       resourcesdict = {'gps':1, 'webrequest': 10, 'packagesretrieved': 20,
           'an_individual_item_resource':set(['an_item'])}
       resourcetypdict = {'renewable_resources':['gps', 'webrequest'], 
