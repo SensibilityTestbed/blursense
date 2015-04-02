@@ -35,7 +35,6 @@ South Taft	35.13469	-119.45623	US	CA
 Verona	37.62688	-121.88135	US	CA
 Walteria	33.80502	-118.35118	US	CA
 Wilsie	32.80006	-115.60305	US	CA
-Imperial National Wildlife Refuge	33.02516	-114.52337	US	CA
 ABs Reef	32.72838	-117.2567	US	CA
 Abalone Cove	33.73891	-118.38091	US	CA
 Abalone Point	33.34336	-118.31702	US	CA
@@ -322,7 +321,6 @@ Andover	39.31046	-120.24714	US	CA
 Andrade	32.72588	-114.72579	US	CA
 Andrade Corner	34.6486	-118.37702	US	CA
 Anderson Valley	32.87898	-116.75375	US	CA
-Andree Clark Bird Refuge	34.42111	-119.65985	US	CA
 Andrews Numbers 1-17 Prospects	37.07521	-118.09482	US	CA
 Andrus Island	38.15769	-121.59829	US	CA
 Andy Hardin Stadium	36.83634	-121.40382	US	CA
@@ -363,7 +361,6 @@ Antelope Wash	34.18834	-116.50891	US	CA
 Antes	36.30856	-119.13066	US	CA
 Antioch	38.00492	-121.80579	US	CA
 Antioch City Marina	38.01964	-121.82107	US	CA
-Antioch Dunes National Wildlife Refuge	38.01449	-121.79291	US	CA
 Antioch Pier	38.01992	-121.75023	US	CA
 Antioch Point	38.02381	-121.82551	US	CA
 Antioch Public Fishing Pier	38.01825	-121.8144	US	CA
@@ -1268,7 +1265,6 @@ Bodega	38.34519	-122.97389	US	CA
 Bodega Dunes	38.33575	-123.06528	US	CA
 Bodega Head	38.31103	-123.06611	US	CA
 Bodega Island	38.31992	-123.03611	US	CA
-Bodega Marine Life Refuge	38.30603	-123.06861	US	CA
 Bobcat Point	36.54772	-118.76204	US	CA
 Bodfish	35.58801	-118.49203	US	CA
 Bodie	38.21214	-119.01209	US	CA
@@ -1291,7 +1287,6 @@ Boles Gap	38.66768	-120.62187	US	CA
 Bolinas	37.90937	-122.68637	US	CA
 Bolinas Mesa	37.90548	-122.69915	US	CA
 Bolinas Point	37.90354	-122.72721	US	CA
-Bolinas Quail Refuge	37.90215	-122.69887	US	CA
 Bolinas Lagoon	37.91826	-122.6811	US	CA
 Bolsa	33.74502	-117.95506	US	CA
 Bolsa	36.92523	-121.4516	US	CA
@@ -2434,7 +2429,6 @@ Chumash Island	34.65082	-118.76537	US	CA
 Churchill Manor	38.29297	-122.28386	US	CA
 Churchwalla Well	33.44308	-115.21775	US	CA
 Chute Ravine	39.34989	-121.15246	US	CA
-Cibola National Wildlife Refuge	33.32864	-114.72079	US	CA
 Cienaga Flats	33.23643	-116.88919	US	CA
 Cienaga Seca	34.18473	-116.72336	US	CA
 Cienaga Grande	34.16834	-116.9067	US	CA
@@ -2663,7 +2657,6 @@ Colusa	39.22711	-122.04136	US	CA
 Colusa	39.21433	-122.00942	US	CA
 Colusa Basin	38.9999	-122.00108	US	CA
 Colusa Junction	39.14767	-121.66025	US	CA
-Colusa National Wildlife Refuge	39.15509	-122.04578	US	CA
 Colusa Rancheria	39.25017	-122.02581	US	CA
 Colusa Trough	39.32711	-122.08414	US	CA
 Colusa Trough	39.06073	-122.0058	US	CA
@@ -3114,7 +3107,6 @@ Dana Landing	32.76866	-117.23337	US	CA
 Dana Plateau	37.91993	-119.2221	US	CA
 Dana Point	33.46058	-117.71505	US	CA
 Dana Point	33.46697	-117.69811	US	CA
-Dana Point Marine Life Refuge	33.45975	-117.71616	US	CA
 Dana Strand Village	33.77363	-118.27507	US	CA
 Danady Landing	38.29297	-121.56079	US	CA
 Danby	34.63555	-115.34804	US	CA
@@ -3282,7 +3274,6 @@ Del Valle	34.41944	-118.65648	US	CA
 Delano	35.76884	-119.24705	US	CA
 Delano Baptist Temple	35.77495	-119.24094	US	CA
 Delano Chamber of Commerce	35.76773	-119.24705	US	CA
-Delevan National Wildlife Refuge	39.30717	-122.09783	US	CA
 Delft Colony	36.5119	-119.44596	US	CA
 Arroyo Delgado	35.95301	-120.0518	US	CA
 Delevan	39.35405	-122.19109	US	CA
@@ -3470,7 +3461,6 @@ Dogtown	37.70215	-120.12796	US	CA
 Dogtown	38.21381	-121.08855	US	CA
 Doghouse Junction	32.60034	-116.84113	US	CA
 Dogwood Side Main	32.70672	-115.51305	US	CA
-Doheny Marine Life Refuge	33.46031	-117.68088	US	CA
 Dolanco Junction	33.84502	-118.30007	US	CA
 Dollar Point	39.18546	-120.09241	US	CA
 Dollar Point	39.18796	-120.09991	US	CA
@@ -4159,8 +4149,6 @@ Fanny Shoal	37.77771	-123.17195	US	CA
 Farac Foghorn	32.75838	-117.26032	US	CA
 Farad Powerhouse	39.41963	-120.03186	US	CA
 Farallon Islands	37.73326	-123.03444	US	CA
-Farallon Islands State Game Refuge	37.74576	-123.05778	US	CA
-Farallon National Wildlife Refuge	37.69884	-123.00534	US	CA
 Farewell Gap	36.39939	-118.57148	US	CA
 Farley	39.6146	-123.36724	US	CA
 Faria	34.31805	-119.38762	US	CA
@@ -5550,7 +5538,6 @@ Hope Ravine	39.44823	-120.82356	US	CA
 Hope Valley	38.77713	-119.93296	US	CA
 Hopeton	37.4916	-120.53103	US	CA
 Hopkins Ravine	38.13297	-121.87274	US	CA
-Hopkins Marine Life Refuge	36.62218	-121.90357	US	CA
 Hopland	38.97295	-123.11639	US	CA
 Hopland Rancheria	38.98128	-123.05962	US	CA
 Hopkins Well	33.61225	-114.99552	US	CA
@@ -5761,7 +5748,6 @@ Imperial	32.84755	-115.56944	US	CA
 Imperial Chamber of Commerce	32.84394	-115.56944	US	CA
 Imperial Courts	33.9314	-118.23229	US	CA
 Imperial Highway Monument	32.78978	-116.10335	US	CA
-Imperial National Wildlife Refuge	33.08198	-114.69412	US	CA
 Imperial Valley	32.73755	-114.9633	US	CA
 In-Ko-Pah Gorge	32.72367	-116.04001	US	CA
 Inaja and Cosmit Reservation	33.01051	-116.64164	US	CA
@@ -5889,7 +5875,6 @@ Ironton Flats	37.15939	-119.59903	US	CA
 Ironwood Wash	34.32473	-115.22692	US	CA
 Irrigosa	36.89106	-119.98738	US	CA
 Irvine	33.66946	-117.82311	US	CA
-Irvine Coast Marine Life Refuge	33.56669	-117.83533	US	CA
 Irvine Mesa	33.74169	-117.65199	US	CA
 Irvings Crest	32.97977	-116.91225	US	CA
 Irwindale	34.10695	-117.93534	US	CA
@@ -6249,7 +6234,6 @@ Kerens	34.96638	-115.80667	US	CA
 Kerman	36.72356	-120.05988	US	CA
 Kern	35.38218	-118.9826	US	CA
 Kern City	35.35385	-119.07344	US	CA
-Kern National Wildlife Refuge	35.7487	-119.61684	US	CA
 Kern Point	36.5966	-118.44426	US	CA
 Kern Point	39.55988	-122.70888	US	CA
 Kern Valley Marina	35.65412	-118.45647	US	CA
@@ -6258,7 +6242,6 @@ Kernville	35.75467	-118.42536	US	CA
 Kernville Chamber of Commerce	35.75578	-118.41814	US	CA
 Kernell	35.7569	-119.344	US	CA
 Kester	34.17417	-118.42425	US	CA
-Kesterson National Wildlife Refuge	37.25827	-120.8927	US	CA
 Kettle Dome	36.948	-118.78594	US	CA
 Kettleman	38.11603	-121.24328	US	CA
 Kettleman City	36.00829	-119.9618	US	CA
@@ -7140,7 +7123,6 @@ Los Osos	35.31109	-120.8324	US	CA
 Los Padres Open Space	34.16667	-118.87176	US	CA
 Los Palos Verdes	33.76446	-118.34424	US	CA
 Los Penasquitos	32.94727	-117.14281	US	CA
-Los Penasquitos Waterfowl Refuge	32.92949	-117.25031	US	CA
 Los Prietos Y Najalayegua	34.53472	-119.64874	US	CA
 Los Putos	38.39019	-121.96663	US	CA
 Los Ranchitos	37.99298	-122.54248	US	CA
@@ -7633,7 +7615,6 @@ Merazo	38.21742	-122.37303	US	CA
 Merced	37.30216	-120.48297	US	CA
 Merced Gorge	37.67632	-119.74684	US	CA
 Merced Heights Playground	37.7166	-122.47025	US	CA
-Merced National Wildlife Refuge	37.17767	-120.63081	US	CA
 Merced Sewage Disposal	37.24994	-120.52602	US	CA
 Mercuryville	38.77602	-122.82194	US	CA
 Meridian	35.10747	-118.91427	US	CA
@@ -8349,7 +8330,6 @@ Nicolaus	38.90323	-121.57774	US	CA
 Niebaum Coppola Estate	38.44991	-122.43776	US	CA
 Nielsburg	38.95712	-121.03328	US	CA
 Niguel	33.55447	-117.72672	US	CA
-Niguel Marine Life Refuge	33.47586	-117.72311	US	CA
 Niland	33.24004	-115.51888	US	CA
 Niland Marina	33.33809	-115.66721	US	CA
 Niles Junction	37.57632	-121.97135	US	CA
@@ -9464,7 +9444,6 @@ Piute Valley	35.40221	-115.5725	US	CA
 Piute Wash	34.92111	-114.63413	US	CA
 Pixie Woods	37.95687	-121.3455	US	CA
 Pixley	35.96856	-119.29178	US	CA
-Pixley National Wildlife Refuge	35.9189	-119.37891	US	CA
 Pinon Hills	34.43333	-117.64672	US	CA
 Placentia	33.87224	-117.87034	US	CA
 Pizona	37.9716	-118.55818	US	CA
@@ -9551,7 +9530,6 @@ Point Edith	38.05353	-122.06996	US	CA
 Point Emmet	38.03964	-121.88024	US	CA
 Point Fermin	33.70502	-118.29396	US	CA
 Point Fermin Lighthouse	33.7053	-118.29368	US	CA
-Point Fermin Marine Life Refuge	33.70474	-118.28924	US	CA
 Point Happy	33.71669	-116.29751	US	CA
 Point Hueneme	34.14639	-119.2165	US	CA
 Point Isabel Regional Shoreline	37.9002	-122.32525	US	CA
@@ -9781,7 +9759,6 @@ Prayer Book Cross	37.7716	-122.47831	US	CA
 Prayer Temple	38.54157	-121.45079	US	CA
 Prenda	33.9214	-117.38838	US	CA
 Presbyterian Conference Grounds	34.05473	-118.52842	US	CA
-Presbyterian Refuge Resettlement Ministries	36.77995	-119.79292	US	CA
 Presidio Heights Playground	37.78854	-122.44942	US	CA
 Presidio Ruins	32.75838	-117.21198	US	CA
 Presidio Shoal	37.81521	-122.45747	US	CA
@@ -10610,7 +10587,6 @@ Sacramento Convention and Visitors Bureau	38.57741	-121.48773	US	CA
 Sacramento Landing	38.14964	-122.90638	US	CA
 Sacramento Marina	38.56296	-121.5169	US	CA
 Sacramento Mountains	34.775	-114.7508	US	CA
-Sacramento National Wildlife Refuge	39.40976	-122.16419	US	CA
 Sacramento Softball Complex	38.6374	-121.38717	US	CA
 Sacramento Valley	38.0477	-121.79551	US	CA
 Sacramento Weir	38.6049	-121.55662	US	CA
@@ -10723,7 +10699,6 @@ Salton	33.47392	-115.88472	US	CA
 Salton City	33.29865	-115.95611	US	CA
 Salton Sea	33.31361	-115.81679	US	CA
 Salton Sea Base B-2	33.28365	-115.99	US	CA
-Sonny Bono Salton Sea National Wildlife Refuge	33.20404	-115.72952	US	CA
 Salton Sea Test Base B-1	33.26504	-115.92472	US	CA
 Salvador	38.34075	-122.32081	US	CA
 Saltus	34.53777	-115.68999	US	CA
@@ -10818,7 +10793,6 @@ San Francisco Peninsula	37.58327	-122.40108	US	CA
 San Francisco Police Pistol Range	37.71993	-122.49942	US	CA
 San Francisco Port of Embarkation	37.80826	-122.43108	US	CA
 San Francisco Solano	33.6103	-117.62477	US	CA
-San Francisco State Fish and Game Refuge	37.56049	-122.42414	US	CA
 San Francisco Surgicenter	37.78493	-122.43997	US	CA
 San Francisco Theological Seminary	37.96973	-122.56555	US	CA
 San Francisco Water Temple	37.58549	-121.88551	US	CA
@@ -10887,7 +10861,6 @@ San Lorenzo	36.36663	-121.08658	US	CA
 San Lucas	36.08691	-121.02741	US	CA
 San Lucas	36.12885	-121.02047	US	CA
 San Luis Island	37.19994	-120.8177	US	CA
-San Luis National Wildlife Refuge	37.23675	-120.85315	US	CA
 San Luis Obispo	35.28275	-120.65962	US	CA
 San Luis Obispo Baseball Stadium	35.26581	-120.64712	US	CA
 Cerro San Luis Obispo	35.28275	-120.68045	US	CA
@@ -12001,8 +11974,6 @@ Starbright Acres	39.19517	-121.08773	US	CA
 Starlight Bowl	32.72616	-117.15309	US	CA
 Starr Ravine	39.1124	-120.54743	US	CA
 Starrs Landing	39.01101	-121.59969	US	CA
-State Game Refuge One-P	39.95824	-120.2991	US	CA
-State Game Refuge One-V	39.88795	-120.53827	US	CA
 Stateline	38.95824	-119.94379	US	CA
 Stateline Lookout	39.2313	-120.0088	US	CA
 Staten Island	38.16436	-121.51634	US	CA
@@ -12339,7 +12310,6 @@ Sutter Basin	38.93045	-121.7133	US	CA
 Sutter Buttes	39.20572	-121.82025	US	CA
 Sutter Causeway	38.96017	-121.67552	US	CA
 Sutter Island	38.29352	-121.59218	US	CA
-Sutter National Wildlife Refuge	39.06454	-121.74707	US	CA
 Suval	38.24658	-122.07775	US	CA
 Sveadal	37.08356	-121.78912	US	CA
 Swain Ravine	39.34489	-121.40663	US	CA
@@ -12608,7 +12578,6 @@ The Bible Way Ministry	37.93354	-121.303	US	CA
 The Big Apple Orchard	38.74574	-120.65243	US	CA
 The Brander Vineyard	34.65999	-120.10126	US	CA
 The California Meadery	38.54157	-122.48165	US	CA
-The California Sea Otter State Game Refuge	36.17996	-121.70023	US	CA
 The Caracole	34.62638	-119.59124	US	CA
 The Castle	39.14017	-121.58858	US	CA
 The Caves	36.27413	-121.5855	US	CA
@@ -12941,7 +12910,6 @@ Tungsten Hills	37.3591	-118.54623	US	CA
 Tuolumne	37.96076	-120.23741	US	CA
 Tuolumne City	37.9627	-120.2413	US	CA
 Tuolumne Rancheria	37.98078	-120.23794	US	CA
-Tuolumne State Game Refuge	38.23325	-120.13852	US	CA
 Tupman	35.29802	-119.35122	US	CA
 Turk	36.17106	-120.22209	US	CA
 Turk Island	37.57216	-122.10441	US	CA
@@ -15396,7 +15364,6 @@ Lone Pine Butte	41.67655	-121.09775	US	CA
 Lone Pine Corrals	40.0532	-123.44086	US	CA
 Lone Star Prospect	40.68765	-122.53724	US	CA
 Lone Star Junction	40.63264	-123.87727	US	CA
-Long Bell State Game Refuge 1N	41.45183	-121.36749	US	CA
 Long Branch	41.8785	-120.50246	US	CA
 Long Glade	41.83765	-122.25196	US	CA
 Long Glade	40.2532	-123.28475	US	CA
@@ -15443,7 +15410,6 @@ Low Gap	41.04792	-123.07976	US	CA
 Lovers Leap	41.36348	-122.69141	US	CA
 Lower Bear Valley	41.80239	-120.27912	US	CA
 Lower Gooch Valley	40.77573	-120.8569	US	CA
-Lower Klamath National Wildlife Refuge	41.96381	-121.7215	US	CA
 Lower Muldoon Tank	41.98443	-120.69285	US	CA
 Lower Plantation	40.65127	-121.73638	US	CA
 Lower Signal Butte	40.70823	-120.78051	US	CA
@@ -15526,7 +15492,6 @@ Moak Cove	40.0371	-121.81026	US	CA
 Moccasin	40.07684	-120.93634	US	CA
 Modesto Fork	40.82487	-122.51502	US	CA
 Modoc Crater	41.71627	-121.55388	US	CA
-Modoc National Wildlife Refuge	41.4584	-120.52271	US	CA
 Monchamp	41.23878	-121.12942	US	CA
 Monroe Corrals	40.88851	-120.53856	US	CA
 Montague	41.7282	-122.5278	US	CA
@@ -15816,7 +15781,6 @@ Redwood Acres Fairground	40.77902	-124.12756	US	CA
 Redwood Bowl	40.87652	-124.0759	US	CA
 Redwoods	40.59627	-121.93555	US	CA
 Reece Homestead	41.34818	-123.52867	US	CA
-Refuge Valley	40.27959	-123.44392	US	CA
 Reid Draw	41.18878	-120.83163	US	CA
 Renfroe Hole	40.56625	-123.64226	US	CA
 Requa	41.54679	-124.06646	US	CA
@@ -16052,7 +16016,6 @@ Stanford Headquarters	40.68461	-120.95135	US	CA
 Stanford Trough	40.8564	-120.89908	US	CA
 Staley	41.88821	-121.38082	US	CA
 Star Butte	40.41989	-121.14552	US	CA
-State Game Refuge One-P	40.02629	-120.30271	US	CA
 Starvation Opening	40.63319	-123.67004	US	CA
 Steele Swamp	41.88822	-120.97358	US	CA
 Steelhead	40.17015	-123.64531	US	CA
@@ -19500,7 +19463,6 @@ Robinson Farms	37.42972	-121.05528	US	CA
 Tsai Farms	37.48222	-121.03556	US	CA
 Bellwether Farms	38.29778	-122.82778	US	CA
 Bluesberry Farms	38.24722	-122.68028	US	CA
-Marin Islands National Wildlife Refuge	37.96973	-122.47312	US	CA
 Napa Valley Marina	38.22085	-122.31327	US	CA
 Buzz Lightyear Astro Blasters	33.81241	-117.91764	US	CA
 Refreshment Corner	33.8114	-117.91905	US	CA
@@ -20019,7 +19981,6 @@ Pacific Edge (Village View)	33.53832	-117.78054	US	CA
 Wyndham Santa Monica At The Pi	34.01198	-118.49396	US	CA
 Hayward Highland	37.65366	-122.03446	US	CA
 Sculpture Garden	33.87399	-117.91922	US	CA
-California Sea Otter Game Refuge	36.30928	-121.89327	US	CA
 Los Angeles Aqueduct	36.27308	-118.0166	US	CA
 El	36.76447	-119.71954	US	CA
 Mile 181	37.00152	-120.50933	US	CA
