@@ -1,0 +1,819 @@
+Abbe Glacier	82.02212	-71.49406	CA	14
+Acheron Head	76.45162	-101.90289	CA	14
+Admiralty Inlet	72.50139	-85.99987	CA	14
+Advance Bluff	75.26827	-93.46779	CA	14
+Adversary Bank	63.62706	-91.45819	CA	14
+Aggattalik Narrows	64.71743	-97.88401	CA	14
+Agiak Headland	67.8341	-111.11937	CA	14
+Agnes Monument	70.51077	-68.19702	CA	14
+Air Force Glacier	81.68544	-76.57927	CA	14
+Aivru Itiblia Isthmus	68.71919	-89.87892	CA	14
+Akimiski Strait	53.08342	-82.16621	CA	14
+Akpait Fiord	66.88925	-61.88956	CA	14
+Akpat	66.90956	-61.75144	CA	14
+Aktijartukan Fiord	65.1006	-63.91382	CA	14
+Aktineq Glacier	72.91668	-78.86227	CA	14
+Akuliaqatta Bluff	67.75049	-64.36347	CA	14
+Akuling Inlet	63.38386	-71.76494	CA	14
+Aleksektok Rapids	64.75073	-96.83387	CA	14
+Alexandra Fiord	78.90188	-75.99665	CA	14
+Alexandra Fiord	78.88518	-75.7966	CA	14
+Alexandra Strait	69.05107	-99.76793	CA	14
+Alfred Newton Glacier	78.57965	-74.99651	CA	14
+Allen Glacier	78.55746	-76.19124	CA	14
+Alligators Teeth	63.45056	-68.03109	CA	14
+Allison Bluff	66.45085	-83.96558	CA	14
+Allison Inlet	75.05155	-99.40216	CA	14
+Alluviaq Fiord	59.49611	-65.14963	CA	14
+Amadjuak	64.01733	-72.64827	CA	14
+Amadjuak Rapids	65.66745	-71.43128	CA	14
+Amittok Inlet	60.42157	-64.77622	CA	14
+Amor Smith Inlet	63.30053	-64.54734	CA	14
+Amundsen Gulf	69.31187	-117.84002	CA	14
+Andreasen Head	70.80121	-96.58412	CA	14
+Anna Maria Port	63.73389	-67.88102	CA	14
+Annapolis Strait	61.85042	-65.91429	CA	14
+Antoinette Glacier	80.75485	-76.26286	CA	14
+Apex	63.72279	-68.44669	CA	14
+Archer Fiord	81.41871	-66.99324	CA	14
+Archibald Promontory	63.26722	-64.59737	CA	14
+Arklio Glacier	80.88539	-82.8219	CA	14
+Arnaq Glacier	66.58255	-62.00508	CA	14
+Arnott Strait	76.30157	-103.5699	CA	14
+Arrow Glacier	81.86041	-72.0612	CA	14
+Arrowsmith Plains	72.25134	-100.00146	CA	14
+Arthur Fiord	76.5017	-93.40107	CA	14
+Arviat	61.10883	-94.05848	CA	14
+Arviligaarjuk Inlet	69.67754	-92.83774	CA	14
+Ashe Inlet	62.56723	-70.5982	CA	14
+Astro Glacier	79.49198	-90.20221	CA	14
+Atanirsliq Inlet	68.43296	-89.93302	CA	14
+Ava Inlet	63.8173	-71.91492	CA	14
+Ayles Fiord	82.75228	-79.99667	CA	14
+Ayunnamat Glacier	66.46742	-64.52904	CA	14
+Baad Fiord	76.46841	-86.49971	CA	14
+Baby Glacier	79.44197	-90.9674	CA	14
+Baird Inlet	78.46855	-75.83007	CA	14
+Baker Foreland	62.91733	-90.7998	CA	14
+Balcom Inlet	62.36725	-68.69781	CA	14
+Baldwin Head	73.68474	-101.05169	CA	14
+Bals Fiord	80.40199	-95.75225	CA	14
+Bathurst Inlet	66.83966	-108.05079	CA	14
+Bathurst Inlet	67.58411	-108.50234	CA	14
+Beams Brook	73.1014	-98.21787	CA	14
+Bear and Cubs	68.60097	-97.58409	CA	14
+Bear Glacier	79.0213	-78.62656	CA	14
+Bear Head	76.36841	-87.88334	CA	14
+Bears Paw Glacier	66.48404	-65.44446	CA	14
+Bear Strait	78.46858	-88.09973	CA	14
+Beitstad Fiord	79.0686	-78.16391	CA	14
+Beitstad Glacier	78.94499	-79.78099	CA	14
+Belanger Rapids	66.05067	-111.21915	CA	14
+Belcher Glacier	75.68229	-81.35431	CA	14
+Bellanca Rapids	66.3674	-110.15237	CA	14
+Bell Inlet	59.94246	-65.08856	CA	14
+Bellot Strait	71.99443	-94.80611	CA	14
+Benedict Glacier	79.36863	-78.06379	CA	14
+Bent Glacier	81.32572	-78.26768	CA	14
+Bentham Fiord	77.13505	-80.19809	CA	14
+Berlinguet Inlet	71.16802	-85.83342	CA	14
+Bethune Inlet	74.88493	-80.33184	CA	14
+Beverley Inlet	75.06735	-107.70721	CA	14
+Big Bend	66.76733	-116.16984	CA	14
+Bird Fiord	77.1684	-86.99968	CA	14
+Bjare Strait	81.58546	-91.46781	CA	14
+Black Bluff	61.93369	-65.09754	CA	14
+Black Bluff	70.40106	-68.4638	CA	14
+Black Crown Glacier	79.44867	-90.9674	CA	14
+Blacks Inlet	69.02464	-84.66593	CA	14
+Black Stripe Head	80.53537	-85.94928	CA	14
+Blind Fiord	78.23512	-86.2659	CA	14
+Blue Fiord	77.26842	-87.08297	CA	14
+Bluegoose Prairie	65.53407	-73.49822	CA	14
+Bluff Head	73.68472	-81.43205	CA	14
+Boas Fiord	66.80065	-62.8136	CA	14
+Boat Opening	55.65032	-77.19942	CA	14
+Bond Inlet	62.20053	-67.76441	CA	14
+Boothia Isthmus	69.58443	-93.08356	CA	14
+Borup Fiord	80.61876	-83.41525	CA	14
+Bowery Inlet	82.46859	-63.17373	CA	14
+Boyer Strait	75.91825	-103.00297	CA	14
+Brabant Bluffs	68.47911	-111.02912	CA	14
+Brant Glacier	79.53369	-92.3944	CA	14
+Braskerud Glacier	78.26435	-78.0641	CA	14
+Braskeruds Plain	78.2518	-82.49843	CA	14
+Bray Inlet	59.817	-65.38152	CA	14
+Bridport Inlet	75.02624	-108.73444	CA	14
+Brooks Bluff	66.20083	-84.44895	CA	14
+Brown Inlet	65.48397	-67.33077	CA	14
+Bruce Head	72.06802	-80.5319	CA	14
+Buchan Gulf	71.76375	-74.34225	CA	14
+Bukken Fiord	80.71875	-94.91877	CA	14
+Bulleys Lump	81.18535	-69.24439	CA	14
+Bunn Inlet	69.15105	-85.08254	CA	14
+Burnett Inlet	74.53485	-86.19966	CA	14
+Bursting Brook	63.61744	-84.28293	CA	14
+Cadogan Glacier	78.23104	-77.07076	CA	14
+Cadogan Inlet	78.20183	-76.16363	CA	14
+Cairn Butte	82.51861	-62.22332	CA	14
+Camels Neck	63.36724	-67.88108	CA	14
+Cameron Inlet	67.23425	-87.09932	CA	14
+Canon Fiord	80.002	-82.58173	CA	14
+Canon Inlet	63.10055	-71.38153	CA	14
+Cardigan Strait	76.63496	-90.66735	CA	14
+Careenage Arm	62.15066	-74.74891	CA	14
+Caribou Glacier	66.67845	-61.81615	CA	14
+Carys Swan Nest	62.16738	-83.11656	CA	14
+Caswall Tower	74.70153	-91.2007	CA	14
+Centennial Glacier	66.55206	-62.57466	CA	14
+Chandler Fiord	81.63536	-68.76036	CA	14
+Chantrey Inlet	67.75098	-95.90059	CA	14
+Chapman Glacier	81.28213	-79.88058	CA	14
+Charles Inlet	62.61456	-74.0155	CA	14
+Charybdis Glacier	81.64042	-75.30389	CA	14
+Chorkbak Inlet	64.50066	-74.4151	CA	14
+Christopher Inlet	60.10583	-64.9839	CA	14
+Clarence Head	76.78504	-77.78079	CA	14
+Clark Fiord	70.96782	-72.11427	CA	14
+Clearwater Fiord	66.56744	-67.44738	CA	14
+Cleaves Glacier	81.43541	-75.99609	CA	14
+Clements Markham Glacier	82.31042	-70.32656	CA	14
+Clements Markham Inlet	82.75211	-66.99153	CA	14
+Clutterbuck Head	60.2003	-68.36488	CA	14
+Coates Inlet	60.20851	-64.89832	CA	14
+Cockram Strait	68.0342	-74.91476	CA	14
+Collinson Inlet	69.51782	-98.16769	CA	14
+Comer Strait	65.75081	-85.08235	CA	14
+Concealed Glacier	79.54869	-92.44782	CA	14
+Conn Glacier	70.82053	-73.06989	CA	14
+Consett Head	75.30923	-105.72075	CA	14
+Conybeare Fiord	81.56875	-67.57678	CA	14
+Corbett Inlet	62.4673	-92.33328	CA	14
+Cormack Arm	70.5677	-70.07234	CA	14
+Coronation Fiord	67.23407	-64.58026	CA	14
+Coronation Glacier	67.19107	-64.84841	CA	14
+Coronation Gulf	68.13412	-112.00286	CA	14
+Cory Glacier	76.27253	-79.99814	CA	14
+Coutts Inlet	71.90128	-75.59514	CA	14
+Cox Inlet	59.80031	-65.41492	CA	14
+Crescent Glacier	82.40213	-70.59324	CA	14
+Crook Glacier	79.54869	-90.75067	CA	14
+Crooks Inlet	63.05055	-70.99847	CA	14
+Crozier Strait	75.50159	-97.20174	CA	14
+Crusoe Glacier	79.43027	-91.16746	CA	14
+Culgruff Inlet	66.81758	-84.58227	CA	14
+Cuming Inlet	74.58481	-84.99941	CA	14
+Cunningham Inlet	74.11822	-93.83372	CA	14
+Custance Inlet	74.78486	-89.03358	CA	14
+Danish Strait	78.03538	-101.75635	CA	14
+Davis Inlet	59.20863	-65.59406	CA	14
+Davis Strait	65.0005	-57.99645	CA	14
+Dawson Inlet	61.83386	-93.41682	CA	14
+d'Iberville Fiord	80.56875	-78.9972	CA	14
+d'Iberville Glacier	80.53124	-77.77731	CA	14
+Disraeli Fiord	82.81891	-73.34394	CA	14
+Disraeli Glacier	82.66889	-72.49369	CA	14
+Dome Glacier	79.45196	-94.06825	CA	14
+Dragleybeck Inlet	75.60159	-92.051	CA	14
+Drever Arm	71.66794	-74.13112	CA	14
+Dryas Glacier	82.03542	-70.99398	CA	14
+Dwarf Glacier	80.89929	-82.4871	CA	14
+Eagles Beak	66.58396	-62.49685	CA	14
+Edaloh Inlet	63.61736	-77.36582	CA	14
+Eglinton Fiord	70.66773	-70.04736	CA	14
+Eglinton Tower	70.45096	-70.5641	CA	14
+Eidsbotn	76.16694	-91.00069	CA	14
+Eids Fiord	77.35453	-87.09965	CA	14
+Ekalugad Fiord	68.76764	-68.61365	CA	14
+Ekblaw Glacier	78.50746	-76.83733	CA	14
+Elizabeth Brook	63.15055	-70.89817	CA	14
+Ellen Head	60.68351	-64.58185	CA	14
+Elu Inlet	68.50093	-106.08542	CA	14
+Elwin Inlet	73.41809	-83.74915	CA	14
+Emma Fiord	81.48544	-89.00017	CA	14
+Ennadai	61.13379	-100.88419	CA	14
+Erskine Inlet	76.03487	-102.0861	CA	14
+Eskimo Bluff	77.43509	-78.29756	CA	14
+Eskimo Glacier	66.68675	-62.26211	CA	14
+Eskimo Inlet	72.20133	-79.99854	CA	14
+Eugene Glacier	82.26875	-66.57541	CA	14
+Eugenie Glacier	79.85756	-75.16283	CA	14
+Eureka	79.98534	-85.94931	CA	14
+Evans Strait	63.25069	-81.99951	CA	14
+Exaluin Fiord	65.66731	-62.89696	CA	14
+Expedition Fiord	79.33524	-92.00095	CA	14
+Fabricius Fiord	72.36808	-84.63294	CA	14
+Fair Ness	63.40056	-72.08156	CA	14
+Falcon Anchorage	59.01705	-68.94851	CA	14
+Falcon Inlet	67.75097	-98.0676	CA	14
+Falcon Strait	65.50079	-84.5823	CA	14
+False Bight	59.53371	-69.64851	CA	14
+False Haven	63.23384	-67.9978	CA	14
+False Inlet	63.38395	-90.86652	CA	14
+False Knoll	62.81732	-91.7332	CA	14
+False Strait	71.99713	-95.11725	CA	14
+Farragut Inlet	68.38429	-98.53424	CA	14
+Fiala Glacier	81.65214	-76.74607	CA	14
+Finger Glacier	79.53869	-90.38556	CA	14
+Finger Land	64.46729	-65.18056	CA	14
+Fisher Strait	63.25071	-83.49962	CA	14
+Fitz Roy Inlet	72.15134	-95.00055	CA	14
+Fivemile Inlet	58.53379	-78.2328	CA	14
+Fleming Inlet	72.41808	-84.91639	CA	14
+Flood Brook	68.05084	-72.86461	CA	14
+Fork Beard Glacier	66.53135	-65.27371	CA	14
+Fort Conger	81.752	-64.74235	CA	14
+Fort George Anchorage	53.81696	-79.14137	CA	14
+Fort Hope	66.53418	-86.69925	CA	14
+Foss Fiord	70.36796	-87.00026	CA	14
+Foul Inlet	63.7339	-68.89783	CA	14
+Foundation Glacier	79.56869	-92.42281	CA	14
+Four Sisters Dome	79.46867	-90.95071	CA	14
+Fox Charlie Glacier	68.70233	-68.62194	CA	14
+Fram Fiord	76.51843	-81.31518	CA	14
+Fram Glacier	78.76856	-74.8297	CA	14
+Franklin Inlet	69.56784	-91.25	CA	14
+Franklin Strait	71.50128	-96.85083	CA	14
+French Headland	62.71716	-64.93081	CA	14
+Frobisher's Farthest	63.50476	-68.00608	CA	14
+Frozen Strait	65.7508	-84.33224	CA	14
+Fury and Hecla Strait	69.8344	-82.99919	CA	14
+Gabriel Strait	61.80039	-65.48087	CA	14
+Gascoyne Inlet	74.66822	-91.30072	CA	14
+Giants Castle	72.80142	-86.79986	CA	14
+Gibbs Fiord	70.82188	-71.91147	CA	14
+Gibs Fiord	79.88533	-87.24971	CA	14
+Gifford Fiord	70.16783	-82.49907	CA	14
+Gilbert Glacier	66.67005	-62.11619	CA	14
+Gilman Glacier	80.09863	-70.60988	CA	14
+Gjoa Haven	68.62602	-95.87836	CA	14
+Gjoa Haven	68.62602	-95.88246	CA	14
+Glacier Fiord	78.36856	-89.48333	CA	14
+Glacier Strait	76.20173	-79.49804	CA	14
+Glasgow Inlet	62.81726	-69.81489	CA	14
+Gnome Glacier	80.9118	-82.39256	CA	14
+Goodsir Inlet	75.75162	-97.75188	CA	14
+Goose Fiord	76.60164	-88.58348	CA	14
+Gordon Head	77.58513	-93.41801	CA	14
+Gosling Inlet	79.70198	-94.26832	CA	14
+Gravel Bight	61.79215	-72.14909	CA	14
+Graves Strait	61.73366	-65.08085	CA	14
+Gray Strait	60.5335	-64.66518	CA	14
+Greely Fiord	80.50204	-81.66501	CA	14
+Greely Haven	71.93452	-104.83629	CA	14
+Green Glacier	78.55186	-76.36359	CA	14
+Green Valley	81.41882	-76.79623	CA	14
+Gregson Inlet	59.21143	-65.53295	CA	14
+Griffin Inlet	75.11825	-92.16766	CA	14
+Grise Fiord	76.4184	-82.89468	CA	14
+Grise Fiord	76.58501	-83.23222	CA	14
+Guillemot Bank	62.76732	-91.91662	CA	14
+Gull Glacier	81.41212	-77.41321	CA	14
+Gull Head	76.40167	-88.5835	CA	14
+Gustaf Adolf Trough	78.58551	-106.00638	CA	14
+Guys Bight	72.65135	-76.63972	CA	14
+Gyrfalcon Glacier	66.62005	-62.35373	CA	14
+Haakon Fiord	78.8354	-100.75472	CA	14
+Haig Inlet	56.33377	-79.08308	CA	14
+Halfway Bluff	60.88377	-101.0509	CA	14
+Halkett Inlet	69.24002	-90.97772	CA	14
+Hamilton Bluff	82.8354	-65.57412	CA	14
+Hanbury Kopje	67.25062	-117.82011	CA	14
+Handkerchief Inlet	65.25082	-88.03287	CA	14
+Hare Fiord	81.01882	-85.49909	CA	14
+Harris Highlands	62.80047	-65.29752	CA	14
+Harry Gibbons Bird Sanctuary	63.78404	-85.91646	CA	14
+Hatton Headland	61.31702	-64.78097	CA	14
+Hawkes Summit	60.21714	-99.48407	CA	14
+Hawk Rapids	65.55074	-103.18476	CA	14
+Hayes Fiord	79.0352	-76.74685	CA	14
+Hazard Inlet	72.03463	-94.16712	CA	14
+Hazen Strait	77.25168	-109.00487	CA	14
+Helen Haven	75.31828	-93.75114	CA	14
+Helpman Head	75.23486	-92.48433	CA	14
+Hen and Chicks	61.31702	-64.91438	CA	14
+Hendriksen Strait	77.83509	-96.50235	CA	14
+Henrietta Nesmith Glacier	81.80041	-72.87137	CA	14
+Highway Glacier	66.73546	-65.04447	CA	14
+Hodgson Head	75.08494	-79.96517	CA	14
+Hoodoo Dome	78.13529	-100.08924	CA	14
+Hook Glacier	77.57115	-81.36078	CA	14
+Hooper Inlet	69.30106	-81.76553	CA	14
+Hope Monument	74.61831	-80.43185	CA	14
+Hopkins Inlet	69.18435	-85.24927	CA	14
+Hoppner Inlet	66.80088	-83.91557	CA	14
+Hoppner Strait	66.33414	-83.2655	CA	14
+Hornby Head	76.28496	-93.58426	CA	14
+Hose Strait	80.1519	-99.31982	CA	14
+Hudson Strait	62.00052	-69.99838	CA	14
+Hunt Glacier	78.44495	-75.89679	CA	14
+Hurin Throughlet	63.99241	-77.9656	CA	14
+Iceberg Glacier	79.51698	-92.13433	CA	14
+Icy Arm	71.70125	-75.11461	CA	14
+Igalulikuluk Inlet	59.89418	-65.18014	CA	14
+Igloolik	69.38437	-81.79888	CA	14
+Iglurjuakuluit Inlet	63.66601	-82.0244	CA	14
+Igtuk Glacier	66.69105	-64.79725	CA	14
+Ikaluit	63.74139	-68.50972	CA	14
+Ikirasaalup Aqiarussunga Inlet	59.20453	-65.65936	CA	14
+Ikirasak Narrows	71.16802	-85.46675	CA	14
+Ikirasak Strait	69.20392	-90.28591	CA	14
+Ikirasak Strait	69.39691	-92.56407	CA	14
+Ikkarlak Glacier	73.22778	-81.1431	CA	14
+Ikuhik Bluff	66.29648	-112.91238	CA	14
+Ile d'Ellesmere	79.83528	-77.99695	CA	14
+Ile Gobin	60.76726	-78.11604	CA	14
+Ile Guindon	60.72709	-69.56056	CA	14
+Ile Marc	75.85154	-103.58639	CA	14
+Ile Vanier	76.16827	-103.25308	CA	14
+Illurjualik Narrows	64.68403	-98.16744	CA	14
+Illusion Glacier	66.67005	-62.04118	CA	14
+Imina Inlet	81.90219	-88.95019	CA	14
+Ingirranikuluk Narrows	60.47959	-64.68564	CA	14
+Ingnit Fiord	65.80062	-62.66362	CA	14
+Inugsuin Fiord	69.89539	-69.24711	CA	14
+Inussualuk Glacier	73.4542	-80.53748	CA	14
+Ipiotit Isthmus	68.10098	-82.13193	CA	14
+Ipiuqjuaq Valley	68.24545	-90.59012	CA	14
+Iqalualuit Fiord	68.58422	-68.58024	CA	14
+Iqaluit	63.74697	-68.51727	CA	14
+Iqalujjuaq Fiord	65.66737	-65.08047	CA	14
+Iqalukpiligaarjuk Valley	66.51756	-85.94915	CA	14
+Iqalutsiaq Inlet	69.31502	-91.01383	CA	14
+Iqaluvigjuaq Inlet	69.46783	-91.11527	CA	14
+Irvine Inlet	65.61736	-67.6975	CA	14
+Isachsen	78.7853	-103.50476	CA	14
+Isachsen Dome	78.46886	-102.17234	CA	14
+Isachsen Glacier	78.54496	-77.37637	CA	14
+Isbjorn Strait	71.63451	-73.14767	CA	14
+Isortoq Fiord	69.91779	-77.08146	CA	14
+Isortoq Gorge	70.48444	-75.06464	CA	14
+Isuk Rapids	66.88421	-86.48253	CA	14
+Itibiaryuk Portage	68.65095	-105.58537	CA	14
+Itirbilung Fiord	69.30096	-68.66368	CA	14
+Iviangernat Glacier	66.66046	-65.17921	CA	14
+Jackson Inlet	73.30153	-88.7836	CA	14
+Jakeman Glacier	76.48504	-80.68164	CA	14
+James Ross Strait	69.66782	-96.16738	CA	14
+Jaynes Inlet	63.26725	-68.26453	CA	14
+Jimi Maasi Glacier	72.46103	-76.06325	CA	14
+John Evans Glacier	79.64632	-74.07921	CA	14
+Jokel Fiord	78.86859	-78.08058	CA	14
+Jolliffe Glacier	80.62979	-71.92424	CA	14
+Jones Tower	62.53374	-64.68079	CA	14
+Judge Daly Promontory	81.25199	-66.99344	CA	14
+Jugeborg Fiord	81.23822	-89.50031	CA	14
+Kaaknak Bend	68.46777	-90.88596	CA	14
+Kadloo Rapids	72.57216	-77.78432	CA	14
+Kairolik Fiord	65.51732	-63.51374	CA	14
+Kangerk Fiord	66.38403	-67.2974	CA	14
+Kangert Fiord	67.09239	-63.52196	CA	14
+Kangilo Fiord	66.30073	-67.59744	CA	14
+Kangiqslugjuaq Inlet	69.05108	-92.92799	CA	14
+Kangiqslunugjuaq Inlet	69.31503	-90.69428	CA	14
+Kangirarviarjuk Isthmus	69.25112	-90.66377	CA	14
+Kangirlugag Fiord	68.80094	-68.16354	CA	14
+Kangirlukutaak Inlet	71.85131	-94.91723	CA	14
+Kangirsualujjuarusiq Inlet	60.44627	-64.83734	CA	14
+Kangirsuasiaq Inlet	59.44342	-65.32184	CA	14
+Kangirtukutaaruluq Fiord	67.69519	-64.48289	CA	14
+Kangok Fiord	68.61763	-68.4136	CA	14
+Kaparoqtalik Glacier	72.91948	-77.67456	CA	14
+Kekerten	65.71599	-65.82503	CA	14
+Keltie Inlet	64.46735	-73.33159	CA	14
+Kendall Strait	62.10875	-65.98084	CA	14
+Keppel Head	81.51873	-66.60993	CA	14
+Keyhole Glacier	69.40926	-68.88156	CA	14
+Kiasiittuq Inlet	69.29552	-90.93742	CA	14
+Kiggaviaqtalik Valley	66.53416	-85.91585	CA	14
+Kiitarayuk Glacier	69.45376	-68.67752	CA	14
+Kimmirut	62.84726	-69.87009	CA	14
+Kingarjuaq Summit	68.2677	-82.51536	CA	14
+King George Archipelago	62.08381	-72.33224	CA	14
+Kingmigjuaq Narrows	66.76757	-84.29893	CA	14
+Kingnait Fiord	66.04651	-64.95543	CA	14
+Kingnelling Fiord	67.45356	-64.25248	CA	14
+Kipalu Inlet	56.0837	-79.09967	CA	14
+Kipisa	65.20065	-66.94743	CA	14
+Kisarvik Anchorage	59.02253	-65.85658	CA	14
+Kisarvikuluk Anchorage	59.8286	-65.35571	CA	14
+Kislingbury Valley	80.7353	-68.66114	CA	14
+Kivitoo	67.93414	-64.86342	CA	14
+Knebelsberg Glacier	66.56875	-62.1079	CA	14
+Knight Summit	60.58941	-64.58322	CA	14
+Knot Valley	79.40198	-87.41646	CA	14
+Knud Inlet	68.45096	-97.55077	CA	14
+Koangok Narrows	64.55071	-99.06755	CA	14
+Koojesse Inlet	63.71729	-68.49779	CA	14
+Korok Inlet	64.33394	-73.3483	CA	14
+Kugaaruk	68.53577	-89.82471	CA	14
+Kugluktuk	67.82743	-115.09649	CA	14
+Kulutingwak Fiord	82.11894	-82.79807	CA	14
+Kumlien Fiord	65.40064	-64.74716	CA	14
+Kuunguq Inlet	66.6509	-87.0326	CA	14
+Kuunguq Narrows	66.6842	-86.94929	CA	14
+Kuutsiik Inlet	69.43862	-92.91132	CA	14
+Labrador Head	63.33382	-64.14729	CA	14
+Labrador Narrows	69.71779	-82.58243	CA	14
+Lac Rouviere	67.2	-117.38333	CA	14
+Lady Ann Strait	75.66839	-79.83164	CA	14
+Lands End	76.85165	-89.53363	CA	14
+Langley Inlet	59.88358	-65.23154	CA	14
+Le Feuvre Inlet	72.30133	-96.76761	CA	14
+Leffert Glacier	78.68655	-75.02148	CA	14
+Lenz Strait	60.49457	-64.80954	CA	14
+Levasseur Inlet	72.58469	-85.58315	CA	14
+Lewis Glacier	70.43174	-74.7646	CA	14
+Li Fiord	80.08527	-95.41874	CA	14
+Lincoln Sea	82.50186	-61.98996	CA	14
+Lindsay Head	76.21831	-100.86929	CA	14
+Little Matterhorn	79.38526	-90.66732	CA	14
+Livingstone Fiord	66.05071	-67.7475	CA	14
+Loks Land	62.43374	-64.6308	CA	14
+Longfellow Inlet	68.16768	-98.33421	CA	14
+Longstaff Bluff	68.90096	-75.19816	CA	14
+Louise Fiord	78.9688	-102.60499	CA	14
+Low Inlet	59.86699	-65.24823	CA	14
+Lyman Glacier	78.04622	-75.76769	CA	14
+Lyon Inlet	66.53416	-83.88217	CA	14
+Macculloch Glacier	72.35821	-75.70482	CA	14
+MacGregor Strait	60.40021	-64.4817	CA	14
+Mackar Inlet	68.401	-85.71587	CA	14
+Mackay Bluff	65.68417	-88.78292	CA	14
+Maclean Strait	77.50183	-103.50472	CA	14
+Makinson Inlet	77.26846	-79.66469	CA	14
+Maktak Fiord	67.31326	-64.37613	CA	14
+Mamittuittuq Inlet	67.61767	-86.46594	CA	14
+Marine Glacier	82.28552	-78.74642	CA	14
+Markham Fiord	82.98281	-71.45971	CA	14
+Markham Strait	68.66772	-100.66801	CA	14
+Masa Glacier	66.48403	-64.63047	CA	14
+Maskell Inlet	82.86898	-78.49596	CA	14
+Mathiassen Brook	64.8147	-82.78966	CA	14
+Matsuq Bend	68.34686	-89.98443	CA	14
+May Inlet	76.25162	-100.75258	CA	14
+McBeth Fiord	69.53986	-69.16365	CA	14
+McCrary Isthmus	67.63426	-96.7507	CA	14
+McKenzie Inlet	69.10105	-84.96591	CA	14
+McLelan Strait	60.3455	-64.62058	CA	14
+McLeod Head	77.78514	-94.98507	CA	14
+M'Clintock Glacier	82.41891	-76.12595	CA	14
+M'Clintock Inlet	82.75224	-76.49532	CA	14
+Mermaid Fiord	66.23394	-62.73018	CA	14
+Merry Headland	63.59506	-91.34848	CA	14
+Middle Fiord	79.61864	-95.00181	CA	14
+Midget Glacier	80.89789	-82.61214	CA	14
+Midnight Glacier	79.58699	-92.53614	CA	14
+Midnight Sun Valley	80.85209	-82.74829	CA	14
+Milne Fiord	82.63558	-81.44731	CA	14
+Milne Glacier	82.40224	-79.99683	CA	14
+Milne Ice Shelf	82.7356	-81.74733	CA	14
+Milne Inlet	72.33464	-80.49862	CA	14
+Minto Anchorage	60.6099	-64.70964	CA	14
+Minto Head	73.08471	-102.28517	CA	14
+Miqqusaaq Inlet	66.55087	-86.3325	CA	14
+Mischief Glacier	66.49925	-62.31352	CA	14
+Mitchell Bluff	69.90109	-77.23148	CA	14
+Mitre Glacier	66.59785	-62.37043	CA	14
+Mokka Fiord	79.5853	-87.24975	CA	14
+Mooneshine Fiord	66.41733	-61.78007	CA	14
+Mujangaaq Bend	64.48828	-84.91622	CA	14
+Munroe Inlet	67.25095	-86.99931	CA	14
+Murchison Promontory	71.96802	-94.95053	CA	14
+Muskox Fiord	76.5017	-87.44993	CA	14
+Muskox Rapids	67.38258	-115.72399	CA	14
+Najjuttuuq Fiord	68.82314	-69.2735	CA	14
+Nakarpoq Glacier	66.65765	-64.93338	CA	14
+Nallulialgammik	66.33333	-113.9	CA	14
+Nallulik Fiord	69.21766	-68.74701	CA	14
+Nallussiaq Fiord	65.65063	-63.54703	CA	14
+Nanisivik	73.0347	-84.54947	CA	14
+Napaartuliup Aqiarussunga Inlet	59.26703	-65.50515	CA	14
+Naqsanajuk Valley	68.70526	-92.27229	CA	14
+Naqsaq Valley	66.30633	-65.60412	CA	14
+Nares Strait	80.00191	-69.99482	CA	14
+Narpaing Fiord	67.80087	-65.54682	CA	14
+Narsarsuk Glacier	72.90698	-77.34811	CA	14
+Narwhal Anchorage	53.81696	-79.16637	CA	14
+Natirngnarjuaq Valley	68.18434	-89.35795	CA	14
+Navy Board Inlet	73.25138	-80.99867	CA	14
+Nedlukseak Fiord	67.91758	-66.36365	CA	14
+Nerutusoq Glacier	66.57856	-65.17232	CA	14
+Netsiksiuvik Inlet	69.73444	-92.62522	CA	14
+Nettilling Fiord	66.03402	-68.19755	CA	14
+Ne Ultra Strait	63.83402	-87.89966	CA	14
+Newton Fiord	63.08381	-66.13088	CA	14
+Niagara Glacier	81.53541	-74.99576	CA	14
+Nichols Bluff	68.11755	-72.96462	CA	14
+Niflheim Glacier	66.50354	-65.35838	CA	14
+Niunngualiup Kangirsukulua Inlet	60.01774	-65.1244	CA	14
+Noble Inlet	62.06715	-66.08086	CA	14
+Norfolk Inlet	76.46838	-91.08404	CA	14
+Norman Glacier	66.72856	-65.17088	CA	14
+Norman Inlet	66.83418	-84.33223	CA	14
+Nudlukta Inlet	71.7346	-94.30044	CA	14
+Nudlung Fiord	68.3509	-67.44693	CA	14
+Nueltin Narrows	60.16714	-99.75078	CA	14
+Nukap Glacier	82.16882	-70.78676	CA	14
+Nukapingwa Glacier	80.88129	-82.96364	CA	14
+Nunavut	70.16784	-90.73325	CA	14
+Nuuksatluguluk Valley	69.41766	-68.91356	CA	14
+Nuuksuq Glacier	69.39267	-68.42757	CA	14
+Nuvukulup Kangirsukulua Inlet	60.35298	-64.8095	CA	14
+Nuwata	65.13404	-77.61505	CA	14
+Nyeboe Fiord	70.41794	-86.50012	CA	14
+Okpuddyshao Glacier	80.89519	-82.71217	CA	14
+Oliver Glacier	72.11801	-76.79806	CA	14
+Ooblooyah Glacier	82.59724	-77.37898	CA	14
+Organ Heights	76.46839	-97.83531	CA	14
+Ottawa Glacier	70.49814	-71.03641	CA	14
+Otto Fiord	81.03543	-86.9996	CA	14
+Otto Glacier	81.34935	-84.14859	CA	14
+Padle Fiord	66.91738	-63.41367	CA	14
+Padlei	61.91725	-96.66718	CA	14
+Padlei Narrows	66.01747	-71.03121	CA	14
+Padliak Inlet	69.25937	-103.01853	CA	14
+Paine Bluff	77.98511	-75.99697	CA	14
+Pangnirtung	66.14511	-65.71252	CA	14
+Pangnirtung Fiord	66.12431	-65.6236	CA	14
+Parallel Glacier	79.56869	-90.4889	CA	14
+Parapet Glacier	66.46743	-64.66658	CA	14
+Parrish Glacier	79.60195	-77.18008	CA	14
+Paterson Inlet	71.5012	-73.41445	CA	14
+Pearse Strait	76.04326	-103.18634	CA	14
+Pebble Brook	67.10086	-72.34795	CA	14
+Peck Inlet	62.25066	-78.16595	CA	14
+Peel Inlet	69.13438	-96.16738	CA	14
+Pell Inlet	75.80155	-102.43615	CA	14
+Penny Strait	76.5017	-97.00184	CA	14
+Peregrine Bluff	69.92476	-93.85865	CA	14
+Peterhead Inlet	63.7506	-68.6478	CA	14
+Petite Ile, La	60.96357	-69.89112	CA	14
+Petsut Glacier	66.67715	-64.87087	CA	14
+Phantom Glacier	79.55529	-90.19723	CA	14
+Phoenix Head	74.63491	-81.3154	CA	14
+Piper Glacier	79.45367	-90.25222	CA	14
+Piqqiq Bend	68.08432	-89.09401	CA	14
+Pleasant Inlet	62.80056	-69.98147	CA	14
+Polaris	75.39599	-96.88228	CA	14
+Polaris Narrows	64.10069	-94.40025	CA	14
+Pollock Head	71.60122	-73.66444	CA	14
+Polunin Inlet	60.13352	-64.965	CA	14
+Polynia Bluff	77.53503	-81.68167	CA	14
+Portage Rapids	60.66717	-98.15059	CA	14
+Port Bowen	73.21823	-88.96706	CA	14
+Port Epworth	67.75079	-111.95282	CA	14
+Porter Inlet	63.58387	-68.16447	CA	14
+Port Harvey	60.48629	-64.67154	CA	14
+Port Kennedy	72.03463	-94.33374	CA	14
+Port Leopold	73.85152	-90.33321	CA	14
+Port Logan	71.40126	-93.10055	CA	14
+Port Neill	73.15153	-89.1171	CA	14
+Port Parry	69.65112	-97.41756	CA	14
+Port Refuge	76.30168	-94.7179	CA	14
+Prince Gustaf Adolf Sea	78.5104	-106.76729	CA	14
+Prince Philip Heights	68.43937	-89.71639	CA	14
+Prince Regent Inlet	73.00145	-90.50009	CA	14
+Princess Charlotte Monument	75.83499	-78.83135	CA	14
+Prism Glacier	66.71735	-62.26211	CA	14
+Ptarmigan Fiord	64.78392	-66.11407	CA	14
+Pudla Inlet	64.33401	-76.24864	CA	14
+Pullen Strait	75.50161	-96.00155	CA	14
+Purgatory Valley	66.68395	-61.88006	CA	14
+Purple Valley	82.48556	-80.9972	CA	14
+Putnam Highland	65.25073	-73.16491	CA	14
+Puurusiq Valley	66.32853	-65.41391	CA	14
+Qaaniqsiurvik Narrows	66.65089	-86.89928	CA	14
+Qairusuk Bight	63.64509	-80.54373	CA	14
+Qamutitalik Inlet	66.90093	-87.33264	CA	14
+Qasigialik Narrows	66.81758	-84.44895	CA	14
+Qasigiarsitik Inlet	59.02643	-65.72046	CA	14
+Qijujjuujaat Kangirsunga Inlet	59.41002	-65.38295	CA	14
+Qijuttaaqanngittuq Valley	66.51044	-65.56397	CA	14
+Qikiqtarjuaq	67.55546	-64.02493	CA	14
+Qikirrarnaq Bluff	68.26748	-114.10316	CA	14
+Qila Glacier	66.58963	-64.61939	CA	14
+Qiminajuk Esker	68.46073	-93.74059	CA	14
+Qoqak Glacier	66.69936	-65.1945	CA	14
+Qorbignaluk Headland	72.36665	-78.59835	CA	14
+Quajon Fiord	67.70083	-65.16354	CA	14
+Queen Elizabeth Foreland	62.38373	-64.46419	CA	14
+Quernbiter Fiord	71.60124	-75.0312	CA	14
+Quqluktualuk Rapids	64.12856	-83.43418	CA	14
+Quunnguarjuk Narrows	68.19964	-89.54688	CA	14
+Quvneq Glacier	66.70636	-65.09449	CA	14
+Rae Isthmus	66.80091	-86.99929	CA	14
+Rae Strait	68.83437	-94.85049	CA	14
+Raleigh Glacier	66.51035	-62.20371	CA	14
+Rankin Inlet	62.73392	-91.98323	CA	14
+Rankin Inlet	62.81732	-92.08324	CA	14
+Rannoch Arm	71.50124	-74.99789	CA	14
+Red Valley	72.48468	-85.33311	CA	14
+Regina Narrows	64.05069	-94.36695	CA	14
+Rendalen Valley	76.50169	-88.25012	CA	14
+Rens Fiord	81.1688	-93.66848	CA	14
+Resolute	74.69736	-94.83062	CA	14
+Rice Strait	78.71855	-74.71308	CA	14
+Ricker Glacier	80.8854	-84.08194	CA	14
+Robert Peel Inlet	65.15065	-66.93073	CA	14
+Robertson Esker	60.16715	-98.36734	CA	14
+Ross Inlet	67.16765	-87.26604	CA	14
+Rougemont Glacier	66.70065	-61.91897	CA	14
+Royal Society Fiord	71.40121	-73.99782	CA	14
+Saate Glacier	78.81576	-75.16318	CA	14
+Sagvak Inlet	69.67614	-92.76693	CA	14
+Sakiak Fiord	65.70061	-62.74694	CA	14
+Sam Ford Fiord	70.50124	-71.14753	CA	14
+Sand Head	51.41689	-80.33282	CA	14
+Sands Glacier	78.95189	-78.12646	CA	14
+Sandspollen	76.15166	-90.23395	CA	14
+Sandstone Rapids	67.45069	-115.64069	CA	14
+Sanguaq Bend	68.15099	-83.3321	CA	14
+Sanikiluaq	56.53366	-79.23306	CA	14
+Saqvaqjuaq Inlet	63.64786	-90.55669	CA	14
+Sarvalik Fiord	68.85094	-69.2638	CA	14
+Sarvaq Inlet	68.83434	-81.99861	CA	14
+Scaife Glacier	79.9187	-93.7848	CA	14
+Scarp Brook	73.01809	-98.46792	CA	14
+Schei Summit	79.28523	-80.89786	CA	14
+Schooner Opening	55.55031	-77.38274	CA	14
+Scott Inlet	71.10941	-71.10576	CA	14
+Scott's Fortress	62.61715	-64.91421	CA	14
+Scylla Glacier	81.60212	-75.32897	CA	14
+Sealer Narrows	62.80056	-69.81488	CA	14
+Sermilik Glacier	72.91248	-78.19545	CA	14
+Serpentine Reach	70.58446	-75.11463	CA	14
+Seven Sisters Glacier	82.10632	-71.04383	CA	14
+Shaftesbury Inlet	62.58385	-69.26461	CA	14
+Shark Fiord	66.55073	-66.91403	CA	14
+Sherard Head	73.38473	-97.11772	CA	14
+Sherer Inlet	66.86758	-84.58227	CA	14
+Sherman Inlet	67.96768	-98.28423	CA	14
+Sherwood Head	78.13515	-89.53348	CA	14
+Ship Sands	51.41689	-80.41623	CA	14
+Sikunga Glacier	70.47453	-70.98359	CA	14
+Simpson Strait	68.48427	-97.16741	CA	14
+Singer Inlet	60.06553	-65.05112	CA	14
+Siqquqtijjutitalik Esker	65.95084	-86.69933	CA	14
+Sirmiq Inlet	66.11753	-84.28223	CA	14
+Sivingavuk Glacier	66.51885	-65.3167	CA	14
+Sixteen Mile Brook	63.98545	-83.65231	CA	14
+Skaare Fiord	78.85193	-88.08303	CA	14
+Skeleton Valley	81.53536	-69.09385	CA	14
+Slidre Fiord	80.00204	-86.24939	CA	14
+Snow Dome	79.43527	-89.96717	CA	14
+Snowline Glacier	70.52035	-70.87109	CA	14
+Sor Fiord	77.33498	-84.66579	CA	14
+Sphinx	79.48528	-91.90097	CA	14
+Squirrel Glacier	66.64925	-62.25371	CA	14
+Stanley Head	75.16828	-96.46836	CA	14
+StarnesFiord	76.61842	-82.16536	CA	14
+Steensby Inlet	70.25117	-78.58177	CA	14
+StenkulFiord	77.41839	-83.89891	CA	14
+Stephens Headland	72.53469	-85.61655	CA	14
+Stevenson Inlet	72.26104	-78.49143	CA	14
+Stewart Valley	70.74963	-71.49756	CA	14
+Stony Portage	66.85092	-87.24933	CA	14
+Stormtop Glacier	66.59096	-62.47744	CA	14
+Strand Fiord	79.18523	-91.46757	CA	14
+Strand Glacier	79.35526	-89.92048	CA	14
+Strathcona Fiord	78.71858	-82.91516	CA	14
+Stratton Inlet	74.53485	-86.66646	CA	14
+Stygge Glacier	78.72268	-78.3974	CA	14
+Sugluk Inlet	62.25061	-75.61571	CA	14
+Sulluq Inlet	69.49694	-90.6846	CA	14
+Sunneshine Fiord	66.61735	-61.79676	CA	14
+Surprise Fiord	78.25185	-90.00021	CA	14
+Svarte Fiord	77.66843	-84.59902	CA	14
+Sven Hedin Glacier	79.49774	-77.50109	CA	14
+Sverdrup Glacier	75.67949	-83.27135	CA	14
+Sverdrup Inlet	75.45167	-86.19979	CA	14
+Sydkap Glacier	76.60171	-85.04933	CA	14
+Taconite Inlet	82.85227	-78.21258	CA	14
+Talbot Glacier	77.99624	-78.24748	CA	14
+Talbot Inlet	77.91853	-77.66407	CA	14
+Taloyoak	69.53722	-93.52112	CA	14
+Tanquary Fiord	81.08541	-79.74741	CA	14
+Tanquary Glacier	78.45045	-76.19127	CA	14
+Tariugaq Inlet	66.53417	-86.28249	CA	14
+Tariujaq Arm	70.58451	-78.99841	CA	14
+Tarr Inlet	63.71729	-68.39778	CA	14
+Tasiujaarutit Inlet	69.44424	-90.62209	CA	14
+Tasiujaguluk Inlet	60.30443	-64.30364	CA	14
+Tavani	62.06728	-93.10008	CA	14
+Tawsig Fiord	64.78391	-65.94735	CA	14
+Tellik Inlet	64.26741	-76.58199	CA	14
+Ten Foot Patch	51.71689	-79.20503	CA	14
+Terianiaq Glacier	66.62296	-65.0306	CA	14
+Terra Nivea	62.27548	-66.51428	CA	14
+Tessioyaluk Inlet	64.37145	-73.88165	CA	14
+Tete Blanche	66.76745	-65.14725	CA	14
+Tete Blanche Glacier	66.74106	-65.09867	CA	14
+The Bastions	71.83455	-74.24784	CA	14
+The Bellows Valley	81.83536	-66.74295	CA	14
+The Blairs	70.78452	-92.56681	CA	14
+The Bluff	56.5836	-79.26642	CA	14
+The Buttocks	64.40078	-84.46625	CA	14
+The Castle Gables	72.96809	-77.79818	CA	14
+The Eyrie	66.59236	-62.51355	CA	14
+The Gallery	72.5347	-86.41657	CA	14
+The Guardians	66.41744	-65.24724	CA	14
+The Heel	62.85056	-69.86489	CA	14
+Thelon Bluffs	64.51739	-101.25113	CA	14
+Thelon Game Sanctuary	64.834	-102.16797	CA	14
+The Maw	70.29133	-69.09716	CA	14
+The Mitre	66.60065	-62.38013	CA	14
+The Narrows	61.60045	-72.18248	CA	14
+The Narrows	63.73389	-67.83102	CA	14
+The Narrows	82.50194	-62.2901	CA	14
+The Needle	63.2672	-64.04735	CA	14
+The Sabot	78.71875	-103.42159	CA	14
+The Swirlers	61.30032	-64.84768	CA	14
+The Tail Feathers	70.50127	-70.53071	CA	14
+The Throat	57.05038	-76.66611	CA	14
+The Two Craters	78.28517	-92.18423	CA	14
+Thomas Lee Inlet	75.58494	-89.08378	CA	14
+Thompson Glacier	79.46867	-90.50058	CA	14
+Tingin Fiord	69.15096	-68.6637	CA	14
+Tinujjivik Inlet	66.38415	-84.43225	CA	14
+Tookoolito Inlet	63.08379	-64.74743	CA	14
+Topsail Head	61.30032	-64.84768	CA	14
+Touak Fiord	65.78953	-63.38729	CA	14
+Tozer Headland	75.34048	-97.15173	CA	14
+Transit Glacier	79.57199	-90.0338	CA	14
+Triangle Glacier	70.39973	-74.76181	CA	14
+Trinity Glacier	77.96574	-78.55316	CA	14
+Trold Fiord	78.25183	-85.28233	CA	14
+Troll Fiord	77.90176	-84.91571	CA	14
+Tromso Fiord	71.20118	-73.66447	CA	14
+Truelove Inlet	75.63499	-84.56613	CA	14
+Tugaaqturvik Narrows	69.35391	-92.20012	CA	14
+Tumbling Glacier	66.46744	-65.57785	CA	14
+Tunulliit Inlet	69.71924	-92.89465	CA	14
+Tupermit Glacier	66.59796	-65.13342	CA	14
+Turnabout Glacier	82.15211	-69.14341	CA	14
+Turner Glacier	66.68686	-65.22791	CA	14
+Turnstone Glacier	81.66881	-73.91192	CA	14
+Twin Glacier	81.26452	-67.96603	CA	14
+Twin Glacier	78.84497	-75.79663	CA	14
+Twin Jugs	65.93396	-109.75227	CA	14
+Twin Knolls	62.80062	-91.59988	CA	14
+Two Brothers	58.8672	-80.41629	CA	14
+Tyrrell Arm	62.45058	-97.50058	CA	14
+Ujarasujjulik Inlet	58.81703	-65.83716	CA	14
+Ujuktuk Fiord	65.21732	-64.43046	CA	14
+Uksuriajuaq Rapids	63.86736	-99.93421	CA	14
+Ulu Rapids	72.59306	-78.07747	CA	14
+Umingmaktok	67.69663	-107.94808	CA	14
+Unhealing Brook	63.68824	-85.64008	CA	14
+Unngilitaittuq Inlet	68.83029	-90.51922	CA	14
+Uplasaatligaarjuk Inlet	69.79425	-93.47112	CA	14
+Uqanguaq Glacier	73.24168	-81.23902	CA	14
+Utinatuk Glacier	70.43842	-70.93357	CA	14
+Uutigak Inlet	66.81761	-87.11601	CA	14
+Van Royen Glacier	80.8854	-83.16509	CA	14
+Vendom Fiord	77.75173	-82.99864	CA	14
+Vesle Fiord	79.13525	-83.99875	CA	14
+Victoria Head	79.21859	-74.4129	CA	14
+Victoria Headland	67.36765	-95.30051	CA	14
+Victoria Strait	69.51786	-100.50156	CA	14
+Viks Fiord	75.99057	-90.58406	CA	14
+Virginia Glacier	66.60625	-62.28712	CA	14
+Walker Arm	70.50379	-71.64757	CA	14
+Wallace Head	69.40105	-78.51489	CA	14
+Walrus Fiord	76.50161	-88.75024	CA	14
+Walrus Head Glacier	70.49403	-70.9989	CA	14
+Ward Hunt Ice Shelf	83.12224	-73.49868	CA	14
+Ward Inlet	63.45053	-67.52273	CA	14
+Webber Glacier	80.91739	-82.16891	CA	14
+Weeping Glacier	66.57856	-65.22923	CA	14
+Wentzal Headland	75.3849	-96.18488	CA	14
+Weymouth Inlet	59.29752	-65.37744	CA	14
+Whiffen Inlet	69.13435	-84.99923	CA	14
+Whirlpool Rapids	66.68419	-95.75054	CA	14
+White Glacier	79.44697	-90.66732	CA	14
+White Head	61.33363	-64.94768	CA	14
+White Strait	62.83384	-70.6648	CA	14
+White Wind Glacier	66.50755	-62.57876	CA	14
+Whitney Inlet	63.75067	-89.99974	CA	14
+Whyte Inlet	70.08441	-84.83272	CA	14
+Wight Inlet	62.25884	-68.21446	CA	14
+Wilcox Glacier	76.18092	-80.73721	CA	14
+Wilkins Strait	78.17687	-108.50699	CA	14
+Willersted Inlet	69.33441	-93.66704	CA	14
+Winchester Inlet	63.91739	-89.99977	CA	14
+Winter Water Reach	65.49789	-107.02552	CA	14
+Wolf Fiord	78.41857	-88.49984	CA	14
+Wolf Rapids	65.96754	-97.55073	CA	14
+Wolf Valley	79.63527	-82.49833	CA	14
+Wood Glacier	80.8854	-84.08194	CA	14
+Wrottesley Inlet	71.40127	-95.75067	CA	14
+Wykeham Glacier	77.90743	-78.7018	CA	14
+Wyville Thomson Glacier	78.41154	-75.48279	CA	14
+Yellow Bluff	64.36746	-87.84956	CA	14
+Yellow Valley	72.30138	-86.49998	CA	14
+Yelverton Inlet	82.15224	-81.41419	CA	14
+Young Inlet	76.55167	-99.25235	CA	14
+Young Inlet	60.33349	-64.66508	CA	14
+Canadian Arctic Archipelago	75.00018	-90.00704	CA	14
+Niagara Express	62.83303	-95.91402	CA	14
