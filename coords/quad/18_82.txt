@@ -1,0 +1,4 @@
+Rājahmundry	17.00517	81.77784	IN	02
+Polavaram	17.25	81.63333	IN	02
+Kovvūr	17.0162	81.72934	IN	02
+Rampachodavaram	17.44088	81.77558	IN	02

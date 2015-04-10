@@ -1,0 +1,4 @@
+Yerba Buena	-26.81667	-65.31667	AR	24
+Tafí Viejo	-26.73201	-65.25921	AR	24
+San Miguel de Tucumán	-26.82414	-65.2226	AR	24
+Alderetes	-26.81667	-65.13333	AR	24

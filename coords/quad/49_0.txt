@@ -1,0 +1,4 @@
+Mayenne	48.3	-0.61667	FR	B5
+Laval	48.06667	-0.76667	FR	B5
+Flers	48.73722	-0.57466	FR	99
+Argentan	48.75	-0.01667	FR	99

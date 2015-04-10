@@ -1,0 +1,5 @@
+Świdwin	53.77464	15.77671	PL	87
+Stargard Szczeciński	53.33672	15.0499	PL	87
+Nowogard	53.67437	15.1163	PL	87
+Gryfice	53.9165	15.20027	PL	87
+Choszczno	53.16905	15.42054	PL	87

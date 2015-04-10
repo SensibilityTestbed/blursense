@@ -1,0 +1,8 @@
+Zamora	19.9855	-102.28387	MX	16
+Uruapan	19.41116	-102.05644	MX	16
+Tepalcatepec	19.18666	-102.8493	MX	16
+Tangancícuaro de Arista	19.88733	-102.20636	MX	15
+Paracho de Verduzco	19.64745	-102.04897	MX	16
+Nueva Italia de Ruiz	19.02492	-102.09318	MX	16
+Jiquílpan de Juárez	19.99482	-102.71969	MX	15
+Apatzingán	19.08864	-102.35704	MX	16

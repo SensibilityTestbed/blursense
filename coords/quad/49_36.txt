@@ -1,0 +1,4 @@
+Synel’nykove	48.32044	35.51792	UA	04
+Pidhorodne	48.57528	35.1068	UA	04
+Pavlohrad	48.53426	35.87098	UA	04
+Novomoskovs’k	48.63799	35.24548	UA	04

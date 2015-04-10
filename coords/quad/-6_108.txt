@@ -1,0 +1,13 @@
+Sumedang Utara	-6.85	107.91667	ID	00
+Rengasdengklok	-6.15917	107.29806	ID	30
+Purwakarta	-6.55694	107.44333	ID	30
+Pamanukan	-6.28417	107.81056	ID	30
+Margahayukencana	-6.97083	107.5675	ID	30
+Lembang	-6.81167	107.6175	ID	30
+Cimahi	-6.87222	107.5425	ID	30
+Cileunyi	-6.93889	107.75278	ID	30
+Cikarang	-6.26111	107.15278	ID	30
+Cikampek	-6.41972	107.45583	ID	30
+Bandung	-6.90389	107.61861	ID	30
+Padalarang	-6.83778	107.47278	ID	30
+Ciranjang-hilir	-6.82	107.25722	ID	30

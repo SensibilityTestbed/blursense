@@ -1,0 +1,3 @@
+Conception Bay South	47.49989	-52.99806	CA	05
+Mount Pearl	47.51659	-52.78135	CA	05
+St. John's	47.56494	-52.70931	CA	05

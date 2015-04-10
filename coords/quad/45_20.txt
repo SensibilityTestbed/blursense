@@ -1,0 +1,4 @@
+Bijeljina	44.75874	19.21437	BA	02
+Valjevo	44.27513	19.89821	RS	SE
+Sremska Mitrovica	44.97639	19.61222	RS	VO
+Šabac	44.74667	19.69	RS	SE

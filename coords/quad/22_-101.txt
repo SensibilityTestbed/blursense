@@ -1,0 +1,8 @@
+San Francisco del Rincón	21.01843	-101.85515	MX	11
+San Felipe	21.47777	-101.21593	MX	11
+Medina	21.14972	-101.6225	MX	11
+León	21.13052	-101.671	MX	11
+Lagos de Moreno	21.3559	-101.93399	MX	14
+Guanajuato	21.01858	-101.2591	MX	11
+Centro Familiar la Soledad	21.135	-101.74972	MX	11
+La Ermita	21.15194	-101.73306	MX	11

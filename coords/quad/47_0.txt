@@ -1,0 +1,3 @@
+Niort	46.32313	-0.45877	FR	B7
+Fontenay-le-Comte	46.46667	-0.81667	FR	B5
+Bressuire	46.85	-0.48333	FR	B7

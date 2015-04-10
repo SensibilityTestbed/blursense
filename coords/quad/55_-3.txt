@@ -1,0 +1,3 @@
+Workington	54.6425	-3.54413	GB	ENG
+Whitehaven	54.54897	-3.58412	GB	ENG
+Barrow in Furness	54.11094	-3.22758	GB	ENG

@@ -1,0 +1,4 @@
+Vatra Dornei	47.35	25.36667	RO	34
+Radauti	47.85	25.91667	RO	34
+Gura Humorului	47.55	25.9	RO	34
+Câmpulung Moldovenesc	47.53333	25.56667	RO	34

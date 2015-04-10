@@ -1,0 +1,5 @@
+Werder	52.37874	12.934	DE	11
+Rathenow	52.60659	12.33696	DE	11
+Neuruppin	52.92815	12.80311	DE	11
+Nauen	52.60701	12.87374	DE	11
+Brandenburg an der Havel	52.41667	12.55	DE	11

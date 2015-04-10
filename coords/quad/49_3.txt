@@ -1,0 +1,187 @@
+Yerres	48.71785	2.49338	FR	A8
+Vitry-sur-Seine	48.78716	2.40332	FR	A8
+Viry-Châtillon	48.67211	2.39318	FR	A8
+Viroflay	48.80078	2.16181	FR	A8
+Vincennes	48.8486	2.43769	FR	A8
+Villiers-sur-Marne	48.831	2.54844	FR	A8
+Villepinte	48.96203	2.53253	FR	A8
+Villeparisis	48.94208	2.61463	FR	A8
+Villeneuve-Saint-Georges	48.73219	2.44925	FR	A8
+Villeneuve-le-Roi	48.73684	2.40081	FR	A8
+Villeneuve-la-Garenne	48.93935	2.31478	FR	A8
+Villemomble	48.88333	2.5	FR	A8
+Villejuif	48.7939	2.35992	FR	A8
+Vigneux-sur-Seine	48.70291	2.41357	FR	A8
+Versailles	48.8	2.13333	FR	A8
+Verrières-le-Buisson	48.74565	2.26796	FR	A8
+Vélizy-Villacoublay	48.78198	2.19395	FR	A8
+Vanves	48.82345	2.29025	FR	A8
+Tremblay-en-France	48.94956	2.5684	FR	A8
+Trappes	48.77413	2.01781	FR	A8
+Torcy	48.85	2.65	FR	A8
+Thiais	48.76496	2.3961	FR	A8
+Suresnes	48.87143	2.22929	FR	A8
+Sucy-en-Brie	48.76872	2.53474	FR	A8
+Stains	48.95	2.38333	FR	A8
+Soisy-sous-Montmorency	48.98813	2.30156	FR	A8
+Sèvres	48.82292	2.21757	FR	A8
+Sevran	48.94472	2.52746	FR	A8
+Sceaux	48.77644	2.29026	FR	A8
+Savigny-sur-Orge	48.67677	2.34835	FR	A8
+Savigny-le-Temple	48.57409	2.58287	FR	A8
+Sartrouville	48.9482	2.19169	FR	A8
+Sarcelles	49	2.38333	FR	A8
+Sannois	48.96667	2.25	FR	A8
+Saint-Ouen	48.9	2.33333	FR	A8
+Saint-Michel-sur-Orge	48.63479	2.30831	FR	A8
+Saint-Maur-des-Fossés	48.79395	2.49323	FR	A8
+Saint-Mandé	48.83864	2.41579	FR	A8
+Saint-Gratien	48.9735	2.28729	FR	A8
+Saint-Germain-en-Laye	48.9	2.08333	FR	A8
+Sainte-Geneviève-des-Bois	48.64682	2.31965	FR	A8
+Saint-Denis	48.93333	2.36667	FR	A8
+Saint-Cyr-l’École	48.79865	2.06814	FR	A8
+Saint-Cloud	48.84598	2.20289	FR	A8
+Rueil-Malmaison	48.8765	2.18967	FR	A8
+Rosny-sous-Bois	48.87017	2.4991	FR	A8
+Romainville	48.8854	2.43482	FR	A8
+Roissy-en-Brie	48.79159	2.64747	FR	A8
+Ris-Orangis	48.6511	2.41406	FR	A8
+Puteaux	48.88341	2.23894	FR	A8
+Poissy	48.92902	2.04952	FR	A8
+Pierrefitte-sur-Seine	48.96691	2.36104	FR	A8
+Paris	48.85341	2.3488	FR	A8
+Pantin	48.89437	2.40935	FR	A8
+Palaiseau	48.71667	2.25	FR	A8
+Ozoir-la-Ferrière	48.76699	2.66871	FR	A8
+Orsay	48.69572	2.18727	FR	A8
+Orly	48.74792	2.39253	FR	A8
+Noisy-le-Sec	48.89148	2.46451	FR	A8
+Noisy-le-Grand	48.84979	2.56266	FR	A8
+Noisiel	48.84868	2.62435	FR	A8
+Nogent-sur-Marne	48.83333	2.48333	FR	A8
+Neuilly-sur-Seine	48.8846	2.26965	FR	A8
+Neuilly-sur-Marne	48.85373	2.54903	FR	A8
+Neuilly-Plaisance	48.86342	2.506	FR	A8
+Nanterre	48.89198	2.20675	FR	A8
+Morsang-sur-Orge	48.66181	2.35338	FR	A8
+Montrouge	48.8162	2.31393	FR	A8
+Montreuil	48.86415	2.44322	FR	A8
+Montmorency	48.98826	2.3434	FR	A8
+Montigny-lès-Cormeilles	48.98201	2.20035	FR	A8
+Montigny-le-Bretonneux	48.76636	2.03405	FR	A8
+Montgeron	48.70543	2.45039	FR	A8
+Montfermeil	48.8982	2.57913	FR	A8
+Montesson	48.90924	2.13754	FR	A8
+Montereau-Fault-Yonne	48.38333	2.95	FR	A8
+Moissy-Cramayel	48.62605	2.60125	FR	A8
+Mitry-Mory	48.98333	2.61667	FR	A8
+Meudon	48.81381	2.235	FR	A8
+Melun	48.53333	2.66667	FR	A8
+Meaux	48.96014	2.87885	FR	A8
+Massy	48.72692	2.28301	FR	A8
+Marly-le-Roi	48.86667	2.08333	FR	A8
+Malakoff	48.81999	2.29998	FR	A8
+Maisons-Laffitte	48.95264	2.14521	FR	A8
+Maisons-Alfort	48.81171	2.43945	FR	A8
+Longjumeau	48.69503	2.30735	FR	A8
+Lognes	48.83541	2.62998	FR	A8
+Livry-Gargan	48.9193	2.54305	FR	A8
+Limeil-Brévannes	48.7448	2.48705	FR	A8
+L'Haÿ-les-Roses	48.78333	2.33333	FR	A8
+Le Vésinet	48.89281	2.13308	FR	A8
+Levallois-Perret	48.89389	2.28864	FR	A8
+Les Pavillons-sous-Bois	48.90683	2.50648	FR	A8
+Les Lilas	48.87992	2.42057	FR	A8
+Le Pré-Saint-Gervais	48.88549	2.40422	FR	A8
+Le Plessis-Trévise	48.81074	2.57363	FR	A8
+Le Plessis-Robinson	48.78889	2.27078	FR	A8
+Le Perreux-sur-Marne	48.85	2.5	FR	A8
+Le Pecq	48.89317	2.10371	FR	A8
+Le Mée-sur-Seine	48.53157	2.62829	FR	A8
+Le Kremlin-Bicêtre	48.81471	2.36073	FR	A8
+Le Chesnay	48.8222	2.12213	FR	A8
+Le Blanc-Mesnil	48.93872	2.46138	FR	A8
+Lagny-sur-Marne	48.86667	2.71667	FR	A8
+La Garenne-Colombes	48.90472	2.2469	FR	A8
+La Courneuve	48.92805	2.39627	FR	A8
+La Celle-Saint-Cloud	48.85029	2.14523	FR	A8
+Joinville-le-Pont	48.82538	2.47458	FR	A8
+Ivry-sur-Seine	48.81568	2.38487	FR	A8
+Issy-les-Moulineaux	48.82104	2.27718	FR	A8
+Houilles	48.92161	2.19263	FR	A8
+Herblay	48.98994	2.1699	FR	A8
+Guyancourt	48.77334	2.07393	FR	A8
+Grigny	48.65412	2.39343	FR	A8
+Gonesse	48.98693	2.44892	FR	A8
+Gif-sur-Yvette	48.68333	2.13333	FR	A8
+Gentilly	48.81294	2.3417	FR	A8
+Gennevilliers	48.93333	2.3	FR	A8
+Garges-lès-Gonesse	48.96791	2.39781	FR	A8
+Garches	48.84226	2.18232	FR	A8
+Gagny	48.88333	2.53333	FR	A8
+Fresnes	48.75568	2.32241	FR	A8
+Franconville	48.98333	2.23333	FR	A8
+Fontenay-sous-Bois	48.85442	2.48268	FR	A8
+Fontenay-aux-Roses	48.79325	2.29275	FR	A8
+Fontainebleau	48.4	2.7	FR	A8
+Évry	48.63333	2.45	FR	A8
+Étampes	48.43333	2.15	FR	A8
+Ermont	48.99004	2.25804	FR	A8
+Épinay-sur-Seine	48.9535	2.31514	FR	A8
+Eaubonne	48.99712	2.28249	FR	A8
+Draveil	48.68466	2.41418	FR	A8
+Drancy	48.92578	2.44533	FR	A8
+Deuil-la-Barre	48.97674	2.32722	FR	A8
+Dammarie-les-Lys	48.51667	2.65	FR	A8
+Créteil	48.78333	2.46667	FR	A8
+Courbevoie	48.89672	2.25666	FR	A8
+Cormeilles-en-Parisis	48.97111	2.20491	FR	A8
+Corbeil-Essonnes	48.60603	2.48757	FR	A8
+Combs-la-Ville	48.66497	2.56957	FR	A8
+Pontault-Combault	48.79813	2.60676	FR	A8
+Colombes	48.91882	2.25404	FR	A8
+Clichy-sous-Bois	48.9102	2.55323	FR	A8
+Clichy	48.90018	2.30952	FR	A8
+Clamart	48.80299	2.26692	FR	A8
+Choisy-le-Roi	48.76846	2.41874	FR	A8
+Chilly-Mazarin	48.71489	2.31638	FR	A8
+Chevilly-Larue	48.76476	2.3503	FR	A8
+Chennevières-sur-Marne	48.79702	2.54046	FR	A8
+Chelles	48.88109	2.59295	FR	A8
+Chaville	48.80565	2.18864	FR	A8
+Chatou	48.8898	2.15863	FR	A8
+Châtillon	48.8024	2.29346	FR	A8
+Châtenay-Malabry	48.76507	2.26655	FR	A8
+Charenton-le-Pont	48.82209	2.41217	FR	A8
+Champs-sur-Marne	48.85	2.6	FR	A8
+Champigny-sur-Marne	48.81642	2.49366	FR	A8
+Carrières-sous-Poissy	48.94952	2.04068	FR	A8
+Cachan	48.79632	2.33661	FR	A8
+Bry-sur-Marne	48.83811	2.52488	FR	A8
+Brunoy	48.6942	2.49223	FR	A8
+Brie-Comte-Robert	48.68333	2.61667	FR	A8
+Brétigny-sur-Orge	48.61135	2.30593	FR	A8
+Bourg-la-Reine	48.77888	2.31781	FR	A8
+Boulogne-Billancourt	48.83333	2.25	FR	A8
+Bonneuil-sur-Marne	48.7695	2.4793	FR	A8
+Bondy	48.9018	2.48931	FR	A8
+Boissy-Saint-Léger	48.75149	2.51163	FR	A8
+Bois-Colombes	48.91936	2.27485	FR	A8
+Bobigny	48.9	2.45	FR	A8
+Bezons	48.92426	2.2128	FR	A8
+Bagnolet	48.86667	2.41667	FR	A8
+Bagneux	48.79565	2.30796	FR	A8
+Avon	48.40219	2.72022	FR	A8
+Aulnay-sous-Bois	48.93814	2.49402	FR	A8
+Aubervilliers	48.91667	2.38333	FR	A8
+Athis-Mons	48.70522	2.39147	FR	A8
+Asnières-sur-Seine	48.91667	2.28333	FR	A8
+Argenteuil	48.95	2.25	FR	A8
+Arcueil	48.79993	2.33256	FR	A8
+Antony	48.75	2.3	FR	A8
+Alfortville	48.80575	2.4204	FR	A8
+Achères	48.96115	2.06882	FR	A8
+Les Ulis	48.68167	2.16944	FR	A8
+La Defense	48.89198	2.23881	FR	A8
+Saint-Quentin-en-Yvelines	48.77186	2.01891	FR	A8

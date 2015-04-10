@@ -1,0 +1,4 @@
+Varadero	23.15678	-81.24441	CU	03
+Santa Cruz del Norte	23.15374	-81.92611	CU	MA
+Matanzas	23.04111	-81.5775	CU	03
+Cárdenas	23.0375	-81.20472	CU	03

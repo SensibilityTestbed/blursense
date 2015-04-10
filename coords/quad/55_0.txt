@@ -1,0 +1,2 @@
+Scarborough	54.27966	-0.40443	GB	ENG
+Bridlington	54.08306	-0.19192	GB	ENG

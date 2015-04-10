@@ -1,0 +1,2 @@
+Duluth	46.78327	-92.10658	US	MN
+Superior	46.72077	-92.10408	US	WI

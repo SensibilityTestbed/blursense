@@ -1,0 +1,3 @@
+Zhovti Vody	48.34731	33.50034	UA	04
+Piatykhatky	48.41333	33.71056	UA	04
+Oleksandriya	48.66961	33.11593	UA	10

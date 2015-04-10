@@ -1,0 +1,16 @@
+García	25.81147	-100.5941	MX	19
+Santiago	25.42533	-100.15205	MX	19
+Santa Catarina	25.67325	-100.45813	MX	19
+San Nicolás de los Garza	25.74167	-100.30222	MX	19
+Ramos Arizpe	25.53928	-100.94742	MX	07
+Monterrey	25.67507	-100.31847	MX	19
+Guadalupe	25.67678	-100.25646	MX	19
+General Escobedo	25.79516	-100.31461	MX	19
+Garza García	25.65384	-100.37758	MX	19
+Apodaca	25.75976	-100.16287	MX	19
+Allende	25.27673	-100.01442	MX	19
+San Pedro Garza Garcia	25.65716	-100.40268	MX	19
+Jardines de la Silla (Jardines)	25.62944	-100.18778	MX	19
+Fraccionamiento Real Palmas	25.90417	-100.15972	MX	19
+Parque Industrial Ciudad Mitras	25.78861	-100.44778	MX	19
+Mitras Poniente	25.77583	-100.42583	MX	19

@@ -1,0 +1,5 @@
+Yessentukskaya	44.0328	42.8813	RU	70
+Yessentuki	44.04444	42.86056	RU	70
+Suvorovskaya	44.1901	42.6595	RU	70
+Lermontov	44.10667	42.97333	RU	70
+Cherkessk	44.22333	42.05778	RU	27

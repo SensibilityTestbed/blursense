@@ -1,0 +1,5 @@
+Tanjungbalai	2.96667	99.8	ID	26
+Rantauprapat	2.1	99.83333	ID	26
+Pematangsiantar	2.9595	99.0687	ID	26
+Kisaran	2.9845	99.6158	ID	26
+Bandar	2.05	99.75	ID	26

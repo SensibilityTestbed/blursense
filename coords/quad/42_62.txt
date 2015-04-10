@@ -1,0 +1,3 @@
+Gazojak	41.18746	61.4036	TM	04
+Novyy Turtkul’	41.55	61.01667	UZ	09
+Hazorasp	41.31944	61.07417	UZ	05

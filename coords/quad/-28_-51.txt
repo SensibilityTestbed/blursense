@@ -1,0 +1,5 @@
+Veranópolis	-28.93611	-51.54944	BR	23
+São Marcos	-28.97111	-51.06806	BR	23
+Nova Prata	-28.78389	-51.61	BR	23
+Lagoa Vermelha	-28.20861	-51.52583	BR	23
+Guaporé	-28.84556	-51.89028	BR	23

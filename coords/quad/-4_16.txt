@@ -1,0 +1,4 @@
+Kinshasa	-4.32758	15.31357	CD	06
+Kasangulu	-4.5833	15.16554	CD	08
+Masina	-4.38361	15.39139	CD	06
+Brazzaville	-4.26613	15.28318	CG	12

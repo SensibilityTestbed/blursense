@@ -1,0 +1,5 @@
+Pleven	43.41667	24.61667	BG	50
+Lovech	43.13333	24.71667	BG	46
+Cherven Bryag	43.26667	24.1	BG	50
+Turnu Măgurele	43.75	24.86667	RO	35
+Corabia	43.78333	24.5	RO	29

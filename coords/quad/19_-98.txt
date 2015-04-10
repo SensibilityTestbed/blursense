@@ -1,0 +1,6 @@
+Yecapixtla	18.88333	-98.865	MX	17
+Izúcar de Matamoros	18.60151	-98.46499	MX	21
+Cuautla Morelos	18.80459	-98.94555	MX	17
+Axochiapan	18.50307	-98.75219	MX	17
+Atlixco	18.90815	-98.43613	MX	21
+Acatlán de Osorio	18.2025	-98.04864	MX	21

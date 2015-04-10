@@ -1,0 +1,8 @@
+Totana	37.7688	-1.50229	ES	31
+Murcia	37.98704	-1.13004	ES	31
+Mazarrón	37.5992	-1.31493	ES	31
+Lorca	37.67119	-1.7017	ES	31
+Huércal-Overa	37.38897	-1.94536	ES	51
+Alhama de Murcia	37.85103	-1.42507	ES	31
+Alcantarilla	37.96939	-1.21714	ES	31
+Águilas	37.4063	-1.58289	ES	31

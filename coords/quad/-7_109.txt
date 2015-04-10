@@ -1,0 +1,7 @@
+Tasikmalaya	-7.3274	108.2207	ID	30
+Singaparna	-7.3515	108.111	ID	30
+Sidareja	-7.4846	108.7923	ID	07
+Rajapolah	-7.221	108.1896	ID	30
+Majenang	-7.2975	108.7642	ID	07
+Kawalu	-7.3817	108.2082	ID	30
+Ciamis	-7.3257	108.3534	ID	30

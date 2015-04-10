@@ -1,0 +1,5 @@
+Mátészalka	47.95528	22.32348	HU	18
+Şimleu Silvaniei	47.23333	22.8	RO	31
+Satu Mare	47.8	22.88333	RO	32
+Margita	47.35	22.33333	RO	05
+Carei	47.68333	22.46667	RO	32

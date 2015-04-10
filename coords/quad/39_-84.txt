@@ -1,0 +1,5 @@
+Florence	38.99895	-84.62661	US	KY
+Frankfort	38.20091	-84.87328	US	KY
+Georgetown	38.2098	-84.55883	US	KY
+Independence	38.94312	-84.54411	US	KY
+Lexington-Fayette	38.0498	-84.45855	US	KY

@@ -1,0 +1,5 @@
+Sosnovyy Bor	59.8996	29.08574	RU	42
+Petrodvorets	59.89565	29.80145	RU	66
+Peterhof	59.88333	29.9	RU	66
+Lomonosov	59.90612	29.77253	RU	66
+Kronshtadt	59.99541	29.76668	RU	66

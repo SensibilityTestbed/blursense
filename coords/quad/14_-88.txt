@@ -1,0 +1,11 @@
+Zacatecoluca	13.5	-88.86667	SV	06
+Usulután	13.35	-88.45	SV	14
+Sensuntepeque	13.86667	-88.63333	SV	02
+San Vicente	13.63333	-88.8	SV	12
+Santiago de María	13.48333	-88.46667	SV	14
+San Rafael Oriente	13.38333	-88.35	SV	09
+San Miguel	13.48333	-88.18333	SV	09
+San Martín	13.78333	-88.91667	SV	04
+San Francisco	13.7	-88.1	SV	08
+Puerto El Triunfo	13.28333	-88.55	SV	14
+Cojutepeque	13.71667	-88.93333	SV	04

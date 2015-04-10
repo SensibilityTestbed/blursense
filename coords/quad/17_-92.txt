@@ -1,0 +1,4 @@
+Venustiano Carranza	16.33945	-92.56293	MX	05
+San Cristóbal de las Casas	16.73176	-92.64126	MX	05
+Ocosingo	16.90639	-92.09374	MX	05
+Comitán	16.24471	-92.13425	MX	05

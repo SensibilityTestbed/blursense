@@ -1,0 +1,7 @@
+Tandahimba	-10.75	39.63333	TZ	11
+Nyangao	-10.33333	39.28333	TZ	07
+Newala Kisimani	-10.95	39.28333	TZ	11
+Nanyamba	-10.68333	39.83333	TZ	11
+Nanganga	-10.38333	39.15	TZ	11
+Luchingu	-10.9	39.33333	TZ	11
+Kitama	-10.71667	39.73333	TZ	11

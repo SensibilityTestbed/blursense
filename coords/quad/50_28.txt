@@ -1,0 +1,3 @@
+Starokostyantyniv	49.75764	27.20342	UA	09
+Khmil’nyk	49.55979	27.95754	UA	23
+Bar	49.07717	27.68256	UA	23

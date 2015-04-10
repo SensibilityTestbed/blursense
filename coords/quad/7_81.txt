@@ -1,0 +1,7 @@
+Ratnapura	6.68278	80.39917	LK	33
+Nuwara Eliya	6.97078	80.78286	LK	29
+Homagama	6.844	80.0024	LK	36
+Hatton	6.8916	80.5955	LK	29
+Hanwella Ihala	6.9012	80.0852	LK	36
+Galle	6.0367	80.217	LK	34
+Ambalangoda	6.2355	80.0538	LK	34

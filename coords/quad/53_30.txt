@@ -1,0 +1,3 @@
+Svyetlahorsk	52.6329	29.7389	BY	02
+Mazyr	52.0495	29.2456	BY	02
+Kalinkavichy	52.1323	29.3257	BY	02

@@ -1,0 +1,3 @@
+Villarrica	-25.78056	-56.44861	PY	10
+Coronel Oviedo	-25.44444	-56.44028	PY	04
+Caaguazú	-25.45	-56.01667	PY	04

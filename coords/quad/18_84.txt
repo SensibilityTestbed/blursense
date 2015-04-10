@@ -1,0 +1,5 @@
+Visakhapatnam	17.68009	83.20161	IN	02
+Vepagunta	17.77844	83.21577	IN	02
+Bhīmunipatnam	17.89017	83.45203	IN	02
+Anakāpalle	17.69134	83.00395	IN	02
+Gajuwaka	17.7	83.21667	IN	02

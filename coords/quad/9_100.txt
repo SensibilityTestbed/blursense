@@ -1,0 +1,4 @@
+Thung Song	8.16453	99.68039	TH	64
+Ron Phibun	8.17911	99.85425	TH	64
+Nakhon Si Thammarat	8.43333	99.96667	TH	64
+Ban Na San	8.80036	99.36372	TH	60

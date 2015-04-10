@@ -1,0 +1,32 @@
+Villa Nueva	14.52694	-90.5875	GT	07
+Villa Canales	14.48139	-90.53167	GT	07
+Tecpán Guatemala	14.76694	-90.99417	GT	03
+Sumpango	14.64639	-90.73389	GT	16
+Santiago Sacatepéquez	14.63528	-90.67639	GT	16
+Santa María de Jesús	14.51833	-90.72667	GT	16
+Santa Catarina Pinula	14.56889	-90.49528	GT	07
+San Pedro Ayampuc	14.78667	-90.45111	GT	07
+San Lucas Sacatepéquez	14.60972	-90.65694	GT	16
+San Juan Sacatepéquez	14.71889	-90.64417	GT	07
+San José Pinula	14.54611	-90.41139	GT	07
+Sanarate	14.795	-90.19222	GT	05
+San Andrés Itzapa	14.62	-90.84417	GT	03
+Petapa	14.50278	-90.55167	GT	07
+Patzicía	14.63167	-90.92694	GT	03
+Palín	14.40556	-90.69833	GT	06
+Palencia	14.66472	-90.35861	GT	07
+Mixco	14.63333	-90.60639	GT	07
+Jocotenango	14.58194	-90.74361	GT	16
+Fraijanes	14.46528	-90.44083	GT	07
+Escuintla	14.305	-90.785	GT	06
+El Tejar	14.64778	-90.79278	GT	03
+Cuilapa	14.27639	-90.29889	GT	18
+Comalapa	14.74111	-90.8875	GT	03
+Ciudad Vieja	14.52639	-90.75972	GT	16
+Guatemala City	14.64072	-90.51327	GT	07
+Chinautla	14.70833	-90.49944	GT	07
+Chimaltenango	14.66111	-90.81944	GT	03
+Barberena	14.30944	-90.36111	GT	18
+Antigua Guatemala	14.56111	-90.73444	GT	16
+Amatitlán	14.4875	-90.61528	GT	07
+Alotenango	14.48028	-90.8075	GT	16

@@ -1,0 +1,2 @@
+Funchal	32.63333	-16.9	PT	10
+Câmara de Lobos	32.63333	-16.96667	PT	10

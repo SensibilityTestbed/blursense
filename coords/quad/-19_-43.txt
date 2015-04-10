@@ -1,0 +1,10 @@
+Vespasiano	-19.69194	-43.92333	BR	15
+Santa Luzia	-19.76972	-43.85139	BR	15
+Nova Lima	-19.98556	-43.84667	BR	15
+Nova Era	-19.75	-43.0375	BR	15
+Lagoa Santa	-19.63006	-43.9009	BR	15
+João Monlevade	-19.81	-43.17361	BR	15
+Itabira	-19.61917	-43.22694	BR	15
+Caeté	-19.88	-43.66972	BR	15
+Belo Horizonte	-19.92083	-43.93778	BR	15
+Barão de Cocais	-19.94583	-43.48722	BR	15

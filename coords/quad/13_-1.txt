@@ -1,0 +1,4 @@
+Ouagadougou	12.36566	-1.53388	BF	03
+Kombissiri	12.06095	-1.33355	BF	07
+Kokologo	12.18972	-1.88556	BF	06
+Boussé	12.6576	-1.89288	BF	11

@@ -1,0 +1,4 @@
+Valledupar	10.46314	-73.25322	CO	10
+San Juan del Cesar	10.77107	-73.00314	CO	17
+El Copey	10.15031	-73.9614	CO	10
+Agustín Codazzi	10.03672	-73.23558	CO	10

@@ -1,0 +1,2 @@
+Nizhnevartovsk	60.9344	76.5531	RU	32
+Izluchinsk	60.97944	76.92421	RU	32

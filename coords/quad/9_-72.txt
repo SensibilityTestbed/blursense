@@ -1,0 +1,3 @@
+Puerto Santander	8.36361	-72.4063	CO	21
+San Juan de Colón	8.03125	-72.26053	VE	20
+La Fría	8.21523	-72.24888	VE	20

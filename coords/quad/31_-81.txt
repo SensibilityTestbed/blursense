@@ -1,0 +1,8 @@
+Fruit Cove	30.11107	-81.64176	US	FL
+Jacksonville	30.33218	-81.65565	US	FL
+Jacksonville Beach	30.29469	-81.39314	US	FL
+Lakeside	30.12996	-81.76815	US	FL
+Palm Valley	30.17746	-81.38758	US	FL
+Ponte Vedra Beach	30.23969	-81.38564	US	FL
+Kingsland	30.79996	-81.68983	US	GA
+St. Marys	30.73051	-81.54649	US	GA

@@ -1,0 +1,3 @@
+Polysayevo	54.6012	86.2459	RU	29
+Leninsk-Kuznetsky	54.6567	86.1737	RU	29
+Belovo	54.4165	86.2976	RU	29

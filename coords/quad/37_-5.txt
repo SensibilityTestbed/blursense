@@ -1,0 +1,12 @@
+Ubrique	36.67777	-5.446	ES	51
+Tarifa	36.01393	-5.60695	ES	51
+San Roque	36.21067	-5.38415	ES	51
+Ronda	36.74231	-5.16709	ES	51
+Los Barrios	36.18482	-5.49213	ES	51
+Las Cabezas de San Juan	36.9838	-5.93933	ES	51
+La Línea de la Concepción	36.16809	-5.34777	ES	51
+Estepona	36.42764	-5.14589	ES	51
+Barbate de Franco	36.19237	-5.92186	ES	51
+Arcos de la Frontera	36.75075	-5.81056	ES	51
+Algeciras	36.13326	-5.45051	ES	51
+Gibraltar	36.14474	-5.35257	GI	00

@@ -1,0 +1,3 @@
+Zernograd	46.84518	40.30834	RU	61
+Yegorlykskaya	46.56564	40.65621	RU	61
+Belaya Glina	46.07802	40.86651	RU	38

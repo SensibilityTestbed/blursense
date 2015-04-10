@@ -1,0 +1,2 @@
+Carbondale	37.72727	-89.21675	US	IL
+Cape Girardeau	37.30588	-89.51815	US	MO

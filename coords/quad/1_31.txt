@@ -1,0 +1,5 @@
+Kyenjojo	0.63278	30.62139	UG	W
+Kasese	0.18333	30.08333	UG	W
+Kamwenge	0.1866	30.45393	UG	W
+Fort Portal	0.66174	30.2748	UG	W
+Bundibugyo	0.71117	30.06469	UG	W

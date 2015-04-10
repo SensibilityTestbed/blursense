@@ -1,0 +1,4 @@
+Tash-Kumyr	41.34612	72.21707	KG	03
+Bazar-Korgon	41.0376	72.74586	KG	03
+Toktogul	41.87079	72.9402	KG	03
+Uchqŭrghon Shahri	41.11371	72.07915	UZ	06

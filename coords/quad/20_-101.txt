@@ -1,0 +1,4 @@
+Zacapú	19.81389	-101.79041	MX	16
+Tacámbaro de Codallos	19.23502	-101.45824	MX	16
+Pátzcuaro	19.51594	-101.60887	MX	16
+Morelia	19.70078	-101.18443	MX	16

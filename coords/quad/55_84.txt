@@ -1,0 +1,5 @@
+Linëvo	54.4589	83.3764	RU	53
+Iskitim	54.6366	83.3045	RU	53
+Cherepanovo	54.2222	83.381	RU	53
+Berdsk	54.7551	83.0967	RU	53
+Akademgorodok	54.8523	83.106	RU	53

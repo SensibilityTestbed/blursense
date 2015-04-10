@@ -1,0 +1,2 @@
+Northport	33.22901	-87.57723	US	AL
+Tuscaloosa	33.20984	-87.56917	US	AL

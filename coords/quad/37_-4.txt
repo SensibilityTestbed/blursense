@@ -1,0 +1,12 @@
+Vélez-Málaga	36.77262	-4.10045	ES	51
+Torremolinos	36.62035	-4.49976	ES	51
+Rincón de la Victoria	36.71715	-4.27583	ES	51
+Mijas	36.59575	-4.63728	ES	51
+Marbella	36.51543	-4.88583	ES	51
+Málaga	36.72016	-4.42034	ES	51
+Fuengirola	36.53998	-4.62473	ES	51
+Coín	36.65947	-4.75639	ES	51
+Cártama	36.71068	-4.63297	ES	51
+Benalmádena	36.59548	-4.56937	ES	51
+Alhaurín el Grande	36.643	-4.68728	ES	51
+Alhaurín de la Torre	36.66401	-4.56139	ES	51

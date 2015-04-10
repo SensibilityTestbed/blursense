@@ -1,0 +1,2 @@
+Tanjungpinang	0.91667	104.45	ID	40
+Kijang	0.9	104.63333	ID	40

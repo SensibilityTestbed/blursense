@@ -1,0 +1,4 @@
+Umkomaas	-30.20674	30.79776	ZA	02
+Scottburgh	-30.28666	30.75316	ZA	02
+Port Shepstone	-30.74137	30.45499	ZA	02
+Margate	-30.8636	30.37052	ZA	02

@@ -1,0 +1,6 @@
+Bella Vista	36.4807	-94.27134	US	AR
+Bentonville	36.37285	-94.20882	US	AR
+Fayetteville	36.06258	-94.15743	US	AR
+Rogers	36.33202	-94.11854	US	AR
+Siloam Springs	36.18814	-94.5405	US	AR
+Springdale	36.18674	-94.12881	US	AR

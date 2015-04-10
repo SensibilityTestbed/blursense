@@ -1,0 +1,4 @@
+Lidzbark Warmiński	54.12588	20.57954	PL	85
+Bartoszyce	54.25354	20.80819	PL	85
+Svetlyy	54.67501	20.13473	RU	23
+Kaliningrad	54.70649	20.51095	RU	23

@@ -1,0 +1,49 @@
+Zürich	47.36667	8.55	CH	ZH
+Zug	47.17242	8.51745	CH	ZG
+Winterthur	47.50003	8.7251	CH	ZH
+Wettingen	47.47049	8.31636	CH	AG
+Uster	47.34713	8.72091	CH	ZH
+Zürich (Kreis 11) / Seebach	47.42181	8.54779	CH	ZH
+Schaffhausen	47.69732	8.63493	CH	SH
+Rapperswil	47.22557	8.82228	CH	SG
+Zürich (Kreis 11) / Oerlikon	47.40823	8.54258	CH	ZH
+Luzern	47.05048	8.30635	CH	LU
+Littau	47.05	8.26274	CH	LU
+Kriens	47.03537	8.27631	CH	LU
+Kloten	47.45152	8.58491	CH	ZH
+Jona	47.22983	8.83884	CH	SG
+Horgen	47.25579	8.60027	CH	ZH
+Zürich (Kreis 10) / Höngg	47.40313	8.4971	CH	ZH
+Frauenfeld	47.55816	8.89854	CH	TG
+Emmen	47.07772	8.27888	CH	LU
+Dübendorf	47.39724	8.61872	CH	ZH
+Dietikon	47.40165	8.40015	CH	ZH
+Baden	47.47333	8.30592	CH	AG
+Baar	47.19625	8.52954	CH	ZG
+Zürich (Kreis 4)	47.37752	8.52127	CH	ZH
+Adliswil	47.30997	8.52462	CH	ZH
+Aarau	47.39254	8.04422	CH	AG
+Zürich (Kreis 10) / Wipkingen	47.39503	8.52529	CH	ZH
+Zürich (Kreis 11) / Affoltern	47.41814	8.5122	CH	ZH
+Zürich (Kreis 2) / Wollishofen	47.3401	8.53134	CH	ZH
+Zürich (Kreis 3) / Sihlfeld	47.37382	8.51164	CH	ZH
+Zürich (Kreis 6) / Unterstrass	47.3953	8.53721	CH	ZH
+Zürich (Kreis 9) / Albisrieden	47.37398	8.49007	CH	ZH
+Zürich (Kreis 9) / Altstetten	47.38946	8.48533	CH	ZH
+Stadt Winterthur (Kreis 1)	47.49494	8.71954	CH	ZH
+Zürich (Kreis 12)	47.40372	8.57608	CH	ZH
+Seen (Kreis 3)	47.47646	8.76996	CH	ZH
+Zürich (Kreis 3)	47.35785	8.50296	CH	ZH
+Zürich (Kreis 11)	47.42326	8.52166	CH	ZH
+Zürich (Kreis 9)	47.38245	8.47993	CH	ZH
+Oberwinterthur (Kreis 2)	47.51692	8.76863	CH	ZH
+Zürich (Kreis 10)	47.40773	8.5005	CH	ZH
+Zürich (Kreis 2)	47.33756	8.5211	CH	ZH
+Zürich (Kreis 8)	47.3548	8.56097	CH	ZH
+Zürich (Kreis 7)	47.37328	8.58038	CH	ZH
+Zürich (Kreis 6)	47.39223	8.54381	CH	ZH
+Waldshut-Tiengen	47.62323	8.21717	DE	01
+Tuttlingen	47.98464	8.8177	DE	01
+Singen	47.75935	8.8403	DE	01
+Radolfzell am Bodensee	47.74194	8.97098	DE	01
+Donaueschingen	47.95514	8.49707	DE	01

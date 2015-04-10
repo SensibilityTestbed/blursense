@@ -1,0 +1,9 @@
+Vendôme	47.8	1.06667	FR	A3
+Saran	47.95013	1.87601	FR	A3
+Saint-Jean-de-la-Ruelle	47.91127	1.86483	FR	A3
+Saint-Jean-de-Braye	47.91303	1.97705	FR	A3
+Romorantin-Lanthenay	47.36667	1.75	FR	A3
+Orléans	47.90289	1.90389	FR	A3
+Olivet	47.86219	1.8991	FR	A3
+Fleury-les-Aubrais	47.93328	1.91811	FR	A3
+Blois	47.58333	1.33333	FR	A3

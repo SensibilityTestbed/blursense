@@ -1,0 +1,8 @@
+São Francisco do Sul	-26.24333	-48.63806	BR	26
+Penha	-26.76944	-48.64583	BR	26
+Navegantes	-26.89889	-48.65417	BR	26
+Joinville	-26.30444	-48.84556	BR	26
+Itajaí	-26.90778	-48.66194	BR	26
+Gaspar	-26.93139	-48.95889	BR	26
+Barra Velha	-26.63222	-48.68472	BR	26
+Balneário Camboriú	-26.99056	-48.63472	BR	26

@@ -1,0 +1,3 @@
+Courtenay	49.68657	-124.9936	CA	02
+Parksville	49.31947	-124.31575	CA	02
+Port Alberni	49.24133	-124.8028	CA	02

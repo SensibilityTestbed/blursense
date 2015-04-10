@@ -1,0 +1,3 @@
+Nanchang	28.68333	115.88333	CN	03
+Jianguang	28.19377	115.7836	CN	03
+Changleng	28.7	115.81667	CN	03

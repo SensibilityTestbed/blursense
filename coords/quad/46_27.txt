@@ -1,0 +1,3 @@
+Târgu Secuiesc	46	26.13333	RO	15
+Mizil	45.01667	26.45	RO	30
+Buzău	45.15	26.83333	RO	11

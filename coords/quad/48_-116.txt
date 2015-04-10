@@ -1,0 +1,2 @@
+Coeur d'Alene	47.67768	-116.78047	US	ID
+Post Falls	47.71796	-116.95159	US	ID

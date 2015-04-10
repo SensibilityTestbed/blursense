@@ -1,0 +1,5 @@
+Puerto Barrios	15.72778	-88.59444	GT	09
+Morales	15.48333	-88.81667	GT	09
+Villanueva	15.31667	-88	HN	06
+San Pedro Sula	15.50417	-88.025	HN	06
+Cofradía	15.4	-88.15	HN	06

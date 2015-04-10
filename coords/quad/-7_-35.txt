@@ -1,0 +1,13 @@
+Timbaúba	-7.50528	-35.31833	BR	30
+Surubim	-7.83306	-35.75472	BR	30
+Nazaré da Mata	-7.74167	-35.22778	BR	30
+Mari	-7.06	-35.31944	BR	17
+Limoeiro	-7.87472	-35.45028	BR	30
+Lagoa do Itaenga	-7.93611	-35.29028	BR	30
+Itabaiana	-7.32861	-35.3325	BR	17
+Goiana	-7.56056	-35.0025	BR	30
+Esperança	-7.03306	-35.85722	BR	17
+Condado	-7.58583	-35.10583	BR	30
+Carpina	-7.85083	-35.25472	BR	30
+Campina Grande	-7.23056	-35.88111	BR	17
+Alagoa Grande	-7.15833	-35.63	BR	17

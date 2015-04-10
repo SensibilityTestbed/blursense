@@ -1,0 +1,18 @@
+Raub	3.7899	101.857	MY	06
+Kuala Selangor	3.35	101.25	MY	12
+Batang Berjuntai	3.38333	101.41667	MY	12
+Batu Arang	3.31667	101.46667	MY	12
+Shah Alam	3.08507	101.53281	MY	12
+Klang	3.03333	101.45	MY	12
+Serendah	3.3646	101.6041	MY	12
+Rawang	3.3213	101.5767	MY	12
+Petaling Jaya	3.10726	101.60671	MY	12
+Kuala Lumpur	3.1412	101.68653	MY	14
+Ladang Seri Kundang	3.2856	101.519	MY	12
+Kuang	3.2594	101.5541	MY	12
+Kampung Tanjung Karang	3.4242	101.1849	MY	12
+Kampong Dungun	3.21667	101.31667	MY	07
+Kampung Baru Subang	3.15	101.53333	MY	12
+Kampong Baharu Balakong	3.03333	101.75	MY	12
+Bentong Town	3.52229	101.90866	MY	06
+Subang Jaya	3.04384	101.58062	MY	12

@@ -1,0 +1,5 @@
+La Jagua de Ibirico	9.56228	-73.33405	CO	10
+El Banco	9.00114	-73.97581	CO	38
+Curumaní	9.19992	-73.54274	CO	10
+Chiriguaná	9.36238	-73.60313	CO	10
+Chimichagua	9.25778	-73.81228	CO	10

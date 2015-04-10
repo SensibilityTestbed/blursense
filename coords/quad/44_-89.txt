@@ -1,0 +1,3 @@
+Madison	43.07305	-89.40123	US	WI
+Middleton	43.09722	-89.50429	US	WI
+Sun Prairie	43.1836	-89.21373	US	WI

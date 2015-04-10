@@ -1,0 +1,2 @@
+Poitiers	46.58333	0.33333	FR	B7
+Châtellerault	46.8	0.53333	FR	B7

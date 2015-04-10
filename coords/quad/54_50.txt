@@ -1,0 +1,3 @@
+Zhigulevsk	53.39972	49.49528	RU	65
+Tol’yatti	53.5303	49.3461	RU	65
+Novokuybyshevsk	53.0959	49.9462	RU	65

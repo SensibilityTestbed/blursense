@@ -1,0 +1,9 @@
+Villa Altagracia	18.67297	-70.17095	DO	33
+San José de Ocoa	18.54661	-70.50631	DO	36
+Constanza	18.90919	-70.74499	DO	30
+Bonao	18.93687	-70.40923	DO	31
+San Cristóbal	18.41667	-70.1	DO	33
+Baní	18.27964	-70.33185	DO	35
+Bajos de Haina	18.41538	-70.03317	DO	33
+Azua	18.45319	-70.7349	DO	01
+Santo Domingo Oeste	18.5	-70	DO	37

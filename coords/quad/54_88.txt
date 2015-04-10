@@ -1,0 +1,4 @@
+Osinniki	53.6239	87.3598	RU	29
+Novokuznetsk	53.7557	87.1099	RU	29
+Myski	53.709	87.8014	RU	29
+Kaltan	53.5347	87.2457	RU	29

@@ -1,0 +1,6 @@
+Stavropol’	45.0428	41.9734	RU	70
+Novokubansk	45.117	41.0267	RU	38
+Novoaleksandrovsk	45.4948	41.22075	RU	70
+Krasnogvardeyskoye	45.84604	41.51885	RU	70
+Izobil’nyy	45.37092	41.70839	RU	70
+Donskoye	45.45518	41.97411	RU	70

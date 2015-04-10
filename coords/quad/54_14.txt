@@ -1,0 +1,5 @@
+Templin	53.11865	13.5022	DE	11
+Prenzlau	53.31625	13.86261	DE	11
+Neustrelitz	53.3613	13.07292	DE	12
+Neubrandenburg	53.56414	13.27532	DE	12
+Angermünde	53.01499	13.99924	DE	11

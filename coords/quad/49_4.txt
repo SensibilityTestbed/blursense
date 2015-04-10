@@ -1,0 +1,2 @@
+Sens	48.2	3.28333	FR	A1
+Coulommiers	48.81451	3.08498	FR	A8

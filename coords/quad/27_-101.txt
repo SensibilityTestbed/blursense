@@ -1,0 +1,3 @@
+Ciudad Frontera	26.92814	-101.45212	MX	07
+Monclova	26.90687	-101.42056	MX	07
+Castaños	26.78932	-101.43211	MX	07

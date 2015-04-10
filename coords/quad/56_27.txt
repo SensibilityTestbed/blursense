@@ -1,0 +1,3 @@
+Pastavy	55.11676	26.83263	BY	07
+Visaginas	55.6	26.41667	LT	64
+Daugavpils	55.88333	26.53333	LV	07

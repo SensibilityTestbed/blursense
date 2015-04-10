@@ -1,0 +1,8 @@
+São Joaquim da Barra	-20.58139	-47.85472	BR	27
+Orlândia	-20.72028	-47.88667	BR	27
+Ituverava	-20.33944	-47.78056	BR	27
+Igarapava	-20.03833	-47.74694	BR	27
+Guará	-20.42833	-47.82417	BR	27
+Franca	-20.53861	-47.40083	BR	27
+Brodósqui	-20.99139	-47.65861	BR	27
+Batatais	-20.89111	-47.585	BR	27

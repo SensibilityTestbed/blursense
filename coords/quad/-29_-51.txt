@@ -1,0 +1,26 @@
+Teutônia	-29.44806	-51.80639	BR	23
+Taquari	-29.79972	-51.86444	BR	23
+Sapucaia	-29.83333	-51.15	BR	23
+Sapiranga	-29.63806	-51.00694	BR	23
+São Sebastião do Caí	-29.58667	-51.37556	BR	23
+São Leopoldo	-29.76028	-51.14722	BR	23
+São Jerônimo	-29.95917	-51.72222	BR	23
+Portão	-29.70167	-51.24194	BR	23
+Novo Hamburgo	-29.67833	-51.13056	BR	23
+Nova Petrópolis	-29.37639	-51.11444	BR	23
+Montenegro	-29.68861	-51.46111	BR	23
+Lajeado	-29.46694	-51.96139	BR	23
+Ivoti	-29.59111	-51.16056	BR	23
+Garibaldi	-29.25611	-51.53361	BR	23
+Flores da Cunha	-29.02889	-51.18167	BR	23
+Farroupilha	-29.225	-51.34778	BR	23
+Esteio	-29.86139	-51.17917	BR	23
+Estância Velha	-29.64833	-51.17389	BR	23
+Encantado	-29.23611	-51.86972	BR	23
+Charqueadas	-29.95472	-51.62528	BR	23
+Caxias do Sul	-29.16806	-51.17944	BR	23
+Carlos Barbosa	-29.2975	-51.50361	BR	23
+Canoas	-29.91778	-51.18361	BR	23
+Cachoeirinha	-29.95111	-51.09389	BR	23
+Bento Gonçalves	-29.17139	-51.51917	BR	23
+Arroio do Meio	-29.40111	-51.945	BR	23

@@ -1,0 +1,5 @@
+Nsunga	-1.14389	31.39472	TZ	19
+Nshamba	-1.79833	31.55111	TZ	19
+Katerero	-1.4	31.73333	TZ	19
+Kamachumu	-1.61861	31.62	TZ	19
+Bukoba	-1.33167	31.81222	TZ	19

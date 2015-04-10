@@ -1,0 +1,3 @@
+Montego Bay	18.47116	-77.91883	JM	12
+Mandeville	18.04168	-77.50714	JM	04
+Linstead	18.13683	-77.03171	JM	10

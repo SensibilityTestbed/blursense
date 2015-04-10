@@ -1,0 +1,5 @@
+Trinidad	21.80194	-79.98417	CU	14
+Sancti Spíritus	21.92972	-79.4425	CU	14
+La Sierpe	21.75722	-79.24306	CU	14
+Jatibonico	21.941	-79.17484	CU	14
+Condado	21.87667	-79.84028	CU	14

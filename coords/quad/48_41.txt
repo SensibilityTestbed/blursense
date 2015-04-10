@@ -1,0 +1,5 @@
+Shakhty	47.70911	40.21443	RU	61
+Semikarakorsk	47.51943	40.8112	RU	61
+Novocherkassk	47.42018	40.09132	RU	61
+Krasnyy Sulin	47.89221	40.07037	RU	61
+Bagayevskaya	47.32411	40.38791	RU	61

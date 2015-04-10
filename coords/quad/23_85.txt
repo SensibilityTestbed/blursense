@@ -1,0 +1,4 @@
+Sundargarh	22.11667	84.03333	IN	21
+Simdega	22.61523	84.50208	IN	38
+Jashpurnagar	22.88772	84.13925	IN	37
+Birmitrapur	22.4	84.76667	IN	21

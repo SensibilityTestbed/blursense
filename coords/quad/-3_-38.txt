@@ -1,0 +1,9 @@
+São Gonçalo do Amarante	-3.60722	-38.96833	BR	06
+Pacatuba	-3.98417	-38.62028	BR	06
+Maracanaú	-3.87667	-38.62556	BR	06
+Itaitinga	-3.96944	-38.52806	BR	06
+Fortaleza	-3.71722	-38.54306	BR	06
+Eusébio	-3.89	-38.45056	BR	06
+Caucaia	-3.73611	-38.65306	BR	06
+Aquiraz	-3.90139	-38.39111	BR	06
+Cambebba	-3.62092	-38.82913	BR	06

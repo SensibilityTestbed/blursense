@@ -1,0 +1,12 @@
+Santiago de las Vegas	22.97	-82.38694	CU	02
+San José de las Lajas	22.96139	-82.15111	CU	MA
+San Antonio de los Baños	22.89111	-82.49917	CU	AR
+Mariel	22.9875	-82.75361	CU	AR
+La Salud	22.86991	-82.42193	CU	MA
+Güira de Melena	22.79274	-82.50823	CU	AR
+Güines	22.83611	-82.02806	CU	11
+Guanajay	22.92639	-82.6875	CU	AR
+Bejucal	22.92861	-82.38861	CU	MA
+Bauta	22.98278	-82.54639	CU	AR
+Artemisa	22.81306	-82.76194	CU	AR
+Alquízar	22.80583	-82.58417	CU	AR

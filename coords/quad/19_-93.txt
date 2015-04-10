@@ -1,0 +1,5 @@
+Paraiso	18.40116	-93.21406	MX	27
+Jalpa de Méndez	18.17633	-93.063	MX	27
+Cunduacán	18.06557	-93.17302	MX	27
+Comalcalco	18.26316	-93.22397	MX	27
+Cárdenas	18.00135	-93.37559	MX	27

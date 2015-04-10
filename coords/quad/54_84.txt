@@ -1,0 +1,5 @@
+Yuzhnyy	53.25417	83.69361	RU	04
+Tal’menka	53.8183	83.5677	RU	04
+Novosilikatnyy	53.30972	83.62389	RU	04
+Novoaltaysk	53.3917	83.9363	RU	04
+Barnaul	53.36056	83.76361	RU	04

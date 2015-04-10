@@ -1,0 +1,45 @@
+Winnenden	48.87563	9.39819	DE	01
+Wendlingen am Neckar	48.67124	9.37632	DE	01
+Weinstadt-Endersbach	48.81311	9.36387	DE	01
+Waiblingen	48.83241	9.31641	DE	01
+Ulm	48.39841	9.99155	DE	01
+Tübingen	48.52266	9.05222	DE	01
+Stuttgart	48.78232	9.17702	DE	01
+Sindelfingen	48.7	9.01667	DE	01
+Sigmaringen	48.08829	9.23033	DE	01
+Schwäbisch Gmünd	48.79947	9.79809	DE	01
+Schorndorf	48.80537	9.52721	DE	01
+Saulgau	48.01676	9.50064	DE	01
+Reutlingen	48.49144	9.20427	DE	01
+Pfullingen	48.46458	9.22796	DE	01
+Nürtingen	48.62565	9.34203	DE	01
+Stuttgart Mühlhausen	48.84232	9.23028	DE	01
+Mössingen	48.40567	9.05419	DE	01
+Metzingen	48.53695	9.2833	DE	01
+Marbach am Neckar	48.93964	9.25995	DE	01
+Ludwigsburg	48.89731	9.19161	DE	01
+Leonberg	48.8	9.01667	DE	01
+Leinfelden-Echterdingen	48.69406	9.16809	DE	01
+Laupheim	48.22786	9.87874	DE	01
+Kornwestheim	48.86158	9.18569	DE	01
+Korntal	48.83218	9.1214	DE	01
+Kirchheim unter Teck	48.64683	9.45378	DE	01
+Göppingen	48.70354	9.65209	DE	01
+Gerlingen	48.79954	9.06316	DE	01
+Geislingen an der Steige	48.62423	9.82736	DE	01
+Freiberg am Neckar	48.93196	9.2024	DE	01
+Stuttgart Feuerbach	48.80867	9.15719	DE	01
+Fellbach	48.80912	9.27697	DE	01
+Esslingen	48.73961	9.30473	DE	01
+Eislingen	48.69515	9.70676	DE	01
+Ehingen	48.28259	9.72749	DE	01
+Ebersbach an der Fils	48.716	9.5236	DE	01
+Ditzingen	48.82672	9.06703	DE	01
+Böblingen	48.68212	9.01171	DE	01
+Bietigheim-Bissingen	48.94407	9.11755	DE	01
+Biberach an der Riß	48.09345	9.79053	DE	01
+Backnang	48.94743	9.43718	DE	01
+Albstadt	48.21644	9.02596	DE	01
+Filderstadt	48.65698	9.22049	DE	01
+Ostfildern	48.72704	9.24954	DE	01
+Stuttgart-Ost	48.78363	9.21032	DE	01

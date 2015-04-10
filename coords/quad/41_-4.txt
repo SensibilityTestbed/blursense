@@ -1,0 +1,7 @@
+Villanueva de la Cañada	40.44689	-4.00428	ES	29
+Segovia	40.94808	-4.11839	ES	55
+San Lorenzo de El Escorial	40.59144	-4.14738	ES	29
+Navalcarnero	40.28908	-4.01197	ES	29
+Galapagar	40.5783	-4.00426	ES	29
+Collado-Villalba	40.63506	-4.00486	ES	29
+Ávila	40.65724	-4.69951	ES	55

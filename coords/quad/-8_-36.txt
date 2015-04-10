@@ -1,0 +1,6 @@
+Toritama	-8.00667	-36.05667	BR	30
+Pesqueira	-8.35778	-36.69639	BR	30
+Lajedo	-8.66361	-36.32	BR	30
+Garanhuns	-8.88202	-36.50216	BR	30
+Brejo da Madre de Deus	-8.14583	-36.37111	BR	30
+Belo Jardim	-8.33556	-36.42417	BR	30

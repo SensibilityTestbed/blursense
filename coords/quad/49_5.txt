@@ -1,0 +1,4 @@
+Vitry-le-François	48.73333	4.58333	FR	A4
+Troyes	48.3	4.08333	FR	A4
+Saint-Dizier	48.63333	4.95	FR	A4
+Châlons-en-Champagne	48.95393	4.36724	FR	A4

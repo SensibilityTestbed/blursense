@@ -1,0 +1,5 @@
+Sucre	-1.27974	-80.41885	EC	14
+Portoviejo	-1.05458	-80.45445	EC	14
+Pedro Carbo	-1.81563	-80.23309	EC	10
+Montecristi	-1.04576	-80.65889	EC	14
+Jipijapa	-1.34872	-80.57875	EC	14

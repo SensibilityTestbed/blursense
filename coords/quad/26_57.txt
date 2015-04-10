@@ -1,0 +1,4 @@
+Khawr Fakkān	25.33132	56.34199	AE	06
+Dibba Al-Fujairah	25.59246	56.26176	AE	04
+Dibba Al-Hisn	25.61955	56.27291	AE	04
+Al Fujayrah	25.11641	56.34141	AE	04

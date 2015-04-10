@@ -1,0 +1,5 @@
+Kiskunhalas	46.43402	19.48479	HU	01
+Kiskunfélegyháza	46.71213	19.84458	HU	01
+Kiskőrös	46.62139	19.28528	HU	01
+Kecskemét	46.90618	19.69128	HU	01
+Subotica	46.1	19.66667	RS	VO

@@ -1,0 +1,3 @@
+Laurinburg	34.77405	-79.46282	US	NC
+Lumberton	34.61834	-79.01045	US	NC
+Florence	34.19543	-79.76256	US	SC

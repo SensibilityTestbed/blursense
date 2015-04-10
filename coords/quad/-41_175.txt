@@ -1,0 +1,3 @@
+Wellington	-41.28664	174.77557	NZ	G2
+Porirua	-41.13333	174.85	NZ	G2
+Lower Hutt	-41.21667	174.91667	NZ	G2

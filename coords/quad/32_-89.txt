@@ -1,0 +1,2 @@
+Hattiesburg	31.32712	-89.29034	US	MS
+Laurel	31.69405	-89.13061	US	MS

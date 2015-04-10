@@ -1,0 +1,5 @@
+Casas Adobes	32.32341	-110.9951	US	AZ
+Catalina Foothills	32.29785	-110.9187	US	AZ
+Oro Valley	32.39091	-110.96649	US	AZ
+Tanque Verde	32.25174	-110.73731	US	AZ
+Tucson	32.22174	-110.92648	US	AZ

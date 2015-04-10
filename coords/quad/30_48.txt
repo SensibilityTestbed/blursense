@@ -1,0 +1,5 @@
+Janūb as Surrah	29.26917	47.97806	KW	07
+Kuwait City	29.36972	47.97833	KW	02
+Al Jahrā’	29.3375	47.65806	KW	05
+Al Farwānīyah	29.2775	47.95861	KW	07
+Ar Rābiyah	29.295	47.93306	KW	02

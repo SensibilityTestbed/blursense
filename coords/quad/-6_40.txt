@@ -1,0 +1,4 @@
+Zanzibar	-6.16394	39.19793	TZ	25
+Sokoni	-6.43333	39.55	TZ	21
+Magomeni	-6.8	39.25	TZ	23
+Dar es Salaam	-6.82349	39.26951	TZ	23

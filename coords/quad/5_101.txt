@@ -1,0 +1,5 @@
+Simpang Empat	4.95	100.63333	MY	07
+Taiping	4.85	100.73333	MY	07
+Kuala Kangsar	4.76667	100.93333	MY	07
+Lumut	4.2323	100.6298	MY	07
+Pantai Remis	4.4557	100.6288	MY	07

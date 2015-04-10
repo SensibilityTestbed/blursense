@@ -1,0 +1,3 @@
+Yanaul	56.2751	54.9338	RU	08
+Neftekamsk	56.092	54.2661	RU	08
+Chaykovskiy	56.76864	54.11484	RU	90

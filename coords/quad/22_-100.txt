@@ -1,0 +1,5 @@
+Ciudad Fernández	21.94037	-100.0117	MX	24
+San Luis de la Paz	21.29861	-100.51639	MX	11
+San Luis de la Paz	21.29787	-100.51676	MX	12
+San José Iturbide	21.00153	-100.38416	MX	11
+Dolores Hidalgo Cuna de la Independencia Nacional	21.15611	-100.9325	MX	11

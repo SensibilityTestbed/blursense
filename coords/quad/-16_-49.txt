@@ -1,0 +1,9 @@
+Trindade	-16.64944	-49.48889	BR	29
+Senador Canedo	-16.70806	-49.09306	BR	29
+Nerópolis	-16.40639	-49.21861	BR	29
+Itaberaí	-16.02028	-49.81028	BR	29
+Inhumas	-16.35778	-49.49611	BR	29
+Goianira	-16.49611	-49.42639	BR	29
+Goiânia	-16.67861	-49.25389	BR	29
+Anicuns	-16.46111	-49.96167	BR	29
+Aparecida de Goiânia	-16.82333	-49.24389	BR	29

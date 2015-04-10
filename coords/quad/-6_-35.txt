@@ -1,0 +1,7 @@
+Solânea	-6.755	-35.54	BR	17
+São José de Mipibu	-6.07472	-35.23778	BR	22
+Nova Cruz	-6.47806	-35.43389	BR	22
+Mamanguape	-6.83861	-35.12611	BR	17
+Guarabira	-6.85472	-35.49	BR	17
+Canguaretama	-6.38	-35.12889	BR	22
+Belém	-6.69167	-35.53333	BR	17

@@ -1,0 +1,4 @@
+Zumpango del Río	17.65319	-99.52607	MX	12
+Tixtla de Guerrero	17.56732	-99.39799	MX	12
+Chilpancingo de los Bravos	17.5506	-99.50578	MX	12
+Chilapa de Alvarez	17.59459	-99.17639	MX	12

@@ -1,0 +1,7 @@
+Strunino	56.37328	38.58321	RU	83
+Sergiyev Posad	56.3	38.13333	RU	47
+Pereslavl’-Zalesskiy	56.73934	38.85626	RU	88
+Krasnoarmeysk	56.1	38.13333	RU	47
+Kirzhach	56.15273	38.85509	RU	83
+Karabanovo	56.31667	38.7	RU	83
+Aleksandrov	56.39516	38.71216	RU	83

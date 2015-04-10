@@ -1,0 +1,6 @@
+Barrie	44.40011	-79.66634	CA	08
+Bradford West Gwillimbury	44.11681	-79.61633	CA	08
+Keswick	44.25011	-79.46632	CA	08
+Midland	44.7501	-79.88296	CA	08
+Newmarket	44.05011	-79.46631	CA	08
+Orillia	44.60868	-79.42068	CA	08

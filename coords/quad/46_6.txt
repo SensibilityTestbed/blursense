@@ -1,0 +1,13 @@
+Voiron	45.36395	5.59209	FR	B9
+Villefontaine	45.6125	5.14558	FR	B9
+Saint-Martin-d’Hères	45.16528	5.76337	FR	B9
+Saint-Égrève	45.23333	5.68333	FR	B9
+Romans-sur-Isère	45.04639	5.0562	FR	B9
+Meylan	45.21988	5.79007	FR	B9
+Grenoble	45.16667	5.71667	FR	B9
+Fontaine	45.19839	5.68265	FR	B9
+Échirolles	45.1439	5.72883	FR	B9
+Chambéry	45.56667	5.93333	FR	B9
+Bourgoin	45.58333	5.28333	FR	B9
+Aix-les-Bains	45.68338	5.92241	FR	B9
+Bourgoin-Jallieu	45.58611	5.27361	FR	B9

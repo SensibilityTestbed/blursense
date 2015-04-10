@@ -1,0 +1,4 @@
+Svitlovods’k	49.04894	33.24106	UA	10
+Myrhorod	49.96854	33.60886	UA	18
+Kremenchuk	49.06802	33.42041	UA	18
+Komsomolsk	49.01018	33.63567	UA	18

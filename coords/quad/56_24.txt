@@ -1,0 +1,3 @@
+Šiauliai	55.93333	23.31667	LT	61
+Radviliskis	55.81667	23.53333	LT	61
+Kėdainiai	55.28833	23.97472	LT	57

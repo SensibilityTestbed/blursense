@@ -1,0 +1,4 @@
+Minatitlan	17.99925	-94.55441	MX	30
+Las Choapas	17.93333	-94.08333	MX	30
+Cosoleacaque	17.99794	-94.63542	MX	30
+Acayucan	17.94885	-94.91399	MX	30

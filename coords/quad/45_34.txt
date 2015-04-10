@@ -1,0 +1,3 @@
+Sevastopol	44.58883	33.5224	UA	20
+Balaklava	44.51428	33.60013	UA	20
+Bakhchysaray	44.75525	33.85782	UA	11

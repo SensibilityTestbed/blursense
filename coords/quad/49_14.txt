@@ -1,0 +1,3 @@
+Braunau am Inn	48.25628	13.04343	AT	04
+Vilshofen	48.62695	13.19222	DE	02
+Passau	48.5665	13.43122	DE	02

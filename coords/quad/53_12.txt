@@ -1,0 +1,9 @@
+Stendal	52.6069	11.85867	DE	14
+Schönebeck	52.01682	11.7307	DE	14
+Salzwedel	52.85435	11.1525	DE	14
+Oschersleben	52.03039	11.22898	DE	14
+Neue Neustadt	52.15	11.63333	DE	14
+Magdeburg	52.12773	11.62916	DE	14
+Helmstedt	52.2279	11.00985	DE	06
+Haldensleben I	52.28906	11.40982	DE	14
+Burg bei Magdeburg	52.27152	11.85493	DE	14

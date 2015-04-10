@@ -1,0 +1,3 @@
+Baytown	29.7355	-94.97743	US	TX
+Galveston	29.30135	-94.7977	US	TX
+Texas City	29.38385	-94.9027	US	TX

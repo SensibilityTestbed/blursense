@@ -1,0 +1,3 @@
+Verkhnyaya Salda	58.04874	60.55949	RU	71
+Nizhnyaya Salda	58.07756	60.7202	RU	71
+Krasnoural’sk	58.3638	60.0407	RU	71

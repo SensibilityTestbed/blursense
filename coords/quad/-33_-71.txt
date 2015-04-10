@@ -1,0 +1,8 @@
+Viña del Mar	-33.02457	-71.55183	CL	01
+Villa Alemana	-33.04222	-71.37333	CL	01
+Valparaíso	-33.03932	-71.62725	CL	01
+San Antonio	-33.59473	-71.60746	CL	01
+Quilpué	-33.04752	-71.44249	CL	01
+Melipilla	-33.68909	-71.21528	CL	12
+Limache	-33.01667	-71.26667	CL	01
+Cartagena	-33.55384	-71.60761	CL	01

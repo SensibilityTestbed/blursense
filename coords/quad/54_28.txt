@@ -1,0 +1,6 @@
+Slutsk	53.0274	27.5597	BY	05
+Novoye Medvezhino	53.88333	27.45	BY	04
+Minsk	53.9	27.56667	BY	04
+Kalodzishchy	53.944	27.7823	BY	05
+Dzyarzhynsk	53.6832	27.138	BY	05
+Malinovka	53.8579	27.4374	BY	04

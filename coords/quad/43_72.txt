@@ -1,0 +1,2 @@
+Taraz	42.9	71.36667	KZ	17
+Sarykemer	43	71.5	KZ	17

@@ -1,0 +1,12 @@
+Parit Raja	1.8681	103.1124	MY	01
+Pekan Nenas	1.51	103.5141	MY	01
+Pontian Kechil	1.4866	103.3896	MY	01
+Kampung Pasir Gudang Baru	1.4726	103.878	MY	01
+Kota Tinggi	1.7381	103.8999	MY	01
+Taman Senai	1.6006	103.6419	MY	01
+Kulai	1.6561	103.6032	MY	01
+Skudai	1.53741	103.65779	MY	01
+Johor Bahru	1.4655	103.7578	MY	01
+Ulu Tiram	1.6	103.81667	MY	01
+Kampung Simpang Renggam	1.8278	103.3	MY	01
+Singapore	1.28967	103.85007	SG	00

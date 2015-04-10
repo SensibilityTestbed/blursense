@@ -1,0 +1,7 @@
+Newtownards	54.59236	-5.69092	GB	NIR
+Newtownabbey	54.65983	-5.90858	GB	NIR
+Larne	54.85	-5.81667	GB	NIR
+Castlereagh	54.5735	-5.88472	GB	NIR
+Carrickfergus	54.7158	-5.8058	GB	NIR
+Belfast	54.58333	-5.93333	GB	NIR
+Bangor	54.65338	-5.66895	GB	NIR

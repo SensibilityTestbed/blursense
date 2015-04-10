@@ -1,0 +1,2 @@
+Oswego	43.45535	-76.5105	US	NY
+Syracuse	43.04812	-76.14742	US	NY

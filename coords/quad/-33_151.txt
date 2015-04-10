@@ -1,0 +1,8 @@
+Quakers Hill	-33.73333	150.88333	AU	02
+Liverpool	-33.9	150.93333	AU	02
+Katoomba	-33.71977	150.30739	AU	02
+Castle Hill	-33.73333	151	AU	02
+Blacktown	-33.76667	150.91667	AU	02
+Baulkham Hills	-33.75881	150.99292	AU	02
+City of Parramatta	-33.81667	151	AU	02
+Glenmore Park	-33.79068	150.6693	AU	02

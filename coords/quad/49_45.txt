@@ -1,0 +1,3 @@
+Volzhskiy	48.78583	44.77973	RU	84
+Volgograd	48.71939	44.50183	RU	84
+Gorodishche	48.80454	44.47439	RU	84

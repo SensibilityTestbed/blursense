@@ -1,0 +1,14 @@
+Villagrán	20.51452	-100.99745	MX	11
+Santa Rosa Jauregui	20.74122	-100.44843	MX	22
+San Miguel de Allende	20.91528	-100.74389	MX	11
+Salvatierra	20.21249	-100.87923	MX	11
+Santiago de Querétaro	20.58806	-100.38806	MX	22
+Santa Cruz de Juventino Rosas	20.64337	-100.99286	MX	11
+El Pueblito	20.53972	-100.44139	MX	22
+Cortazar	20.48008	-100.96067	MX	11
+Comonfort	20.72278	-100.75946	MX	11
+Celaya	20.52353	-100.8157	MX	11
+Apaseo el Grande	20.54495	-100.68462	MX	11
+Apaseo el Alto	20.45748	-100.6224	MX	11
+Acámbaro	20.03024	-100.72249	MX	11
+Venceremos	20.55083	-100.39806	MX	22

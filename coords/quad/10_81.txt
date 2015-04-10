@@ -1,0 +1,3 @@
+Valvedditturai	9.81667	80.16667	LK	38
+Point Pedro	9.81667	80.23333	LK	38
+Jaffna	9.66845	80.00742	LK	38

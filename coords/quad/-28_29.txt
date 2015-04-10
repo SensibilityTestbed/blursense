@@ -1,0 +1,4 @@
+Leribe	-28.87185	28.04501	LS	12
+Butha-Buthe	-28.76659	28.24937	LS	11
+Phuthaditjhaba	-28.52423	28.81582	ZA	03
+Bethlehem	-28.23078	28.30707	ZA	03

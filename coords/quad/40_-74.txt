@@ -1,0 +1,10 @@
+Atlantic City	39.36428	-74.42293	US	NJ
+Jackson	39.7765	-74.86238	US	NJ
+Lindenwold	39.82428	-74.99767	US	NJ
+Maple Shade	39.95261	-74.99239	US	NJ
+Mount Laurel	39.934	-74.891	US	NJ
+Ocean Acres	39.74345	-74.28098	US	NJ
+Pleasantville	39.38984	-74.52404	US	NJ
+Sicklerville	39.71734	-74.96933	US	NJ
+Toms River	39.95373	-74.19792	US	NJ
+Williamstown	39.68623	-74.99517	US	NJ

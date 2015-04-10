@@ -1,0 +1,3 @@
+The Valley	18.21704	-63.05783	AI	00
+Marigot	18.06667	-63.08333	MF	00
+Philipsburg	18.026	-63.04582	SX	

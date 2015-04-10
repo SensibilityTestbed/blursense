@@ -1,0 +1,3 @@
+Puertollano	38.68712	-4.10734	ES	54
+Pozoblanco	38.37906	-4.84827	ES	51
+Andújar	38.03922	-4.05077	ES	51

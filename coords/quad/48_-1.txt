@@ -1,0 +1,10 @@
+Vertou	47.16869	-1.46929	FR	B5
+Saint-Sébastien-sur-Loire	47.20768	-1.50332	FR	B5
+Saint-Herblain	47.21765	-1.64841	FR	B5
+Rezé	47.18144	-1.54965	FR	B5
+Orvault	47.27095	-1.6219	FR	B5
+Nantes	47.21725	-1.55336	FR	B5
+La Chapelle-sur-Erdre	47.29583	-1.55309	FR	B5
+Couëron	47.21508	-1.72171	FR	B5
+Carquefou	47.29821	-1.49024	FR	B5
+Bouguenais	47.17762	-1.62143	FR	B5

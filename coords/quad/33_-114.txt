@@ -1,0 +1,4 @@
+San Luis Río Colorado	32.45612	-114.77186	MX	26
+Fortuna Foothills	32.65783	-114.41189	US	AZ
+San Luis	32.487	-114.78218	US	AZ
+Yuma	32.72532	-114.6244	US	AZ

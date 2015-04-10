@@ -1,0 +1,3 @@
+Dartmouth	44.67134	-63.57719	CA	07
+Halifax	44.64533	-63.57239	CA	07
+Cole Harbour	44.67244	-63.47506	CA	07

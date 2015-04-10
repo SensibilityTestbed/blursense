@@ -1,0 +1,17 @@
+Segamat	2.5148	102.8158	MY	01
+Tangkak	2.2673	102.5453	MY	01
+Muar	2.0442	102.5689	MY	01
+Bakri	2.0441	102.6527	MY	01
+Tampin	2.4701	102.2302	MY	05
+Alor Gajah	2.3804	102.2089	MY	04
+Kampung Ayer Keroh	2.2654	102.2801	MY	04
+Sungai Udang	2.269	102.1427	MY	04
+Malacca	2.196	102.2405	MY	04
+Bahau	2.8079	102.4049	MY	05
+Kuala Pilah	2.7389	102.2487	MY	05
+Klebang Besar	2.2186	102.1995	MY	04
+Kampong Masjid Tanah	2.35	102.11667	MY	04
+Kampung Bukit Baharu	2.2152	102.2851	MY	04
+Kampung Ayer Molek	2.2139	102.3278	MY	04
+Bukit Rambai	2.2594	102.1838	MY	04
+Batu Berendam	2.2487	102.246	MY	04

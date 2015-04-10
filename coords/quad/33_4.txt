@@ -1,0 +1,3 @@
+Metlili Chaamba	32.26667	3.63333	DZ	45
+Ghardaïa	32.49094	3.67347	DZ	45
+Berriane	32.82648	3.76689	DZ	45

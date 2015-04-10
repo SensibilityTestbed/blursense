@@ -1,0 +1,4 @@
+Theniet el Had	35.87111	2.02806	DZ	35
+Ksar el Boukhari	35.88889	2.74905	DZ	06
+Ksar Chellala	35.21222	2.31889	DZ	13
+Aïn Oussera	35.45139	2.90583	DZ	22

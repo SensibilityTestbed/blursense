@@ -1,0 +1,6 @@
+Victoriaville	46.05007	-71.96579	CA	10
+Québec	46.81228	-71.21454	CA	10
+Lévis	46.80326	-71.17793	CA	10
+L'Ancienne-Lorette	46.79392	-71.35191	CA	10
+Thetford-Mines	46.09371	-71.30539	CA	10
+Saint-Augustin-de-Desmaures	46.74064	-71.45131	CA	10

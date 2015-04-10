@@ -1,0 +1,3 @@
+Hunedoara	45.75	22.9	RO	21
+Deva	45.88333	22.9	RO	21
+Caransebeş	45.41667	22.21667	RO	12

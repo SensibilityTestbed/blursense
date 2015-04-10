@@ -1,0 +1,3 @@
+Taganrog	47.23617	38.89688	RU	61
+Ilovays’k	47.92498	38.20235	UA	05
+Amvrosiyivka	47.79348	38.47768	UA	05

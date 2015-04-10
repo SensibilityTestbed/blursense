@@ -1,0 +1,4 @@
+Nyachera	-0.9	30.41667	UG	W
+Ntungamo	-0.87944	30.26417	UG	W
+Mbarara	-0.60467	30.64851	UG	W
+Bwizibwera	-0.59167	30.62861	UG	W

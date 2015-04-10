@@ -1,0 +1,3 @@
+Xinglongshan	43.95611	125.46611	CN	05
+Shuangyang	43.52417	125.67361	CN	05
+Changchun	43.88	125.32278	CN	05

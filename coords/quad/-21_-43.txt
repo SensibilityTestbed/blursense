@@ -1,0 +1,5 @@
+São João Nepomuceno	-21.54	-43.01056	BR	15
+Santos Dumont	-21.45667	-43.5525	BR	15
+Juiz de Fora	-21.76417	-43.35028	BR	15
+Barroso	-21.18694	-43.97583	BR	15
+Barbacena	-21.22583	-43.77361	BR	15

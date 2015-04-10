@@ -1,0 +1,5 @@
+Forrest City	35.00815	-90.78983	US	AR
+Jonesboro	35.8423	-90.70428	US	AR
+West Memphis	35.14648	-90.18454	US	AR
+Memphis	35.14953	-90.04898	US	TN
+New South Memphis	35.08676	-90.05676	US	TN

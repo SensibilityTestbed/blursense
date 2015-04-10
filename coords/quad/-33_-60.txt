@@ -1,0 +1,5 @@
+Villa Constitución	-33.22778	-60.3297	AR	21
+San Nicolás de los Arroyos	-33.33578	-60.22523	AR	01
+Pergamino	-33.88995	-60.57357	AR	01
+Gobernador Gálvez	-33.03016	-60.64045	AR	21
+Arroyo Seco	-33.15489	-60.50863	AR	21

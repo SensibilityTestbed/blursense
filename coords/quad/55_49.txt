@@ -1,0 +1,3 @@
+Ulyanovsk	54.32824	48.38657	RU	81
+Novoul’yanovsk	54.14961	48.38907	RU	81
+Buinsk	54.97119	48.29184	RU	73

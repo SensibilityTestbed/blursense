@@ -1,0 +1,8 @@
+Ubatuba	-23.43389	-45.07111	BR	27
+Taubaté	-23.02639	-45.55528	BR	27
+São Sebastião	-23.76	-45.40972	BR	27
+São José dos Campos	-23.17944	-45.88694	BR	27
+Jacareí	-23.30528	-45.96583	BR	27
+Ilhabela	-23.77806	-45.35806	BR	27
+Caraguatatuba	-23.62028	-45.41306	BR	27
+Caçapava	-23.10083	-45.70694	BR	27

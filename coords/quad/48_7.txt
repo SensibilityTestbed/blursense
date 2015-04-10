@@ -1,0 +1,6 @@
+La Chaux-de-Fonds	47.09993	6.82586	CH	NE
+Vesoul	47.63333	6.16667	FR	A6
+Montbéliard	47.51667	6.8	FR	A6
+Besançon	47.24878	6.01815	FR	A6
+Belfort	47.63333	6.86667	FR	A6
+Audincourt	47.48327	6.85341	FR	A6

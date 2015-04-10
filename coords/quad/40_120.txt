@@ -1,0 +1,3 @@
+Qinhuangdao	39.93167	119.58833	CN	10
+Changli	39.70417	119.15056	CN	10
+Beidaihehaibin	39.82222	119.51806	CN	10

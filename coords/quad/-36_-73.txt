@@ -1,0 +1,3 @@
+Talcahuano	-36.72494	-73.11684	CL	06
+Concepción	-36.82699	-73.04977	CL	06
+Chiguayante	-36.9256	-73.02841	CL	06

@@ -1,0 +1,4 @@
+Mazara del Vallo	37.65418	12.59304	IT	15
+Marsala	37.86736	12.4983	IT	15
+Castelvetrano	37.68081	12.79194	IT	15
+Alcamo	37.99724	12.94323	IT	15

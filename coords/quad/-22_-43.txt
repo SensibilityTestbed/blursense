@@ -1,0 +1,22 @@
+Vassouras	-22.40389	-43.6625	BR	21
+Valença	-22.24556	-43.70028	BR	21
+Três Rios	-22.11667	-43.20917	BR	21
+Seropédica	-22.74389	-43.7075	BR	21
+São João de Meriti	-22.80389	-43.37222	BR	21
+Rio de Janeiro	-22.90278	-43.2075	BR	21
+Queimados	-22.71611	-43.55528	BR	21
+Piraí	-22.62917	-43.89806	BR	21
+Petrópolis	-22.505	-43.17861	BR	21
+Paty do Alferes	-22.42861	-43.41861	BR	21
+Paraíba do Sul	-22.15847	-43.29321	BR	21
+Paracambi	-22.60829	-43.7084	BR	21
+Nova Iguaçu	-22.75917	-43.45111	BR	21
+Niterói	-22.88333	-43.10361	BR	21
+Nilópolis	-22.8075	-43.41389	BR	21
+Miguel Pereira	-22.45389	-43.46889	BR	21
+Mendes	-22.52667	-43.73278	BR	21
+Japeri	-22.64306	-43.65333	BR	21
+Itaguaí	-22.85222	-43.77528	BR	21
+Duque de Caxias	-22.78556	-43.31167	BR	21
+Belford Roxo	-22.76417	-43.39944	BR	21
+Barra do Piraí	-22.47	-43.82556	BR	21

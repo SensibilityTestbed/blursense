@@ -1,0 +1,6 @@
+Târgu Neamţ	47.2	26.36667	RO	28
+Suceava	47.63333	26.25	RO	34
+Fălticeni	47.45	26.3	RO	34
+Dorohoi	47.95	26.4	RO	07
+Botoşani	47.75	26.66667	RO	07
+Paşcani	47.2469	26.72291	RO	23

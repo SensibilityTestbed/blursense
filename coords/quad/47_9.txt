@@ -1,0 +1,2 @@
+Lugano	46.01008	8.96004	CH	TI
+Domodossola	46.1165	8.29313	IT	12

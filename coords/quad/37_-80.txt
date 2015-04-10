@@ -1,0 +1,3 @@
+Clemmons	36.02153	-80.382	US	NC
+Kernersville	36.11986	-80.07365	US	NC
+Winston-Salem	36.09986	-80.24422	US	NC

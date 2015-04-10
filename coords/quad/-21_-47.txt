@@ -1,0 +1,16 @@
+Tambaú	-21.705	-47.27444	BR	27
+Sertãozinho	-21.13778	-47.99028	BR	27
+Serrana	-21.21139	-47.59556	BR	27
+Santa Rosa de Viterbo	-21.47278	-47.36306	BR	27
+Santa Rita do Passa Quatro	-21.71028	-47.47806	BR	27
+Santa Cruz das Palmeiras	-21.82694	-47.24861	BR	27
+Ribeirão Preto	-21.1775	-47.81028	BR	27
+Porto Ferreira	-21.85389	-47.47917	BR	27
+Pirassununga	-21.99611	-47.42583	BR	27
+Mococa	-21.46778	-47.00472	BR	27
+Jardinópolis	-21.01778	-47.76389	BR	27
+Ibaté	-21.95472	-47.99667	BR	27
+Descalvado	-21.90389	-47.61944	BR	27
+Cravinhos	-21.34028	-47.72944	BR	27
+Casa Branca	-21.77389	-47.08639	BR	27
+Cajuru	-21.27528	-47.30417	BR	27

@@ -1,0 +1,6 @@
+Tamuning-Tumon-Harmon Village	13.48773	144.78138	GU	TM
+Yigo Village	13.53605	144.88855	GU	YG
+Guam Government House	13.47191	144.74978	GU	AN
+Dededo Village	13.51777	144.8391	GU	DD
+Hagåtña	13.47567	144.74886	GU	AN
+Mangilao Village	13.44761	144.80109	GU	MA

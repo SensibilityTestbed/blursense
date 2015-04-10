@@ -1,0 +1,59 @@
+Viladecans	41.31405	2.01427	ES	56
+Vic	41.93012	2.25486	ES	56
+Tordera	41.69914	2.71888	ES	56
+Terrassa	41.56667	2.01667	ES	56
+Cerdanyola del Vallès	41.49109	2.14079	ES	56
+Sant Vicenç dels Horts	41.39317	2.00689	ES	56
+Sant Just Desvern	41.38602	2.07573	ES	56
+Santa Perpètua de Mogoda	41.53333	2.18333	ES	56
+Barberà del Vallès	41.5159	2.12457	ES	56
+Santa Coloma de Gramenet	41.45152	2.2081	ES	56
+Sant Quirze del Vallès	41.53333	2.08333	ES	56
+Vilassar de Mar	41.50961	2.39365	ES	56
+Sant Joan Despí	41.36667	2.06667	ES	56
+Sant Feliu de Llobregat	41.38333	2.05	ES	56
+Sant Cugat del Vallès	41.46667	2.08333	ES	56
+Sant Celoni	41.68333	2.48333	ES	56
+Sant Boi de Llobregat	41.34357	2.03659	ES	56
+Sant Andreu de Palomar	41.43541	2.18982	ES	56
+Sant Adrià de Besòs	41.43073	2.21855	ES	56
+Salt	41.97489	2.79281	ES	56
+Sabadell	41.54329	2.10942	ES	56
+Rubí	41.49226	2.03305	ES	56
+Ripollet	41.49686	2.15739	ES	56
+Premià de Mar	41.49206	2.36524	ES	56
+Pineda de Mar	41.62763	2.6889	ES	56
+Parets del Vallès	41.57481	2.23306	ES	56
+Montornès del Vallès	41.53333	2.26667	ES	56
+Montcada i Reixac	41.48333	2.18333	ES	56
+Mollet del Vallès	41.54026	2.21306	ES	56
+Molins de Rei	41.41667	2.01667	ES	56
+Mataró	41.54211	2.4445	ES	56
+El Masnou	41.47978	2.3188	ES	56
+Malgrat de Mar	41.64662	2.74135	ES	56
+Lloret de Mar	41.69993	2.84565	ES	56
+L'Hospitalet de Llobregat	41.35967	2.10028	ES	56
+Granollers	41.60797	2.28773	ES	56
+Gràcia	41.40237	2.15641	ES	56
+Girona	41.98311	2.82493	ES	56
+Gavà	41.30605	2.00123	ES	56
+Esplugues de Llobregat	41.37732	2.08809	ES	56
+El Prat de Llobregat	41.32784	2.09472	ES	56
+Cornellà de Llobregat	41.35	2.08333	ES	56
+Castellar del Vallès	41.61667	2.08333	ES	56
+Cardedeu	41.63976	2.35739	ES	56
+Canovelles	41.61667	2.28333	ES	56
+Calella	41.61802	2.66781	ES	56
+Caldes de Montbui	41.63333	2.16667	ES	56
+Blanes	41.67419	2.79036	ES	56
+Barcelona	41.38879	2.15899	ES	56
+Badalona	41.45004	2.24741	ES	56
+Nou Barris	41.44163	2.17727	ES	56
+Eixample	41.38896	2.16179	ES	56
+les Corts	41.38712	2.13007	ES	56
+Sarrià-Sant Gervasi	41.40104	2.1394	ES	56
+Horta-Guinardó	41.41849	2.1677	ES	56
+Sants-Montjuïc	41.37263	2.1546	ES	56
+Sant Martí	41.41814	2.19933	ES	56
+Ciutat Vella	41.38022	2.17319	ES	56
+Llefià	41.43806	2.2195	ES	56

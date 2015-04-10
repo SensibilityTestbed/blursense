@@ -1,0 +1,2 @@
+Galesburg	40.94782	-90.37124	US	IL
+Macomb	40.45921	-90.6718	US	IL

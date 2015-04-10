@@ -1,0 +1,10 @@
+Tinde	-3.88333	33.2	TZ	15
+Songwa	-3.51667	33.51667	TZ	15
+Somanda	-3.36667	33.95	TZ	31
+Shinyanga	-3.66393	33.42118	TZ	15
+Old Shinyanga	-3.55	33.4	TZ	15
+Nyalikungu	-3.18333	33.78333	TZ	31
+Mwadui	-3.55	33.6	TZ	15
+Malampaka	-3.13333	33.53333	TZ	31
+Lalago	-3.45	33.95	TZ	31
+Kishapu	-3.61667	33.86667	TZ	15

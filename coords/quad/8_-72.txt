@@ -1,0 +1,8 @@
+Villa del Rosario	7.83389	-72.47417	CO	21
+Pamplona	7.37565	-72.64795	CO	21
+Los Patios	7.83793	-72.5037	CO	21
+Cúcuta	7.89391	-72.50782	CO	21
+Táriba	7.8188	-72.22427	VE	20
+San Cristóbal	7.76694	-72.225	VE	20
+San Antonio del Táchira	7.81454	-72.4431	VE	20
+Rubio	7.70131	-72.35569	VE	20

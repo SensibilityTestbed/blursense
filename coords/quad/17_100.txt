@@ -1,0 +1,3 @@
+Tak	16.86968	99.12898	TH	08
+Khanu Woralaksaburi	16.0617	99.86058	TH	11
+Kamphaeng Phet	16.48344	99.52153	TH	11

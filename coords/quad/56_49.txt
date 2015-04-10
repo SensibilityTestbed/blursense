@@ -1,0 +1,3 @@
+Zelenodolsk	55.84376	48.51784	RU	73
+Volzhsk	55.86638	48.3594	RU	45
+Vasil’yevo	55.83595	48.6582	RU	73

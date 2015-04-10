@@ -1,0 +1,3 @@
+Zimovniki	47.1474	42.4721	RU	61
+Volgodonsk	47.51361	42.15139	RU	61
+Tsimlyansk	47.64611	42.10194	RU	61

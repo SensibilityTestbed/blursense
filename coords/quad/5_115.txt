@@ -1,0 +1,6 @@
+Tutong	4.8	114.65	BN	04
+Seria	4.60637	114.32476	BN	01
+Kuala Belait	4.58361	114.2312	BN	01
+Bandar Seri Begawan	4.94029	114.94806	BN	02
+Limbang	4.75	115	MY	11
+Miri	4.4148	114.0089	MY	11

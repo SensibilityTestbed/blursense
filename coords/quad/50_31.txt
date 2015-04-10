@@ -1,0 +1,4 @@
+Zvenyhorodka	49.07866	30.96755	UA	01
+Zhashkiv	49.24545	30.1102	UA	01
+Bohuslav	49.54939	30.8744	UA	13
+Bila Tserkva	49.80939	30.11209	UA	13

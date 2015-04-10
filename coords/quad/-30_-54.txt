@@ -1,0 +1,3 @@
+São Gabriel	-30.33639	-54.32	BR	23
+Rosário do Sul	-30.25833	-54.91417	BR	23
+Dom Pedrito	-30.98278	-54.67306	BR	23

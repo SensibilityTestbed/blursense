@@ -1,0 +1,5 @@
+Santo Tomé	-31.66274	-60.7653	AR	21
+Santa Fe de la Vera Cruz	-31.63333	-60.7	AR	21
+Paraná	-31.73197	-60.5238	AR	08
+Esperanza	-31.4488	-60.93173	AR	21
+Coronda	-31.97263	-60.91983	AR	21

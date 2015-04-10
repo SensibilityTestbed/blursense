@@ -1,0 +1,11 @@
+Bowling Green	36.99032	-86.4436	US	KY
+Brentwood	36.03312	-86.78278	US	TN
+Brentwood Estates	36.02506	-86.77917	US	TN
+Gallatin	36.38838	-86.44666	US	TN
+Goodlettsville	36.32311	-86.71333	US	TN
+Hendersonville	36.30477	-86.62	US	TN
+La Vergne	36.01562	-86.58194	US	TN
+Lebanon	36.20811	-86.2911	US	TN
+Mount Juliet	36.20005	-86.51861	US	TN
+Nashville	36.16589	-86.78444	US	TN
+Springfield	36.50921	-86.885	US	TN

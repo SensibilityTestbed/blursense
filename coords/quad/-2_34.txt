@@ -1,0 +1,8 @@
+Nyakabindi	-2.63333	33.98333	TZ	31
+Ngudu	-2.96667	33.33333	TZ	12
+Misungwi	-2.85	33.08333	TZ	12
+Maswa	-2.68333	33.98333	TZ	31
+Kihangara	-2.58333	33.35	TZ	12
+Kibara	-2.15	33.45	TZ	08
+Bunda	-2.05	33.86667	TZ	08
+Bariadi	-2.8	33.98333	TZ	31

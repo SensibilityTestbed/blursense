@@ -1,0 +1,13 @@
+Wernigerode	51.83652	10.78216	DE	14
+Sondershausen	51.36973	10.87011	DE	15
+Seesen	51.89095	10.17847	DE	06
+Nordhausen	51.5018	10.7957	DE	15
+Mühlhausen	51.20896	10.45275	DE	15
+Heilbad Heiligenstadt	51.37819	10.13744	DE	15
+Goslar	51.90425	10.42766	DE	06
+Eschwege	51.18386	10.05329	DE	05
+Duderstadt	51.51312	10.25951	DE	06
+Clausthal-Zellerfeld	51.80949	10.33821	DE	06
+Blankenburg	51.79025	10.95509	DE	14
+Bad Langensalza	51.10771	10.646	DE	15
+Bad Harzburg	51.88268	10.56157	DE	06

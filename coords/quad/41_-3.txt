@@ -1,0 +1,58 @@
+Villaviciosa de Odón	40.35692	-3.90011	ES	29
+Villaverde	40.35	-3.7	ES	29
+Villanueva del Pardillo	40.48333	-3.96667	ES	29
+Vicálvaro	40.4	-3.6	ES	29
+Valdemoro	40.19081	-3.67887	ES	29
+Vaciamadrid	40.32605	-3.51089	ES	29
+Torrelodones	40.57654	-3.92658	ES	29
+Torrejón de Ardoz	40.45535	-3.46973	ES	29
+Tetuán de las Victorias	40.46667	-3.71667	ES	29
+Tarancón	40.00851	-3.00731	ES	54
+Seseña	40.10473	-3.69793	ES	54
+San Sebastián de los Reyes	40.54433	-3.61588	ES	29
+San Martín de la Vega	40.20735	-3.57063	ES	29
+San Fernando de Henares	40.42386	-3.53261	ES	29
+Puente de Vallecas	40.39354	-3.662	ES	29
+Pozuelo de Alarcón	40.43293	-3.81338	ES	29
+Pinto	40.24147	-3.69999	ES	29
+Parla	40.23604	-3.76752	ES	29
+Móstoles	40.32234	-3.86496	ES	29
+Moratalaz	40.41667	-3.65	ES	29
+Mejorada del Campo	40.39283	-3.48194	ES	29
+Majadahonda	40.47353	-3.87182	ES	29
+Madrid	40.4165	-3.70256	ES	29
+Leganés	40.32718	-3.7635	ES	29
+Las Rozas de Madrid	40.49292	-3.87371	ES	29
+Illescas	40.12213	-3.84704	ES	54
+Humanes de Madrid	40.25038	-3.83062	ES	29
+Hortaleza	40.47444	-3.6411	ES	29
+Guadalajara	40.62862	-3.16185	ES	54
+Getafe	40.30571	-3.73295	ES	29
+Fuenlabrada	40.28419	-3.79415	ES	29
+Coslada	40.42378	-3.56129	ES	29
+Colmenar Viejo	40.65909	-3.76762	ES	29
+Ciudad Lineal	40.45455	-3.64808	ES	29
+Ciempozuelos	40.15913	-3.62103	ES	29
+Chamartín	40.46206	-3.6766	ES	29
+Boadilla del Monte	40.405	-3.87835	ES	29
+Barajas de Madrid	40.47366	-3.57777	ES	29
+Azuqueca de Henares	40.56688	-3.25992	ES	54
+Arganda	40.30076	-3.43722	ES	29
+Aranjuez	40.03108	-3.60246	ES	29
+Algete	40.59711	-3.49743	ES	29
+Alcorcón	40.34582	-3.82487	ES	29
+Alcobendas	40.54746	-3.64197	ES	29
+Alcalá de Henares	40.48205	-3.35996	ES	29
+Pinar de Chamartín	40.47903	-3.66836	ES	29
+Moncloa-Aravaca	40.43547	-3.7317	ES	29
+Arganzuela	40.40021	-3.69618	ES	29
+San Blas	40.43893	-3.61537	ES	29
+Latina	40.38897	-3.74569	ES	29
+Usera	40.38866	-3.70035	ES	29
+Salamanca	40.42972	-3.67975	ES	29
+Chamberí	40.43404	-3.70379	ES	29
+Carabanchel	40.39094	-3.7242	ES	29
+City Center	40.41831	-3.70275	ES	29
+Retiro	40.41317	-3.68307	ES	29
+Fuencarral-El Pardo	40.4984	-3.7314	ES	29
+Villa de Vallecas	40.36695	-3.60146	ES	29

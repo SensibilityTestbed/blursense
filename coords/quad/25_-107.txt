@@ -1,0 +1,5 @@
+Navolato	24.7661	-107.70225	MX	25
+Culiacán	24.79032	-107.38782	MX	25
+Villa de Costa Rica	24.59167	-107.38836	MX	25
+Villa Juárez	24.65869	-107.54059	MX	25
+Licenciado Benito Juárez (Campo Gobierno)	24.65667	-107.545	MX	25

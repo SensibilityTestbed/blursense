@@ -1,0 +1,10 @@
+Santa Lucía	-34.45333	-56.39056	UY	02
+San José de Mayo	-34.3375	-56.71361	UY	16
+Progreso	-34.665	-56.21944	UY	02
+Paso de Carrasco	-34.86028	-56.05222	UY	02
+Montevideo	-34.90328	-56.18816	UY	10
+Las Piedras	-34.72639	-56.22	UY	02
+La Paz	-34.76167	-56.22361	UY	02
+Florida	-34.09556	-56.21417	UY	07
+Delta del Tigre	-34.76488	-56.3645	UY	16
+Canelones	-34.52278	-56.27778	UY	02

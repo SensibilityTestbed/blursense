@@ -1,0 +1,4 @@
+Puerto Armuelles	8.27775	-82.86206	PA	02
+Pedregal	8.36667	-82.43333	PA	02
+La Concepción	8.51667	-82.61667	PA	02
+David	8.42729	-82.43085	PA	02

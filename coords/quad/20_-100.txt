@@ -1,0 +1,4 @@
+Valle de Bravo	19.19387	-100.13394	MX	15
+Maravatío	19.89167	-100.44229	MX	16
+Heróica Zitácuaro	19.43612	-100.35733	MX	16
+Ciudad Hidalgo	19.69229	-100.55739	MX	16

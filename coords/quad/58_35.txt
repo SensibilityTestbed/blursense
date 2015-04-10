@@ -1,0 +1,4 @@
+Udomlya	57.87944	34.9925	RU	77
+Vyshniy Volochëk	57.59125	34.56453	RU	77
+Torzhok	57.0436	34.96221	RU	77
+Bologoye	57.8799	34.10681	RU	77

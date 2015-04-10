@@ -1,0 +1,3 @@
+Quillota	-32.88341	-71.24882	CL	01
+La Ligua	-32.45242	-71.23106	CL	01
+Hacienda La Calera	-32.78333	-71.21667	CL	01

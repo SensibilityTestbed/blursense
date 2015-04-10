@@ -1,0 +1,7 @@
+Pallāvaram	12.96796	80.15025	IN	25
+Gūduvāncheri	12.84519	80.06055	IN	25
+Madipakkam	12.96226	80.19864	IN	25
+Perungudi	12.96095	80.24094	IN	25
+Madambakkam	12.8525	80.04667	IN	25
+Neelankarai	12.9495	80.2592	IN	25
+Injambakkam	12.9162	80.2488	IN	25

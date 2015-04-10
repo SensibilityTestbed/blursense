@@ -1,0 +1,4 @@
+Ressano Garcia	-25.44278	31.99528	MZ	04
+White River	-25.33177	31.01166	ZA	07
+Komatipoort	-25.43321	31.95478	ZA	07
+Barberton	-25.78842	31.05319	ZA	07

@@ -1,0 +1,7 @@
+Yaguachi Nuevo	-2.0968	-79.69485	EC	10
+Naranjito	-2.16671	-79.4654	EC	10
+Naranjal	-2.67364	-79.6183	EC	10
+La Troncal	-2.42355	-79.33977	EC	04
+Guayaquil	-2.20584	-79.90795	EC	10
+Eloy Alfaro	-2.17579	-79.85519	EC	10
+Cuenca	-2.90055	-79.00453	EC	02

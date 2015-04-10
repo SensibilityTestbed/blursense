@@ -1,0 +1,13 @@
+São José dos Pinhais	-25.5302	-49.20836	BR	18
+Rio Branco do Sul	-25.19	-49.31417	BR	18
+Quatro Barras	-25.36556	-49.07694	BR	18
+Piraquara	-25.44227	-49.06795	BR	18
+Lapa	-25.76972	-49.71583	BR	18
+Itaperuçu	-25.22	-49.34778	BR	18
+Curitiba	-25.42778	-49.27306	BR	18
+Colombo	-25.29167	-49.22417	BR	18
+Campo Largo	-25.45955	-49.53014	BR	18
+Campina Grande do Sul	-25.30556	-49.05528	BR	18
+Araucária	-25.59306	-49.41028	BR	18
+Almirante Tamandaré	-25.32472	-49.31	BR	18
+Pinhais	-25.44472	-49.1925	BR	18

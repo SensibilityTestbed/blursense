@@ -1,0 +1,3 @@
+Piranshahr	36.701	45.1413	IR	01
+Naqadeh	36.9553	45.388	IR	01
+Mahābād	36.7631	45.7222	IR	01

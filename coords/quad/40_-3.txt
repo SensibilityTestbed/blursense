@@ -1,0 +1,4 @@
+Tomelloso	39.15218	-3.02431	ES	54
+Daimiel	39.07004	-3.61498	ES	54
+Campo de Criptana	39.40463	-3.12492	ES	54
+Alcázar de San Juan	39.39011	-3.20827	ES	54

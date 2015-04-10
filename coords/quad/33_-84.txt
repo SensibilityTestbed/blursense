@@ -1,0 +1,2 @@
+Americus	32.07239	-84.23269	US	GA
+Columbus	32.46098	-84.98771	US	GA

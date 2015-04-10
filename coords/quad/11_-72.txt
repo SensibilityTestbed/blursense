@@ -1,0 +1,5 @@
+Villanueva	10.60528	-72.98	CO	17
+Fonseca	10.88606	-72.8487	CO	17
+Barrancas	10.95756	-72.78769	CO	17
+La Villa del Rosario	10.3258	-72.31343	VE	23
+Machiques	10.06077	-72.55212	VE	23

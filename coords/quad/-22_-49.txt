@@ -1,0 +1,5 @@
+Santa Cruz do Rio Pardo	-22.89889	-49.6325	BR	27
+Ourinhos	-22.97889	-49.87056	BR	27
+Marília	-22.21389	-49.94583	BR	27
+Garça	-22.21056	-49.65611	BR	27
+Bauru	-22.31472	-49.06056	BR	27

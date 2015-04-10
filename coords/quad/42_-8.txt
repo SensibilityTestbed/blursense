@@ -1,0 +1,31 @@
+Vilar de Andorinho	41.10751	-8.59632	PT	17
+Vila Nova de Gaia	41.13363	-8.61742	PT	17
+Vila do Conde	41.35481	-8.7434	PT	17
+Viana do Castelo	41.69323	-8.83287	PT	20
+Valongo	41.19501	-8.51027	PT	17
+Senhora da Hora	41.18641	-8.65172	PT	17
+São Pedro da Cova	41.15508	-8.50412	PT	17
+São Mamede de Infesta	41.20042	-8.60251	PT	17
+Rio Tinto	41.18259	-8.55811	PT	17
+Póvoa de Varzim	41.38344	-8.76364	PT	17
+Porto	41.14961	-8.61099	PT	17
+Ponte de Lima	41.76719	-8.58393	PT	20
+Pedroso	41.41103	-8.74897	PT	17
+Oliveira do Douro	41.12466	-8.58463	PT	17
+Matosinhos	41.18207	-8.68908	PT	17
+Maia	41.23574	-8.6199	PT	17
+Leça do Bailio	41.21457	-8.61348	PT	17
+Leça da Palmeira	41.191	-8.70027	PT	17
+Guimarães	41.44443	-8.29619	PT	04
+Gondomar	41.14454	-8.53223	PT	17
+Fânzeres	41.17087	-8.5257	PT	17
+Fafe	41.45423	-8.168	PT	04
+Esposende	41.5361	-8.78201	PT	04
+Esposende	41.53333	-8.78333	PT	04
+Ermesinde	41.22176	-8.55462	PT	17
+Canidelo	41.12402	-8.65104	PT	17
+Braga	41.55032	-8.42005	PT	04
+Bougado	41.33979	-8.5518	PT	17
+Barcelos	41.53876	-8.61505	PT	04
+Baguim do Monte	41.19392	-8.54133	PT	17
+Águas Santas	41.21061	-8.5866	PT	17

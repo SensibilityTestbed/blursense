@@ -1,0 +1,2 @@
+Pittsburg	37.41088	-94.70496	US	KS
+Joplin	37.08423	-94.51328	US	MO

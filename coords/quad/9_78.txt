@@ -1,0 +1,18 @@
+Viravanallūr	8.6961	77.51895	IN	25
+Vadakku Valliyūr	8.38095	77.6132	IN	25
+Tisaiyanvilai	8.33249	77.86586	IN	25
+Tirunelveli	8.72518	77.68452	IN	25
+Thenkasi	8.96003	77.31525	IN	25
+Sūrandai	8.97574	77.41923	IN	25
+Srivaikuntam	8.62931	77.91281	IN	25
+Padmanābhapuram	8.24462	77.32581	IN	25
+Neyyāttinkara	8.39854	77.08586	IN	13
+Nedumangād	8.60267	77.00139	IN	13
+Nāgercoil	8.17731	77.43437	IN	25
+Kuzhithurai	8.31792	77.19192	IN	25
+Colachel	8.17938	77.25818	IN	25
+Kanniyākumāri	8.09008	77.53841	IN	25
+Kallidaikurichchi	8.68301	77.46455	IN	25
+Kalakkādu	8.51228	77.5535	IN	25
+Ambasamudram	8.71068	77.4519	IN	25
+Ālangulam	8.86404	77.49937	IN	25

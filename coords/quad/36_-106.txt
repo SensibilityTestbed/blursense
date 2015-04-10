@@ -1,0 +1,4 @@
+Albuquerque	35.08449	-106.65114	US	NM
+Rio Rancho	35.23338	-106.66447	US	NM
+South Valley	35.01005	-106.67808	US	NM
+Enchanted Hills	35.33676	-106.59296	US	NM

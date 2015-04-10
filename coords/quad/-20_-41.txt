@@ -1,0 +1,6 @@
+Manhumirim	-20.35778	-41.95806	BR	15
+Lajinha	-20.15139	-41.62278	BR	15
+Guaçuí	-20.77556	-41.67944	BR	08
+Castelo	-20.60361	-41.18472	BR	08
+Cachoeiro de Itapemirim	-20.84889	-41.11278	BR	08
+Alegre	-20.76361	-41.53306	BR	08

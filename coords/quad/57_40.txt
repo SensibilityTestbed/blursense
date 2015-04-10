@@ -1,0 +1,3 @@
+Yur’yev-Pol’skiy	56.50339	39.67911	RU	83
+Lakinsk	56.01931	39.94848	RU	83
+Kol’chugino	56.29929	39.38304	RU	83

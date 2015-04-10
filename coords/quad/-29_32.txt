@@ -1,0 +1,3 @@
+Stanger	-29.32816	31.28954	ZA	02
+Durban	-29.8579	31.0292	ZA	02
+Ballitoville	-29.53897	31.21439	ZA	02

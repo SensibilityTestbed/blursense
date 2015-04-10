@@ -1,0 +1,3 @@
+Yarovoye	52.9273	78.58	RU	04
+Slavgorod	52.9978	78.6449	RU	04
+Kulunda	52.566	78.9385	RU	04

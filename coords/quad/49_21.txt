@@ -1,0 +1,6 @@
+Ózd	48.21667	20.3	HU	04
+Miskolc	48.1	20.78333	HU	04
+Kazincbarcika	48.25	20.63333	HU	04
+Spišská Nová Ves	48.94464	20.56153	SK	03
+Rožňava	48.66009	20.53758	SK	03
+Rimavská Sobota	48.38284	20.02239	SK	01

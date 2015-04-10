@@ -1,0 +1,10 @@
+Keelakarai	9.23183	78.78545	IN	25
+Tiruppuvanam	9.82556	78.25792	IN	25
+Tirupparangunram	9.88085	78.07252	IN	25
+Sivaganga	9.84701	78.48358	IN	25
+Ramanathapuram	9.37158	78.83077	IN	25
+Paramagudi	9.54633	78.5907	IN	25
+Manamadurai	9.67318	78.47096	IN	25
+Madurai	9.91735	78.11962	IN	25
+Devakottai	9.94704	78.8233	IN	25
+Aruppukkottai	9.50842	78.09449	IN	25

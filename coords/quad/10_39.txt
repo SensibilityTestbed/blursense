@@ -1,0 +1,4 @@
+Genet	9.06667	38.5	ET	51
+Gebre Guracha	9.8	38.4	ET	51
+Fichē	9.8	38.73333	ET	51
+Addis Ababa	9.02497	38.74689	ET	44

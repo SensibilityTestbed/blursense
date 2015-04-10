@@ -1,0 +1,5 @@
+Zacatecas	22.76843	-102.58141	MX	32
+Rincón de Romos	22.22819	-102.32216	MX	01
+Jerez de García Salinas	22.64862	-102.99034	MX	32
+Guadalupe	22.75305	-102.51822	MX	32
+Víctor Rosales	22.94889	-102.70222	MX	32

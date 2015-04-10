@@ -1,0 +1,4 @@
+Sidi Slimane	34.26479	-5.92598	MA	52
+Sidi Qacem	34.22149	-5.70775	MA	52
+Ouazzane	34.79711	-5.58224	MA	52
+Mechrá Belqsiri	34.57395	-5.95371	MA	52

@@ -1,0 +1,3 @@
+Brighton	43.14756	-77.55055	US	NY
+Irondequoit	43.2134	-77.57972	US	NY
+Rochester	43.15478	-77.61556	US	NY

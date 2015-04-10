@@ -1,0 +1,3 @@
+Gasteiz / Vitoria	42.84998	-2.67268	ES	59
+Miranda de Ebro	42.6865	-2.94695	ES	55
+Logroño	42.46667	-2.45	ES	27

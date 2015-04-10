@@ -1,0 +1,3 @@
+Salzburg	47.79941	13.04399	AT	05
+Hallein	47.68333	13.1	AT	05
+Ansfelden	47.965	13.04944	AT	05

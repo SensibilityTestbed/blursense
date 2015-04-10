@@ -1,0 +1,3 @@
+San Ramón de la Nueva Orán	-23.13705	-64.32426	AR	17
+Libertador General San Martín	-23.80644	-64.78757	AR	10
+Embarcación	-23.20898	-64.09605	AR	17

@@ -1,0 +1,3 @@
+Cedar City	37.67748	-113.06189	US	UT
+Saint George	37.10415	-113.58412	US	UT
+Washington	37.13054	-113.50829	US	UT

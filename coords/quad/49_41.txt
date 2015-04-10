@@ -1,0 +1,4 @@
+Zverevo	48.02108	40.12282	RU	61
+Millerovo	48.92265	40.39673	RU	61
+Kamensk-Shakhtinskiy	48.31779	40.25948	RU	61
+Belaya Kalitva	48.18585	40.77424	RU	61

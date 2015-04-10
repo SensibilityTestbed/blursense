@@ -1,0 +1,6 @@
+Volta Redonda	-22.52306	-44.10417	BR	21
+Resende	-22.46889	-44.44667	BR	21
+Pinheiral	-22.51278	-44.00056	BR	21
+Mangaratiba	-22.95972	-44.04056	BR	21
+Cruzeiro	-22.57316	-44.97108	BR	27
+Barra Mansa	-22.54417	-44.17139	BR	21

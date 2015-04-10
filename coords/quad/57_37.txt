@@ -1,0 +1,3 @@
+Solnechnogorsk	56.18333	36.98333	RU	47
+Konakovo	56.7	36.76667	RU	77
+Klin	56.33333	36.73333	RU	47

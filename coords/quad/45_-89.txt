@@ -1,0 +1,3 @@
+Stevens Point	44.52358	-89.57456	US	WI
+Wausau	44.95914	-89.63012	US	WI
+Wisconsin Rapids	44.38358	-89.81735	US	WI

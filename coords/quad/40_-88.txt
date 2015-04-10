@@ -1,0 +1,3 @@
+Charleston	39.49615	-88.17615	US	IL
+Decatur	39.84031	-88.9548	US	IL
+Mattoon	39.48309	-88.37283	US	IL

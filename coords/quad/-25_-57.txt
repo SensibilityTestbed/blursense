@@ -1,0 +1,14 @@
+Villa Hayes	-25.09306	-57.52361	PY	16
+Villa Elisa	-25.3676	-57.59274	PY	06
+San Lorenzo	-25.33968	-57.50879	PY	06
+San Antonio	-25.42126	-57.54725	PY	06
+Nemby	-25.3949	-57.53574	PY	06
+Limpio	-25.16611	-57.48562	PY	06
+Lambaré	-25.34682	-57.60647	PY	06
+Itauguá	-25.38333	-57.33333	PY	06
+Itá	-25.48333	-57.35	PY	06
+Fernando de la Mora	-25.3386	-57.52167	PY	06
+Colonia Mariano Roque Alonso	-25.16667	-57.55	PY	06
+Capiatá	-25.3552	-57.44545	PY	06
+Caacupé	-25.38575	-57.14217	PY	08
+Asunción	-25.30066	-57.63591	PY	22

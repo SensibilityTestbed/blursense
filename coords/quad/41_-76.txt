@@ -1,0 +1,3 @@
+Harrisburg	40.2737	-76.88442	US	PA
+Lancaster	40.03788	-76.30551	US	PA
+Lebanon	40.34093	-76.41135	US	PA

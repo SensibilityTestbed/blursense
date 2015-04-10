@@ -1,0 +1,11 @@
+Sanlúcar de Barrameda	36.77808	-6.3515	ES	51
+San Fernando	36.4759	-6.19817	ES	51
+Rota	36.62545	-6.3622	ES	51
+Puerto Real	36.52819	-6.19011	ES	51
+Lebrija	36.92077	-6.07529	ES	51
+Jerez de la Frontera	36.68645	-6.13606	ES	51
+El Puerto de Santa María	36.59389	-6.23298	ES	51
+Conil de la Frontera	36.27719	-6.0885	ES	51
+Chipiona	36.73663	-6.43703	ES	51
+Chiclana de la Frontera	36.41915	-6.14941	ES	51
+Cadiz	36.52978	-6.29465	ES	51

@@ -1,0 +1,5 @@
+Grand-Bassam	5.2118	-3.73884	CI	89
+Bonoua	5.27247	-3.59625	CI	89
+Bingerville	5.35581	-3.88537	CI	82
+Adiaké	5.28634	-3.30403	CI	89
+Aboisso	5.46779	-3.20711	CI	89

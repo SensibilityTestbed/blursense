@@ -1,0 +1,3 @@
+Coralville	41.6764	-91.58045	US	IA
+Iowa City	41.66113	-91.53017	US	IA
+Muscatine	41.42447	-91.04321	US	IA

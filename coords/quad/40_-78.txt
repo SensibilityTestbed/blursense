@@ -1,0 +1,2 @@
+Cumberland	39.65287	-78.76252	US	MD
+Winchester	39.18566	-78.16333	US	VA

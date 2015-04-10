@@ -1,0 +1,10 @@
+Tiszaújváros	47.93333	21.08333	HU	04
+Püspökladány	47.31667	21.11667	HU	10
+Nyíregyháza	47.95539	21.71671	HU	18
+Hajdúszoboszló	47.45	21.4	HU	10
+Hajdúnánás	47.85	21.43333	HU	10
+Hajdúböszörmény	47.66667	21.51667	HU	10
+Debrecen	47.53333	21.63333	HU	10
+Berettyóújfalu	47.21667	21.55	HU	10
+Balmazújváros	47.61667	21.35	HU	10
+Oradea	47.06667	21.93333	RO	05

@@ -1,0 +1,5 @@
+Shushenskoye	53.325	91.93556	RU	91
+Sayanogorsk	53.0875	91.39972	RU	31
+Minusinsk	53.71028	91.6875	RU	91
+Chernogorsk	53.82361	91.28417	RU	31
+Abakan	53.71556	91.42917	RU	31

@@ -1,0 +1,2 @@
+Bossier City	32.51599	-93.73212	US	LA
+Shreveport	32.52515	-93.75018	US	LA

@@ -1,0 +1,4 @@
+Kurunegala	7.4863	80.3623	LK	32
+Kandy	7.2955	80.6356	LK	29
+Gampola	7.1643	80.5696	LK	29
+Dambulla	7.86	80.65167	LK	29

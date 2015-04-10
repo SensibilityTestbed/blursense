@@ -1,0 +1,3 @@
+Uberlândia	-18.91861	-48.27722	BR	15
+Tupaciguara	-18.59222	-48.705	BR	15
+Araguari	-18.64722	-48.18722	BR	15

@@ -1,0 +1,5 @@
+San Vicente	-26.61667	-54.13333	AR	14
+San Pedro	-26.62207	-54.10842	AR	14
+Puerto Esperanza	-26.01517	-54.67306	AR	14
+Puerto Eldorado	-26.40843	-54.69463	AR	14
+Montecarlo	-26.5662	-54.757	AR	14

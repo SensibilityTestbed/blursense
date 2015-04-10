@@ -1,0 +1,3 @@
+Sedan	49.7	4.95	FR	A4
+Reims	49.25	4.03333	FR	A4
+Charleville-Mézières	49.76667	4.71667	FR	A4

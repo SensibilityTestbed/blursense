@@ -1,0 +1,5 @@
+Tourlaville	49.63829	-1.56639	FR	99
+Saint-Lô	49.11624	-1.09031	FR	99
+Octeville	49.62612	-1.64349	FR	99
+Équeurdreville-Hainneville	49.64868	-1.65306	FR	99
+Cherbourg-Octeville	49.63984	-1.61636	FR	99

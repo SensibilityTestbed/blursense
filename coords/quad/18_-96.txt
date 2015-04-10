@@ -1,0 +1,3 @@
+Santa Cruz Xoxocotlán	17.02958	-96.73518	MX	20
+Oaxaca de Juárez	17.06542	-96.72365	MX	20
+San Antonio de la Cal	17.02833	-96.70056	MX	20

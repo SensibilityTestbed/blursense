@@ -1,0 +1,5 @@
+Tambo Grande	-4.92694	-80.34472	PE	20
+Sullana	-4.90389	-80.68528	PE	20
+Querecotillo	-4.83778	-80.64556	PE	20
+Marcavelica	-4.87778	-80.70528	PE	20
+La Breita	-4.26054	-80.88807	PE	20

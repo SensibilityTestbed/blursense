@@ -1,0 +1,2 @@
+Tauranga	-37.68611	176.16667	NZ	E8
+Whakatane	-37.95855	176.98545	NZ	E8

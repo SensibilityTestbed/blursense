@@ -1,0 +1,8 @@
+Villers-lès-Nancy	48.67103	6.15083	FR	B2
+Vandœuvre-lès-Nancy	48.65	6.18333	FR	B2
+Saint-Dié-des-Vosges	48.28333	6.95	FR	B2
+Pont-à-Mousson	48.90786	6.0589	FR	B2
+Nancy	48.68439	6.18496	FR	B2
+Lunéville	48.6	6.5	FR	B2
+Laxou	48.68315	6.14799	FR	B2
+Épinal	48.18333	6.45	FR	B2

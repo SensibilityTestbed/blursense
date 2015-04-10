@@ -1,0 +1,3 @@
+Charleston	32.77657	-79.93092	US	SC
+Mount Pleasant	32.79407	-79.86259	US	SC
+North Charleston	32.85462	-79.97481	US	SC

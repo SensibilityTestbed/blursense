@@ -1,0 +1,6 @@
+Sainte-Suzanne	-20.90614	55.60886	RE	RE
+Sainte-Marie	-20.89684	55.5496	RE	RE
+Saint-Denis	-20.88231	55.4504	RE	RE
+Saint-André	-20.96333	55.65031	RE	RE
+Le Port	-20.9373	55.29189	RE	RE
+La Possession	-20.92892	55.33513	RE	RE

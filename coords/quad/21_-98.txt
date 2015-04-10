@@ -1,0 +1,8 @@
+Zacualtipán	20.65002	-98.65628	MX	13
+Tulancingo	20.08363	-98.36332	MX	13
+Santiago Tulantepec	20.0357	-98.35639	MX	13
+Pachuca de Soto	20.11697	-98.73329	MX	13
+Huauchinango	20.17376	-98.05491	MX	21
+Cuautepec de Hinojosa	20.03557	-98.31015	MX	13
+Actopan	20.26961	-98.94377	MX	13
+La Providencia Siglo XXI	20.06417	-98.71722	MX	13

@@ -1,0 +1,3 @@
+Sainte-Catherine	46.31836	-72.56632	CA	10
+Shawinigan	46.56675	-72.74913	CA	10
+Trois-Rivières	46.34515	-72.5477	CA	10

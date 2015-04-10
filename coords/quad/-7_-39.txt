@@ -1,0 +1,3 @@
+Juazeiro do Norte	-7.21306	-39.31528	BR	06
+Crato	-7.23417	-39.40944	BR	06
+Barbalha	-7.31111	-39.30417	BR	06

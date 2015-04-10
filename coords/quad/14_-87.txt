@@ -1,0 +1,3 @@
+San Lorenzo	13.42417	-87.44722	HN	17
+Ciudad Choluteca	13.30028	-87.19083	HN	02
+La Unión	13.33694	-87.84389	SV	07

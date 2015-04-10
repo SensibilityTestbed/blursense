@@ -1,0 +1,4 @@
+Stilfontein	-26.84493	26.76829	ZA	10
+Orkney	-26.98023	26.67272	ZA	10
+Lichtenburg	-26.152	26.15968	ZA	10
+Klerksdorp	-26.85213	26.66672	ZA	10

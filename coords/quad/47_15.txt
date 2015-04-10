@@ -1,0 +1,4 @@
+Wolfsberg	46.84056	14.84417	AT	02
+Klagenfurt am Wörthersee	46.62472	14.30528	AT	02
+Ljubljana	46.05108	14.50513	SI	61
+Kranj	46.23887	14.35561	SI	52

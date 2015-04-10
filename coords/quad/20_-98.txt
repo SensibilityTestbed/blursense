@@ -1,0 +1,52 @@
+San Miguel Xico Viejo	19.27022	-98.93588	MX	15
+Tlazcalancingo	19.02863	-98.28334	MX	21
+Tizayuca	19.83721	-98.97607	MX	17
+Texcoco de Mora	19.51194	-98.88293	MX	15
+Moyotzingo	19.24968	-98.40473	MX	21
+Santa María Chimalhuacán	19.42155	-98.95038	MX	15
+Tecamac de Felipe Villanueva	19.71288	-98.96895	MX	17
+Chiautempan	19.30633	-98.21773	MX	29
+San Salvador Atenco	19.5517	-98.91867	MX	15
+Coatlinchán	19.44999	-98.87274	MX	15
+San Martin Texmelucan de Labastida	19.28431	-98.43885	MX	21
+Teolocholco	19.24333	-98.19083	MX	29
+Teotihuacán de Arista	19.68782	-98.86208	MX	17
+San Francisco Acuautla	19.34317	-98.85557	MX	15
+Sanctorum	19.09917	-98.25417	MX	21
+Puebla	19.04334	-98.20193	MX	21
+Ozumba de Alzate	19.03689	-98.79516	MX	15
+Santiago Momoxpan	19.07361	-98.26694	MX	21
+Reyes Acozac	19.7755	-98.98079	MX	17
+Los Reyes La Paz	19.36357	-98.97707	MX	15
+Ixtapaluca	19.31556	-98.88284	MX	15
+Huejotzingo	19.15945	-98.40734	MX	21
+Cuautlancingo	19.08912	-98.27137	MX	21
+San Bernardino Contla	19.32932	-98.1664	MX	29
+Ciudad Sahagun	19.77557	-98.57471	MX	13
+Cholula	19.06406	-98.30352	MX	21
+Chignahuapan	19.83866	-98.03171	MX	21
+Chiconcuac	19.55939	-98.89884	MX	15
+San Vicente Chicoloapan	19.41687	-98.90202	MX	15
+Chiautla	19.54895	-98.88236	MX	15
+Chalco de Díaz Covarrubias	19.26174	-98.89775	MX	15
+Calpulalpan	19.58867	-98.56972	MX	13
+Apizaco	19.41333	-98.14358	MX	29
+Apan	19.71128	-98.45086	MX	13
+Amozoc de Mota	19.04611	-98.045	MX	21
+Amecameca de Juárez	19.12384	-98.76649	MX	15
+Zacatelco	19.21583	-98.23972	MX	29
+Tlaxcala de Xicohtencatl	19.31905	-98.19982	MX	29
+Papalotla	19.16861	-98.20389	MX	29
+Vicente Guerrero	19.12516	-98.16192	MX	29
+San Andrés Cholula	19.05	-98.3	MX	21
+San Buenaventura	19.3025	-98.86306	MX	15
+San Jerónimo Cuatro Vientos	19.29306	-98.84167	MX	15
+San Martín Azcatepec	19.68667	-98.97278	MX	15
+San Isidro	19.33972	-98.95056	MX	15
+Emiliano Zapata	19.34361	-98.97472	MX	15
+San Antonio Tecómitl	19.21778	-98.98806	MX	09
+Teotihuacán de Arista	19.68972	-98.86083	MX	15
+Don Antonio	19.87444	-98.93472	MX	13
+Casa Blanca	19.04222	-98.11889	MX	21
+San Rafael Tlanalapan	19.29167	-98.46806	MX	21
+Tecámac de Felipe Villanueva	19.71306	-98.96833	MX	15

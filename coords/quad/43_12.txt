@@ -1,0 +1,2 @@
+Grosseto	42.76871	11.10955	IT	16
+Civitavecchia	42.09325	11.79674	IT	07

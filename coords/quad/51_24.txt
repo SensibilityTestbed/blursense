@@ -1,0 +1,4 @@
+Zamość	50.72314	23.25196	PL	75
+Tomaszów Lubelski	50.44767	23.41616	PL	75
+Krasnystaw	50.98464	23.1742	PL	75
+Hrubieszów	50.80502	23.89251	PL	75

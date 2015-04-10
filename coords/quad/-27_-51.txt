@@ -1,0 +1,5 @@
+Videira	-27.00833	-51.15167	BR	26
+Joaçaba	-27.17806	-51.50472	BR	26
+Celso Ramos	-27.63444	-51.33639	BR	26
+Capinzal	-27.34361	-51.61194	BR	26
+Campos Novos	-27.40167	-51.225	BR	26

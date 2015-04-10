@@ -1,0 +1,4 @@
+Usevia	-7.1	31.23333	TZ	29
+Sumbawanga	-7.96667	31.61667	TZ	24
+Namanyere	-7.51667	31.05	TZ	24
+Chala	-7.58333	31.26667	TZ	24

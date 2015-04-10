@@ -1,0 +1,40 @@
+Vila-real	39.93333	-0.1	ES	60
+Valencia	39.46975	-0.37739	ES	60
+Torrent	39.43705	-0.46546	ES	60
+Tavernes de la Valldigna	39.06667	-0.26667	ES	60
+Sueca	39.2026	-0.31114	ES	60
+Silla	39.36667	-0.41667	ES	60
+Sagunto	39.68333	-0.26667	ES	60
+Ribarroja	39.55	-0.56667	ES	60
+Puçol	39.61667	-0.3	ES	60
+La Pobla de Vallbona	39.6	-0.55	ES	60
+Picassent	39.36667	-0.45	ES	60
+Paterna	39.5	-0.43333	ES	60
+Paiporta	39.43333	-0.41667	ES	60
+Onda	39.96667	-0.25	ES	60
+Moncada	39.54555	-0.39551	ES	60
+Mislata	39.47523	-0.41825	ES	60
+Massamagrell	39.56667	-0.33333	ES	60
+Manises	39.49139	-0.46349	ES	60
+Llíria	39.63333	-0.6	ES	60
+L'Eliana	39.56667	-0.53333	ES	60
+Cullera	39.16667	-0.25	ES	60
+Quart de Poblet	39.48139	-0.43937	ES	60
+Xirivella	39.46588	-0.42589	ES	60
+Catarroja	39.4	-0.4	ES	60
+Castelló de la Plana	39.98333	-0.03333	ES	60
+Carlet	39.23333	-0.51667	ES	60
+Carcaixent	39.13333	-0.45	ES	60
+Burriana	39.88901	-0.08499	ES	60
+Burjassot	39.51667	-0.41667	ES	60
+Bétera	39.58333	-0.45	ES	60
+Benetússer	39.41667	-0.4	ES	60
+Almassora	39.95	-0.05	ES	60
+Algemesí	39.18333	-0.43333	ES	60
+Alfafar	39.41667	-0.38333	ES	60
+Aldaia	39.46569	-0.46005	ES	60
+Alzira	39.15	-0.43333	ES	60
+Alboraya	39.5	-0.35	ES	60
+Albal	39.4	-0.41667	ES	60
+Alaquàs	39.45568	-0.461	ES	60
+Groa de Murviedro	39.64167	-0.23889	ES	60

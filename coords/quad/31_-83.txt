@@ -1,0 +1,2 @@
+Thomasville	30.83658	-83.97878	US	GA
+Valdosta	30.83334	-83.28032	US	GA

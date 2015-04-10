@@ -1,0 +1,6 @@
+Sueyoshichō-ninokata	31.65	131.01667	JP	18
+Shibushi	31.46667	131.105	JP	18
+Nichinan	31.6	131.36667	JP	25
+Miyazaki-shi	31.91111	131.42389	JP	25
+Miyakonojō	31.73333	131.06667	JP	25
+Kushima	31.48621	131.2421	JP	25

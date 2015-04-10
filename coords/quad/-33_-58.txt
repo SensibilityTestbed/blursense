@@ -1,0 +1,4 @@
+Gualeguaychú	-33.00937	-58.51722	AR	08
+Mercedes	-33.2524	-58.03047	UY	17
+Fray Bentos	-33.1325	-58.29556	UY	12
+Dolores	-33.53009	-58.21701	UY	17

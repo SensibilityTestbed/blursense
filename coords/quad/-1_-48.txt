@@ -1,0 +1,7 @@
+Moju	-1.88389	-48.76889	BR	16
+Igarapé Miri	-1.975	-48.95972	BR	16
+Benevides	-1.36139	-48.24472	BR	16
+Belém	-1.45583	-48.50444	BR	16
+Barcarena	-1.50583	-48.62583	BR	16
+Ananindeua	-1.36556	-48.37222	BR	16
+Abaetetuba	-1.71806	-48.8825	BR	16

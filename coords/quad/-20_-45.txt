@@ -1,0 +1,8 @@
+Santo Antônio do Monte	-20.08722	-45.29361	BR	15
+Piuí	-20.46528	-45.95806	BR	15
+Lagoa da Prata	-20.0225	-45.54361	BR	15
+Itapecerica	-20.4725	-45.12556	BR	15
+Formiga	-20.46444	-45.42639	BR	15
+Campo Belo	-20.89722	-45.27722	BR	15
+Bambuí	-20.00639	-45.97694	BR	15
+Arcos	-20.28194	-45.53944	BR	15

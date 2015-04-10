@@ -1,0 +1,5 @@
+Varaždin	46.30444	16.33778	HR	16
+Koprivnica	46.16278	16.8275	HR	06
+Čakovec	46.38444	16.43389	HR	09
+Zalaegerszeg	46.84	16.84389	HU	24
+Nagykanizsa	46.45347	16.99104	HU	24

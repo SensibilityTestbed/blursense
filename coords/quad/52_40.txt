@@ -1,0 +1,5 @@
+Voronezh	51.67204	39.1843	RU	86
+Semiluki	51.68525	39.02787	RU	86
+Pridonskoy	51.68406	39.0727	RU	86
+Novovoronezh	51.30719	39.21732	RU	86
+Novaya Usman’	51.64177	39.40863	RU	86

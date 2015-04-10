@@ -1,0 +1,3 @@
+St Austell	50.3425	-4.77442	GB	ENG
+Plymstock	50.35999	-4.09049	GB	ENG
+Plymouth	50.37153	-4.14305	GB	ENG

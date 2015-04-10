@@ -1,0 +1,4 @@
+Girón	7.0682	-73.16981	CO	26
+Floridablanca	7.06222	-73.08644	CO	26
+Bucaramanga	7.12539	-73.1198	CO	26
+Barrancabermeja	7.06528	-73.85472	CO	26

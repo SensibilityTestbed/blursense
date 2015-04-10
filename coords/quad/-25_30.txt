@@ -1,0 +1,3 @@
+Witbank	-25.87133	29.23323	ZA	07
+Siyabuswa	-25.11319	29.04454	ZA	07
+Middelburg	-25.77507	29.46482	ZA	07

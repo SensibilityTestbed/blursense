@@ -1,0 +1,5 @@
+Fürstenwalde	52.36067	14.06185	DE	11
+Frankfurt (Oder)	52.34714	14.55062	DE	11
+Eisenhüttenstadt	52.15	14.65	DE	11
+Słubice	52.35088	14.56065	PL	76
+Kostrzyn nad Odrą	52.58713	14.64953	PL	76

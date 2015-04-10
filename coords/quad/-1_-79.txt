@@ -1,0 +1,10 @@
+Vinces	-1.55611	-79.75191	EC	13
+Ventanas	-1.44158	-79.45943	EC	13
+Velasco Ibarra	-1.04376	-79.63837	EC	10
+Samborondón	-1.96276	-79.72402	EC	10
+Quevedo	-1.02863	-79.46352	EC	13
+Montalvo	-1.79008	-79.28759	EC	13
+Guaranda	-1.59263	-79.00098	EC	03
+El Triunfo	-1.93333	-79.96667	EC	10
+Balzar	-1.36501	-79.90494	EC	10
+Babahoyo	-1.80217	-79.53443	EC	13

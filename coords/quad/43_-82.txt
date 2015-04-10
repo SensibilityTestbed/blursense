@@ -1,0 +1,8 @@
+Sarnia	42.97866	-82.40407	CA	08
+Clinton	42.58698	-82.91992	US	MI
+Eastpointe	42.46837	-82.95547	US	MI
+Grosse Pointe Woods	42.44365	-82.90686	US	MI
+Mount Clemens	42.59726	-82.87798	US	MI
+Port Huron	42.97086	-82.42491	US	MI
+Roseville	42.49726	-82.93714	US	MI
+Saint Clair Shores	42.49698	-82.88881	US	MI

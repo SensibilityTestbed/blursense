@@ -1,0 +1,8 @@
+Stellenbosch	-33.93462	18.86676	ZA	11
+Noorder-Paarl	-33.70468	18.96552	ZA	11
+Malmesbury	-33.4608	18.72714	ZA	11
+Lansdowne	-33.98735	18.49746	ZA	11
+Kraaifontein	-33.84808	18.71723	ZA	11
+Cape Town	-33.92584	18.42322	ZA	11
+Atlantis	-33.56668	18.48335	ZA	11
+Rondebosch	-33.96333	18.47639	ZA	11

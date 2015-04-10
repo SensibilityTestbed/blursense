@@ -1,0 +1,2 @@
+Binghamton	42.09869	-75.91797	US	NY
+Johnson City	42.11563	-75.95881	US	NY

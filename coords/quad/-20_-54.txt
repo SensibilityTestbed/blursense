@@ -1,0 +1,3 @@
+Sidrolândia	-20.93194	-54.96139	BR	11
+Campo Verde	-20.41667	-54.06667	BR	11
+Campo Grande	-20.44278	-54.64639	BR	11

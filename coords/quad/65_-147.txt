@@ -1,0 +1,2 @@
+Fairbanks	64.83778	-147.71639	US	AK
+Badger	64.8	-147.53333	US	AK

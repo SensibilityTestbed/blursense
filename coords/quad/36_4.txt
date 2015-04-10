@@ -1,0 +1,3 @@
+Sidi Aïssa	35.88548	3.77236	DZ	27
+Birine	35.635	3.225	DZ	22
+‘Aïn el Hadjel	35.67003	3.88153	DZ	27

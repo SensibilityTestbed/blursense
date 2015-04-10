@@ -1,0 +1,5 @@
+Stara Zagora	42.43278	25.64194	BG	59
+Kazanlŭk	42.61667	25.4	BG	59
+Gabrovo	42.87472	25.33417	BG	41
+Dimitrovgrad	42.05	25.6	BG	43
+Chirpan	42.2	25.33333	BG	59

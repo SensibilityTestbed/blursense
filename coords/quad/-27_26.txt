@@ -1,0 +1,4 @@
+Wolmaransstad	-27.1974	25.98311	ZA	10
+Schweizer-Reneke	-27.18871	25.32931	ZA	10
+Christiana	-27.91402	25.16111	ZA	10
+Bloemhof	-27.64685	25.60697	ZA	10

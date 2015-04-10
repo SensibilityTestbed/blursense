@@ -1,0 +1,5 @@
+Mlalo	-4.93333	38.93333	TZ	18
+Mazinde	-4.8	38.21667	TZ	18
+Matui	-4.8	38.25	TZ	18
+Makuyuni	-4.73333	38.1	TZ	18
+Lushoto	-4.78333	38.28333	TZ	18

@@ -1,0 +1,6 @@
+Tours	47.38333	0.68333	FR	A3
+Saint-Pierre-des-Corps	47.38623	0.74849	FR	A3
+Saint-Cyr-sur-Loire	47.4	0.66667	FR	A3
+Saint-Avertin	47.36357	0.73993	FR	A3
+Le Mans	48	0.2	FR	B5
+Joué-lés-Tours	47.35223	0.66905	FR	A3

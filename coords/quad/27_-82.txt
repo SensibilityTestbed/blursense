@@ -1,0 +1,3 @@
+Port Charlotte	26.97617	-82.09064	US	FL
+Punta Gorda	26.92978	-82.04537	US	FL
+Punta Gorda Isles	26.91756	-82.07842	US	FL

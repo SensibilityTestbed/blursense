@@ -1,0 +1,3 @@
+Yanacancha	-10.24111	-76.64556	PE	10
+Chaupimarca	-10.40696	-76.46168	PE	19
+Cerro de Pasco	-10.66748	-76.25668	PE	19

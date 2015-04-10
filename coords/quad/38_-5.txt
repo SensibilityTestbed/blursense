@@ -1,0 +1,16 @@
+Utrera	37.18516	-5.78093	ES	51
+Sevilla	37.38283	-5.97317	ES	51
+Palma del Río	37.70024	-5.28121	ES	51
+Osuna	37.23765	-5.10747	ES	51
+Morón de la Frontera	37.12084	-5.45403	ES	51
+Marchena	37.329	-5.41681	ES	51
+Mairena del Alcor	37.37301	-5.74951	ES	51
+Los Palacios y Villafranca	37.16181	-5.92433	ES	51
+Lora del Río	37.65896	-5.52751	ES	51
+La Rinconada	37.48613	-5.98091	ES	51
+El Viso del Alcor	37.39106	-5.71993	ES	51
+El Arahal	37.26273	-5.5453	ES	51
+Écija	37.5422	-5.0826	ES	51
+Dos Hermanas	37.28287	-5.92088	ES	51
+Carmona	37.47125	-5.64608	ES	51
+Alcalá de Guadaira	37.33791	-5.83951	ES	51

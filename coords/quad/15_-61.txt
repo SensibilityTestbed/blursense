@@ -1,0 +1,3 @@
+Saint-Joseph	14.67099	-61.03905	MQ	MQ
+Le Lamentin	14.608	-61.00933	MQ	MQ
+Fort-de-France	14.60892	-61.07334	MQ	MQ

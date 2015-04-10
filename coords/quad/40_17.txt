@@ -1,0 +1,6 @@
+San Giovanni in Fiore	39.26291	16.69531	IT	03
+Rossano Stazione	39.60196	16.63475	IT	03
+Quattromiglia	39.34474	16.23802	IT	03
+Cosenza	39.30422	16.25201	IT	03
+Castrovillari	39.81949	16.21467	IT	03
+Corigliano Scalo	39.62713	16.51368	IT	03

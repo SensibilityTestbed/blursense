@@ -1,0 +1,2 @@
+Sungai Raya	0.7	108.9	ID	11
+Singkawang	0.90925	108.98463	ID	11

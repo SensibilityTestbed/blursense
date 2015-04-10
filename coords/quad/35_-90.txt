@@ -1,0 +1,3 @@
+Clarksdale	34.20011	-90.57093	US	MS
+Horn Lake	34.95537	-90.03481	US	MS
+Southaven	34.98898	-90.01259	US	MS

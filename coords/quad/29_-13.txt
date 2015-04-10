@@ -1,0 +1,5 @@
+Tías	28.96108	-13.64502	ES	53
+Puerto del Rosario	28.50038	-13.86272	ES	53
+La Oliva	28.61052	-13.92912	ES	53
+Arrecife	28.96302	-13.54769	ES	53
+Puerto del Carmen	28.92313	-13.66579	ES	53

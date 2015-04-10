@@ -1,0 +1,4 @@
+Ploemeur	47.73333	-3.43333	FR	A2
+Lorient	47.75	-3.36667	FR	A2
+Lanester	47.76132	-3.33965	FR	A2
+Concarneau	47.87502	-3.92245	FR	A2

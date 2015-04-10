@@ -1,0 +1,5 @@
+Souq Larb’a al Gharb	34.68664	-6.00272	MA	52
+Sidi Yahia el Gharb	34.30652	-6.30618	MA	52
+Sale	34.0531	-6.79846	MA	49
+Rabat	34.01325	-6.83255	MA	49
+Kenitra	34.26101	-6.5802	MA	52

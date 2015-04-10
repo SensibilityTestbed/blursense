@@ -1,0 +1,4 @@
+Tegucigalpa	14.0818	-87.20681	HN	08
+Siguatepeque	14.6	-87.83333	HN	04
+La Paz	14.31944	-87.67917	HN	12
+Comayagua	14.45139	-87.6375	HN	04

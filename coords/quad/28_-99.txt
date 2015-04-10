@@ -1,0 +1,2 @@
+Nuevo Laredo	27.47629	-99.51639	MX	28
+Laredo	27.50641	-99.50754	US	TX

@@ -1,0 +1,6 @@
+Tomaszów Mazowiecki	51.53131	20.00855	PL	74
+Skierniewice	51.95485	20.15837	PL	74
+Skarżysko-Kamienna	51.11311	20.87162	PL	84
+Rawa Mazowiecka	51.76437	20.25493	PL	74
+Opoczno	51.37569	20.27827	PL	74
+Końskie	51.19166	20.40607	PL	84

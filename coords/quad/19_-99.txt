@@ -1,0 +1,19 @@
+Zacatepec	18.65388	-99.19054	MX	17
+Yautepec	18.88188	-99.06715	MX	17
+Xoxocotla	18.68502	-99.24608	MX	17
+Xochitepec	18.78121	-99.23055	MX	17
+Tlaquiltenango	18.63693	-99.16208	MX	17
+Tepoztlán	18.98603	-99.09914	MX	17
+Temixco	18.85528	-99.23072	MX	17
+Teloloapan	18.3674	-99.86776	MX	12
+Taxco de Alarcón	18.55629	-99.60491	MX	12
+Puente de Ixtla	18.61472	-99.31806	MX	17
+Jojutla	18.61472	-99.18028	MX	17
+Jiutepec	18.88139	-99.17778	MX	17
+Ixtapan de la Sal	18.84369	-99.67671	MX	15
+Iguala de la Independencia	18.34928	-99.53936	MX	12
+Huitzuco de los Figueroa	18.30668	-99.33541	MX	12
+Emiliano Zapata	18.83677	-99.18207	MX	17
+Cuernavaca	18.9261	-99.23075	MX	17
+Tres de Mayo	18.86861	-99.20833	MX	17
+Ciudad de Huitzuco	18.30111	-99.33111	MX	12

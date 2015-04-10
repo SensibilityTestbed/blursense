@@ -1,0 +1,3 @@
+Temapache	21.06611	-97.64207	MX	30
+Naranjos	21.35087	-97.68656	MX	30
+Cerro Azul	21.192	-97.74088	MX	30

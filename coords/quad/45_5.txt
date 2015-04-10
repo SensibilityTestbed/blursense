@@ -1,0 +1,7 @@
+Valence	44.93333	4.9	FR	B9
+Sorgues	44.01023	4.87381	FR	B8
+Orange	44.1392	4.80791	FR	B8
+Montélimar	44.55838	4.75094	FR	B9
+Bourg-lès-Valence	44.95601	4.91023	FR	B9
+Bagnols-sur-Cèze	44.1599	4.61776	FR	A9
+Alès	44.13333	4.08333	FR	A9

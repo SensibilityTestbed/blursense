@@ -1,0 +1,2 @@
+Hamilton	-37.78333	175.28333	NZ	G1
+Cambridge	-37.87822	175.4402	NZ	G1

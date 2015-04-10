@@ -1,0 +1,11 @@
+Yekaterinburg	56.8519	60.6122	RU	71
+Verkhnyaya Pyshma	56.97047	60.58219	RU	71
+Verkhniy Ufaley	56.0556	60.2397	RU	13
+Talitsa	56.8804	60.0213	RU	71
+Sysert’	56.50243	60.81917	RU	71
+Sredneuralsk	56.98921	60.46662	RU	71
+Polevskoy	56.44222	60.18778	RU	71
+Degtyarsk	56.704	60.0879	RU	71
+Beryozovsky	56.9083	60.8019	RU	71
+Aramil	56.6977	60.8369	RU	71
+Snezhinsk	56.085	60.73139	RU	13

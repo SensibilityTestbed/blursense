@@ -1,0 +1,5 @@
+Yanam	16.73308	82.21364	IN	02
+Rāmachandrapuram	16.83636	82.02871	IN	02
+Kākināda	16.96036	82.23809	IN	02
+Amalāpuram	16.57868	82.00609	IN	02
+Ramanayyapeta	16.94516	82.2385	IN	02

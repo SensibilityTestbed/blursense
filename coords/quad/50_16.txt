@@ -1,0 +1,9 @@
+Žďár nad Sázavou Druhy	49.58726	15.93215	CZ	80
+Žďár nad Sázavou	49.56263	15.93924	CZ	80
+Třebíč	49.21492	15.88166	CZ	80
+Pelhřimov	49.43134	15.22336	CZ	80
+Kutná Hora	49.94839	15.26816	CZ	88
+Jindřichův Hradec	49.14404	15.00301	CZ	79
+Jihlava	49.3961	15.59124	CZ	80
+Havlíčkův Brod	49.60785	15.58069	CZ	80
+Chrudim	49.95109	15.79558	CZ	86

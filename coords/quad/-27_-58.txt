@@ -1,0 +1,4 @@
+San Luis del Palmar	-27.5079	-58.55454	AR	06
+Resistencia	-27.46056	-58.98389	AR	03
+Corrientes	-27.4806	-58.8341	AR	06
+Barranqueras	-27.48299	-58.93579	AR	03

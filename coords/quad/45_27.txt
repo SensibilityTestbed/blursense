@@ -1,0 +1,7 @@
+Voluntari	44.49002	26.17338	RO	43
+Urziceni	44.71667	26.63333	RO	22
+Popeşti-Leordeni	44.38333	26.16667	RO	43
+Ploieşti	44.95	26.01667	RO	30
+Pantelimon	44.45	26.2	RO	43
+Olteniţa	44.08333	26.63333	RO	41
+Bucharest	44.43225	26.10626	RO	10

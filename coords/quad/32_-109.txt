@@ -1,0 +1,2 @@
+Agua Prieta	31.33071	-109.54876	MX	26
+Douglas	31.34473	-109.54678	US	AZ

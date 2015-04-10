@@ -1,0 +1,3 @@
+Oristano	39.89957	8.59326	IT	14
+Iglesias	39.3092	8.5372	IT	14
+Carbonia	39.16465	8.5213	IT	14

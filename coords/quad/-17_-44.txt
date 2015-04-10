@@ -1,0 +1,3 @@
+Várzea da Palma	-17.5976	-44.73367	BR	15
+Pirapora	-17.345	-44.94194	BR	15
+Buritizeiro	-17.35111	-44.96222	BR	15

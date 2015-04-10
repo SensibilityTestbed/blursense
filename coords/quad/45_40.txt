@@ -1,0 +1,5 @@
+Tuapse	44.1053	39.0802	RU	38
+Khadyzhensk	44.4258	39.5362	RU	38
+Goryachiy Klyuch	44.63083	39.13	RU	38
+Belorechensk	44.77127	39.87879	RU	38
+Apsheronsk	44.46472	39.73417	RU	38

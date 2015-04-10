@@ -1,0 +1,6 @@
+Riom	45.9	3.11667	FR	98
+Le Puy-en-Velay	45.04366	3.88523	FR	98
+Issoire	45.55	3.25	FR	98
+Cournon-d’Auvergne	45.73543	3.19608	FR	98
+Clermont-Ferrand	45.77966	3.08628	FR	98
+Chamalières	45.77559	3.0631	FR	98

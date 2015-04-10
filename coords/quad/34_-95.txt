@@ -1,0 +1,2 @@
+Paris	33.66094	-95.55551	US	TX
+Sulphur Springs	33.13845	-95.60107	US	TX

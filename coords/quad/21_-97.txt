@@ -1,0 +1,8 @@
+Xicotepec de Juárez	20.27605	-97.96111	MX	21
+Tuxpan de Rodríguez Cano	20.95773	-97.40798	MX	30
+Poza Rica de Hidalgo	20.53315	-97.45946	MX	30
+Papantla de Olarte	20.44655	-97.32495	MX	30
+Martínez de la Torre	20.07082	-97.06078	MX	30
+Coatzintla	20.48699	-97.46823	MX	30
+Álamo	20.91063	-97.67485	MX	30
+Alto Lucero	20.95361	-97.44194	MX	30

@@ -1,0 +1,6 @@
+Sainte-Marie	14.78392	-60.99274	MQ	MQ
+Petite Rivière Salée	14.75	-60.96667	MQ	MQ
+Le Robert	14.67751	-60.94228	MQ	MQ
+Le François	14.61557	-60.90308	MQ	MQ
+La Trinité	14.73758	-60.96286	MQ	MQ
+Ducos	14.57529	-60.97453	MQ	MQ

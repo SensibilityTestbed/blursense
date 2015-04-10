@@ -1,0 +1,3 @@
+Athens	33.96095	-83.37794	US	GA
+Lawrenceville	33.95621	-83.98796	US	GA
+Milledgeville	33.08014	-83.2321	US	GA

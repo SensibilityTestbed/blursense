@@ -1,0 +1,3 @@
+San Carlos	-34.8	-54.91667	UY	09
+Rocha	-34.48333	-54.33333	UY	14
+Maldonado	-34.9	-54.95	UY	09

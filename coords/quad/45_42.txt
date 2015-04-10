@@ -1,0 +1,5 @@
+Ust’-Dzheguta	44.0834	41.9763	RU	27
+Otradnaya	44.39333	41.52056	RU	38
+Nevinnomyssk	44.6333	41.9444	RU	70
+Armavir	44.9892	41.1234	RU	38
+Kochubeyevskoye	44.64417	41.84528	RU	70

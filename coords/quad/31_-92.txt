@@ -1,0 +1,2 @@
+Lafayette	30.22409	-92.01984	US	LA
+Opelousas	30.53353	-92.08151	US	LA

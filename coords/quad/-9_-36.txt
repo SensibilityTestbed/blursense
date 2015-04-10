@@ -1,0 +1,8 @@
+Viçosa	-9.37139	-36.24083	BR	02
+União dos Palmares	-9.16278	-36.03194	BR	02
+São Miguel dos Campos	-9.78111	-36.09361	BR	02
+Campo Alegre	-9.78194	-36.35083	BR	02
+Cajueiro	-9.71667	-36.45	BR	02
+Bom Conselho	-9.16972	-36.67972	BR	30
+Atalaia	-9.50194	-36.02278	BR	02
+Arapiraca	-9.7525	-36.66111	BR	02

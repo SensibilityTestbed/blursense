@@ -1,0 +1,3 @@
+Kroonstad	-27.65036	27.23488	ZA	03
+Hennenman	-27.97654	27.02423	ZA	03
+Heilbron	-27.28115	27.9709	ZA	03

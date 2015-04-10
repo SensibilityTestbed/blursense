@@ -1,0 +1,17 @@
+Saubara	-12.7375	-38.76861	BR	05
+São Sebastião do Passé	-12.5125	-38.49528	BR	05
+São Francisco do Conde	-12.6275	-38.68	BR	05
+Santo Amaro	-12.54667	-38.71194	BR	05
+Salvador	-12.97111	-38.51083	BR	05
+Mata de São João	-12.53028	-38.29917	BR	05
+Maragogipe	-12.77778	-38.91944	BR	05
+Itaparica	-12.88833	-38.67861	BR	05
+Feira de Santana	-12.26667	-38.96667	BR	05
+Conceição do Jacuípe	-12.31667	-38.76667	BR	05
+Conceição da Feira	-12.50583	-38.99861	BR	05
+Catu	-12.35306	-38.37889	BR	05
+Camaçari	-12.6975	-38.32417	BR	05
+Cachoeira	-12.61833	-38.95583	BR	05
+Alagoinhas	-12.13556	-38.41917	BR	05
+Lauro de Freitas	-12.89444	-38.32722	BR	05
+Simões Filho	-12.78444	-38.40389	BR	05

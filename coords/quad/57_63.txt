@@ -1,0 +1,4 @@
+Sukhoy Log	56.9094	62.0296	RU	71
+Kataysk	56.289	62.5841	RU	40
+Kamyshlov	56.84278	62.71111	RU	71
+Bogdanovich	56.78028	62.04944	RU	71

@@ -1,0 +1,70 @@
+Zumpango	19.7967	-99.09946	MX	15
+Xonacatlán	19.40513	-99.52807	MX	17
+Xochimilco	19.25785	-99.10513	MX	09
+Álvaro Obregón	19.35867	-99.20329	MX	09
+Gustavo A. Madero	19.49016	-99.10978	MX	09
+Villa Cuauhtémoc Otzolotepec	19.41676	-99.55872	MX	15
+Tultitlán	19.64756	-99.16796	MX	15
+Tultepec	19.685	-99.12806	MX	15
+Toluca	19.28786	-99.65324	MX	15
+Tlalpan	19.29707	-99.16787	MX	09
+Tlalnepantla	19.54005	-99.19538	MX	15
+Tlahuac	19.28348	-99.00317	MX	09
+Santiago Tíanguistenco	19.18024	-99.46644	MX	15
+Tequixquiac	19.90944	-99.14472	MX	15
+Cuautitlán Izcalli	19.64388	-99.21598	MX	15
+Tepotzotlán	19.71981	-99.2237	MX	15
+Tepeji de Ocampo	19.9063	-99.34297	MX	13
+Teoloyucan	19.7458	-99.17855	MX	15
+Tenango de Arista	19.10446	-99.5898	MX	17
+San Pablo de las Salinas	19.6667	-99.09527	MX	15
+San Pablo Autopan	19.35638	-99.65724	MX	17
+San Miguel Zinacantepec	19.28428	-99.73394	MX	15
+San Mateo Atenco	19.26757	-99.53214	MX	17
+Polanco	19.41667	-99.2	MX	09
+Ocoyoacac	19.27127	-99.45787	MX	17
+Nicolás Romero	19.63658	-99.30682	MX	15
+Naucalpan de Juárez	19.47851	-99.23963	MX	15
+Milpa Alta	19.19251	-99.02317	MX	09
+Metepec	19.25934	-99.60175	MX	17
+Magdalena Contreras	19.33212	-99.21118	MX	09
+Lerma de Villada	19.28881	-99.51163	MX	17
+Iztapalapa	19.35738	-99.0671	MX	09
+Iztacalco	19.39528	-99.09778	MX	09
+Ecatepec	19.61725	-99.06601	MX	15
+Cuautitlán	19.67029	-99.17865	MX	15
+Cuajimalpa	19.35993	-99.29388	MX	09
+Coyotepec	19.77722	-99.21295	MX	17
+Coyoacán	19.3467	-99.16174	MX	09
+Coacalco	19.63453	-99.1005	MX	15
+Ciudad Nezahualcoyotl	19.40061	-99.01483	MX	15
+Mexico City	19.42847	-99.12766	MX	09
+Capulhuac	19.19354	-99.46585	MX	17
+Azcapotzalco	19.48698	-99.18594	MX	09
+Atlacomulco	19.80038	-99.87376	MX	15
+Ciudad López Mateos	19.58547	-99.26035	MX	15
+San Mateo Otzacatipan	19.33273	-99.60345	MX	17
+Santa María Totoltepec	19.30653	-99.59279	MX	15
+San Lorenzo Acopilco	19.32889	-99.32556	MX	09
+Benito Juarez	19.3984	-99.15766	MX	09
+Venustiano Carranza	19.44286	-99.09724	MX	09
+Miguel Hidalgo	19.43471	-99.20091	MX	09
+Cuauhtémoc	19.44506	-99.14612	MX	09
+Huixquilucan	19.35985	-99.35016	MX	15
+Melchor Ocampo	19.70246	-99.1438	MX	15
+Huilango	19.68056	-99.25639	MX	15
+Santiago Teyahualco	19.65791	-99.1234	MX	15
+Ojo de Agua	19.68028	-99.01	MX	15
+Buenavista	19.60833	-99.16944	MX	15
+Colonia del Valle	19.38611	-99.16204	MX	09
+Colonia Lindavista	19.49156	-99.12475	MX	15
+Colonia Nativitas	19.38119	-99.13685	MX	09
+Naucalpan de Juárez	19.39694	-99.27667	MX	15
+Fuentes del Valle	19.6325	-99.13861	MX	15
+San Salvador Tizatlalli	19.26028	-99.59083	MX	15
+Colonia Santa Teresa	19.845	-99.23333	MX	15
+San José Guadalupe Otzacatipan	19.34472	-99.59194	MX	15
+Jesús del Monte	19.375	-99.29444	MX	15
+San Jorge Pueblo Nuevo	19.25417	-99.62778	MX	15
+Ampliación San Mateo (Colonia Solidaridad)	19.61639	-99.14722	MX	15
+Alborada Jaltenco	19.66194	-99.06889	MX	15

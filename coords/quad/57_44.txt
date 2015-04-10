@@ -1,0 +1,5 @@
+Zavolzh’ye	56.64051	43.39446	RU	51
+Gorodets	56.65493	43.47273	RU	51
+Dzerzhinsk	56.24143	43.45539	RU	51
+Bogorodsk	56.10513	43.51294	RU	51
+Novaya Balakhna	56.48989	43.60114	RU	51

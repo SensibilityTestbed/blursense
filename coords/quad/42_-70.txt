@@ -1,0 +1,4 @@
+Barnstable	41.70011	-70.29947	US	MA
+Fairhaven	41.6376	-70.90365	US	MA
+New Bedford	41.63622	-70.93421	US	MA
+Yarmouth	41.70567	-70.22863	US	MA

@@ -1,0 +1,3 @@
+Road Town	18.42693	-64.62079	VG	00
+Tortola	18.43882	-64.60382	VG	
+Charlotte Amalie	18.3419	-64.9307	VI	030

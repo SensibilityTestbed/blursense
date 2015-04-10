@@ -1,0 +1,6 @@
+Mateur	37.04045	9.66557	TN	18
+Menzel Jemil	37.23618	9.91448	TN	18
+Menzel Bourguiba	37.15368	9.78594	TN	18
+Menzel Abderhaman	37.23737	9.86313	TN	18
+Dawwār Tīnjah	37.16667	9.75	TN	18
+Bizerte	37.27442	9.87391	TN	18

@@ -1,0 +1,4 @@
+Pumwani	-1.28333	36.85	KE	05
+Nairobi	-1.28333	36.81667	KE	05
+Kiambu	-1.16667	36.83333	KE	22
+Athi River	-1.4563	36.97826	KE	31

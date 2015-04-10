@@ -1,0 +1,4 @@
+Vierzon	47.21667	2.08333	FR	A3
+Montargis	48	2.75	FR	A3
+Gien	47.69332	2.63094	FR	A3
+Bourges	47.08333	2.4	FR	A3

@@ -1,0 +1,7 @@
+Victoria	-32.61841	-60.15478	AR	08
+Rosario	-32.94682	-60.63932	AR	21
+Pérez	-32.99835	-60.76791	AR	21
+Granadero Baigorria	-32.85683	-60.71754	AR	21
+Diamante	-32.06641	-60.63837	AR	08
+Crespo	-32.02873	-60.30658	AR	08
+Capitán Bermúdez	-32.82262	-60.71852	AR	21

@@ -1,0 +1,3 @@
+les Escaldes	42.50729	1.53414	AD	08
+Andorra la Vella	42.50779	1.52109	AD	07
+Berga	42.10429	1.84628	ES	56

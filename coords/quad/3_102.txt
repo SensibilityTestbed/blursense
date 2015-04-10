@@ -1,0 +1,8 @@
+Banting	2.8136	101.50185	MY	12
+Jenjarum	2.8724	101.49484	MY	12
+Semenyih	2.9516	101.843	MY	12
+Seremban	2.7297	101.9381	MY	05
+Port Dickson	2.53718	101.80571	MY	05
+Tanjung Sepat	2.6579	101.5629	MY	12
+Kampung Baharu Nilai	2.8033	101.7972	MY	05
+Putrajaya	2.93527	101.69112	MY	17

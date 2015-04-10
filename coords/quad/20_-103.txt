@@ -1,0 +1,7 @@
+Zapotiltic	19.62749	-103.41752	MX	14
+Ciudad de Villa de Álvarez	19.26722	-103.73778	MX	08
+Tuxpan	19.55555	-103.37587	MX	14
+Tamazula de Gordiano	19.68006	-103.2514	MX	14
+Sayula	19.88225	-103.60027	MX	14
+Colima	19.24997	-103.72714	MX	08
+Ciudad Guzmán	19.70466	-103.4617	MX	14

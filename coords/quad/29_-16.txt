@@ -1,0 +1,16 @@
+Tacoronte	28.47688	-16.41016	ES	53
+Santa Cruz de Tenerife	28.46824	-16.25462	ES	53
+San Miguel	28.09826	-16.61708	ES	53
+San Isidro	28.07617	-16.558	ES	53
+La Laguna	28.4853	-16.32014	ES	53
+Realejo Alto	28.37645	-16.58575	ES	53
+Puerto de la Cruz	28.41397	-16.54867	ES	53
+La Orotava	28.39076	-16.52309	ES	53
+Icod de los Vinos	28.37241	-16.71188	ES	53
+Güimar	28.3039	-16.43255	ES	53
+Guía de Isora	28.21154	-16.77947	ES	53
+Granadilla de Abona	28.11882	-16.57599	ES	53
+Candelaria	28.3548	-16.37268	ES	53
+Arona	28.09962	-16.68102	ES	53
+Adeje	28.12271	-16.726	ES	53
+Los Realejos	28.36739	-16.58335	ES	53

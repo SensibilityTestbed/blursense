@@ -1,0 +1,2 @@
+Columbus	33.49567	-88.42726	US	MS
+Starkville	33.45049	-88.81961	US	MS

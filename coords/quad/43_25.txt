@@ -1,0 +1,8 @@
+Troyan	42.89427	24.71589	BG	46
+Rakovski	42.3	24.96667	BG	51
+Plovdiv	42.15	24.75	BG	51
+Peshtera	42.03333	24.3	BG	48
+Pazardzhik	42.2	24.33333	BG	48
+Panagyurishte	42.5	24.18333	BG	48
+Karlovo	42.63333	24.8	BG	51
+Asenovgrad	42.01667	24.86667	BG	51

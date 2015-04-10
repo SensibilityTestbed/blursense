@@ -1,0 +1,4 @@
+Nangomba	-10.9	38.5	TZ	11
+Nachingwea	-10.3725	38.76251	TZ	07
+Masasi	-10.71667	38.8	TZ	11
+Lukuledi	-10.56667	38.8	TZ	11

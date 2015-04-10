@@ -1,0 +1,13 @@
+Villa Francisca	18.46667	-69.9	DO	34
+Villa Consuelo	18.48333	-69.9	DO	34
+Santo Domingo	18.50012	-69.98857	DO	34
+Santa Cruz de El Seibo	18.76559	-69.03886	DO	28
+San Pedro de Macorís	18.46156	-69.29718	DO	24
+Sabana Grande de Boyá	18.94498	-69.79331	DO	32
+Quisqueya	18.55542	-69.40814	DO	24
+Monte Plata	18.807	-69.78399	DO	32
+Hato Mayor del Rey	18.76278	-69.25681	DO	29
+Ciudad Nueva	18.46667	-69.9	DO	34
+Boca Chica	18.45	-69.6	DO	37
+Bella Vista	18.45539	-69.9454	DO	34
+Bayaguana	18.75031	-69.63525	DO	32

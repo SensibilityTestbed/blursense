@@ -1,0 +1,10 @@
+Tudela	42.06166	-1.60452	ES	32
+Pamplona	42.81687	-1.64323	ES	32
+Ejea de los Caballeros	42.12632	-1.13716	ES	52
+Calahorra	42.30506	-1.96521	ES	27
+Burlata	42.82562	-1.61671	ES	32
+Barañáin	42.80567	-1.67731	ES	32
+Iturrama	42.80847	-1.65825	ES	32
+Ermitagaña	42.81084	-1.66409	ES	32
+Primer Ensanche	42.81483	-1.64898	ES	32
+Segundo Ensanche	42.8139	-1.64295	ES	32

@@ -1,0 +1,3 @@
+Tanah Merah	5.8	102.15	MY	03
+Kampong Pangkal Kalong	5.91667	102.21667	MY	03
+Kampong Kadok	6	102.25	MY	03

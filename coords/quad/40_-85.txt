@@ -1,0 +1,4 @@
+Columbus	39.20144	-85.92138	US	IN
+Greenfield	39.78504	-85.76942	US	IN
+New Castle	39.92894	-85.37025	US	IN
+Shelbyville	39.52144	-85.77692	US	IN

@@ -1,0 +1,3 @@
+Opportunity	47.64995	-117.23991	US	WA
+Spokane	47.65966	-117.42908	US	WA
+Spokane Valley	47.67323	-117.23937	US	WA

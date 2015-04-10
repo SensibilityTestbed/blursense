@@ -1,0 +1,3 @@
+Port Colborne	42.90012	-79.23288	CA	08
+Welland	42.98342	-79.24958	CA	08
+Jamestown	42.097	-79.23533	US	NY

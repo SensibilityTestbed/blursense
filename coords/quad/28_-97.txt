@@ -1,0 +1,3 @@
+Corpus Christi	27.80058	-97.39638	US	TX
+Kingsville	27.51587	-97.85611	US	TX
+Portland	27.87725	-97.32388	US	TX

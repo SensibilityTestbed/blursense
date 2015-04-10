@@ -1,0 +1,6 @@
+Rancharia	-22.22917	-50.89306	BR	27
+Pompéia	-22.10861	-50.17167	BR	27
+Paraguaçu Paulista	-22.41278	-50.57583	BR	27
+Palmital	-22.78889	-50.2175	BR	27
+Cândido Mota	-22.74639	-50.38694	BR	27
+Assis	-22.66167	-50.41222	BR	27

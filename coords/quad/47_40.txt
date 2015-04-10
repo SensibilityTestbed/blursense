@@ -1,0 +1,4 @@
+Starominskaya	46.53	39.04972	RU	38
+Pavlovskaya	46.1377	39.7832	RU	38
+Leningradskaya	46.3214	39.3877	RU	38
+Kushchëvskaya	46.5599	39.6321	RU	38

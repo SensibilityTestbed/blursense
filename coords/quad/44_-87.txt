@@ -1,0 +1,3 @@
+Mequon	43.2364	-87.98453	US	WI
+Milwaukee	43.0389	-87.90647	US	WI
+Sheboygan	43.75083	-87.71453	US	WI

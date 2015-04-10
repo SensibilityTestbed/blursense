@@ -1,0 +1,5 @@
+Richmond	-29.87196	30.27235	ZA	02
+Pietermaritzburg	-29.61679	30.39278	ZA	02
+Mpumalanga	-29.81292	30.63646	ZA	02
+Mpophomeni	-29.56822	30.18618	ZA	02
+Howick	-29.47795	30.23057	ZA	02

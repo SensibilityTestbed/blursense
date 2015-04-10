@@ -1,0 +1,3 @@
+Svetlograd	45.33528	42.85472	RU	70
+Mikhaylovsk	45.12833	42.02556	RU	70
+Ipatovo	45.71806	42.90361	RU	70

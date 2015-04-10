@@ -1,0 +1,3 @@
+Tenkodogo	11.78	-0.36972	BF	04
+Garango	11.8	-0.55056	BF	04
+Bawku	11.0616	-0.24169	GH	10

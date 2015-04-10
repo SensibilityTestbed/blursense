@@ -1,0 +1,4 @@
+Evansville	37.97476	-87.55585	US	IN
+Henderson	37.83615	-87.59001	US	KY
+Madisonville	37.3281	-87.49889	US	KY
+Owensboro	37.77422	-87.11333	US	KY

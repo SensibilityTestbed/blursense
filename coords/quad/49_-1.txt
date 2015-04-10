@@ -1,0 +1,4 @@
+Vitré	48.11776	-1.20577	FR	A2
+Rennes	48.11198	-1.67429	FR	A2
+Fougères	48.35	-1.2	FR	A2
+Cesson-Sévigné	48.1212	-1.603	FR	A2

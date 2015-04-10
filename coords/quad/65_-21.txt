@@ -1,0 +1,3 @@
+Reykjavík	64.13548	-21.89541	IS	39
+Kópavogur	64.11234	-21.91298	IS	39
+Hafnarfjörður	64.0671	-21.93774	IS	39

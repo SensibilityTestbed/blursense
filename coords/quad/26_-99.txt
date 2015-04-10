@@ -1,0 +1,3 @@
+Montemorelos	25.18909	-99.82865	MX	19
+Cadereyta	25.58333	-99.98333	MX	19
+Hidalgo	25.8569	-99.61855	MX	19

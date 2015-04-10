@@ -1,0 +1,4 @@
+Surfers Paradise	-28.00274	153.42999	AU	04
+Lismore	-28.81354	153.2773	AU	02
+Gold Coast	-28.00029	153.43088	AU	04
+Banora Point	-28.21298	153.53634	AU	02

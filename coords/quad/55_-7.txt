@@ -1,0 +1,4 @@
+Omagh	54.6	-7.3	GB	NIR
+Londonderry County Borough	54.99721	-7.30917	GB	NIR
+Derry	54.9981	-7.30934	GB	NIR
+Letterkenny	54.95	-7.73333	IE	U

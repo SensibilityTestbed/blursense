@@ -1,0 +1,3 @@
+Chattanooga	35.04563	-85.30968	US	TN
+East Chattanooga	35.06535	-85.24912	US	TN
+East Ridge	35.01424	-85.2519	US	TN

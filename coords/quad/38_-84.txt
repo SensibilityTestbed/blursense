@@ -1,0 +1,5 @@
+Danville	37.64563	-84.77217	US	KY
+Lexington	37.98869	-84.47772	US	KY
+Nicholasville	37.88063	-84.573	US	KY
+Richmond	37.74786	-84.29465	US	KY
+Winchester	37.99008	-84.17965	US	KY

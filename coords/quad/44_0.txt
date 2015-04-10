@@ -1,0 +1,3 @@
+Pau	43.3	-0.36667	FR	97
+Mont-de-Marsan	43.89022	-0.49713	FR	97
+Lourdes	43.1	-0.05	FR	B3

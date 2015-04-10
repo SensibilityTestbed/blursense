@@ -1,0 +1,2 @@
+Shijiazhuang	38.04139	114.47861	CN	10
+Dingzhou	38.51306	114.99556	CN	10

@@ -1,0 +1,3 @@
+Charlottesville	38.02931	-78.47668	US	VA
+Harrisonburg	38.44957	-78.86892	US	VA
+Waynesboro	38.06847	-78.88947	US	VA

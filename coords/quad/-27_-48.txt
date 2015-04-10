@@ -1,0 +1,11 @@
+Tijucas	-27.24139	-48.63361	BR	26
+Santo Amaro da Imperatriz	-27.68806	-48.77861	BR	26
+Ribeirão da Ilha	-27.69934	-48.53219	BR	26
+Palhoça	-27.64528	-48.66778	BR	26
+Itapema	-27.09028	-48.61139	BR	26
+Florianópolis	-27.59667	-48.54917	BR	26
+Brusque	-27.09806	-48.9175	BR	26
+Biguaçu	-27.49417	-48.65556	BR	26
+Campinas	-27.59444	-48.60694	BR	26
+Trindade	-27.58612	-48.52335	BR	26
+Freguesia do Ribeirao da Ilha	-27.71773	-48.56266	BR	26

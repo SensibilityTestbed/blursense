@@ -1,0 +1,7 @@
+Santiago Tuxtla	18.46576	-95.3006	MX	30
+San Andres Tuxtla	18.4487	-95.21327	MX	30
+Lerdo de Tejada	18.62936	-95.51968	MX	30
+Cosamaloapan de Carpio	18.36759	-95.79857	MX	30
+Catemaco	18.42131	-95.11398	MX	30
+Carlos A. Carrillo	18.37477	-95.75444	MX	30
+Heroica Alvarado	18.77143	-95.76181	MX	30

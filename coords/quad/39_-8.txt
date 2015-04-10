@@ -1,0 +1,6 @@
+Vila Franca de Xira	38.95525	-8.98966	PT	14
+Setúbal	38.5244	-8.8882	PT	19
+Pinhal Novo	38.63106	-8.91376	PT	19
+Palmela	38.56902	-8.90126	PT	19
+Montijo	38.70675	-8.97388	PT	19
+Moita	38.65078	-8.99038	PT	19

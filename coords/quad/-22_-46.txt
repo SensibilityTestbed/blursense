@@ -1,0 +1,18 @@
+Valinhos	-22.97056	-46.99583	BR	27
+Socorro	-22.59139	-46.52889	BR	27
+Serra Negra	-22.61222	-46.70056	BR	27
+Santo Antônio de Posse	-22.60611	-46.91944	BR	27
+Espírito Santo do Pinhal	-22.11583	-46.68278	BR	27
+Pedreira	-22.74194	-46.90139	BR	27
+Mogi Mirim	-22.43194	-46.95778	BR	27
+Mogi-Gaucu	-22.3677	-46.94552	BR	27
+Jaguariúna	-22.70556	-46.98583	BR	27
+Jacutinga	-22.28556	-46.61222	BR	15
+Itapira	-22.43611	-46.82167	BR	27
+Cambuí	-22.61222	-46.0575	BR	15
+Camanducaia	-22.75528	-46.14472	BR	15
+Bragança Paulista	-22.95194	-46.54194	BR	27
+Andradas	-22.06806	-46.56917	BR	15
+Amparo	-22.70111	-46.76444	BR	27
+Águas de Lindóia	-22.47639	-46.63278	BR	27
+Aguaí	-22.05944	-46.97861	BR	27

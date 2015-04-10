@@ -1,0 +1,9 @@
+Tubarão	-28.46667	-49.00694	BR	26
+São José	-28.21171	-49.1632	BR	26
+São Joaquim	-28.29389	-49.93167	BR	26
+Orleans	-28.35889	-49.29139	BR	26
+Içara	-28.71333	-49.3	BR	26
+Forquilhinha	-28.7475	-49.47222	BR	26
+Criciúma	-28.6775	-49.36972	BR	26
+Braço do Norte	-28.275	-49.16556	BR	26
+Araranguá	-28.93575	-49.49538	BR	26

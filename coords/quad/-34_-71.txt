@@ -1,0 +1,4 @@
+San Vicente	-34.43333	-71.08333	CL	08
+Santa Cruz	-34.63881	-71.36576	CL	08
+Curicó	-34.98279	-71.23943	CL	11
+Chimbarongo	-34.71247	-71.0434	CL	08

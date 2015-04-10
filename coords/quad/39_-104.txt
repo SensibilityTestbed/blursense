@@ -1,0 +1,6 @@
+Cimarron Hills	38.85861	-104.69886	US	CO
+Colorado Springs	38.83388	-104.82136	US	CO
+Fountain	38.68222	-104.70081	US	CO
+Pueblo	38.25445	-104.60914	US	CO
+Pueblo West	38.35	-104.72275	US	CO
+Security-Widefield	38.74728	-104.71439	US	CO

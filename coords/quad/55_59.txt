@@ -1,0 +1,4 @@
+Ust’-Katav	54.9366	58.1757	RU	13
+Katav-Ivanovsk	54.75306	58.19556	RU	13
+Bakal	54.9417	58.8083	RU	13
+Trëkhgornyy	54.815	58.45917	RU	13

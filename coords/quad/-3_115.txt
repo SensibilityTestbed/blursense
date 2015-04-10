@@ -1,0 +1,3 @@
+Martapura	-3.4109	114.8642	ID	12
+Kualakapuas	-3.00913	114.38759	ID	13
+Banjarmasin	-3.31987	114.59075	ID	12

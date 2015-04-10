@@ -1,0 +1,4 @@
+Villahermosa	17.98689	-92.93028	MX	27
+Teapa	17.5497	-92.95211	MX	27
+Macuspana	17.76152	-92.5965	MX	27
+Río de Teapa	17.78282	-92.90042	MX	27

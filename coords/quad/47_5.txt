@@ -1,0 +1,7 @@
+Saint-Leu	46.7306	4.50083	FR	A1
+Roanne	46.03333	4.06667	FR	B9
+Montceau-les-Mines	46.66667	4.36667	FR	A1
+Mâcon	46.3	4.83333	FR	A1
+Le Creusot	46.80714	4.41632	FR	A1
+Chalon-sur-Saône	46.78333	4.85	FR	A1
+Autun	46.95	4.3	FR	A1

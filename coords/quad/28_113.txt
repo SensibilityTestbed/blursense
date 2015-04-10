@@ -1,0 +1,3 @@
+Yongfeng	27.42829	112.18338	CN	11
+Xiangxiang	27.73333	112.53333	CN	11
+Xiangtan	27.85	112.9	CN	11

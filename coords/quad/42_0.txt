@@ -1,0 +1,7 @@
+Zaragoza	41.65606	-0.87734	ES	52
+Utebo	41.71394	-0.99487	ES	52
+Alcañiz	41.05	-0.13333	ES	52
+Delicias	41.64928	-0.90757	ES	52
+Almozara	41.66124	-0.90169	ES	52
+Montecanal	41.62965	-0.93873	ES	52
+Oliver-Valdefierro, Oliver, Valdefierro	41.64454	-0.93349	ES	52

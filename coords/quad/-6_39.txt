@@ -1,0 +1,7 @@
+Ngerengere	-6.75	38.11667	TZ	10
+Mvomero	-6.25	38.66667	TZ	02
+Mlandizi	-6.7	38.73333	TZ	02
+Lugoba	-6.45	38.33333	TZ	02
+Kibaha	-6.76667	38.91667	TZ	02
+Chalinze	-6.63784	38.35396	TZ	02
+Bagamoyo	-6.44222	38.90422	TZ	02

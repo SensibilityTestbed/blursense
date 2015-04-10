@@ -1,0 +1,10 @@
+Sarzedo	-20.03528	-44.14472	BR	15
+Santo Antônio do Amparo	-20.94639	-44.91889	BR	15
+Oliveira	-20.69639	-44.82722	BR	15
+Itaúna	-20.07528	-44.57639	BR	15
+Igarapé	-20.07028	-44.30167	BR	15
+Ibirité	-20.02194	-44.05889	BR	15
+Divinópolis	-20.13889	-44.88389	BR	15
+Cláudio	-20.44333	-44.76583	BR	15
+Carmo do Cajuru	-20.18417	-44.77111	BR	15
+Brumadinho	-20.14333	-44.19972	BR	15

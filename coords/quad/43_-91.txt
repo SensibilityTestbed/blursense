@@ -1,0 +1,2 @@
+Cedar Rapids	42.00833	-91.64407	US	IA
+Marion	42.03417	-91.59768	US	IA

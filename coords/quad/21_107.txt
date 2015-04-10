@@ -1,0 +1,5 @@
+Thành Phố Thái Bình	20.45	106.34002	VN	35
+Thành Phố Nam Định	20.43389	106.17729	VN	82
+Hưng Yên	20.64637	106.05112	VN	81
+Haiphong	20.86481	106.68345	VN	13
+Thành Phố Hải Dương	20.94099	106.33302	VN	79

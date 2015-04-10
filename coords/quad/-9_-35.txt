@@ -1,0 +1,10 @@
+Satuba	-9.56333	-35.82444	BR	02
+São Luís do Quitunde	-9.31833	-35.56111	BR	02
+Rio Largo	-9.47833	-35.85333	BR	02
+Porto Calvo	-9.045	-35.39833	BR	02
+Pilar	-9.59722	-35.95667	BR	02
+Murici	-9.30667	-35.94333	BR	02
+Matriz de Camaragibe	-9.15167	-35.53333	BR	02
+Marechal Deodoro	-9.71028	-35.895	BR	02
+Maragogi	-9.01222	-35.2225	BR	02
+Maceió	-9.66583	-35.73528	BR	02

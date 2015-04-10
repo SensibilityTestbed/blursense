@@ -1,0 +1,6 @@
+Veracruz	19.18095	-96.1429	MX	30
+Misantla	19.92992	-96.85194	MX	30
+Xalapa de Enríquez	19.53124	-96.91589	MX	30
+Huatusco de Chicuellar	19.14876	-96.9676	MX	30
+Coatepec	19.45229	-96.96148	MX	30
+Banderilla	19.58893	-96.93727	MX	30

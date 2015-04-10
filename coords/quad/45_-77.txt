@@ -1,0 +1,3 @@
+Belleville	44.16682	-77.38277	CA	08
+Prince Edward	44.00012	-77.24946	CA	08
+Quinte West	44.18342	-77.56618	CA	08

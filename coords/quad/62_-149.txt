@@ -1,0 +1,2 @@
+Eagle River	61.32139	-149.56778	US	AK
+Anchorage	61.21806	-149.90028	US	AK

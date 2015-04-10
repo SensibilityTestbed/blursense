@@ -1,0 +1,10 @@
+Zheleznovodsk	44.13944	43.01972	RU	70
+Zelenokumsk	44.40694	43.88056	RU	70
+Svobody	44.02556	43.05028	RU	70
+Pyatigorsk	44.04861	43.05944	RU	70
+Nezlobnaya	44.11806	43.40278	RU	70
+Mineralnye Vody	44.21028	43.13528	RU	70
+Inozemtsevo	44.09264	43.09113	RU	70
+Goryachevodskiy	44.02361	43.09222	RU	70
+Georgiyevsk	44.15194	43.46972	RU	70
+Aleksandrovskoye	44.71417	43.00083	RU	70

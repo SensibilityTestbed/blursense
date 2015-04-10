@@ -1,0 +1,22 @@
+Vilanova i la Geltrú	41.22392	1.72511	ES	56
+Vilafranca del Penedès	41.35	1.7	ES	56
+Vila-seca	41.11667	1.15	ES	56
+El Vendrell	41.21667	1.53333	ES	56
+Valls	41.28612	1.24993	ES	56
+Torredembarra	41.14505	1.39861	ES	56
+Tàrrega	41.64704	1.13957	ES	56
+Tarragona	41.11667	1.25	ES	56
+Sitges	41.23506	1.81193	ES	56
+Sant Pere de Ribes	41.26667	1.76667	ES	56
+Sant Andreu de la Barca	41.44659	1.97187	ES	56
+Salou	41.07663	1.14163	ES	56
+Reus	41.15612	1.10687	ES	56
+Olesa de Montserrat	41.54372	1.89407	ES	56
+Martorell	41.47402	1.93062	ES	56
+Manresa	41.72498	1.82656	ES	56
+La Pineda	41.07625	1.18515	ES	56
+Igualada	41.58098	1.6172	ES	56
+Esparreguera	41.53333	1.86667	ES	56
+Castelldefels	41.27794	1.97033	ES	56
+Cambrils	41.07479	1.05244	ES	56
+Calafell	41.19997	1.5683	ES	56

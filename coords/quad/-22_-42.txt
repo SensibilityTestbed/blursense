@@ -1,0 +1,16 @@
+Teresópolis	-22.4167	-42.97822	BR	21
+Tanguá	-22.73028	-42.71417	BR	21
+Silva Jardim	-22.65083	-42.39167	BR	21
+Saquarema	-22.92	-42.51028	BR	21
+São Pedro da Aldeia	-22.83917	-42.10278	BR	21
+Rio Bonito	-22.70861	-42.60972	BR	21
+Nova Friburgo	-22.28194	-42.53111	BR	21
+Maricá	-22.91944	-42.81861	BR	21
+Itaboraí	-22.74444	-42.85944	BR	21
+Guapimirim	-22.53722	-42.98194	BR	21
+Cordeiro	-22.02861	-42.36083	BR	21
+Casimiro de Abreu	-22.48056	-42.20417	BR	21
+Cachoeiras de Macacu	-22.4625	-42.65306	BR	21
+Cabo Frio	-22.88717	-42.02622	BR	21
+Arraial do Cabo	-22.96611	-42.02778	BR	21
+Araruama	-22.87278	-42.34306	BR	21

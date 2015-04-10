@@ -1,0 +1,4 @@
+Tapiramutá	-11.84722	-40.79139	BR	05
+Piritiba	-11.73028	-40.55528	BR	05
+Jacobina	-11.18143	-40.51372	BR	05
+Capim Grosso	-11.38111	-40.01278	BR	05

@@ -1,0 +1,7 @@
+Tuxtla Gutiérrez	16.75973	-93.11308	MX	05
+Ocozocoautla de Espinosa	16.76231	-93.37476	MX	05
+Cintalapa de Figueroa	16.68393	-93.71814	MX	05
+Chiapa de Corzo	16.7077	-93.01184	MX	05
+Berriozábal	16.79853	-93.27163	MX	05
+Tonalá	16.0887	-93.75588	MX	05
+Arriaga	16.2375	-93.90184	MX	05

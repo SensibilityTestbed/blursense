@@ -1,0 +1,7 @@
+Viñales	22.61243	-83.71136	CU	01
+San Cristobal	22.71658	-83.05647	CU	AR
+Pinar del Río	22.4175	-83.69806	CU	01
+Minas de Matahambre	22.5875	-83.945	CU	01
+Los Palacios	22.58722	-83.24861	CU	01
+Consolación del Sur	22.50528	-83.51095	CU	01
+Bahía Honda	22.90361	-83.15917	CU	AR

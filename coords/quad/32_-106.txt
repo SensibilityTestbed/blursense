@@ -1,0 +1,5 @@
+Ciudad Juárez	31.73333	-106.48333	MX	06
+El Paso	31.75872	-106.48693	US	TX
+Horizon City	31.69261	-106.20748	US	TX
+Socorro	31.65456	-106.30331	US	TX
+Socorro Mission Number 1 Colonia	31.63622	-106.29054	US	TX

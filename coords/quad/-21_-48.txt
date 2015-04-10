@@ -1,0 +1,13 @@
+Taquaritinga	-21.40611	-48.50472	BR	27
+Pontal	-21.0225	-48.03722	BR	27
+Pitangueiras	-21.00944	-48.22167	BR	27
+Monte Alto	-21.26111	-48.49639	BR	27
+Matão	-21.60333	-48.36583	BR	27
+Jaboticabal	-21.25472	-48.32222	BR	27
+Itápolis	-21.59556	-48.81278	BR	27
+Ibitinga	-21.75778	-48.82889	BR	27
+Guariba	-21.36	-48.22833	BR	27
+Catanduva	-21.13778	-48.97278	BR	27
+Barrinha	-21.19361	-48.16389	BR	27
+Araraquara	-21.79444	-48.17556	BR	27
+Américo Brasiliense	-21.72444	-48.10167	BR	27

@@ -1,0 +1,2 @@
+Périgueux	45.18333	0.71667	FR	97
+Angoulême	45.65	0.15	FR	B7

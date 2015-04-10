@@ -1,0 +1,6 @@
+Cornwall	45.01809	-74.72815	CA	08
+Mirabel	45.65008	-74.08251	CA	10
+Saint-Jérôme	45.78036	-74.00365	CA	10
+Saint-Lazare	45.40008	-74.13256	CA	10
+Salaberry-de-Valleyfield	45.25008	-74.13253	CA	10
+Vaudreuil-Dorion	45.40008	-74.03251	CA	10

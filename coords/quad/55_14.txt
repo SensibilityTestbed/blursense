@@ -1,0 +1,2 @@
+Stralsund	54.30911	13.0818	DE	12
+Greifswald	54.09311	13.38786	DE	12

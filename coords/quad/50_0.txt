@@ -1,0 +1,3 @@
+Hérouville-Saint-Clair	49.21088	-0.30653	FR	99
+Caen	49.18585	-0.35912	FR	99
+Bayeux	49.27732	-0.7039	FR	99

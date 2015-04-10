@@ -1,0 +1,2 @@
+Cleveland	35.15952	-84.87661	US	TN
+Farragut	35.88452	-84.15353	US	TN

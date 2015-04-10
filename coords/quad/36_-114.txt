@@ -1,0 +1,3 @@
+Bullhead City	35.14778	-114.5683	US	AZ
+Kingman	35.18944	-114.05301	US	AZ
+Boulder City	35.97859	-114.83249	US	NV

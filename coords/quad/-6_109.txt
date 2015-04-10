@@ -1,0 +1,17 @@
+Weru	-6.711	108.5037	ID	30
+Sumber	-6.76028	108.48306	ID	30
+Plumbon	-6.705	108.47278	ID	30
+Palimanan	-6.70694	108.42417	ID	30
+Majalengka	-6.83611	108.22778	ID	30
+Kuningan	-6.97583	108.48306	ID	30
+Klangenan	-6.70944	108.44	ID	30
+Ketanggungan	-6.9383	108.891	ID	07
+Karangsembung	-6.8487	108.6422	ID	30
+Karangampel	-6.46222	108.45194	ID	30
+Jatiwangi	-6.73361	108.26278	ID	30
+Jatibarang	-6.47472	108.31528	ID	30
+Indramayu	-6.32639	108.32	ID	30
+Cirebon	-6.7063	108.557	ID	30
+Bulakamba	-6.8748	108.9559	ID	07
+Astanajapura	-6.8017	108.6311	ID	30
+Arjawinangun	-6.64528	108.41028	ID	30

@@ -1,0 +1,41 @@
+Vecsés	47.40705	19.28648	HU	16
+Vác	47.77591	19.13612	HU	16
+Szigetszentmiklós	47.34382	19.04335	HU	16
+Szentendre	47.66943	19.07561	HU	16
+Parádsasvár	47.9126	19.97709	HU	11
+Nagykőrös	47.03419	19.77857	HU	16
+Monor	47.35133	19.44733	HU	16
+Jászberény	47.5	19.91667	HU	20
+Hatvan	47.66667	19.68333	HU	11
+Gyöngyös	47.78257	19.928	HU	11
+Gyál	47.38449	19.2214	HU	16
+Gödöllő	47.59657	19.35515	HU	16
+Göd	47.68324	19.13417	HU	16
+Fót	47.6177	19.1887	HU	16
+Dunakeszi	47.63641	19.13864	HU	16
+Dunaharaszti	47.3545	19.09822	HU	16
+Dabas	47.18594	19.31091	HU	16
+Cegléd	47.17266	19.79952	HU	16
+Budapest	47.49801	19.03991	HU	05
+Budapest XII. kerület	47.49192	19.01493	HU	05
+Budapest XI. kerület	47.47603	19.03605	HU	05
+Budapest IX. kerület	47.48299	19.06591	HU	05
+Budapest VIII. kerület	47.48919	19.07012	HU	05
+Budapest VII. kerület	47.50045	19.06875	HU	05
+Budapest VI. kerület	47.50369	19.06583	HU	05
+Budapest XIV. kerület	47.5183	19.10789	HU	05
+Budapest XIII. kerület	47.52978	19.08068	HU	05
+Budapest IV. kerület	47.56182	19.08909	HU	05
+Budapest XV. kerület	47.56263	19.11681	HU	05
+Budapest XVI. kerület	47.51482	19.17028	HU	05
+Budapest X. kerület	47.4791	19.15835	HU	05
+Budapest XIX. kerület	47.45293	19.14943	HU	05
+Budapest XVIII. kerület	47.44417	19.17595	HU	05
+Budapest XXIII. kerület	47.39788	19.11492	HU	05
+Budapest XXII. kerület	47.42698	19.04016	HU	05
+Budapest XXI. kerület	47.43047	19.07098	HU	05
+Budapest XX. kerület	47.43674	19.10093	HU	05
+Budapest XVII. kerület	47.47997	19.25388	HU	05
+Budapest III. kerület	47.54157	19.04501	HU	05
+Budapest II. kerület	47.51291	19.03184	HU	05
+Budapest I. kerület	47.49705	19.03961	HU	05

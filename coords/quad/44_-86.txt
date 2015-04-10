@@ -1,0 +1,2 @@
+Muskegon	43.23418	-86.24839	US	MI
+Norton Shores	43.1689	-86.26395	US	MI

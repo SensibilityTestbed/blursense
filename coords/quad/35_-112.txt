@@ -1,0 +1,2 @@
+Prescott	34.54002	-112.4685	US	AZ
+Prescott Valley	34.61002	-112.31572	US	AZ

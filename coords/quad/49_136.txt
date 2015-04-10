@@ -1,0 +1,2 @@
+Khabarovsk	48.48271	135.08379	RU	30
+Khabarovsk Vtoroy	48.43776	135.13329	RU	30

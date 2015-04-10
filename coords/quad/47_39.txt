@@ -1,0 +1,4 @@
+Yeysk	46.7055	38.2739	RU	38
+Staroshcherbinovskaya	46.6311	38.6742	RU	38
+Primorsko-Akhtarsk	46.0497	38.1747	RU	38
+Kanevskaya	46.0849	38.9596	RU	38

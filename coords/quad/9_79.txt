@@ -1,0 +1,4 @@
+Udankudi	8.43048	78.02882	IN	25
+Tiruchchendur	8.49725	78.11906	IN	25
+Kayalpattinam	8.57143	78.11992	IN	25
+Arumuganeri	8.5688	78.09091	IN	25

@@ -1,0 +1,6 @@
+San Vicente de Cañete	-13.07556	-76.38528	PE	15
+San Clemente	-13.66667	-76.15	PE	11
+Pisco	-13.71029	-76.20538	PE	11
+Nuevo Imperial	-13.07541	-76.31719	PE	15
+Imperial	-13.05927	-76.35269	PE	15
+Chincha Alta	-13.40985	-76.13235	PE	11

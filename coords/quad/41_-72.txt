@@ -1,0 +1,3 @@
+East Patchogue	40.76704	-72.99622	US	NY
+Mastic	40.80204	-72.84094	US	NY
+Shirley	40.80149	-72.8676	US	NY

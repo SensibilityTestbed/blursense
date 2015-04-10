@@ -1,0 +1,6 @@
+Vinaròs	40.47033	0.47559	ES	60
+Tortosa	40.81249	0.5216	ES	56
+Sant Carles de la Ràpita	40.61667	0.6	ES	56
+Benicàssim	40.05	0.06667	ES	60
+Benicarló	40.4165	0.42709	ES	60
+Amposta	40.71308	0.58103	ES	56

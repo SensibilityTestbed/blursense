@@ -1,0 +1,4 @@
+Plottier	-38.96667	-68.23333	AR	15
+Neuquén	-38.95161	-68.0591	AR	15
+Cinco Saltos	-38.82225	-68.06293	AR	16
+Centenario	-38.82955	-68.1318	AR	15

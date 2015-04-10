@@ -1,0 +1,14 @@
+Sig	35.52832	-0.19369	DZ	26
+Sidi ech Chahmi	35.65903	-0.52168	DZ	09
+Sidi Bel Abbès	35.18994	-0.63085	DZ	30
+Sfizef	35.23464	-0.24435	DZ	30
+Oran	35.69111	-0.64167	DZ	09
+Mers el Kebir	35.7279	-0.7081	DZ	09
+Hammam Bou Hadjar	35.37889	-0.96778	DZ	36
+Es Senia	35.64779	-0.62397	DZ	09
+Bou Tlelis	35.57272	-0.8996	DZ	09
+Bou Hanifia el Hamamat	35.31473	-0.05037	DZ	26
+Bir el Djir	35.72	-0.545	DZ	09
+’Aïn el Turk	35.74381	-0.7693	DZ	09
+Aïn el Bya	35.80389	-0.30178	DZ	09
+’Aïn el Berd	35.36395	-0.51279	DZ	30

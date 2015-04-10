@@ -1,0 +1,5 @@
+Cihuatlán	19.2366	-104.56512	MX	14
+Manzanillo	19.11695	-104.34214	MX	08
+El Grullo	19.80603	-104.21805	MX	14
+Autlán de Navarro	19.76822	-104.36664	MX	14
+Manzanillo	19.05222	-104.31583	MX	08

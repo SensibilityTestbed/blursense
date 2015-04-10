@@ -1,0 +1,4 @@
+San Fernando de Monte Cristi	19.84826	-71.64597	DO	15
+Sabaneta	19.47793	-71.34125	DO	26
+Mao	19.55186	-71.07813	DO	27
+Dajabón	19.54878	-71.70829	DO	04

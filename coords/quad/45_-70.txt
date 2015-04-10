@@ -1,0 +1,2 @@
+Auburn	44.09785	-70.23117	US	ME
+Lewiston	44.10035	-70.21478	US	ME

@@ -1,0 +1,4 @@
+Tulungagung	-8.0657	111.9025	ID	08
+Trenggalek	-8.0764	111.70641	ID	08
+Kedungwaru	-8.06667	111.91667	ID	08
+Boyolangu	-8.1181	111.8935	ID	08

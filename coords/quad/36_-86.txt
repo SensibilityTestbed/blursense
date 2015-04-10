@@ -1,0 +1,6 @@
+Franklin	35.92506	-86.86889	US	TN
+Murfreesboro	35.84562	-86.39027	US	TN
+Shelbyville	35.48341	-86.46027	US	TN
+Smyrna	35.98284	-86.5186	US	TN
+Spring Hill	35.75118	-86.93	US	TN
+Tullahoma	35.36202	-86.20943	US	TN

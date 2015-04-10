@@ -1,0 +1,4 @@
+Songea	-10.68333	35.65	TZ	14
+Mbinga	-10.93333	35.01667	TZ	14
+Maposeni	-10.58333	35.4	TZ	14
+Kigonsera	-10.8	35.05	TZ	14

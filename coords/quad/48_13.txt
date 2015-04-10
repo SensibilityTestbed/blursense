@@ -1,0 +1,10 @@
+Saalfelden am Steinernen Meer	47.42681	12.848	AT	05
+Kufstein	47.58333	12.16667	AT	07
+Traunstein	47.86825	12.64335	DE	02
+Traunreut	47.96269	12.59231	DE	02
+Rosenheim	47.85637	12.12247	DE	02
+Kolbermoor	47.84965	12.06696	DE	02
+Freilassing	47.84085	12.98114	DE	02
+Bad Reichenhall	47.72947	12.87819	DE	02
+Bad Aibling	47.8638	12.01055	DE	02
+Burg Unter-Falkenstein	47.7044	12.10466	DE	02

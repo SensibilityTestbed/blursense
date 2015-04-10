@@ -1,0 +1,2 @@
+Mason City	43.15357	-93.20104	US	IA
+Albert Lea	43.64801	-93.36827	US	MN

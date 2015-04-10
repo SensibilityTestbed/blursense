@@ -1,0 +1,3 @@
+Waterford	52.25833	-7.11194	IE	M
+Kilkenny	52.65417	-7.25222	IE	L
+Cluain Meala	52.355	-7.70389	IE	M

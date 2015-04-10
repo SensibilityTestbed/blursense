@@ -1,0 +1,3 @@
+Znomenka	48.71278	32.66472	UA	10
+Kirovohrad	48.5132	32.2597	UA	10
+Dolyns'ka	48.11041	32.76449	UA	10

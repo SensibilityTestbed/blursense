@@ -1,0 +1,5 @@
+Santa Cruz de Barahona	18.20854	-71.10077	DO	03
+San Juan de la Maguana	18.80588	-71.22991	DO	23
+Neiba	18.48137	-71.41965	DO	02
+Las Matas de Farfán	18.87309	-71.51656	DO	23
+Fond Parisien	18.50583	-71.97667	HT	11

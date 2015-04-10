@@ -1,0 +1,5 @@
+Les Sables-d'Olonne	46.5	-1.78333	FR	B5
+Les Herbiers	46.86667	-1.01667	FR	B5
+La Roche-sur-Yon	46.66667	-1.43333	FR	B5
+La Rochelle	46.16667	-1.15	FR	B7
+Challans	46.84363	-1.87491	FR	B5

@@ -1,0 +1,3 @@
+Brenham	30.16688	-96.39774	US	TX
+Bryan	30.67436	-96.36996	US	TX
+College Station	30.62798	-96.33441	US	TX

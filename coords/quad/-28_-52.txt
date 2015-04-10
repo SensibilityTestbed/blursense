@@ -1,0 +1,4 @@
+Soledade	-28.81833	-52.51028	BR	23
+Passo Fundo	-28.26278	-52.40667	BR	23
+Marau	-28.44917	-52.2	BR	23
+Carazinho	-28.28389	-52.78639	BR	23

@@ -1,0 +1,4 @@
+Narbonne	43.18333	3	FR	A9
+Castres	43.6	2.25	FR	B3
+Carcassonne	43.21667	2.35	FR	A9
+Albi	43.9298	2.148	FR	B3

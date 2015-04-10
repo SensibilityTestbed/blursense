@@ -1,0 +1,4 @@
+Santa Brígida	28.03197	-15.50425	ES	53
+Las Palmas de Gran Canaria	28.09973	-15.41343	ES	53
+Gáldar	28.14701	-15.6502	ES	53
+Arucas	28.11983	-15.52325	ES	53

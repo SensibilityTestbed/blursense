@@ -1,0 +1,6 @@
+Outreau	50.70535	1.5897	FR	B4
+Calais	50.95194	1.85635	FR	B4
+Boulogne-sur-Mer	50.71667	1.61667	FR	B4
+Berck	50.4	1.6	FR	B4
+Berck-Plage	50.40704	1.56446	FR	B4
+Abbeville	50.1	1.83333	FR	B6

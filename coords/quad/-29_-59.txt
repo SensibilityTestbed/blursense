@@ -1,0 +1,3 @@
+Reconquista	-29.15	-59.65	AR	21
+Goya	-29.14003	-59.26256	AR	06
+Avellaneda	-29.11761	-59.65834	AR	21

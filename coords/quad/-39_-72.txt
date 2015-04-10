@@ -1,0 +1,3 @@
+Villarrica	-39.28569	-72.2279	CL	04
+Panguipulli	-39.64355	-72.33269	CL	04
+Loncoche	-39.36708	-72.63087	CL	04

@@ -1,0 +1,3 @@
+Four Corners	44.9279	-122.98371	US	OR
+Hayesville	44.98595	-122.98287	US	OR
+Lebanon	44.53651	-122.90703	US	OR

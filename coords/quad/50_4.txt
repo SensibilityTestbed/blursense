@@ -1,0 +1,6 @@
+Tergnier	49.65607	3.30107	FR	B6
+Soissons	49.38167	3.32361	FR	B6
+Saint-Quentin	49.84889	3.28757	FR	B6
+Laon	49.56667	3.61667	FR	B6
+Épernay	49.05	3.95	FR	A4
+Château-Thierry	49.05	3.4	FR	B6

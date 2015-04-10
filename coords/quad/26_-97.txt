@@ -1,0 +1,3 @@
+Valle Hermoso	25.6718	-97.81181	MX	28
+Heroica Matamoros	25.87972	-97.50417	MX	28
+Brownsville	25.90175	-97.49748	US	TX

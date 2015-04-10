@@ -1,0 +1,4 @@
+Paraparaumu	-40.91667	175.01667	NZ	G2
+Palmerston North	-40.35636	175.61113	NZ	F3
+Levin	-40.63333	175.275	NZ	F3
+Masterton	-40.95972	175.6575	NZ	G2

@@ -1,0 +1,3 @@
+Back Mountain	41.33591	-75.99631	US	PA
+Scranton	41.40916	-75.6649	US	PA
+Wilkes-Barre	41.24591	-75.88131	US	PA

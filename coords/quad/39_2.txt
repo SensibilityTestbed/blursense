@@ -1,0 +1,4 @@
+Santa Eulària des Riu	38.98457	1.53409	ES	07
+Sant Josep de sa Talaia	38.91667	1.28333	ES	07
+Sant Antoni de Portmany	38.98068	1.30362	ES	07
+Ibiza	38.90883	1.43296	ES	07

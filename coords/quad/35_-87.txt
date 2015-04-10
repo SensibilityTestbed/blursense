@@ -1,0 +1,2 @@
+East Florence	34.80953	-87.64947	US	AL
+Florence	34.79981	-87.67725	US	AL

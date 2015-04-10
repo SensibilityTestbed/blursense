@@ -1,0 +1,4 @@
+Rybnoye	54.72774	39.51731	RU	62
+Ryazan’	54.6269	39.6916	RU	62
+Novomichurinsk	54.0384	39.7479	RU	62
+Lukhovitsy	54.97661	39.0444	RU	47

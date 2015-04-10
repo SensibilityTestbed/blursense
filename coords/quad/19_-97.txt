@@ -1,0 +1,14 @@
+Tepeaca	18.96923	-97.90074	MX	21
+Tehuacán	18.46148	-97.39282	MX	21
+Tecamachalco	18.88179	-97.73132	MX	21
+Río Blanco	18.83936	-97.12829	MX	30
+Palmarito Tochapán	18.89891	-97.63892	MX	21
+Orizaba	18.85101	-97.10084	MX	30
+Nogales	18.83141	-97.15603	MX	30
+Ixtac Zoquitlán	18.85504	-97.06088	MX	30
+Fortín de las Flores	18.90806	-97	MX	30
+Ciudad Serdán	18.9894	-97.44702	MX	21
+Ciudad Mendoza	18.80615	-97.17777	MX	30
+Altepexi	18.36886	-97.29832	MX	21
+Ajalpan	18.37831	-97.25767	MX	21
+Acatzingo de Hidalgo	18.98036	-97.78473	MX	21

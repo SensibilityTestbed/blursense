@@ -1,0 +1,3 @@
+Sneek	53.03297	5.6589	NL	02
+Leeuwarden	53.20139	5.80859	NL	02
+Harlingen	53.17477	5.42244	NL	02

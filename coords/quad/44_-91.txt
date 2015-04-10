@@ -1,0 +1,3 @@
+La Crosse	43.80136	-91.23958	US	WI
+North La Crosse	43.84635	-91.24819	US	WI
+Onalaska	43.88441	-91.23514	US	WI

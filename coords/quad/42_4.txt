@@ -1,0 +1,3 @@
+Sant Feliu de Guíxols	41.78333	3.03333	ES	56
+Palamós	41.84843	3.12912	ES	56
+Palafrugell	41.91738	3.1631	ES	56

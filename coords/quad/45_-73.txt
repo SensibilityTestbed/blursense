@@ -1,0 +1,4 @@
+Plattsburgh	44.69949	-73.45291	US	NY
+Burlington	44.47588	-73.21207	US	VT
+Colchester	44.54394	-73.14791	US	VT
+South Burlington	44.46699	-73.17096	US	VT

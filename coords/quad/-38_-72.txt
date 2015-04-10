@@ -1,0 +1,4 @@
+Victoria	-38.23291	-72.33292	CL	04
+Temuco	-38.73965	-72.59842	CL	04
+Nueva Imperial	-38.74451	-72.95025	CL	04
+Lautaro	-38.53066	-72.43652	CL	04

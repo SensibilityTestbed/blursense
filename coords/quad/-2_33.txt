@@ -1,0 +1,4 @@
+Usagara	-2.68333	33	TZ	12
+Mwanza	-2.51667	32.9	TZ	12
+Kasamwa	-2.85	32.43333	TZ	28
+Geita	-2.86667	32.16667	TZ	28

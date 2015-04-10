@@ -1,0 +1,8 @@
+Torrevieja	37.97872	-0.68222	ES	60
+Torre-Pacheco	37.74293	-0.95396	ES	31
+San Pedro del Pinatar	37.83568	-0.79102	ES	31
+San Javier	37.80626	-0.83736	ES	31
+Pilar de la Horadada	37.86591	-0.79256	ES	60
+Los Alcázares	37.74425	-0.85041	ES	31
+La Unión	37.61915	-0.87799	ES	31
+Cartagena	37.60512	-0.98623	ES	31

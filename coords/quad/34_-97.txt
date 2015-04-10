@@ -1,0 +1,5 @@
+Corinth	33.15401	-97.06473	US	TX
+Denton	33.21484	-97.13307	US	TX
+Flower Mound	33.01457	-97.09696	US	TX
+Gainesville	33.62594	-97.13335	US	TX
+Highland Village	33.09179	-97.04668	US	TX

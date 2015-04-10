@@ -1,0 +1,7 @@
+Santiago de Cao	-7.95889	-79.23917	PE	13
+San Pedro de Lloc	-7.4289	-79.50416	PE	13
+Paiján	-7.73291	-79.3015	PE	13
+Pacasmayo	-7.40056	-79.57139	PE	13
+Guadalupe	-7.25	-79.48333	PE	13
+Chocope	-7.79139	-79.22167	PE	13
+Chepén	-7.22884	-79.42599	PE	13

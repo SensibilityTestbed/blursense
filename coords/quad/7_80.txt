@@ -1,0 +1,18 @@
+Wattala	6.9779	79.8898	LK	36
+Pita Kotte	6.8905	79.9015	LK	36
+Peliyagoda	6.9685	79.8836	LK	36
+Panadura	6.7132	79.9026	LK	36
+Mulleriyawa	6.933	79.9297	LK	36
+Moratuwa	6.773	79.8816	LK	36
+Maharagama	6.848	79.9265	LK	36
+Sri Jayewardenepura Kotte	6.88297	79.90708	LK	36
+Kotikawatta	6.9269	79.9095	LK	36
+Kolonnawa	6.9329	79.8848	LK	36
+Kelaniya	6.9553	79.922	LK	36
+Kalutara	6.5831	79.9593	LK	36
+Hendala	6.9909	79.883	LK	36
+Galkissa	6.8293	79.863	LK	36
+Colombo	6.93194	79.84778	LK	36
+Beruwala	6.4788	79.9828	LK	36
+Bentota	6.42598	79.99575	LK	34
+Battaramulla South	6.8964	79.9181	LK	36

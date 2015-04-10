@@ -1,0 +1,3 @@
+Saint-Malo	48.65	-2.01667	FR	A2
+Saint-Brieuc	48.51513	-2.76838	FR	A2
+Pontivy	48.06667	-2.98333	FR	A2

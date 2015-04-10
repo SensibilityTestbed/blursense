@@ -1,0 +1,4 @@
+Motozintla de Mendoza	15.36643	-92.24812	MX	05
+Mapastepec	15.43358	-92.90039	MX	05
+Huixtla	15.1402	-92.46587	MX	05
+Frontera Comalapa	15.66046	-92.14282	MX	05

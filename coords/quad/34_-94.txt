@@ -1,0 +1,3 @@
+Texarkana	33.44179	-94.03769	US	AR
+Mount Pleasant	33.15679	-94.96827	US	TX
+Texarkana	33.42513	-94.04769	US	TX

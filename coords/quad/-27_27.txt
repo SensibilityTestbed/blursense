@@ -1,0 +1,6 @@
+Wesselsbron	-27.8549	26.36583	ZA	03
+Welkom	-27.97742	26.73506	ZA	03
+Viljoenskroon	-27.20841	26.94855	ZA	03
+Kutloanong	-27.83333	26.75	ZA	03
+Bothaville	-27.3887	26.61701	ZA	03
+Allanridge	-27.75431	26.64382	ZA	03

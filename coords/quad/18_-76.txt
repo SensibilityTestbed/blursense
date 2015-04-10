@@ -1,0 +1,3 @@
+Spanish Town	17.99107	-76.95742	JM	10
+Portmore	17.95032	-76.88215	JM	10
+Kingston	17.99702	-76.79358	JM	17

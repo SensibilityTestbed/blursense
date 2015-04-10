@@ -1,0 +1,4 @@
+Yoshkar-Ola	56.63877	47.89078	RU	45
+Novocheboksarsk	56.11095	47.47755	RU	16
+Medvedevo	56.63388	47.80405	RU	45
+Cheboksary	56.13222	47.25194	RU	16

@@ -1,0 +1,7 @@
+Vertientes	21.25528	-78.15338	CU	05
+Venezuela	21.73528	-78.79639	CU	07
+Primero de Enero	21.94694	-78.42833	CU	07
+Florida	21.52472	-78.22583	CU	05
+Esmeralda	21.85155	-78.12005	CU	05
+Ciego de Ávila	21.84	-78.76194	CU	07
+Baraguá	21.68216	-78.62567	CU	07

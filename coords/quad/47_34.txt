@@ -1,0 +1,3 @@
+Nova Kakhovka	46.75451	33.34864	UA	08
+Kakhovka	46.81371	33.48698	UA	08
+Armyans’k	46.10919	33.69206	UA	11

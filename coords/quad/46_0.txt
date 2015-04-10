@@ -1,0 +1,3 @@
+Saintes	45.75	-0.63333	FR	B7
+Rochefort	45.93333	-0.98333	FR	B7
+Cognac	45.7	-0.33333	FR	B7

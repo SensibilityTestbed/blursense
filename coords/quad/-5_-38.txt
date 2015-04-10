@@ -1,0 +1,3 @@
+Morada Nova	-5.10667	-38.3725	BR	06
+Limoeiro do Norte	-5.14556	-38.09806	BR	06
+Jaguaribe	-5.89056	-38.62194	BR	06

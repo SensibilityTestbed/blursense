@@ -1,0 +1,4 @@
+Blytheville	35.9273	-89.91898	US	AR
+Bartlett	35.20453	-89.87398	US	TN
+Collierville	35.04204	-89.66453	US	TN
+Germantown	35.08676	-89.81009	US	TN

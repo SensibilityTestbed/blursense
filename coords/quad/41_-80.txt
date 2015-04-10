@@ -1,0 +1,8 @@
+Steubenville	40.36979	-80.63396	US	OH
+Bethel Park	40.32757	-80.0395	US	PA
+Mount Lebanon	40.35535	-80.0495	US	PA
+Upper Saint Clair	40.3359	-80.08339	US	PA
+Weirton	40.41896	-80.58952	US	WV
+Weirton Heights	40.4084	-80.53924	US	WV
+Wheeling	40.06396	-80.72091	US	WV
+Cranberry Township	40.68496	-80.10714	US	PA

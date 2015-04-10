@@ -1,0 +1,2 @@
+Junction City	39.02861	-96.8314	US	KS
+Manhattan	39.18361	-96.57167	US	KS

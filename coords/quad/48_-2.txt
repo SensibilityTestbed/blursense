@@ -1,0 +1,4 @@
+Vannes	47.66667	-2.75	FR	A2
+Saint-Nazaire	47.28333	-2.2	FR	B5
+Guérande	47.32911	-2.42829	FR	B5
+La Baule-Escoublac	47.29221	-2.36395	FR	B5

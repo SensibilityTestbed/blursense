@@ -1,0 +1,3 @@
+Salvaleón de Higüey	18.61501	-68.70798	DO	10
+Punta Cana	18.58182	-68.40431	DO	23
+La Romana	18.42733	-68.97285	DO	12

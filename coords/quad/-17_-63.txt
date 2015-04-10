@@ -1,0 +1,6 @@
+Warnes	-17.5	-63.16667	BO	08
+Villa Yapacaní	-17.4	-63.83333	BO	08
+Santiago del Torno	-17.98674	-63.38118	BO	08
+Santa Cruz de la Sierra	-17.78629	-63.18117	BO	08
+Montero	-17.33866	-63.2505	BO	08
+Cotoca	-17.81667	-63.05	BO	08

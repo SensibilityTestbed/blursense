@@ -1,0 +1,7 @@
+Timóteo	-19.58106	-42.64953	BR	15
+Santana do Paraíso	-19.36361	-42.56861	BR	15
+Ipatinga	-19.46833	-42.53667	BR	15
+Ipaba	-19.41361	-42.41944	BR	15
+Coronel Fabriciano	-19.51861	-42.62889	BR	15
+Caratinga	-19.78972	-42.13917	BR	15
+Belo Oriente	-19.22	-42.48361	BR	15

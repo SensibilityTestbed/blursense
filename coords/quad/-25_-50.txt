@@ -1,0 +1,6 @@
+São Mateus do Sul	-25.87417	-50.38278	BR	18
+Prudentópolis	-25.21306	-50.97778	BR	18
+Ponta Grossa	-25.095	-50.16194	BR	18
+Palmeira	-25.42944	-50.00639	BR	18
+Irati	-25.46722	-50.65111	BR	18
+Imbituva	-25.23	-50.60444	BR	18

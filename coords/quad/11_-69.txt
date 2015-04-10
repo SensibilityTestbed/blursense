@@ -1,0 +1,3 @@
+Yaritagua	10.08	-69.12611	VE	22
+Los Rastrojos	10.02588	-69.24166	VE	13
+Barquisimeto	10.07389	-69.32278	VE	13

@@ -1,0 +1,10 @@
+Tomares	37.37281	-6.04589	ES	51
+San Juan de Aznalfarache	37.35813	-6.03731	ES	51
+Moguer	37.27559	-6.83851	ES	51
+Mairena del Aljarafe	37.34461	-6.06391	ES	51
+Huelva	37.26638	-6.94004	ES	51
+Coria del Río	37.28766	-6.0541	ES	51
+Castilleja de la Cuesta	37.38594	-6.05258	ES	51
+Camas	37.40202	-6.03314	ES	51
+Bormujos	37.37358	-6.07233	ES	51
+Almonte	37.2647	-6.51667	ES	51

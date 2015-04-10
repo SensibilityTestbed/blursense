@@ -1,0 +1,3 @@
+Gustavo A. Madero	22.8694	-98.75886	MX	28
+Pánuco	22.05373	-98.18498	MX	30
+Ciudad Mante	22.74304	-98.9739	MX	28

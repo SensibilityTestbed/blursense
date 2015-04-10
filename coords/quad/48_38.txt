@@ -1,0 +1,4 @@
+Volnovakha	47.60103	37.49674	UA	05
+Mariupol	47.09514	37.54131	UA	05
+Kurakhovo	47.98522	37.2821	UA	05
+Dokuchayevs’k	47.75046	37.67936	UA	05

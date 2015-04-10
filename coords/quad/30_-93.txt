@@ -1,0 +1,3 @@
+Groves	29.94827	-93.91712	US	TX
+Nederland	29.97438	-93.9924	US	TX
+Port Arthur	29.88519	-93.94233	US	TX

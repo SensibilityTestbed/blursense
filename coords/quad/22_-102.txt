@@ -1,0 +1,9 @@
+Teocaltiche	21.43421	-102.57449	MX	14
+San Miguel el Alto	21.03011	-102.40414	MX	14
+San Juan de los Lagos	21.24891	-102.33184	MX	14
+Nochistlán	21.36545	-102.84659	MX	32
+Jesús María	21.96111	-102.34333	MX	01
+Jalostotitlán	21.16741	-102.46386	MX	14
+Encarnación de Díaz	21.52727	-102.23975	MX	14
+Calvillo	21.84583	-102.71849	MX	01
+Aguascalientes	21.88234	-102.28259	MX	01

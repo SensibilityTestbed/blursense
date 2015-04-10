@@ -1,0 +1,3 @@
+Teluk Nibung	3.001	99.8164	ID	26
+Tebingtinggi	3.3285	99.1625	ID	26
+Pekan Bahapal	3.11313	99.17352	ID	26

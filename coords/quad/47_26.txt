@@ -1,0 +1,3 @@
+Odorheiu Secuiesc	46.3	25.3	RO	20
+Miercurea-Ciuc	46.35	25.8	RO	20
+Gheorgheni	46.72292	25.60055	RO	20

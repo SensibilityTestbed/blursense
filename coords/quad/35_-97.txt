@@ -1,0 +1,2 @@
+Ardmore	34.17426	-97.14363	US	OK
+Duncan	34.5023	-97.95781	US	OK

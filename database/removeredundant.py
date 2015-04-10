@@ -27,7 +27,7 @@ for p in places:
   
 for p in placesw:
   print p
-  cmd = 'grep -iv "' + p + '" ' + infile + ' > temp && mv temp ' + infile
+  cmd = 'grep -ivw "' + p + '" ' + infile + ' > temp && mv temp ' + infile
   output, error = subprocess.Popen(cmd, shell=True, executable="/bin/bash", stdout=subprocess.PIPE, stderr=subprocess.PIPE).communicate()
   if error:
     print error

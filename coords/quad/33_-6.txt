@@ -1,0 +1,6 @@
+Oued Zem	32.8627	-6.57359	MA	50
+Khouribga	32.88108	-6.9063	MA	50
+Kasba Tadla	32.5977	-6.26844	MA	56
+Fkih Ben Salah	32.50093	-6.69062	MA	56
+Beni Mellal	32.33725	-6.34983	MA	56
+Boujniba	32.90046	-6.77464	MA	50

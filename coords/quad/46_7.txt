@@ -1,0 +1,6 @@
+Seynod	45.88549	6.08831	FR	B9
+Sallanches	45.94423	6.63162	FR	B9
+Cran-Gevrier	45.9	6.1	FR	B9
+Annecy-le-Vieux	45.91971	6.14393	FR	B9
+Annecy	45.9	6.11667	FR	B9
+Albertville	45.67452	6.39061	FR	B9

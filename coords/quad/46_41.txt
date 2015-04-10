@@ -1,0 +1,5 @@
+Tikhoretsk	45.85472	40.12528	RU	38
+Tbilisskaya	45.36333	40.19	RU	38
+Novopokrovskaya	45.95139	40.70056	RU	38
+Kropotkin	45.4375	40.57556	RU	38
+Gul’kevichi	45.35383	40.69465	RU	38

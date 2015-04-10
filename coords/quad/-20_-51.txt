@@ -1,0 +1,5 @@
+Três Lagoas	-20.78741	-51.70406	BR	11
+Pereira Barreto	-20.63833	-51.10917	BR	27
+Ilha Solteira	-20.43278	-51.3425	BR	27
+Aparecida do Taboado	-20.08667	-51.09361	BR	11
+Andradina	-20.89611	-51.37944	BR	27

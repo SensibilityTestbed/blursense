@@ -1,0 +1,5 @@
+Belleville	38.52005	-89.98399	US	IL
+Collinsville	38.67033	-89.98455	US	IL
+Edwardsville	38.81144	-89.95316	US	IL
+Fairview Heights	38.58894	-89.99038	US	IL
+O'Fallon	38.59227	-89.91121	US	IL

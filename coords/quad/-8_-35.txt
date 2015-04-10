@@ -1,0 +1,25 @@
+Vitória de Santo Antão	-8.11806	-35.29139	BR	30
+Tamandaré	-8.75632	-35.09995	BR	30
+Sirinhaém	-8.59083	-35.11611	BR	30
+São Lourenço da Mata	-8.00222	-35.01833	BR	30
+Rio Formoso	-8.66877	-35.16277	BR	30
+Ribeirão	-8.51444	-35.37778	BR	30
+Pombos	-8.14139	-35.39583	BR	30
+Palmares	-8.68333	-35.59167	BR	30
+Moreno	-8.11861	-35.09222	BR	30
+Jaboatão	-8.18028	-35.00139	BR	30
+Ipojuca	-8.39889	-35.06389	BR	30
+Gravatá	-8.20111	-35.56472	BR	30
+Glória do Goitá	-8.00167	-35.29278	BR	30
+Gameleira	-8.58444	-35.38667	BR	30
+Escada	-8.35917	-35.22361	BR	30
+Cupira	-8.61667	-35.95	BR	30
+Chã Grande	-8.23833	-35.46167	BR	30
+Catende	-8.66667	-35.71667	BR	30
+Caruaru	-8.28333	-35.97611	BR	30
+Cabo	-8.28333	-35.03333	BR	30
+Bezerros	-8.23333	-35.79694	BR	30
+Barreiros	-8.81833	-35.18639	BR	30
+Amaraji	-8.38306	-35.4525	BR	30
+Água Preta	-8.7075	-35.53056	BR	30
+Jaboatão dos Guararapes	-8.11278	-35.01472	BR	30

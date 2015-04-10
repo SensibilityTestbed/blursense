@@ -1,0 +1,2 @@
+Fredericton	45.94541	-66.66558	CA	04
+Saint John	45.27271	-66.06766	CA	04

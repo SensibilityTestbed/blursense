@@ -1,0 +1,2 @@
+Kuybyshev	55.44753	78.32181	RU	53
+Barabinsk	55.35709	78.35697	RU	53

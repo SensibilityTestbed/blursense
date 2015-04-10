@@ -1,0 +1,7 @@
+Ouro Preto	-20.39484	-43.50517	BR	15
+Ouro Branco	-20.52334	-43.69486	BR	15
+Mariana	-20.37778	-43.41611	BR	15
+Itabirito	-20.25333	-43.80139	BR	15
+Conselheiro Lafaiete	-20.66028	-43.78611	BR	15
+Congonhas	-20.50525	-43.8588	BR	15
+Carandaí	-20.95361	-43.80639	BR	15

@@ -1,0 +1,6 @@
+Reggio Calabria	38.11047	15.66129	IT	03
+Palmi	38.4069	15.87173	IT	03
+Milazzo	38.2096	15.24078	IT	15
+Messina	38.19394	15.55256	IT	15
+Gioia Tauro	38.4251	15.8975	IT	03
+Barcellona Pozzo di Gotto	38.15697	15.21276	IT	15

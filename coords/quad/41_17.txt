@@ -1,0 +1,8 @@
+Santeramo in Colle	40.79236	16.75873	IT	13
+Matera	40.66983	16.59723	IT	02
+Gravina in Puglia	40.81892	16.42148	IT	13
+Gioia del Colle	40.80415	16.92387	IT	13
+Ginosa	40.5769	16.75655	IT	13
+Casamassima	40.95653	16.92075	IT	13
+Altamura	40.82664	16.54952	IT	13
+Acquaviva delle Fonti	40.89704	16.8433	IT	13

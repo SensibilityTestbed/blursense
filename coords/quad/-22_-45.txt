@@ -1,0 +1,10 @@
+Tremembé	-22.95833	-45.54944	BR	27
+São Lourenço	-22.11639	-45.05444	BR	15
+Santa Rita do Sapucaí	-22.25222	-45.70333	BR	15
+Pouso Alegre	-22.23	-45.93639	BR	15
+Pindamonhangaba	-22.92389	-45.46167	BR	27
+Lorena	-22.73083	-45.12472	BR	27
+Itajubá	-22.42556	-45.45278	BR	15
+Guaratinguetá	-22.81639	-45.1925	BR	27
+Campos do Jordão	-22.73944	-45.59139	BR	27
+Aparecida	-22.84694	-45.22972	BR	27

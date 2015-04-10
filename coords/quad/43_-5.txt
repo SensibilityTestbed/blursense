@@ -1,0 +1,4 @@
+Villaquilambre	42.64685	-5.55835	ES	55
+San Andrés del Rabanedo	42.61174	-5.61671	ES	55
+León	42.60003	-5.57032	ES	55
+Benavente	42.00249	-5.67826	ES	55

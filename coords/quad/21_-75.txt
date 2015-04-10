@@ -1,0 +1,8 @@
+Santiago de Cuba	20.02472	-75.82194	CU	15
+San Luis	20.1875	-75.85083	CU	15
+Sagua de Tánamo	20.58194	-75.24139	CU	12
+Río Guayabal de Yateras	20.36667	-75.01667	CU	10
+Palma Soriano	20.21238	-75.99843	CU	15
+Guantánamo	20.14444	-75.20917	CU	10
+Cueto	20.64511	-75.9402	CU	12
+Banes	20.9625	-75.71861	CU	12

@@ -1,0 +1,8 @@
+Vargem Grande do Sul	-21.83222	-46.89361	BR	27
+São José do Rio Pardo	-21.59556	-46.88861	BR	27
+São João da Boa Vista	-21.96917	-46.79806	BR	27
+Poços de Caldas	-21.78778	-46.56139	BR	15
+Muzambinho	-21.37583	-46.52556	BR	15
+Monte Santo de Minas	-21.18972	-46.98028	BR	15
+Guaxupé	-21.30528	-46.71278	BR	15
+Guaranésia	-21.29917	-46.8025	BR	15

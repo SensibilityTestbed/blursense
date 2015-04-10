@@ -1,0 +1,5 @@
+Santo Domingo Tehuantepec	16.32463	-95.24104	MX	20
+Salina Cruz	16.18405	-95.20143	MX	20
+Matías Romero	16.87902	-95.03939	MX	20
+Juchitán de Zaragoza	16.43603	-95.01975	MX	20
+San Jerónimo Ixtepec	16.57855	-95.10223	MX	20

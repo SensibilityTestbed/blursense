@@ -1,0 +1,7 @@
+Tula de Allende	20.05161	-99.34397	MX	13
+Tezontepec de Aldama	20.19073	-99.27429	MX	13
+Tequisquiapan	20.5225	-99.89167	MX	22
+San Juan del Río	20.3878	-99.99605	MX	22
+Progreso de Alvaro Obregon	20.24929	-99.18988	MX	13
+Mixquiahuala de Juarez	20.23031	-99.21396	MX	13
+Ixmiquilpan	20.47841	-99.21697	MX	13

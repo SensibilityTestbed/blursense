@@ -1,0 +1,4 @@
+Venâncio Aires	-29.60639	-52.19194	BR	23
+Santa Cruz do Sul	-29.7175	-52.42583	BR	23
+Rio Pardo	-29.98972	-52.37806	BR	23
+Candelária	-29.66917	-52.78889	BR	23

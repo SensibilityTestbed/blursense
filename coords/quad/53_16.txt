@@ -1,0 +1,4 @@
+Świebodzin	52.24751	15.53355	PL	76
+Sulechów	52.08362	15.62513	PL	76
+Międzyrzecz	52.44461	15.57801	PL	76
+Gorzów Wielkopolski	52.73679	15.22878	PL	76

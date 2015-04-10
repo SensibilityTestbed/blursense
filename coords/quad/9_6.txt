@@ -1,0 +1,4 @@
+Patigi	8.72851	5.75561	NG	30
+Lafiagi	8.85299	5.41641	NG	30
+Isanlu Itedoijowa	8.26667	5.83333	NG	41
+Egbe	8.21667	5.51667	NG	41

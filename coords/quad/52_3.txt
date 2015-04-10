@@ -1,0 +1,8 @@
+Ostend	51.21551	2.927	BE	VLG
+Middelkerke	51.18532	2.82077	BE	VLG
+Koksijde	51.11642	2.63772	BE	VLG
+Diksmuide	51.03248	2.86384	BE	VLG
+Saint-Pol-sur-Mer	51.03116	2.33983	FR	B4
+Grande-Synthe	51.0154	2.29975	FR	B4
+Dunkerque	51.03297	2.377	FR	B4
+Coudekerque-Branche	51.02288	2.39359	FR	B4

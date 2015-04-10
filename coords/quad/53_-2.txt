@@ -1,0 +1,26 @@
+Worcester	52.18935	-2.22001	GB	ENG
+Wolverhampton	52.58547	-2.12296	GB	ENG
+Willenhall	52.58514	-2.05934	GB	ENG
+Wellington	52.7	-2.51667	GB	ENG
+Wednesfield	52.5963	-2.08508	GB	ENG
+Wednesbury	52.5514	-2.02355	GB	ENG
+Tipton	52.52956	-2.06773	GB	ENG
+Stourport-on-Severn	52.35	-2.26667	GB	ENG
+Stourbridge	52.45608	-2.14317	GB	ENG
+Stafford	52.80521	-2.11636	GB	ENG
+Shrewsbury	52.71009	-2.75208	GB	ENG
+Ryton	52.61667	-2.35	GB	ENG
+Newcastle under Lyme	53	-2.23333	GB	ENG
+Kingswinford	52.49755	-2.16889	GB	ENG
+Kidderminster	52.38819	-2.25	GB	ENG
+Hereford	52.05684	-2.71482	GB	ENG
+Halesowen	52.44859	-2.04938	GB	ENG
+Great Wyrley	52.66277	-2.01111	GB	ENG
+Great Malvern	52.11161	-2.32515	GB	ENG
+Dudley	52.5	-2.08333	GB	ENG
+Droitwich	52.26667	-2.15	GB	ENG
+Cannock	52.69045	-2.03085	GB	ENG
+Bromsgrove	52.33574	-2.05983	GB	ENG
+Brierley Hill	52.48173	-2.12139	GB	ENG
+Bloxwich	52.61806	-2.00431	GB	ENG
+Telford	52.67659	-2.44926	GB	ENG

@@ -1,0 +1,6 @@
+Sonthofen	47.51821	10.28262	DE	02
+Memmingen	47.98372	10.18527	DE	02
+Marktoberdorf	47.77964	10.61713	DE	02
+Leutkirch im Allgäu	47.82672	10.0205	DE	01
+Kempten (Allgäu)	47.72674	10.31389	DE	02
+Kaufbeuren	47.88238	10.62192	DE	02

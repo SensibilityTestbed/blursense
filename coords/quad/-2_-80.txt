@@ -1,0 +1,4 @@
+Santa Elena	-2.22622	-80.85873	EC	25
+Salinas	-2.21452	-80.95151	EC	25
+Playas	-2.63199	-80.38808	EC	10
+La Libertad	-2.233	-80.91039	EC	10

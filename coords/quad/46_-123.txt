@@ -1,0 +1,2 @@
+Forest Grove	45.51984	-123.11066	US	OR
+McMinnville	45.21012	-123.19872	US	OR

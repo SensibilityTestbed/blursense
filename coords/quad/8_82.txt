@@ -1,0 +1,5 @@
+Kalmunai	7.40902	81.83472	LK	37
+Eravur Town	7.7782	81.6038	LK	37
+Batticaloa	7.7102	81.6924	LK	37
+Ampara	7.29754	81.68202	LK	37
+Shanjeev Home	7.38216	81.84198	LK	37

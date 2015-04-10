@@ -1,0 +1,17 @@
+Zweibrücken	49.24686	7.36977	DE	08
+Sulzbach	49.29882	7.05696	DE	09
+Schiffweiler	49.36667	7.13333	DE	09
+Sankt Wendel	49.46633	7.16814	DE	09
+Sankt Ingbert	49.27697	7.11672	DE	09
+Pirmasens	49.20145	7.60529	DE	08
+Ottweiler	49.40133	7.16424	DE	09
+Neunkirchen	49.34449	7.18045	DE	09
+Kaiserslautern	49.443	7.77161	DE	08
+Illingen	49.37362	7.04758	DE	09
+Idar-Oberstein	49.71443	7.30776	DE	08
+Homburg	49.32637	7.33867	DE	09
+Blieskastel	49.23724	7.25617	DE	09
+Bingen am Rhein	49.96675	7.8992	DE	08
+Bexbach	49.34615	7.25527	DE	09
+Bad Kreuznach	49.8414	7.86713	DE	08
+Sarreguemines	49.10995	7.06747	FR	B2

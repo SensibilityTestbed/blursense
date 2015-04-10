@@ -1,0 +1,2 @@
+Rome	34.25704	-85.16467	US	GA
+East Brainerd	34.99591	-85.15023	US	TN

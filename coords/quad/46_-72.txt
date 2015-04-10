@@ -1,0 +1,4 @@
+Drummondville	45.88336	-72.48241	CA	10
+Granby	45.40008	-72.73243	CA	10
+Magog	45.26678	-72.14909	CA	10
+Saint-Hyacinthe	45.63076	-72.95699	CA	10

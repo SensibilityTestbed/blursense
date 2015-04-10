@@ -1,0 +1,6 @@
+Puerto Iguazú	-25.59912	-54.57355	AR	14
+São Miguel do Iguaçu	-25.34806	-54.23778	BR	18
+Medianeira	-25.29528	-54.09389	BR	18
+Foz do Iguaçu	-25.54778	-54.58806	BR	18
+Presidente Franco	-25.53333	-54.61667	PY	01
+Ciudad del Este	-25.50972	-54.61111	PY	01

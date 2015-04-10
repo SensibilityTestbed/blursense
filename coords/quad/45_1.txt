@@ -1,0 +1,4 @@
+Villeneuve-sur-Lot	44.40854	0.70415	FR	97
+Marmande	44.5	0.16667	FR	97
+Bergerac	44.85	0.48333	FR	97
+Agen	44.2	0.63333	FR	97

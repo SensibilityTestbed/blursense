@@ -1,0 +1,3 @@
+Castries	13.9957	-61.00614	LC	03
+Kingstown	13.15872	-61.22475	VC	04
+Kingstown Park	13.15833	-61.235	VC	04

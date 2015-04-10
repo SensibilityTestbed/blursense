@@ -1,0 +1,4 @@
+Wilmington Island	32.00355	-80.97372	US	GA
+Goose Creek	32.98101	-80.03259	US	SC
+Hanahan	32.91851	-80.02203	US	SC
+Hilton Head Island	32.21632	-80.75261	US	SC

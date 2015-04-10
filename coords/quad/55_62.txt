@@ -1,0 +1,4 @@
+Yuzhnoural’sk	54.4418	61.2536	RU	13
+Yemanzhelinsk	54.75472	61.32083	RU	13
+Troitsk	54.0979	61.5773	RU	13
+Korkino	54.8913	61.3969	RU	13

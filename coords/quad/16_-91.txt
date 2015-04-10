@@ -1,0 +1,6 @@
+Santa Cruz del Quiché	15.03056	-91.14889	GT	14
+Nebaj	15.40583	-91.14611	GT	14
+Momostenango	15.04361	-91.40861	GT	21
+Jacaltenango	15.66667	-91.73333	GT	08
+Huehuetenango	15.31972	-91.47083	GT	08
+Comitancillo	15.08333	-91.71667	GT	17

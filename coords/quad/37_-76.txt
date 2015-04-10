@@ -1,0 +1,8 @@
+Elizabeth City	36.2946	-76.25105	US	NC
+Chesapeake	36.81904	-76.27494	US	VA
+Newport News	36.97876	-76.428	US	VA
+Norfolk	36.84681	-76.28522	US	VA
+Portsmouth	36.83543	-76.29827	US	VA
+Portsmouth Heights	36.82098	-76.36883	US	VA
+South Suffolk	36.71709	-76.59023	US	VA
+Suffolk	36.72836	-76.58496	US	VA

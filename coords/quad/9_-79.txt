@@ -1,0 +1,6 @@
+Vista Alegre	8.93333	-79.7	PA	08
+Veracruz	8.88333	-79.63333	PA	08
+Panamá	8.9936	-79.51973	PA	08
+Nuevo Arraiján	8.91667	-79.71667	PA	08
+La Chorrera	8.88028	-79.78333	PA	08
+Arraiján	8.95	-79.65	PA	08

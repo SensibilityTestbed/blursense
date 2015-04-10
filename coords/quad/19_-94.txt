@@ -1,0 +1,5 @@
+Villa Nanchital	18.07117	-94.40756	MX	30
+Coatzacoalcos	18.13346	-94.44242	MX	30
+Allende	18.15514	-94.39289	MX	30
+Agua Dulce	18.13909	-94.14527	MX	30
+Fraccionamiento Ciudad Olmeca	18.15056	-94.5525	MX	30

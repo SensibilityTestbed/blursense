@@ -1,0 +1,3 @@
+Cedar Falls	42.52776	-92.44547	US	IA
+Marshalltown	42.04943	-92.90798	US	IA
+Waterloo	42.49276	-92.34296	US	IA

@@ -1,0 +1,2 @@
+Norfolk County	42.8334	-80.38297	CA	08
+Erie	42.12922	-80.08506	US	PA

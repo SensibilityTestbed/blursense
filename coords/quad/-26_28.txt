@@ -1,0 +1,12 @@
+Roodepoort	-26.1625	27.8725	ZA	06
+Westonaria	-26.31905	27.6486	ZA	06
+Vereeniging	-26.67313	27.92615	ZA	06
+Vanderbijlpark	-26.71171	27.83795	ZA	06
+Soweto	-26.26781	27.85849	ZA	06
+Sasolburg	-26.81358	27.81695	ZA	03
+Randfontein	-26.1844	27.70203	ZA	06
+Potchefstroom	-26.71667	27.1	ZA	10
+Parys	-26.9033	27.45727	ZA	03
+Krugersdorp	-26.08577	27.77515	ZA	06
+Fochville	-26.48862	27.49387	ZA	10
+Carletonville	-26.36094	27.39767	ZA	06

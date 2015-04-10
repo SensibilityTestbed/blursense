@@ -1,0 +1,5 @@
+Votuporanga	-20.42278	-49.97278	BR	27
+Tanabi	-20.62639	-49.64917	BR	27
+São José do Rio Preto	-20.81972	-49.37944	BR	27
+Nova Granada	-20.53389	-49.31417	BR	27
+Monte Aprazível	-20.7725	-49.71417	BR	27

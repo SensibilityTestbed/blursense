@@ -1,0 +1,3 @@
+Uvarovo	51.98486	42.26147	RU	72
+Povorino	51.1945	42.2457	RU	86
+Borisoglebsk	51.36713	42.08494	RU	86

@@ -1,0 +1,5 @@
+Migori	-1.06343	34.47313	KE	36
+Tarime	-1.35	34.36667	TZ	08
+Sirari	-1.25367	34.47596	TZ	08
+Nyamuswa	-1.9	34.01667	TZ	08
+Mugumu	-1.85	34.7	TZ	08

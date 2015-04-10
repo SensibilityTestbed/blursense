@@ -1,0 +1,6 @@
+Vettūr	8.7	76.73333	IN	13
+Varkala	8.7333	76.7167	IN	13
+Thiruvananthapuram	8.4855	76.94924	IN	13
+Kollam	8.88113	76.58469	IN	13
+Paravūr	8.78333	76.7	IN	13
+Attingal	8.69282	76.81518	IN	13
