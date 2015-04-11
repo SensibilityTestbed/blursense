@@ -1,0 +1,3888 @@
+AD.06	Sant Julia de Loria	42.46247	1.48247
+AD.05	Ordino	42.59758	1.52573
+AD.04	La Massana	42.55417	1.48333
+AD.03	Encamp	42.53333	1.63333
+AD.02	Canillo	42.58333	1.65833
+AD.07	Andorra la Vella	42.5045	1.49414
+AD.08	Escaldes-Engordany	42.5	1.56667
+AE.07	Umm al Qaywayn	25.5	55.75
+AE.05	Ra's al Khaymah	25.66667	56
+AE.03	Dubai	25	55.33333
+AE.06	Ash Shariqah	25	55.75
+AE.04	Al Fujayrah	25.13333	56.25
+AE.02	Ajman	25.38333	55.51667
+AE.01	Abu Dhabi	23.66667	54
+AF.28	Zabul	32.25	67.25
+AF.27	Vardak	34.25	68
+AF.26	Takhar	36.66667	69.75
+AF.33	Sar-e Pol	35.83333	66.16667
+AF.32	Samangan	36	67.66667
+AF.40	Parvan	35	68.91667
+AF.29	Paktika	32.41667	68.75
+AF.36	Paktia	33.66667	69.33333
+AF.39	Oruzgan	32.83333	66
+AF.19	Nimruz	31	62.5
+AF.18	Nangarhar	34.33333	70.41667
+AF.17	Lowgar	34	69.25
+AF.35	Laghman	34.78333	70.18333
+AF.24	Kunduz	36.75	68.75
+AF.34	Konar	34.95	71.13333
+AF.14	Kapisa	35	69.58333
+AF.23	Kandahar	31	65.75
+AF.13	Kabul	34.5	69.41667
+AF.31	Jowzjan	36.83333	65.83333
+AF.11	Herat	34.5	62
+AF.10	Helmand	31	64
+AF.09	Ghowr	34	65
+AF.08	Ghazni	33.33333	67.75
+AF.07	Faryab	36.25	64.83333
+AF.06	Farah	32.5	62.5
+AF.05	Bamian	34.75	67.25
+AF.30	Balkh	36.75	67
+AF.03	Wilayat-e Baghlan	35.75	69
+AF.02	Badghis	35	63.75
+AF.01	Badakhshan	36.75	72
+AF.37	Khowst	33.38333	69.88333
+AF.38	Nurestan	35.3	70.83333
+AF.41	Daykundi	33.75	66.25
+AF.42	Panjshir	35.40248	69.98291
+AG.08	Saint Philip	17.05	-61.71667
+AG.07	Saint Peter	17.1	-61.76667
+AG.06	Saint Paul	17.03333	-61.76667
+AG.05	Saint Mary	17.05	-61.85
+AG.04	Saint John	17.1	-61.85
+AG.03	Saint George	17.11667	-61.8
+AG.09	Redonda	16.92956	-62.34741
+AG.01	Barbuda	17.63333	-61.8
+AL.40	Berat	40.63333	20.08333
+AL.41	Diber	41.6	20.23333
+AL.43	Elbasan	41.06667	20.2
+AL.45	Gjirokaster	40.21667	20.2
+AL.46	Korce	40.61667	20.66667
+AL.47	Kukes	42.2	20.36667
+AL.42	Durres	41.48333	19.61667
+AL.44	Fier	40.76667	19.61667
+AL.48	Lezhe	41.8	19.86667
+AL.49	Shkoder	42.18333	19.75
+AL.50	Tirane	41.26667	19.78333
+AL.51	Vlore	40.16667	19.8
+AM.02	Ararat	39.91667	44.83333
+AM.08	Syunik'i Marz	39.33333	46.25
+AM.10	Vayots' Dzori Marz	39.75	45.41667
+AM.11	Yerevan	40.18333	44.5
+AM.01	Aragatsotn	40.41667	44.16667
+AM.03	Armavir	40.11667	44
+AM.04	Geghark'unik'i Marz	40.25	45.41667
+AM.05	Kotayk'i Marz	40.41667	44.75
+AM.06	Lorri	41	44.5
+AM.07	Shirak	40.75	43.83333
+AM.09	Tavush	40.91667	45.16667
+AO.18	Lunda Sul	-10.25918	20.62489
+AO.17	Lunda Norte	-8.63543	19.64852
+AO.14	Moxico	-12.84869	20.93266
+AO.04	Cuando Cubango	-15.94761	19.3832
+AO.16	Zaire	-6.58717	13.51966
+AO.15	Uige	-7.10719	15.44056
+AO.12	Malanje	-9.67548	16.82553
+AO.20	Luanda	-8.91667	13.33924
+AO.05	Cuanza Norte	-8.91136	14.8887
+AO.03	Cabinda	-4.93423	12.40532
+AO.19	Bengo	-8.97504	13.82743
+AO.13	Namibe	-15.33207	12.66002
+AO.09	Huila	-14.69531	15.00014
+AO.08	Huambo	-12.5	15.66667
+AO.07	Cunene	-16.51009	15.43526
+AO.06	Cuanza Sul	-10.82696	15.03197
+AO.02	Bie	-12.34989	17.3031
+AO.01	Benguela	-12.85399	13.92825
+AR.14	Misiones	-26.81427	-54.34387
+AR.09	Formosa	-25	-60
+AR.07	Buenos Aires F.D.	-34.6	-58.45
+AR.08	Entre Rios	-32	-59
+AR.06	Corrientes	-29	-58
+AR.01	Buenos Aires	-36	-60
+AR.24	Tucuman	-27	-65.5
+AR.23	Tierra del Fuego	-54.5	-67
+AR.22	Santiago del Estero	-28	-63.5
+AR.21	Santa Fe	-31	-61
+AR.20	Santa Cruz	-49	-70
+AR.19	San Luis	-34	-66
+AR.18	San Juan	-31	-69
+AR.17	Salta	-24.75806	-65.43457
+AR.16	Rio Negro	-40	-67
+AR.15	Neuquen	-39	-70
+AR.13	Mendoza	-34.5	-68.5
+AR.12	La Rioja	-29.58333	-67
+AR.11	La Pampa	-37	-66
+AR.10	Jujuy	-23	-66
+AR.05	Cordoba	-32	-64
+AR.04	Chubut	-44	-69
+AR.03	Chaco	-26.33333	-60.5
+AR.02	Catamarca	-27	-67
+AS.050	Western District	-14.31667	-170.76667
+AS.040	Swains Island	-11.056	-171.082
+AS.010	Eastern District	-14.26667	-170.65
+AS.020	Manu'a	-14.23327	-169.47458
+AS.030	Rose Island	-14.54583	-168.15
+AT.09	Vienna	48.2082	16.37169
+AT.08	Vorarlberg	47.25	9.91667
+AT.07	Tyrol	47.25	11.33333
+AT.06	Styria	47.25	15.16667
+AT.05	Salzburg	47.41667	13.25
+AT.04	Upper Austria	48.25	14
+AT.03	Lower Austria	48.33333	15.75
+AT.02	Carinthia	46.75	13.83333
+AT.01	Burgenland	47.5	16.41667
+AU.08	Western Australia	-25	122
+AU.05	South Australia	-30	135
+AU.03	Northern Territory	-20	134
+AU.07	Victoria	-37	145
+AU.06	Tasmania	-42	147
+AU.04	Queensland	-20	145
+AU.02	New South Wales	-33	146
+AU.01	Australian Capital Territory	-35.5	149
+AX.211	Mariehamns stad	60.08348	19.94307
+AX.212	Alands landsbygd	60.22496	19.93363
+AX.213	Alands skaergard	60.17575	20.71799
+AZ.12	Beylaqan	39.75	47.66667
+AZ.69	Zangilan Rayon	39.08333	46.66667
+AZ.66	Yardimli	38.91667	48.25
+AZ.55	Susa	39.66667	46.66667
+AZ.49	Salyan	39.66667	49
+AZ.46	Sabirabad	39.91667	48.66667
+AZ.45	Saatli	39.83333	48.41667
+AZ.13	Bilasuvar Rayon	39.5	48.41667
+AZ.36	Neftcala	39.33333	49
+AZ.35	Nakhichevan	39.20991	45.41817
+AZ.32	Masally	39	48.66667
+AZ.31	Lerik	38.75	48.41667
+AZ.29	Lankaran	38.70071	48.75551
+AZ.28	Lacin	39.65073	46.39913
+AZ.43	Qubadli	39.33333	46.58333
+AZ.24	Imisli	39.83333	48.08333
+AZ.18	Fuezuli	39.58333	47.33333
+AZ.14	Cabrayil Rayonu	39.33333	47
+AZ.15	Jalilabad	39.25	48.5
+AZ.08	Astara	38.5	48.66667
+AZ.64	Xocali	39.83333	46.75
+AZ.02	Aghjabadi Rayon	40	47.41667
+AZ.03	Agdam	40	47
+AZ.07	Shirvan	39.95093	48.89938
+AZ.30	Lankaran Sahari	38.73333	48.83333
+AZ.56	Shusha	39.75	46.75
+AZ.57	Tartar Rayon	40.33054	46.94289
+AZ.61	Xankandi Sahari	39.81744	46.75318
+AZ.65	Xocavand Rayonu	39.66667	47
+AZ.71	Zardab	40.25	47.75
+AZ.70	Zaqatala	41.58333	46.66667
+AZ.67	Yevlax	40.66667	47
+AZ.37	Oguz	41.08333	47.5
+AZ.59	Ucar	40.41667	47.75
+AZ.58	Tovuz	41	45.75
+AZ.50	Samaxi	40.58333	48.66667
+AZ.47	Shaki Rayon	41.08333	47.16667
+AZ.51	Shamkir Rayon	40.83333	46.08333
+AZ.27	Kurdamir Rayon	40.25	48.16667
+AZ.38	Qabala Rayon	40.91667	47.83333
+AZ.44	Qusar	41.41667	48.25
+AZ.42	Quba	41.16667	48.41667
+AZ.62	Goygol Rayon	40.5	46.33333
+AZ.60	Xacmaz	41.58333	48.75
+AZ.26	Kalbacar Rayonu	40.1027	46.1747
+AZ.40	Qazax	41.26	45.09
+AZ.21	Goranboy	40.58333	46.66667
+AZ.39	Qakh Rayon	41.33333	46.75
+AZ.25	Ismayilli	40.83333	48.16667
+AZ.22	Goeycay	40.58333	47.83333
+AZ.17	Shabran	41.16667	48.91667
+AZ.16	Dashkasan Rayon	40.41667	46
+AZ.10	Balakan Rayon	41.75	46.41667
+AZ.11	Barda Rayon	40.33333	47.16667
+AZ.09	Baki	40.39528	49.88222
+AZ.01	Abseron	40.41667	49.33333
+AZ.06	Agsu	40.5	48.33333
+AZ.04	Agdas	40.58333	47.41667
+AZ.19	Gadabay Rayon	40.5	45.66667
+AZ.05	Agstafa	41.25	45.5
+AZ.20	Ganja City	40.65	46.35
+AZ.33	Mingacevir City	40.76667	47
+AZ.34	Naftalan	40.50525	46.81163
+AZ.41	Qobustan	40.5	49
+AZ.52	Samux	40.91667	46.41667
+AZ.48	Shaki City	41.18333	47.16667
+AZ.53	Siazan Rayon	41	49.08333
+AZ.54	Sumqayit	40.59466	49.62799
+AZ.63	Xizi	40.75	49.16667
+AZ.68	Yevlax City	40.58333	47.16667
+AZ.23	Haciqabul	40.08333	48.91667
+AZ.75	Nakhchivan	39.2	45.41667
+BA.01	Federation of Bosnia and Herzegovina	44	17.58333
+BA.02	Republika Srpska	44.93333	17.18333
+BA.BRC	Brcko	44.83333	18.83333
+BB.11	Saint Thomas	13.18333	-59.58333
+BB.10	Saint Philip	13.11667	-59.46667
+BB.09	Saint Peter	13.25	-59.61667
+BB.08	Saint Michael	13.11667	-59.6
+BB.07	Saint Lucy	13.3	-59.61667
+BB.06	Saint Joseph	13.2	-59.53333
+BB.05	Saint John	13.16667	-59.48333
+BB.04	Saint James	13.21667	-59.61667
+BB.03	Saint George	13.13333	-59.53333
+BB.02	Saint Andrew	13.23333	-59.56667
+BB.01	Christ Church	13.08333	-59.53333
+BD.83	Rajshahi	25	89
+BD.81	Dhaka	24.16667	90.41667
+BD.84	Chittagong	22.91667	91.5
+BD.82	Khulna	22.91667	89.25
+BD.85	Barisal	22.5	90.33333
+BD.86	Sylhet	24.5	91.66667
+BD.87	Rangpur Division	25.83333	89
+BE.BRU	Brussels Capital	50.85332	4.35144
+BE.WAL	Wallonia	50.5	4.75
+BE.VLG	Flanders	51	4.5
+BF.01	Boucle du Mouhoun	12.47203	-3.47305
+BF.02	Cascades	10.38	-4.5
+BF.03	Centre	12.37874	-1.53276
+BF.04	Centre-Est	11.78922	-0.35706
+BF.05	Centre-Nord	13.09829	-1.0855
+BF.06	Centre-Ouest	12.25488	-2.36876
+BF.07	Centre-Sud	11.67132	-1.07374
+BF.08	Est	12.06308	0.36349
+BF.09	High-Basins	11.28	-4.32
+BF.10	Nord	13.58809	-2.4212
+BF.11	Plateau-Central	12.58774	-1.30102
+BF.12	Sahel	14.03351	-0.04575
+BF.13	Southwest	10.5	-3.2
+BG.52	Razgrad	43.63333	26.51667
+BG.47	Montana	43.5	23.18333
+BG.64	Vratsa	43.41667	23.81667
+BG.61	Varna	43.21667	27.6
+BG.40	Dobrich	43.68333	27.9
+BG.58	Sofiya	42.65	23.63333
+BG.53	Ruse	43.7	26
+BG.51	Plovdiv	42.26667	24.83333
+BG.50	Pleven	43.5	24.63333
+BG.49	Pernik	42.63333	22.88333
+BG.48	Pazardzhik	42.08333	24.16667
+BG.46	Lovech	43.06667	24.58333
+BG.43	Khaskovo	41.76667	25.93333
+BG.42	Sofia-Capital	42.66	23.36
+BG.39	Burgas	42.6	27.3
+BG.38	Blagoevgrad	41.76667	23.51667
+BG.41	Gabrovo	43	25.26667
+BG.44	Kurdzhali	41.58333	25.46667
+BG.45	Kyustendil	42.38333	22.96667
+BG.54	Shumen	43.33333	27
+BG.55	Silistra	43.93333	27.05
+BG.56	Sliven	42.66667	26.28333
+BG.57	Smolyan	41.61667	24.65
+BG.59	Stara Zagora	42.48333	25.6
+BG.60	Turgovishte	43.26667	26.38333
+BG.62	Veliko Turnovo	43.23333	25.65
+BG.63	Vidin	43.81667	22.71667
+BG.65	Yambol	42.33333	26.63333
+BH.15	Muharraq	26.25	50.61667
+BH.16	Manama	26.21667	50.58333
+BH.17	Southern Governorate	25.86667	50.58333
+BH.18	Central Governorate	26.16667	50.56667
+BH.19	Northern	26.15	50.46667
+BI.17	Makamba	-4.16667	29.75278
+BI.10	Bururi	-3.85	29.63333
+BI.22	Muramvya	-3.25	29.66667
+BI.13	Gitega	-3.5	29.95
+BI.21	Ruyigi	-3.45	30.31667
+BI.11	Cankuzo	-3.13333	30.58333
+BI.14	Karuzi	-3.125	30.13333
+BI.09	Bubanza	-3.11667	29.4
+BI.12	Cibitoke	-2.88333	29.25
+BI.19	Ngozi	-2.875	29.925
+BI.15	Kayanza	-3.06667	29.66667
+BI.18	Muyinga	-2.83333	30.33333
+BI.16	Kirundo	-2.58333	30.16667
+BI.20	Rutana	-3.86667	30.1
+BI.23	Mwaro	-3.5	29.66667
+BI.24	Bujumbura Mairie	-3.3802	29.3547
+BI.25	Bujumbura Rural	-3.4627	29.46259
+BJ.18	Zou	7.25	2.16667
+BJ.16	Queme	6.61667	2.51667
+BJ.15	Mono	6.58333	1.83333
+BJ.10	Borgou	9.75	2.75
+BJ.09	Atlantique	6.66667	2.25
+BJ.08	Atakora	10.75	1.66667
+BJ.07	Alibori	11.33333	2.91667
+BJ.11	Collines	8	2.16667
+BJ.12	Kouffo	7.08333	1.83333
+BJ.13	Donga	9.33333	1.78333
+BJ.14	Littoral	6.36667	2.41667
+BJ.17	Plateau	7.16667	2.58333
+BM.11	Warwick	32.26583	-64.80722
+BM.10	Southampton	32.25083	-64.85639
+BM.09	Smith's Parish	32.31528	-64.73528
+BM.08	Sandys	32.29345	-64.86828
+BM.07	Saint George's Parish	32.3726	-64.69437
+BM.06	Saint George	32.38417	-64.67639
+BM.05	Pembroke	32.29944	-64.79278
+BM.04	Paget	32.27833	-64.78167
+BM.02	Hamilton Parish	32.34222	-64.72833
+BM.03	Hamilton city	32.29326	-64.78063
+BM.01	Devonshire	32.30278	-64.75583
+BN.04	Tutong	4.58333	114.66667
+BN.03	Temburong	4.58333	115.16667
+BN.02	Brunei and Muara	4.83333	114.91667
+BN.01	Belait	4.41667	114.58333
+BO.09	Tarija	-21.5	-64
+BO.08	Santa Cruz	-17.5	-61.5
+BO.07	Potosi	-20.66667	-67
+BO.06	Pando	-11.33333	-67.66667
+BO.05	Oruro	-18.66667	-67.5
+BO.04	La Paz	-15.5	-68
+BO.02	Cochabamba	-17.5	-65.66667
+BO.01	Chuquisaca	-20	-64.33333
+BO.03	El Beni	-14	-65.5
+BQ.BO	Bonaire	12.2	-68.25
+BQ.SB	Saba	17.63333	-63.23333
+BQ.SE	Sint Eustatius	17.5	-62.96667
+BR.22	Rio Grande do Norte	-5.75	-36.5
+BR.20	Piaui	-7.25	-42.33333
+BR.30	Pernambuco	-8.33333	-37.75
+BR.17	Paraiba	-7.25	-36.5
+BR.16	Para	-4	-53
+BR.13	Maranhao	-5	-45
+BR.06	Ceara	-5	-39.5
+BR.03	Amapa	1	-52
+BR.02	Alagoas	-9.58333	-36.41667
+BR.28	Sergipe	-10.5	-37.33333
+BR.27	Sao Paulo	-22	-49
+BR.26	Santa Catarina	-27	-50
+BR.23	Rio Grande do Sul	-30	-53.5
+BR.21	Rio de Janeiro	-22.25	-42.5
+BR.18	Parana	-24.5	-51.33333
+BR.15	Minas Gerais	-18	-44
+BR.11	Mato Grosso do Sul	-20.5	-55
+BR.14	Mato Grosso	-13	-56
+BR.29	Goias	-15.58071	-49.63623
+BR.07	Federal District	-15.75	-47.75
+BR.08	Espirito Santo	-20	-40.75
+BR.05	Bahia	-12	-42
+BR.31	Tocantins	-10.5	-48
+BR.25	Roraima	2.25	-61.25
+BR.04	Amazonas	-3.75	-64.5
+BR.01	Acre	-9	-70
+BR.24	Rondonia	-11	-63
+BS.35	San Salvador	24.03667	-74.49306
+BS.18	Ragged Island	22.37083	-75.815
+BS.32	Berry Islands	25.72111	-77.83139
+BS.23	New Providence	25.03333	-77.28333
+BS.16	Mayaguana	22.38417	-72.95389
+BS.15	Long Island	23.21667	-75.11167
+BS.13	Inagua	21.07694	-73.31167
+BS.22	Harbour Island	25.48946	-76.63513
+BS.25	Freeport	26.52028	-78.64528
+BS.10	Exuma	23.56944	-75.88417
+BS.06	Cat Island	24.335	-75.4575
+BS.05	Bimini	25.70444	-79.28889
+BS.24	Acklins	22.43167	-73.96417
+BS.36	Black Point	24.09	-76.39556
+BS.37	Central Abaco	26.43917	-77.12972
+BS.38	Central Andros	24.43889	-77.95194
+BS.39	Central Eleuthera	25.135	-76.14556
+BS.40	Crooked Island and Long Cay	22.73361	-74.21528
+BS.41	East Grand Bahama	26.67167	-78.14139
+BS.42	Grand Cay	27.22917	-78.33056
+BS.43	Hope Town	26.77111	-77.32889
+BS.44	Mangrove Cay	24.16	-77.78028
+BS.45	Moore's Island	26.30083	-77.55417
+BS.46	North Abaco	26.78944	-77.43694
+BS.47	North Andros	24.76694	-78.09611
+BS.48	North Eleuthera	25.46278	-76.67556
+BS.49	Rum Cay	23.67806	-74.85667
+BS.50	South Abaco	26.04694	-77.24361
+BS.51	South Andros	23.92361	-77.64889
+BS.52	South Eleuthera	24.80083	-76.18306
+BS.53	Spanish Wells	25.54538	-76.77057
+BS.54	West Grand Bahama	26.59333	-78.60056
+BT.05	Bumthang	27.7	90.78333
+BT.06	Chhukha	27	89.55
+BT.08	Daga	27.1	89.86667
+BT.07	Chirang	27.03333	90.16667
+BT.09	Geylegphug	27.03333	90.41667
+BT.10	Ha	27.33333	89.18333
+BT.11	Lhuntshi	27.75	91.18333
+BT.12	Mongar	27.25	91.23333
+BT.13	Paro	27.51667	89.4
+BT.14	Pemagatsel	27	91.36667
+BT.15	Punakha	27.7	89.85
+BT.16	Samchi	27.03333	89.08333
+BT.17	Samdrup Jongkhar	26.91667	91.61667
+BT.18	Shemgang	27.08333	90.85
+BT.19	Tashigang	27.25	91.75
+BT.20	Thimphu	27.6	89.58333
+BT.21	Tongsa	27.35	90.53333
+BT.22	Wangdi Phodrang	27.5	90.13333
+BT.23	Gasa	27.91313	89.70886
+BT.24	Trashi Yangste	27.58468	91.45466
+BW.10	Southern	-25	25
+BW.09	South East	-25	25.75
+BW.08	North East	-21	27.5
+BW.11	North West	-20	22.5
+BW.06	Kweneng	-24	25
+BW.05	Kgatleng	-24.25	26.5
+BW.04	Kgalagadi	-25	22
+BW.03	Ghanzi	-22	22
+BW.01	Central	-22	26
+BY.07	Vitebsk	55	29.5
+BY.06	Mogilev	54	30.75
+BY.05	Minsk	54	28
+BY.04	Minsk	53.9	27.56667
+BY.03	Grodnenskaya	53.5	24.5
+BY.02	Gomel	52	30
+BY.01	Brest	52.09976	23.7854
+BZ.06	Toledo	16.33333	-88.86667
+BZ.05	Stann Creek	16.83333	-88.46667
+BZ.04	Orange Walk	17.76667	-88.8
+BZ.03	Corozal	18.21667	-88.31667
+BZ.02	Cayo	17	-88.9
+BZ.01	Belize	17.55	-88.41667
+CA.01	Alberta	52.28333	-117.469
+CA.02	British Columbia	53.99983	-125.0032
+CA.03	Manitoba	55.00019	-97.00049
+CA.04	New Brunswick	46.5001	-65.99878
+CA.13	Northwest Territories	69.50061	-121.50445
+CA.07	Nova Scotia	45.00015	-62.99865
+CA.14	Nunavut	70.16784	-90.73325
+CA.08	Ontario	49.25014	-84.49983
+CA.09	Prince Edward Island	46.50011	-62.99868
+CA.10	Quebec	52.00017	-71.99907
+CA.11	Saskatchewan	54.0001	-106.00099
+CA.12	Yukon	62.99962	-135.00404
+CA.05	Newfoundland and Labrador	52	-56
+CD.12	South Kivu	-3.16667	28.25
+CD.05	Katanga	-9	26
+CD.11	Nord Kivu	-0.66667	28.75
+CD.10	Maniema	-3	26
+CD.04	Kasai-Oriental	-4.5	24
+CD.03	Kasai-Occidental	-5.33333	21.58333
+CD.09	Eastern Province	2.5	27
+CD.02	Equateur	1	20.5
+CD.06	Kinshasa	-4.375	15.97
+CD.08	Bas-Congo	-5.33333	14.33333
+CD.01	Bandundu	-4	18
+CF.14	Vakaga	9.83333	22.5
+CF.11	Ouaka	6.25	20.75
+CF.08	Mbomou	5.5	23.33333
+CF.05	Haut-Mbomou	6.33333	25.66667
+CF.03	Haute-Kotto	7.41667	23
+CF.02	Basse-Kotto	5	21.36667
+CF.01	Bamingui-Bangoran	8.41667	20.66667
+CF.16	Sangha-Mbaere	3.5	16.16667
+CF.13	Ouham-Pende	6.75	16.08333
+CF.12	Ouham	7	18
+CF.17	Ombella-Mpoko	5.08333	18
+CF.09	Nana-Mambere	5.97122	15.26276
+CF.07	Lobaye	4.16667	17.66667
+CF.06	Kemo	5.86667	19.2
+CF.04	Mambere-Kadei	4.5	16
+CF.15	Nana-Grebizi	7.08333	19.33333
+CF.18	Bangui	4.38333	18.56667
+CG.10	Sangha	1.33333	15.5
+CG.11	Pool	-3.53333	14.83333
+CG.08	Plateaux	-2	15.5
+CG.07	Niari	-3.01436	12.34863
+CG.06	Likouala	2	17.5
+CG.05	Lekoumou	-3.1	13.53333
+CG.04	Kouilou	-4.19577	11.99982
+CG.13	Cuvette	-0.5	16
+CG.01	Bouenza	-4.1629	13.71094
+CG.12	Brazzaville	-4.2657	15.28048
+CG.14	Cuvette-Ouest	0	14.5
+CG.7280295	Pointe-Noire	-4.79029	11.87622
+CH.ZH	Zurich	47.41667	8.66667
+CH.ZG	Zug	47.15886	8.53866
+CH.VD	Vaud	46.61671	6.64496
+CH.VS	Valais	46.22925	7.45972
+CH.UR	Uri	46.7847	8.64175
+CH.TI	Ticino	46.28455	8.79065
+CH.TG	Thurgau	47.56356	9.10372
+CH.SO	Solothurn	47.21071	7.52048
+CH.SZ	Schwyz	47.0405	8.74101
+CH.SH	Schaffhausen	47.71034	8.63388
+CH.SG	Saint Gallen	47.25	9.25
+CH.OW	Obwalden	46.85867	8.20984
+CH.NW	Nidwalden	46.92739	8.41028
+CH.NE	Neuchatel	46.99087	6.79767
+CH.LU	Lucerne	47.16667	8.16667
+CH.JU	Jura	47.37266	7.16802
+CH.GR	Grisons	46.6587	9.62296
+CH.GL	Glarus	46.97559	9.07318
+CH.GE	Geneva	46.19673	6.11044
+CH.FR	Fribourg	46.70834	7.10311
+CH.BE	Bern	46.87251	7.59563
+CH.BS	Basel-City	47.5669	7.61519
+CH.BL	Basel-Landschaft	47.50438	7.70444
+CH.AR	Appenzell Ausserrhoden	47.38937	9.39818
+CH.AI	Appenzell Innerrhoden	47.30919	9.40295
+CH.AG	Aargau	47.39557	8.17214
+CI.82	Lagunes	5.86667	-4.28333
+CI.89	Sud-Comoe	5.5	-3.25
+CI.74	Agneby	6	-4
+CI.80	Haut-Sassandra	7	-6.58333
+CI.87	Savanes	9.5	-5.5
+CI.90	Vallee du Bandama	8.25	-4.83333
+CI.85	Moyen-Comoe	6.5	-3.41667
+CI.78	Dix-Huit Montagnes	6.95	-7.61667
+CI.81	Lacs	7.03333	-4.45
+CI.92	Zanzan	8.5	-3.25
+CI.76	Bas-Sassandra	5.5	-6.66667
+CI.91	Worodougou	8.5	-6.33333
+CI.77	Denguele	9.5	-7.38333
+CI.88	Sud-Bandama	5.66667	-5.5
+CI.79	Fromager	6.25	-5.91667
+CI.86	N'zi-Comoe	7.25	-4.16667
+CI.83	Marahoue	7.16667	-5.83333
+CI.84	Moyen-Cavally	6.41667	-7.5
+CI.75	Bafing	8.5	-7.5
+CL.01	Valparaiso	-32.75	-71.33333
+CL.15	Tarapaca	-20	-69.33333
+CL.12	Santiago Metropolitan	-33.47269	-70.64724
+CL.11	Maule	-35.5	-71.5
+CL.14	Los Lagos	-41.75	-73
+CL.08	O'Higgins	-34.5	-71
+CL.07	Coquimbo	-30.75	-71
+CL.06	Biobio	-37	-72.5
+CL.05	Atacama	-27.5	-70
+CL.04	Araucania	-38.5	-72
+CL.03	Antofagasta	-23.5	-69
+CL.02	Aisen	-46.5	-73.5
+CL.10	Magallanes	-52.50026	-73.00067
+CL.16	Arica y Parinacota	-18.57336	-69.46106
+CL.17	Los Rios	-40.01499	-72.51526
+CM.09	South-West Province	5.2	9.3
+CM.14	South Province	2.75	11.58333
+CM.08	West	5.5	10.66667
+CM.07	North-West Province	6.36667	10.36667
+CM.13	North Province	8.5	14
+CM.05	Littoral	4.26667	10.13333
+CM.12	Far North	11	14.5
+CM.04	East	3.83333	14.16667
+CM.11	Centre	4.75	11.83333
+CM.10	Adamaoua	6.83333	13.25
+CN.14	Tibet Autonomous Region	31.66667	88
+CN.06	Qinghai Sheng	36	96
+CN.13	Xinjiang Uygur Zizhiqu	41.5	85.5
+CN.02	Zhejiang Sheng	29.16667	120
+CN.29	Yunnan	25	101.5
+CN.28	Tianjin Shi	39.33333	117.33333
+CN.32	Sichuan	30.5	102.66667
+CN.24	Shanxi Sheng	37.66667	112.25
+CN.23	Shanghai Shi	31.16667	121.41667
+CN.25	Shandong Sheng	36.33333	118.25
+CN.26	Shaanxi	36	109
+CN.21	Ningxia Huizu Zizhiqu	37.25	106
+CN.03	Jiangxi Sheng	27.66667	115.66667
+CN.04	Jiangsu Sheng	33	119.83333
+CN.11	Hunan	27.66667	111.75
+CN.12	Hubei	31	112.25
+CN.09	Henan Sheng	34	113.66667
+CN.10	Hebei	39	115.66667
+CN.31	Hainan	19.25	109.75
+CN.18	Guizhou Sheng	27	107
+CN.16	Guangxi Zhuangzu Zizhiqu	24	109
+CN.30	Guangdong	23.5	113.25
+CN.15	Gansu Sheng	37.75	102.75
+CN.07	Fujian	26.25	118
+CN.33	Chongqing Shi	30.08333	107.83333
+CN.01	Anhui Sheng	31.91667	117.16667
+CN.20	Inner Mongolia	43.5	114.75
+CN.19	Liaoning	41.25	122.66667
+CN.05	Jilin Sheng	43.58333	126.16667
+CN.08	Heilongjiang Sheng	47.75	128
+CN.22	Beijing	39.91691	116.39706
+CO.31	Vichada	5	-69.5
+CO.30	Vaupes	0.75	-70.75
+CO.29	Valle del Cauca	3.75	-76.5
+CO.28	Tolima	4	-75.25
+CO.27	Sucre	9	-75
+CO.26	Santander	6.83333	-73.41667
+CO.25	Archipielago de San Andres, Providencia y Santa Catalina	12.52449	-81.71983
+CO.24	Risaralda	5	-76
+CO.23	Quindio	4.5	-75.66667
+CO.22	Putumayo	0.5	-76
+CO.21	Norte de Santander	8	-73
+CO.20	Narino	1.5	-78
+CO.19	Meta	3.5	-73
+CO.38	Magdalena	10	-74.5
+CO.17	La Guajira	11.5	-72.5
+CO.16	Huila	2.5	-75.58333
+CO.14	Guaviare	1.91667	-72
+CO.15	Guainia	2.5	-69
+CO.33	Cundinamarca	5	-74.16667
+CO.12	Cordoba	8.33333	-75.66667
+CO.11	Choco	6	-77
+CO.10	Cesar	9.33333	-73.5
+CO.09	Cauca	2.5	-76.83333
+CO.32	Casanare	5.5	-71.5
+CO.08	Caqueta	0.75	-74
+CO.37	Caldas	5.26667	-75.33333
+CO.36	Boyaca	5.66667	-73
+CO.35	Bolivar	9	-74.33333
+CO.34	Bogota D.C.	4.25	-74.18333
+CO.04	Atlantico	10.75	-75
+CO.03	Arauca	6.66667	-71
+CO.02	Antioquia	7	-75.5
+CO.01	Amazonas	-1.16667	-71.5
+CR.08	San Jose	9.66667	-84
+CR.07	Puntarenas	9.36	-84
+CR.06	Limon	10	-83.21667
+CR.04	Heredia	10.33333	-84
+CR.03	Guanacaste	10.5	-85.25
+CR.02	Cartago	9.83333	-83.75
+CR.01	Alajuela	10.5	-84.5
+CU.16	Villa Clara	22.5	-80
+CU.15	Santiago de Cuba	20.25	-76
+CU.14	Sancti Spiritus	22	-79.25
+CU.01	Pinar del Rio	22.41667	-83.83333
+CU.03	Matanzas	22.66667	-81.16667
+CU.13	Las Tunas	21.1	-76.9
+CU.04	Isla de la Juventud	21.83333	-82.48194
+CU.12	Holguin	20.8	-75.75
+CU.10	Guantanamo	20.25	-74.75
+CU.09	Granma	20.25	-77
+CU.02	La Habana	23.08333	-82.3
+CU.08	Cienfuegos	22.3	-80.5
+CU.07	Ciego de Avila	21.9	-78.6
+CU.05	Camaguey	21.35	-77.85
+CU.AR	Artemisa	22.814	-82.75606
+CU.MA	Mayabeque	22.96155	-82.14718
+CV.20	Tarrafal	15.26667	-23.71667
+CV.11	Sao Vicente	16.83333	-25
+CV.15	Santa Catarina	15.1	-23.7
+CV.08	Sal	16.75	-22.91667
+CV.07	Ribeira Grande	17.13333	-25.11667
+CV.14	Praia	14.95	-23.51667
+CV.05	Paul	17.11667	-25.01667
+CV.04	Maio	15.21667	-23.16667
+CV.02	Brava	14.86667	-24.7
+CV.01	Boa Vista	16.08333	-22.83333
+CV.13	Mosteiros	15	-24.35
+CV.16	Santa Cruz	15.1	-23.56667
+CV.17	Sao Domingos	15.01667	-23.53333
+CV.18	Sao Filipe	14.93333	-24.43333
+CV.19	Sao Miguel	15.2	-23.65
+CV.21	Porto Novo	17.01667	-25.2
+CV.22	Ribeira Brava	16.61667	-24.2
+CV.24	Santa Catarina do Fogo	14.9	-24.33333
+CV.26	Sao Salvador do Mundo	15.08333	-23.63333
+CV.27	Tarrafal de Sao Nicolau	16.6	-24.35
+CV.25	Sao Lourenco dos Orgaos	15.06667	-23.6
+CV.23	Ribeira Grande de Santiago	14.98333	-23.65
+CY.06	Pafos	34.9	32.51667
+CY.04	Lefkosia	35.06667	33.1
+CY.05	Limassol	34.76667	32.93333
+CY.03	Larnaka	34.91521	33.52615
+CY.02	Keryneia	35.28333	33.25
+CY.01	Ammochostos	35.33333	33.86667
+CZ.52	Praha	50.08333	14.46667
+CZ.78	South Moravian	49.20122	16.61339
+CZ.79	Jihocesky	49.08333	14.5
+CZ.80	Vysocina	49.41667	15.5
+CZ.81	Karlovarsky	50.16667	12.66667
+CZ.82	Kralovehradecky	50.41667	15.91667
+CZ.83	Liberecky	50.75	15
+CZ.84	Olomoucky	49.75	17.16667
+CZ.85	Moravskoslezsky	49.83333	18
+CZ.86	Pardubicky	49.83333	16.08333
+CZ.87	Plzensky	49.5	13.16667
+CZ.88	Central Bohemia	50.12718	14.1964
+CZ.89	Ustecky	50.5	13.83333
+CZ.90	Zlin	49.16667	17.75
+DE.15	Thuringia	50.91667	11
+DE.10	Schleswig-Holstein	54.2	9.75
+DE.14	Saxony-Anhalt	52	11.7333
+DE.13	Saxony	51	13.25
+DE.09	Saarland	49.40472	6.96083
+DE.08	Rheinland-Pfalz	49.66667	7.5
+DE.07	North Rhine-Westphalia	51.21895	6.76339
+DE.06	Lower Saxony	52.83333	9.16667
+DE.12	Mecklenburg-Vorpommern	53.83333	12.5
+DE.05	Hesse	50.55	9
+DE.04	Hamburg	53.58333	10
+DE.03	Bremen	53.08333	8.83333
+DE.11	Brandenburg	52.33333	13.2
+DE.16	Berlin	52.5	13.41667
+DE.02	Bavaria	49	11.5
+DE.01	Baden-Wuerttemberg	48.5	9
+DJ.05	Tadjourah	12	42.5
+DJ.04	Obock	12.25007	43.08369
+DJ.07	Djibouti	11.56	43.06
+DJ.06	Dikhil	11.5	42.16667
+DJ.01	Ali Sabieh	11.2	42.94
+DJ.08	Arta	11.5	42.75
+DK.17	Capital Region	55.83333	12.33333
+DK.18	Central Jutland	56.16667	9.5
+DK.19	North Denmark	57	9.66667
+DK.20	Zealand	55.41667	11.83333
+DK.21	South Denmark	55.37911	10.345
+DM.11	Saint Peter	15.51667	-61.45
+DM.10	Saint Paul	15.35	-61.38333
+DM.09	Saint Patrick	15.28333	-61.3
+DM.08	Saint Mark	15.21667	-61.36667
+DM.07	Saint Luke	15.26667	-61.38333
+DM.06	Saint Joseph	15.43333	-61.43333
+DM.05	Saint John	15.58333	-61.45
+DM.04	Saint George	15.3	-61.36667
+DM.03	Saint David	15.46667	-61.28333
+DM.02	Saint Andrew	15.56667	-61.36667
+DO.27	Valverde	19.58333	-71.05
+DO.26	Santiago Rodriguez	19.41667	-71.33333
+DO.25	Santiago	19.31667	-70.88333
+DO.24	San Pedro de Macoris	18.5	-69.33333
+DO.23	San Juan	18.83333	-71.25
+DO.33	San Cristobal	18.55	-70.2
+DO.21	Sanchez Ramirez	19	-70.16667
+DO.20	Samana	19.25	-69.45
+DO.19	Hermanas Mirabal	19.41667	-70.33333
+DO.18	Puerto Plata	19.75	-70.75
+DO.35	Peravia	18.33333	-70.36667
+DO.16	Pedernales	18	-71.56667
+DO.34	Nacional	18.48333	-69.93333
+DO.32	Monte Plata	18.83333	-69.83333
+DO.15	Monte Cristi	19.71667	-71.46667
+DO.31	Monsenor Nouel	18.91667	-70.41667
+DO.14	Maria Trinidad Sanchez	19.41667	-70
+DO.30	La Vega	19.05	-70.65
+DO.12	La Romana	18.5	-68.96667
+DO.10	La Altagracia	18.58333	-68.63333
+DO.09	Independencia	18.4	-71.63333
+DO.29	Hato Mayor	18.83333	-69.33333
+DO.08	Espaillat	19.58333	-70.41667
+DO.28	El Seibo	18.8	-69.05
+DO.11	Elias Pina	19	-71.63333
+DO.06	Duarte	19.25	-70.08333
+DO.04	Dajabon	19.43333	-71.58333
+DO.03	Barahona	18.16667	-71.25
+DO.02	Baoruco	18.5	-71.35
+DO.01	Azua	18.58333	-70.8
+DO.36	San Jose de Ocoa	18.54882	-70.50877
+DO.37	Santo Domingo	18.48042	-69.91871
+DZ.15	Tlemcen	34.66667	-1.41667
+DZ.14	Tizi Ouzou	36.75	4.25
+DZ.56	Tissemsilt	35.75	1.75
+DZ.55	Tipaza	36.58333	2.41667
+DZ.54	Tindouf	27.41667	-5.83333
+DZ.13	Tiaret	34.91667	1.58333
+DZ.33	Tebessa	35	7.83333
+DZ.53	Tamanghasset	23.75	4.66667
+DZ.52	Souk Ahras	36.16667	7.91667
+DZ.31	Skikda	36.75	6.83333
+DZ.30	Sidi Bel Abbes	34.83333	-0.5
+DZ.12	Setif	36.16667	5.5
+DZ.10	Saida	34.66667	0.33333
+DZ.51	Relizane	35.75	0.91667
+DZ.29	Oum el Bouaghi	35.83333	7.08333
+DZ.50	Ouargla	30.5	6.16667
+DZ.09	Oran	35.66667	-0.5
+DZ.49	Wilaya de Naama	33.5	-0.83333
+DZ.27	Wilaya de M'Sila	35.33333	4.33333
+DZ.07	Mostaganem	36	0.33333
+DZ.48	Mila	36.41667	6.16667
+DZ.06	Medea	36.08333	3
+DZ.26	Mascara	35.41667	0.16667
+DZ.25	Laghouat	33.58333	2.66667
+DZ.47	Khenchela	35	7
+DZ.24	Jijel	36.75	6
+DZ.46	Illizi	26.83333	8.16667
+DZ.23	Guelma	36.41667	7.41667
+DZ.45	Ghardaia	31.08333	3.16667
+DZ.44	El Tarf	36.75	8.16667
+DZ.43	El Oued	33.16667	7.25
+DZ.42	El Bayadh	32.5	1.16667
+DZ.22	Djelfa	34.33333	3.66667
+DZ.04	Constantine	36.33333	6.66667
+DZ.41	Chlef	36.25	1.25
+DZ.40	Boumerdes	36.75	3.66667
+DZ.21	Bouira	36.25	3.91667
+DZ.39	Bordj Bou Arreridj	36.08333	4.75
+DZ.20	Blida	36.58333	3
+DZ.19	Biskra	34.66667	5.41667
+DZ.18	Bejaia	36.66667	4.91667
+DZ.38	Bechar	30.25	-3.08333
+DZ.03	Batna	35.5	5.91667
+DZ.37	Annaba	36.83333	7.58333
+DZ.01	Alger	36.74053	3.00957
+DZ.36	Ain Temouchent	35.33333	-1.08333
+DZ.35	Ain Defla	36.16667	2.16667
+DZ.34	Adrar	25.75	-1
+EC.20	Zamora-Chinchipe	-4.25	-78.83333
+EC.19	Tungurahua	-1.25	-78.5
+EC.18	Pichincha	-0.08333	-78.5
+EC.17	Pastaza	-1.66667	-76.83333
+EC.23	Napo	-0.62915	-77.83164
+EC.15	Morona-Santiago	-2.5	-77.91667
+EC.14	Manabi	-0.66667	-80.08333
+EC.13	Los Rios	-1.41667	-79.58333
+EC.12	Loja	-4.16667	-79.5
+EC.11	Imbabura	0.37631	-78.32371
+EC.10	Guayas	-2	-79.83333
+EC.01	Galapagos	-0.67015	-90.87341
+EC.09	Esmeraldas	0.83333	-79.25
+EC.08	El Oro	-3.5	-79.83333
+EC.07	Cotopaxi	-0.83333	-78.83333
+EC.06	Chimborazo	-1.91667	-78.75
+EC.05	Carchi	0.75	-78.08333
+EC.04	Canar	-2.5	-79
+EC.03	Bolivar	-1.58333	-79.08333
+EC.02	Azuay	-3.08333	-79.33333
+EC.22	Sucumbios	0.1	-76.86667
+EC.24	Orellana	-0.75	-76.41667
+EC.26	Santo Domingo de los Tsachilas	-0.28945	-79.18577
+EC.25	Santa Elena	-2.08333	-80.58333
+EE.21	Vorumaa	57.76667	26.93333
+EE.20	Viljandimaa	58.33333	25.56667
+EE.19	Valgamaa	57.91667	26.16667
+EE.18	Tartu	58.38065	26.72496
+EE.14	Saare	58.41667	22.58333
+EE.13	Raplamaa	58.96667	24.7
+EE.12	Polvamaa	58.08333	27.16667
+EE.11	Paernumaa	58.46667	24.56667
+EE.08	Laeaene-Virumaa	59.25	26.33333
+EE.07	Laeaene	58.93333	23.55
+EE.05	Jogevamaa	58.73333	26.46667
+EE.04	Jaervamaa	58.91667	25.66667
+EE.03	Ida-Virumaa	59.25	27.41667
+EE.02	Hiiumaa	58.9	22.63333
+EE.01	Harju	59.33333	24.83333
+EG.24	Suhaj	26.5	31.7
+EG.27	Muhafazat Shamal Sina'	30.5	33.7
+EG.23	Qina	25.8	32.75
+EG.22	Muhafazat Matruh	29.7	27.5
+EG.21	Kafr ash Shaykh	31.3	30.9
+EG.26	South Sinai	29	33.8
+EG.20	Dumyat	31.35	31.75
+EG.19	Muhafazat Bur Sa`id	31.1	32.3
+EG.18	Muhafazat Bani Suwayf	28.9	30.6
+EG.17	Asyut	27.2	31.1
+EG.16	Aswan	23.3	32.9
+EG.15	As Suways	29.7	32.3
+EG.14	Eastern Province	30.7	31.8
+EG.13	Muhafazat al Wadi al Jadid	24.8	28.9
+EG.12	Muhafazat al Qalyubiyah	30.3	31.25
+EG.11	Muhafazat al Qahirah	30.05	31.65
+EG.10	Al Minya	28.1	30
+EG.09	Muhafazat al Minufiyah	30.5	31
+EG.08	Al Jizah	29.99776	31.05286
+EG.07	Al Isma'iliyah	30.6	32.4
+EG.06	Alexandria	31	29.75
+EG.05	Muhafazat al Gharbiyah	30.9	31
+EG.04	Muhafazat al Fayyum	29.3	30.5
+EG.03	Al Buhayrah	30.6	30.2
+EG.02	Red Sea	27.18624	33.78845
+EG.01	Muhafazat ad Daqahliyah	31.1	31.6
+EG.28	Luxor	25.7	32.65
+EH.CE	Oued Ed-Dahab-Lagouira	22.84713	-14.71303
+ER.01	Anseba	16.5	37.5
+ER.02	Debub	14.83333	38.83333
+ER.03	Southern Red Sea Region	13.75	41.5
+ER.04	Gash Barka	15.25	37.5
+ER.05	Maekel Region	15.33333	38.91667
+ER.06	Northern Red Sea Region	16	39
+ES.31	Murcia	38	-1.5
+ES.CE	Ceuta	35.89028	-5.3075
+ES.07	Balearic Islands	39.58876	2.90314
+ES.51	Andalusia	37.6	-4.5
+ES.53	Canary Islands	28	-15.5
+ES.54	Castille-La Mancha	39.5	-3
+ES.57	Extremadura	39.16667	-6.16667
+ES.60	Valencia	39.5	-0.75
+ES.34	Asturias	43.33333	-6
+ES.32	Navarre	42.75	-1.66667
+ES.29	Madrid	40.42526	-3.69063
+ES.27	La Rioja	42.3	-2.5
+ES.39	Cantabria	43.2	-4.03333
+ES.52	Aragon	41.5	-0.66667
+ES.55	Castille and Leon	41.66667	-4.25
+ES.56	Catalonia	41.82046	1.86768
+ES.58	Galicia	42.75508	-7.86621
+ES.59	Basque Country	43	-2.75
+ES.ML	Melilla	35.29215	-2.94434
+ET.44	Adis Abeba	9	38.75
+ET.45	Afar	12	41.5
+ET.46	Amhara	11.5	38.5
+ET.47	Binshangul Gumuz	11	35.5
+ET.48	Dire Dawa	9.567	42.014
+ET.49	Gambela	7.83333	34.5
+ET.50	Harari	9.25	42.16667
+ET.51	Oromiya	8	39
+ET.52	Somali	7	44
+ET.53	Tigray	14.16667	38.83333
+ET.54	Southern Nations, Nationalities, and People's Region	6.05862	36.7273
+FI.19	Lapland	67.75	26.5
+FI.18	Kainuu	64.5	28.5
+FI.17	Northern Ostrobothnia	65	26.41667
+FI.16	Central Ostrobothnia	63.58333	24.08333
+FI.15	Ostrobothnia	63.08333	22.16667
+FI.14	Southern Ostrobothnia	62.75	23
+FI.13	Central Finland	62.5	25.5
+FI.12	North Karelia	62.83333	29.91667
+FI.11	Northern Savo	63.16667	27.5
+FI.10	Southern Savonia	61.75	27.83333
+FI.09	South Karelia	60.96667	28.16667
+FI.08	Kymenlaakso	60.83333	26.91667
+FI.06	Pirkanmaa	61.7	23.71667
+FI.05	Haeme	60.83333	24.25
+FI.02	Varsinais-Suomi	60.5	22.25
+FI.01	Uusimaa	60.41667	24.75
+FI.07	Paijanne Tavastia	61.25	25.83333
+FI.04	Satakunta	61.5	22.16667
+FJ.05	Western	-18	177.5
+FJ.03	Northern	-16.5	179.5
+FJ.01	Central	-18	178.33333
+FJ.02	Eastern	-18.5	180
+FJ.04	Rotuma	-12.50798	177.06596
+FJ.8617786	Kadavu	-18.99331	178.22021
+FM.04	Yap	9.538	138.097
+FM.02	Pohnpei	6.964	158.2056
+FM.01	Kosrae	5.325	162.981
+FM.03	Chuuk	7.454	151.805
+FO.VG	Vagar	62.08333	-7.25
+FO.SU	Suduroy	61.48333	-6.81667
+FO.ST	Streymoy	62.13333	-7
+FO.SA	Sandoy	61.83333	-6.75
+FO.NO	Nordoyar	62.28333	-6.58333
+FO.OS	Eysturoy	62.21667	-6.86667
+FR.B9	Rhone-Alpes	45.5	5.33333
+FR.B8	Provence-Alpes-Cote d'Azur	44	6
+FR.B7	Poitou-Charentes	46.16667	-0.06667
+FR.B6	Picardie	49.63333	2.8
+FR.B5	Pays de la Loire	47.5	-0.83333
+FR.B4	Nord-Pas-de-Calais	50.46667	2.7
+FR.B3	Midi-Pyrenees	43.75	1.5
+FR.B2	Lorraine	48.76667	6.13333
+FR.B1	Limousin	45.76667	1.7
+FR.A9	Languedoc-Roussillon	43.53333	3.23333
+FR.A8	Ile-de-France	48.7	2.5
+FR.A7	Haute-Normandie	49.41667	1
+FR.A6	Franche-Comte	47.2	6.1
+FR.A5	Corsica	42	9
+FR.A4	Champagne-Ardenne	48.75	4.5
+FR.A3	Centre	47.5	1.75
+FR.A2	Brittany	48.16667	-2.83333
+FR.A1	Bourgogne	47.25	4.16667
+FR.99	Lower Normandy	48.93333	-0.53333
+FR.98	Auvergne	45.66667	3.16667
+FR.97	Aquitaine	44.33333	-0.25
+FR.C1	Alsace	48.33333	7.43333
+GA.09	Woleu-Ntem	1.5	12
+GA.08	Ogooue-Maritime	-1.58333	9.58333
+GA.07	Ogooue-Lolo	-0.83333	12.66667
+GA.06	Ogooue-Ivindo	0.66667	12.83333
+GA.05	Nyanga	-3	11
+GA.04	Ngounie	-1.63333	11.16667
+GA.03	Moyen-Ogooue	-0.41667	10.58333
+GA.02	Haut-Ogooue	-1.3	13.9
+GA.01	Estuaire	0.3	10.03333
+GB.WLS	Wales	52.5	-3.5
+GB.SCT	Scotland	56	-4
+GB.NIR	Northern Ireland	54.5	-6.5
+GB.ENG	England	52.16045	-0.70312
+GD.06	Saint Patrick	12.2	-61.63333
+GD.05	Saint Mark	12.18333	-61.68333
+GD.04	Saint John	12.13333	-61.71667
+GD.03	Saint George	12.05	-61.73333
+GD.02	Saint David	12.05	-61.66667
+GD.01	Saint Andrew	12.11667	-61.65
+GD.10	Carriacou and Petite Martinique	12.48485	-61.43623
+GE.51	T'bilisi	41.71667	44.83333
+GE.04	Ajaria	41.66667	42
+GE.68	Kvemo Kartli	41.51667	44.51667
+GE.67	Kakheti	41.75	45.71667
+GE.65	Guria	41.96667	42.2
+GE.66	Imereti	42.16667	42.98333
+GE.73	Shida Kartli	42.32	44.14
+GE.69	Mtskheta-Mtianeti	42.28333	44.75
+GE.70	Racha-Lechkhumi and Kvemo Svaneti	42.63333	43.13333
+GE.71	Samegrelo and Zemo Svaneti	42.70076	42.21496
+GE.72	Samtskhe-Javakheti	41.58333	43.26667
+GE.02	Abkhazia	43.0005	41.00501
+GF.GF	Guyane	3.99929	-52.99856
+GG.6417213	St Pierre du Bois	49.44556	-2.64361
+GG.6417214	Torteval	49.43	-2.64889
+GG.6417215	Saint Saviour	49.44972	-2.62389
+GG.6417223	Forest	49.42583	-2.59194
+GG.6417224	St Martin	49.43333	-2.55722
+GG.6417226	Saint Andrew	49.44778	-2.57361
+GG.6417228	St Peter Port	49.46	-2.55194
+GG.6417229	Castel	49.465	-2.59361
+GG.6417230	Vale	49.49361	-2.52833
+GG.6417233	St Sampson	49.48194	-2.53722
+GG.8989934	Alderney	49.71677	-2.19851
+GH.09	Western	5.5	-2.5
+GH.08	Volta	7	0.5
+GH.11	Upper West	10.33333	-2.25
+GH.10	Upper East	10.75	-0.75
+GH.06	Northern	9.5	-1
+GH.01	Greater Accra	5.75	0
+GH.05	Eastern	6.5	-0.5
+GH.04	Central	5.5	-1
+GH.03	Brong-Ahafo	7.75	-1.5
+GH.02	Ashanti	6.75	-1.5
+GL.05	Qaasuitsup	69.21662	-51.10351
+GL.04	Kujalleq	60.71905	-46.03683
+GL.06	Qeqqata	66.93305	-53.67517
+GL.07	Sermersooq	64.18284	-51.71831
+GM.05	Western	13.25	-16.33333
+GM.04	Upper River	13.33333	-14.16667
+GM.07	North Bank	13.5	-16
+GM.03	Central River	13.58333	-14.91667
+GM.02	Lower River	13.4	-15.66
+GM.01	Banjul	13.45	-16.58333
+GN.04	Conakry	9.60703	-13.597
+GN.B	Boke	11.2	-13.70667
+GN.F	Faranah	10.3375	-10.69583
+GN.K	Kankan	10.4	-9.25
+GN.D	Kindia	10.08667	-13.21333
+GN.L	Labe	11.61	-12.08667
+GN.M	Mamou	10.69444	-12.29444
+GN.N	Nzerekore	8.20833	-9.06944
+GP.GP	Guadeloupe	16.25011	-61.58369
+GQ.03	Annobon	-1.42917	5.62083
+GQ.04	Bioko Norte	3.68333	8.78333
+GQ.05	Bioko Sur	3.41667	8.66667
+GQ.06	Centro Sur	1.5	10.41667
+GQ.07	Kie-Ntem	2.05	11
+GQ.08	Litoral	1.5	9.75
+GQ.09	Wele-Nzas	1.5	11.1
+GR.736572	Mount Athos	40.15798	24.33021
+GR.ESYE31	Attica	37.92037	23.9035
+GR.ESYE24	Central Greece	38.35243	23.13995
+GR.ESYE12	Central Macedonia	40.91351	22.84058
+GR.ESYE43	Crete	35.15585	24.89502
+GR.ESYE11	East Macedonia and Thrace	40.94671	25.33447
+GR.ESYE21	Epirus	39.23651	20.71472
+GR.ESYE22	Ionian Islands	38.97649	20.37277
+GR.ESYE41	North Aegean	39.56335	25.34546
+GR.ESYE25	Peloponnese	37.62728	22.43958
+GR.ESYE42	South Aegean	36.68604	25.6311
+GR.ESYE14	Thessaly	39.40224	21.98364
+GR.ESYE23	West Greece	38.48799	21.2915
+GR.ESYE13	West Macedonia	40.26695	21.32446
+GT.22	Zacapa	15	-89.5
+GT.21	Totonicapan	15	-91.33333
+GT.20	Suchitepeque	14.38084	-91.43046
+GT.19	Solola	14.66667	-91.25
+GT.18	Santa Rosa	14.16667	-90.3
+GT.17	San Marcos	15	-91.91667
+GT.16	Sacatepequez	14.58333	-90.75
+GT.15	Retalhuleu	14.33333	-91.83333
+GT.14	Quiche	15.5	-90.91667
+GT.13	Quetzaltenango	14.75	-91.66667
+GT.12	Peten	16.83333	-90
+GT.11	Jutiapa	14.16667	-89.83333
+GT.10	Jalapa	14.58333	-89.91667
+GT.09	Izabal	15.5	-89
+GT.08	Huehuetenango	15.66667	-91.58333
+GT.07	Guatemala	14.66667	-90.5
+GT.06	Escuintla	14.16667	-91
+GT.05	El Progreso	14.83333	-90
+GT.04	Chiquimula	14.66667	-89.41667
+GT.03	Chimaltenango	14.66667	-90.91667
+GT.02	Baja Verapaz	15.08333	-90.33333
+GT.01	Alta Verapaz	15.66667	-90
+GU.PI	Piti	13.46256	144.69282
+GU.SR	Santa Rita	13.38609	144.67208
+GU.SJ	Sinajana	13.46334	144.75381
+GU.TF	Talofofo	13.35522	144.7588
+GU.TM	Tamuning	13.48759	144.78094
+GU.UM	Umatac	13.2976	144.659
+GU.YG	Yigo	13.53603	144.88913
+GU.YN	Yona	13.40972	144.77714
+GU.ME	Merizo	13.27125	144.67464
+GU.MA	Mangilao	13.44766	144.80071
+GU.AH	Agana Heights	13.46559	144.74773
+GU.CP	Chalan Pago-Ordot	13.4474	144.75888
+GU.AS	Asan	13.47214	144.7164
+GU.AT	Agat	13.38857	144.65822
+GU.DD	Dededo	13.51776	144.83898
+GU.BA	Barrigada	13.46906	144.7988
+GU.AN	Hagatna	13.47279	144.75788
+GU.IN	Inarajan	13.27576	144.75112
+GU.MT	Mongmong-Toto-Maite	13.46857	144.78191
+GW.07	Tombali	11.3	-15
+GW.02	Quinara	11.66667	-15.08333
+GW.04	Oio	12.25	-15.25
+GW.10	Gabu	12.16667	-14.16667
+GW.06	Cacheu	12	-16.16667
+GW.05	Bolama and Bijagos	11.15484	-16.00926
+GW.11	Bissau	11.85391	-15.59097
+GW.12	Biombo	11.88281	-15.84332
+GW.01	Bafata	12.16667	-14.71667
+GY.19	Upper Takutu-Upper Essequibo	2.91667	-59
+GY.18	Upper Demerara-Berbice	5.5	-58.33333
+GY.17	Potaro-Siparuni	4.9	-59.3
+GY.16	Pomeroon-Supenaam	7.08333	-58.83333
+GY.15	Mahaica-Berbice	6.25	-57.83333
+GY.14	Essequibo Islands-West Demerara	6.66667	-58.5
+GY.13	East Berbice-Corentyne	4	-58.16667
+GY.12	Demerara-Mahaica	6.5	-58.08333
+GY.11	Cuyuni-Mazaruni	6	-60
+GY.10	Barima-Waini	7.66667	-59.75
+HK.NYL	Yuen Long	22.41667	114.05
+HK.NTW	Tsuen Wan	22.37908	114.10598
+HK.NTP	Tai Po	22.43995	114.1654
+HK.NSK	Sai Kung	22.38198	114.27017
+HK.NIS	Islands	22.26382	113.96038
+HK.HCW	Central and Western	22.28219	114.14486
+HK.HWC	Wanchai	22.27702	114.17232
+HK.HEA	Eastern	22.27722	114.22519
+HK.HSO	Southern	22.25801	114.15308
+HK.KYT	Yau Tsim Mong	22.32105	114.17261
+HK.KSS	Sham Shui Po	22.32989	114.1625
+HK.KKC	Kowloon City	22.32866	114.19121
+HK.KWT	Wong Tai Sin	22.34299	114.19302
+HK.KKT	Kwon Tong	22.31326	114.22581
+HK.NKT	Kwai Tsing	22.35288	114.10004
+HK.NTM	Tuen Mun	22.39161	113.96792
+HK.NNO	North	22.49471	114.13812
+HK.NST	Sha Tin	22.38715	114.19534
+HN.18	Yoro	15.25	-87.16667
+HN.17	Valle	13.58333	-87.58333
+HN.16	Santa Barbara	15.08333	-88.33333
+HN.15	Olancho	14.83333	-86
+HN.14	Ocotepeque	14.5	-89
+HN.13	Lempira	14.5	-88.58333
+HN.12	La Paz	14.08333	-87.91667
+HN.11	Bay Islands	16.33333	-86.5
+HN.10	Intibuca	14.33333	-88.16667
+HN.09	Gracias a Dios	15.25	-84.33333
+HN.08	Francisco Morazan	14.25	-87.16667
+HN.07	El Paraiso	14.08333	-86.5
+HN.06	Cortes	15.41667	-88
+HN.05	Copan	14.91667	-88.91667
+HN.04	Comayagua	14.58333	-87.66667
+HN.03	Colon	15.75	-85.66667
+HN.02	Choluteca	13.33333	-87.08333
+HN.01	Atlantida	15.66667	-87
+HR.01	Bjelovarsko-Bilogorska	45.66667	17
+HR.02	Brodsko-Posavska	45.16667	17.75
+HR.03	Dubrovacko-Neretvanska	42.65361	18.09472
+HR.04	Istarska	45.25	13.91667
+HR.05	Karlovacka	45.33333	15.58333
+HR.06	Koprivnicko-Krizevacka	46.16667	16.83333
+HR.07	Krapinsko-Zagorska	46.08333	16
+HR.08	Licko-Senjska	44.66667	15.41667
+HR.09	Medimurska	46.41667	16.5
+HR.10	Osjecko-Baranjska	45.5	18.41667
+HR.11	Pozesko-Slavonska	45.41667	17.66667
+HR.12	Primorsko-Goranska	45.454	14.594
+HR.13	Sibensko-Kniniska	43.83333	15.91667
+HR.14	Sisacko-Moslavacka	45.41667	16.5
+HR.15	Splitsko-Dalmatinska	43.16667	16.5
+HR.16	Varazdinska	46.25	16.33333
+HR.18	Vukovarsko-Srijemska	45.16667	18.91667
+HR.19	Zadarska	44.08333	15.33333
+HR.20	Zagrebacka	45.75	16.08333
+HR.21	Grad Zagreb	45.81307	15.9773
+HR.17	Virovitick-Podravska	45.75	17.58333
+HT.13	Sud-Est	18.3	-72.4
+HT.12	Sud	18.3	-73.73333
+HT.11	Ouest	18.66381	-72.29141
+HT.03	Nord-Ouest	19.83333	-73
+HT.10	Nord-Est	19.48897	-71.85713
+HT.09	Nord	19.6	-72.3
+HT.14	Grandans	18.5	-74.08333
+HT.07	Centre	19	-72
+HT.06	Artibonite	19.33333	-72.5
+HT.15	Nippes	18.44835	-73.4285
+HU.18	Szabolcs-Szatmar-Bereg	48	22.16667
+HU.20	Jasz-Nagykun-Szolnok	47.25	20.5
+HU.11	Heves	47.83333	20.25
+HU.10	Hajdu-Bihar	47.41667	21.5
+HU.06	Csongrad	46.41667	20.25
+HU.04	Borsod-Abauj-Zemplen	48.25	21
+HU.03	Bekes	46.75	21
+HU.24	Zala	46.66667	16.83333
+HU.23	Veszprem	47.16667	17.66667
+HU.22	Vas	47.16667	16.75
+HU.21	Tolna	46.5	18.58333
+HU.17	Somogy	46.41667	17.58333
+HU.16	Pest	47.41667	19.33333
+HU.14	Nograd	48	19.58333
+HU.12	Komarom-Esztergom	47.58333	18.33333
+HU.09	Gyor-Moson-Sopron	47.66667	17.25
+HU.08	Fejer	47.16667	18.58333
+HU.05	Budapest	47.5	19.08333
+HU.02	Baranya	46.08333	18.25
+HU.01	Bacs-Kiskun	46.5	19.41667
+ID.26	North Sumatra	2	99
+ID.01	Aceh	4	97
+ID.10	Daerah Istimewa Yogyakarta	-7.75	110.5
+ID.32	South Sumatra	-2.75	103.83333
+ID.24	West Sumatra	-1	100.5
+ID.31	North Sulawesi	1.25	124.83333
+ID.22	Sulawesi Tenggara	-4.3935	122.2149
+ID.21	Central Sulawesi	-0.9166	122.3538
+ID.38	South Sulawesi	-4.33333	120.25
+ID.37	Riau	0.5005	101.749
+ID.18	East Nusa Tenggara	-8.65738	121.07937
+ID.17	West Nusa Tenggara	-8.74	117.5333
+ID.28	Maluku	-3.23846	130.14527
+ID.15	Lampung	-5	105
+ID.14	East Kalimantan	0.5	116.5
+ID.13	Central Kalimantan	-2	113.5
+ID.12	South Kalimantan	-2.5	115.5
+ID.11	West Kalimantan	0	110.5
+ID.08	East Java	-7.7394	112.5099
+ID.07	Central Java	-7.5	110
+ID.30	West Java	-6.75	107.5
+ID.05	Jambi	-1.5	103
+ID.04	Jakarta Raya	-6.2182	106.8584
+ID.36	Papua	-4.75	138
+ID.03	Bengkulu	-3.79965	102.26683
+ID.02	Bali	-8.5	115
+ID.33	Banten	-6.5	106.25
+ID.34	Gorontalo	0.693	122.4704
+ID.35	Bangka-Belitung Islands	-2.66667	106.66667
+ID.29	Maluku Utara	-0.25	127.5
+ID.39	West Papua	-0.86531	134.06118
+ID.41	Sulawesi Barat	-2.5	119.3333
+ID.40	Riau Islands	0.61667	106.98333
+ID.42	North Kalimantan	3.35989	116.53198
+IE.C	Connaught	53.87	-8.63333
+IE.L	Leinster	53.16667	-7.02121
+IE.M	Munster	52.34333	-8.71667
+IE.U	Ulster	54.36111	-7.41667
+IL.06	Jerusalem	31.75	35
+IL.05	Tel Aviv	32.08414	34.79995
+IL.04	Haifa	32.58333	35
+IL.03	Northern District	32.83333	35.33333
+IL.02	Central District	32.08333	34.91667
+IL.01	Southern District	30.66667	34.83333
+IM.9782164	Andreas	54.36742	-4.44251
+IM.9782165	Arbory	54.1009	-4.67743
+IM.9782166	Ballaugh	54.31278	-4.54225
+IM.9782167	Braddan	54.16319	-4.5062
+IM.9782168	Bride	54.38311	-4.39088
+IM.9782169	Castletown	54.07463	-4.6582
+IM.9782170	Douglas	54.15442	-4.48452
+IM.9782171	German	54.22197	-4.69464
+IM.9782172	Jurby	54.36276	-4.51838
+IM.9782173	Laxey	54.2312	-4.40402
+IM.9782176	Lezayre	54.31734	-4.41985
+IM.9782180	Lonan	54.21491	-4.43264
+IM.9782182	Malew	54.10563	-4.63125
+IM.9782183	Marown	54.1739	-4.57392
+IM.9782184	Maughold	54.29762	-4.31986
+IM.9782185	Michael	54.249	-4.60791
+IM.9782186	Onchan	54.17478	-4.45521
+IM.9782187	Patrick	54.20486	-4.69314
+IM.9782188	Peel	54.22175	-4.68794
+IM.9782189	Port Erin	54.08523	-4.74987
+IM.9782190	Port St Mary	54.07589	-4.7397
+IM.9782191	Ramsey	54.32179	-4.38878
+IM.9782192	Rushen	54.06223	-4.77974
+IM.9782193	Santon	54.10567	-4.55701
+IN.28	West Bengal	24	88
+IN.36	Uttar Pradesh	27.25	80.75
+IN.26	Tripura	24	92
+IN.40	Telangana	17.83333	79.08333
+IN.25	Tamil Nadu	11	78.33333
+IN.29	Sikkim	27.75	88.5
+IN.24	Rajasthan	26.58333	73.83333
+IN.23	Punjab	30.91667	75.41667
+IN.22	Pondicherry	11.93333	79.81667
+IN.21	Odisha	20.5	84.41667
+IN.20	Nagaland	26.08333	94.5
+IN.31	Mizoram	23	93
+IN.18	Meghalaya	25.5	91.33333
+IN.17	Manipur	25	94
+IN.16	Maharashtra	19.5	76
+IN.35	Madhya Pradesh	23.5	78.5
+IN.14	Laccadives	10.93896	72.28665
+IN.13	Kerala	10.41667	76.5
+IN.19	Karnataka	14.66667	75.83333
+IN.12	Kashmir	33.91667	76.66667
+IN.11	Himachal Pradesh	31.91667	77.25
+IN.10	Haryana	29.25	76.33333
+IN.09	Gujarat	23	71.75
+IN.32	Daman and Diu	20.4	72.87
+IN.33	Goa	15.33333	74.08333
+IN.07	NCT	28.6667	77.1
+IN.06	Dadra and Nagar Haveli	20.16667	73.03333
+IN.05	Chandigarh	30.72778	76.77778
+IN.34	Bihar	25.75	85.75
+IN.03	Assam	26	93
+IN.30	Arunachal Pradesh	27.06	93.37
+IN.02	Andhra Pradesh	15.83333	79.75
+IN.01	Andaman and Nicobar Islands	11.70065	92.67517
+IN.37	Chhattisgarh	21.5	82
+IN.38	Jharkhand	23.75	85.5
+IN.39	Uttarakhand	30.25	79.25
+IQ.02	Basra Governorate	30.41667	47.41667
+IQ.16	Wasit	32.75	45.41667
+IQ.18	Salah ad Din Governorate	34.5	43.65
+IQ.15	Ninawa	36.08333	42.5
+IQ.14	Maysan	31.9	47.06667
+IQ.12	Muhafazat Karbala'	32.5	43.83333
+IQ.11	Arbil	36.33333	44.2
+IQ.10	Diyala	34	45
+IQ.09	Dhi Qar	31.25	46.25
+IQ.08	Dahuk	37.06667	43.13333
+IQ.07	Mayorality of Baghdad	33.31667	44.36667
+IQ.06	Babil	32.53333	44.61667
+IQ.13	Muhafazat Kirkuk	35.36667	44.13333
+IQ.05	As Sulaymaniyah	35.58333	45.33333
+IQ.17	An Najaf	31.25	43.83333
+IQ.04	Al Qadisiyah	31.91667	45.08333
+IQ.03	Al Muthanna	30.25	45.33333
+IQ.01	Anbar	33	41.75
+IR.26	Tehran	35.66667	51.41667
+IR.36	Zanjan	36.5	48.33333
+IR.40	Yazd	32.5	55.58333
+IR.25	Semnan	35.5	55
+IR.35	Mazandaran	36.25	52.33333
+IR.34	Markazi	34.33333	49.83333
+IR.23	Lorestan	33.5	48.5
+IR.16	Kordestan	35.66667	47
+IR.05	Kohgiluyeh va Buyer Ahmad	30.83333	50.66667
+IR.15	Khuzestan	31.5	49
+IR.13	Kermanshah	34.41667	46.75
+IR.29	Kerman	29.75	57.25
+IR.10	Ilam	33.16667	47
+IR.11	Hormozgan	27.75	56.5
+IR.09	Hamadan	34.83333	48.58333
+IR.08	Gilan	37.16667	49.5
+IR.07	Fars	29	53
+IR.03	Chahar Mahall va Bakhtiari	32.16667	50.75
+IR.22	Bushehr	28.75	51.5
+IR.33	East Azerbaijan	38	46.75
+IR.01	Azarbayjan-e Gharbi	37.66667	45
+IR.32	Ardabil	38.5	48
+IR.28	Isfahan	33	52.16667
+IR.37	Golestan	37.25	55
+IR.38	Qazvin	36	49.75
+IR.39	Qom	34.75	51
+IR.04	Sistan and Baluchestan	28.5	60.5
+IR.41	Khorasan-e Jonubi	32.5	59.5
+IR.42	Razavi Khorasan	35.25	59
+IR.43	Khorasan-e Shomali	37.5	57
+IR.44	Alborz	36.01117	50.80956
+IS.41	Northwest	65.33333	-20
+IS.40	Northeast	65.5	-17
+IS.38	East	65	-15
+IS.42	South	64	-19
+IS.39	Capital Region	64.16667	-21.66667
+IS.43	Southern Peninsula	63.91667	-22.25
+IS.45	West	64.75	-21.83333
+IS.44	Westfjords	65.66667	-22.5
+IT.15	Sicily	37.75	14.25
+IT.14	Sardinia	40	9
+IT.03	Calabria	39	16.5
+IT.20	Veneto	45.5	11.75
+IT.19	Aosta Valley	45.75	7.25
+IT.18	Umbria	43	12.5
+IT.17	Trentino-Alto Adige	46.5	11.33333
+IT.16	Tuscany	43.41667	11
+IT.13	Apulia	41.00164	16.73378
+IT.12	Piedmont	45	8
+IT.11	Molise	41.66667	14.5
+IT.10	The Marches	43.5	13.25
+IT.09	Lombardy	45.66667	9.5
+IT.08	Liguria	44.5	8.83333
+IT.07	Latium	42.07762	12.77878
+IT.06	Friuli Venezia Giulia	46	13
+IT.05	Emilia-Romagna	44.5444	10.98361
+IT.04	Campania	40.91056	14.92053
+IT.02	Basilicate	40.5041	16.11396
+IT.01	Abruzzo	42.25	13.75
+JE.3237072	St Clement	49.16565	-2.07659
+JE.3237073	St Saviour	49.19517	-2.09238
+JE.3237200	St. Brelade	49.19056	-2.20056
+JE.3237203	Grouville	49.18472	-2.04917
+JE.3237212	St Mary	49.23583	-2.17222
+JE.3237214	St Lawrence	49.21528	-2.14
+JE.3237221	St Peter	49.21333	-2.18194
+JE.3237229	St Ouen	49.22667	-2.20556
+JE.3237497	St John	49.24694	-2.1375
+JE.3237530	Trinity	49.23472	-2.09
+JE.3237716	St Martin	49.21944	-2.04972
+JE.3237864	St Helier	49.18333	-2.1
+JM.16	Westmoreland	18.23333	-78.15
+JM.15	Trelawny	18.38333	-77.63333
+JM.14	Saint Thomas	17.9	-76.43333
+JM.13	Saint Mary	18.31667	-76.9
+JM.12	Saint James	18.38333	-77.88333
+JM.11	St. Elizabeth	18.05	-77.78333
+JM.10	Saint Catherine	18.06667	-77.01667
+JM.09	Saint Ann	18.35	-77.26667
+JM.08	Saint Andrew	18.06667	-76.75
+JM.07	Portland	18.13333	-76.53333
+JM.04	Manchester	18.05	-77.53333
+JM.17	Kingston	17.96667	-76.8
+JM.02	Hanover	18.41667	-78.13333
+JM.01	Clarendon	17.98333	-77.3
+JO.19	Ma'an	30.33333	36.58333
+JO.18	Irbid	32.5	35.83333
+JO.17	Zarqa	31.83333	36.83333
+JO.12	Tafielah	30.75	35.58333
+JO.16	Amman	31.58369	36.33335
+JO.15	Mafraq	32.33333	37.91667
+JO.09	Karak	31.16667	35.75
+JO.02	Balqa	32	35.66667
+JO.20	Ajlun	32.33333	35.75
+JO.22	Jerash	32.25	35.91667
+JO.21	Aqaba	29.75	35.33333
+JO.23	Madaba	31.58333	35.66667
+JP.46	Yamanashi	35.61602	138.608
+JP.45	Yamaguchi	34.20608	131.57046
+JP.43	Wakayama	33.91457	135.51112
+JP.42	Toyama	36.63926	137.26513
+JP.41	Tottori	35.36786	133.85081
+JP.40	Tokyo	35.6895	139.69171
+JP.39	Tokushima	33.92176	134.23682
+JP.38	Tochigi	36.69259	139.81613
+JP.37	Shizuoka	35.02522	138.32542
+JP.36	Shimane	35.07693	132.56111
+JP.35	Shiga Prefecture	35.21939	136.13653
+JP.34	Saitama	35.85721	139.64904
+JP.33	Saga Prefecture	33.28904	130.11491
+JP.32	Osaka	34.68631	135.51968
+JP.47	Okinawa	25.77225	126.66871
+JP.31	Okayama	34.90204	133.81018
+JP.30	Oita	33.19899	131.43353
+JP.29	Niigata	37.52343	138.91748
+JP.28	Nara	34.68525	135.83289
+JP.27	Nagasaki	33.23344	129.61107
+JP.26	Nagano	36.13464	138.04077
+JP.25	Miyazaki	32.19807	131.29763
+JP.23	Mie	34.52123	136.38296
+JP.22	Kyoto	35.25432	135.44118
+JP.21	Kumamoto	32.62049	130.7543
+JP.20	Kochi	33.42801	133.36401
+JP.19	Kanagawa	35.41746	139.33885
+JP.18	Kagoshima	31.03225	130.43292
+JP.17	Kagawa	34.24717	133.99471
+JP.15	Ishikawa	36.77145	136.7705
+JP.13	Hyogo	35.04032	134.82597
+JP.11	Hiroshima	34.60673	132.78543
+JP.10	Gunma	36.50747	138.98235
+JP.09	Gifu	35.78091	137.05398
+JP.07	Fukuoka	33.52813	130.66472
+JP.06	Fukui	35.8501	136.22517
+JP.05	Ehime	33.6258	132.85471
+JP.01	Aichi	35.18017	136.90656
+JP.44	Yamagata	38.4503	140.0997
+JP.24	Miyagi	38.44938	140.92624
+JP.16	Iwate	39.59601	141.35971
+JP.14	Ibaraki	36.31035	140.31615
+JP.08	Fukushima	37.38158	140.22199
+JP.04	Chiba	35.60506	140.12333
+JP.02	Akita	39.75251	140.40537
+JP.12	Hokkaido	43.06451	141.3466
+JP.03	Aomori	40.7831	140.82827
+KE.55	West Pokot	1.75	35.25
+KE.54	Wajir	1.75	40.01667
+KE.52	Uasin Gishu	0.5	35.31667
+KE.51	Turkana	3	35.5
+KE.50	Trans Nzoia	1.045	34.979
+KE.49	Tharaka District	-0.10094	38.02883
+KE.48	Tana River	-1.53333	39.41667
+KE.46	Siaya	0.105	34.302
+KE.45	Samburu	1.33333	37.11667
+KE.05	Nairobi Area	-1.28333	36.83333
+KE.38	Murang'a District	-0.684	36.994
+KE.37	Mombasa	-4.02	39.66667
+KE.35	Meru	0	37.518
+KE.34	Marsabit	2.96667	37.6
+KE.33	Mandera	3.36667	40.7
+KE.29	Laikipia	0.33333	36.76667
+KE.28	Kwale	-4.13333	39.2
+KE.27	Kitui	-1.835	38.451
+KE.26	Kisumu	-0.069	34.64
+KE.25	Kisii	-0.75	34.83333
+KE.24	Kirinyaga	-0.5	37.33333
+KE.23	Kilifi	-3.563	39.644
+KE.22	Kiambu	-1.09	36.699
+KE.21	Kericho	-0.273	35.383
+KE.20	Kakamega	0.334	34.797
+KE.18	Isiolo	0.98333	38.53333
+KE.16	Garissa	-0.172	40.041
+KE.15	Embu	-0.425	37.531
+KE.13	Busia	0.35	34.17
+KE.12	Bungoma	0.66	34.639
+KE.10	Baringo	0.66667	36
+KE.43	Nyandarua	-0.344	36.5
+KE.53	Vihiga	0.072	34.712
+KE.30	Lamu	-2.28	40.9
+KE.31	Machakos	-1.282	37.408
+KE.32	Makueni	-2.222	37.872
+KE.14	Marakwet District	0.99	35.55
+KE.47	Taita Taveta	-3.4	38.37
+KE.19	Kajiado	-2.131	36.878
+KE.44	Nyeri	-0.42	36.95
+KE.17	Homa Bay	-0.666	34.481
+KE.11	Bomet	-0.79	35.35
+KE.36	Migori	-0.982	34.409
+KE.08	Keiyo	0.47754	35.55889
+KE.39	Nakuru	-0.48402	36.17126
+KE.41	Narok	-1.24076	35.7356
+KE.42	Nyamira District	-0.75	35
+KE.40	Nandi	0.055	35.193
+KG.08	Osh	40	73
+KG.09	Batken	39.83333	71
+KG.06	Talas	42.33333	72
+KG.04	Naryn	41.43333	75.96667
+KG.07	Ysyk-Koel	42	78
+KG.01	Bishkek	42.87781	74.60022
+KG.03	Jalal-Abad	41.5	72.5
+KG.02	Chuy	42.41667	74.5
+KH.12	Pursat	12.33333	103.66667
+KH.29	Battambang	12.91667	103.08333
+KH.19	Takeo	10.91667	104.83333
+KH.18	Svay Rieng	11.16667	105.83333
+KH.17	Stung Treng	13.75	106.25
+KH.27	Otar Meanchey	14.16667	103.5
+KH.24	Siem Reap	13.5	104
+KH.23	Ratanakiri	13.83333	107.11667
+KH.14	Prey Veng	11.36667	105.46667
+KH.13	Preah Vihear	13.75	105
+KH.22	Phnom Penh	11.57489	104.91394
+KH.30	Pailin	12.86667	102.6
+KH.10	Mondolkiri	12.75	107
+KH.09	Kratie	12.66667	106.08333
+KH.26	Kep	10.5125	104.31667
+KH.08	Koh Kong	11.5	103.5
+KH.07	Kandal	11.41667	105
+KH.21	Kampot	10.83333	104.33333
+KH.05	Kampong Thom	12.83333	105
+KH.04	Kampong Speu	11.5	104.33333
+KH.03	Kampong Chhnang	12.16667	104.55
+KH.02	Kampong Cham	12.05	105.25
+KH.28	Preah Sihanouk	10.66667	103.75
+KH.25	Banteay Meanchey	13.75	103
+KI.01	Gilbert Islands	1.42	172.984
+KI.02	Line Islands	1.942	-157.475
+KI.03	Phoenix Islands	-2.808	-171.678
+KM.03	Moheli	-12.34268	43.73623
+KM.02	Grande Comore	-11.58333	43.33333
+KM.01	Anjouan	-12.25	44.41667
+KN.15	Trinity Palmetto Point	17.31667	-62.76667
+KN.13	Saint Thomas Middle Island	17.35	-62.8
+KN.12	Saint Thomas Lowland	17.16667	-62.6
+KN.11	Saint Peter Basseterre	17.31667	-62.71667
+KN.10	Saint Paul Charlestown	17.13333	-62.6
+KN.09	Saint Paul Capesterre	17.4	-62.83333
+KN.08	Saint Mary Cayon	17.35	-62.73333
+KN.07	Saint John Figtree	17.11667	-62.6
+KN.06	Saint John Capesterre	17.38333	-62.8
+KN.05	Saint James Windwa	17.16667	-62.56667
+KN.04	Saint George Gingerland	17.13333	-62.56667
+KN.03	Saint George Basseterre	17.26667	-62.68333
+KN.02	Saint Anne Sandy Point	17.36667	-62.83333
+KN.01	Christ Church Nichola Town	17.35	-62.76667
+KP.12	Pyongyang	38.98528	125.92778
+KP.15	P'yongan-namdo	39.5	126.16667
+KP.11	P'yongan-bukto	40.05	125.26667
+KP.09	Kangwon-do	38.73333	127.45
+KP.06	Hwanghae-namdo	38.2	125.53333
+KP.07	Hwanghae-bukto	38.56667	126.3
+KP.03	Hamgyong-namdo	40.23333	127.75
+KP.13	Yanggang-do	41.2	128.2
+KP.17	Hamgyong-bukto	41.83333	129.41667
+KP.01	Chagang-do	40.75	126.5
+KP.18	Rason	42.33611	130.36639
+KR.21	Ulsan	35.56667	129.26667
+KR.19	Daejeon	36.33333	127.41667
+KR.15	Daegu	35.8	128.55
+KR.11	Seoul	37.58333	127
+KR.10	Busan	35.13333	129.05
+KR.14	Gyeongsangbuk-do	36.33333	128.75
+KR.13	Gyeonggi-do	37.6	127.25
+KR.18	Gwangju	35.16667	126.91667
+KR.06	Gangwon-do	37.75	128.25
+KR.12	Incheon	37.46178	126.70017
+KR.17	Chungcheongnam-do	36.5	127
+KR.05	Chungcheongbuk-do	36.82153	127.65685
+KR.16	Jeollanam-do	34.75	127
+KR.03	Jeollabuk-do	35.75	127.25
+KR.01	Jeju-do	33.41667	126.5
+KR.20	Gyeongsangnam-do	35.25	128.25
+KR.22	Sejong-si	36.59296	127.29239
+KW.08	Muhafazat Hawalli	29.3	48.05
+KW.02	Al Asimah	29.33333	47.91667
+KW.05	Muhafazat al Jahra'	29.5	47.5
+KW.07	Al Farwaniyah	29.25	47.91667
+KW.04	Al Ahmadi	28.91667	48
+KW.09	Mubarak al Kabir	29.225	48.05
+KZ.07	Batys Qazaqstan	49.83333	50.66667
+KZ.09	Mangghystau	44	54
+KZ.06	Atyrau	47.58333	52.16667
+KZ.04	Aqtoebe	48.58333	58.58333
+KZ.15	East Kazakhstan	48.83333	81.5
+KZ.03	Aqmola	51.83333	69.91667
+KZ.16	Soltustik Qazaqstan	54.33333	69.5
+KZ.11	Pavlodar	52.08333	76.25
+KZ.14	Qyzylorda	45.25	64.25
+KZ.13	Qostanay	51.5	64
+KZ.12	Qaraghandy	48.25	71
+KZ.17	Zhambyl	44.33333	72.08333
+KZ.10	Ongtustik Qazaqstan	43.25	68.66667
+KZ.02	Almaty Qalasy	43.26667	76.9
+KZ.01	Almaty Oblysy	45	77.91667
+KZ.08	Bayqongyr Qalasy	45.6625	63.2875
+KZ.05	Astana Qalasy	51.13333	71.43333
+LA.14	Xiangkhoang	19.46667	103.5
+LA.13	Xiagnabouli	18.5	101.5
+LA.27	Vientiane	18.75	102.41667
+LA.20	Savannahkhet	16.5	105.75
+LA.19	Salavan	15.75	106.25
+LA.18	Phongsali	21.75	102.33333
+LA.07	Oudomxai	20.16667	101.5
+LA.17	Louangphabang	20.25	102.66667
+LA.16	Loungnamtha	20.91667	101.33333
+LA.15	Khammouan	17.5	105.33333
+LA.03	Houaphan	20.5	104
+LA.02	Champasak	14.75	106
+LA.01	Attapu	14.66667	107
+LA.26	Xekong	15.5	107
+LA.22	Bokeo	20.5	100.5
+LA.23	Bolikhamxai	18.5	104.33333
+LA.24	Vientiane	18.08333	102.66667
+LB.05	Mont-Liban	33.91667	35.66667
+LB.04	Beyrouth	33.88333	35.5
+LB.09	Liban-Nord	34.33333	35.91667
+LB.06	Liban-Sud	33.41667	35.33333
+LB.08	Beqaa	33.66667	35.83333
+LB.07	Nabatiye	33.25	35.5
+LB.10	Aakkar	34.53333	36.16667
+LB.11	Baalbek-Hermel	34.20833	36.3
+LC.10	Vieux-Fort	13.775	-60.95833
+LC.09	Soufriere	13.85	-61.03333
+LC.11	Praslin	13.86667	-60.91667
+LC.08	Micoud Quarter	13.83333	-60.94167
+LC.07	Laborie Quarter	13.775	-61
+LC.06	Gros-Islet	14.01667	-60.91667
+LC.05	Dennery Quarter	13.92778	-60.91667
+LC.02	Dauphin	14	-60.91667
+LC.04	Choiseul Quarter	13.79444	-61.03333
+LC.03	Castries Quarter	13.96667	-60.98333
+LC.01	Anse-la-Raye	13.91667	-61.01389
+LI.11	Vaduz	47.14539	9.52655
+LI.10	Triesenberg	47.12663	9.55962
+LI.09	Triesen	47.08381	9.55517
+LI.08	Schellenberg	47.23431	9.55103
+LI.07	Schaan	47.17433	9.52401
+LI.06	Ruggell	47.24502	9.53323
+LI.05	Planken	47.18015	9.55994
+LI.04	Mauren	47.21513	9.55898
+LI.03	Gamprin	47.21986	9.50995
+LI.02	Eschen	47.20178	9.53588
+LI.01	Balzers	47.0677	9.50408
+LK.36	Western	6.83333	80.08333
+LK.35	Uva	6.98472	81.05639
+LK.34	Southern	6.16667	80.75
+LK.33	Sabaragamuwa	6.75	80.5
+LK.32	North Western	7.75	80.16667
+LK.30	North Central	8.33333	80.5
+LK.29	Central	7.33333	80.75
+LK.38	Northern Province	9.16667	80.41667
+LK.37	Eastern Province	8.60614	81.20201
+LR.10	Sinoe	5.33333	-8.66667
+LR.09	Nimba	6.75	-8.75
+LR.14	Montserrado	6.5	-10.5
+LR.13	Maryland	4.75	-7.75
+LR.20	Lofa	7.91667	-10
+LR.19	Grand Gedeh	5.91667	-8.08333
+LR.12	Grand Cape Mount	7.16667	-11
+LR.11	Grand Bassa	6.25	-9.75
+LR.01	Bong	7	-9.66667
+LR.15	Bomi	6.66667	-10.83333
+LR.16	Grand Kru	4.91667	-8.25
+LR.17	Margibi	6.5	-10.25
+LR.18	River Cess	6	-9.33333
+LR.21	Gbarpolu	7.16667	-10.41667
+LR.22	River Gee	5.25	-7.91667
+LS.19	Thaba-Tseka	-29.56667	28.6
+LS.18	Quthing	-30.36667	28
+LS.17	Qacha's Nek	-30	28.75
+LS.16	Mokhotlong	-29.21667	29.03333
+LS.15	Mohale's Hoek District	-30.06667	27.8
+LS.14	Maseru	-29.58333	27.83333
+LS.13	Mafeteng	-29.8041	27.50262
+LS.12	Leribe	-29.03651	28.25266
+LS.11	Butha-Buthe	-28.8	28.56667
+LS.10	Berea	-29.16667	27.91667
+LT.56	Alytaus apskritis	54.16667	24.16667
+LT.57	Kauno apskritis	55.16667	24
+LT.58	Klaipedos apskritis	55.66667	21.33333
+LT.59	Marijampoles apskritis	54.75	23.25
+LT.60	Panevezys	55.91667	24.83333
+LT.61	Siauliu apskritis	56	23.33333
+LT.62	Taurages apskritis	55.33333	22.5
+LT.63	Telsiu apskritis	56.08333	22.16667
+LT.64	Utenos apskritis	55.5	25.75
+LT.65	Vilnius County	54.83333	25.33333
+LU.03	Luxembourg	49.6278	6.09
+LU.02	Grevenmacher	49.67777	6.35
+LU.01	Diekirch	49.97777	6
+LV.33	Ventspils Rajons	57.33333	21.83333
+LV.32	Ventspils	57.40611	21.60167
+LV.31	Valmieras Rajons	57.75	25.25
+LV.30	Valkas Rajons	57.58333	25.91667
+LV.29	Tukuma Rajons	56.91667	23
+LV.28	Talsu Rajons	57.33333	22.58333
+LV.27	Saldus Rajons	56.66667	22.5
+LV.25	Riga	56.97778	24.12167
+LV.24	Rezeknes Rajons	56.5	27.16667
+LV.23	Rezekne	56.51028	27.34
+LV.22	Preilu Rajons	56.33333	26.66667
+LV.21	Ogre	56.87581	25.10307
+LV.20	Madonas Rajons	56.83333	26.25
+LV.19	Ludzas Rajons	56.5	27.75
+LV.18	Limbazu Rajons	57.58333	24.66667
+LV.16	Liepaja	56.54194	21.03667
+LV.15	Kuldigas Rajons	56.83333	22
+LV.14	Kraslavas Rajons	56.08333	27.5
+LV.13	Jurmala	56.95198	23.69531
+LV.12	Jelgavas Rajons	56.58333	23.75
+LV.11	Jelgava	56.65111	23.71639
+LV.10	Jekabpils Rajons	56.33333	25.83333
+LV.09	Gulbenes Rajons	57.16667	26.66667
+LV.08	Dobeles Rajons	56.58333	23.16667
+LV.07	Daugavpils	55.94666	26.55481
+LV.06	Daugavpils	55.88139	26.53889
+LV.05	Cesu Rajons	57.25	25.5
+LV.04	Bauskas Rajons	56.5	24.33333
+LV.03	Balvu Rajons	57.08333	27.5
+LV.02	Aluksnes Rajons	57.41667	27
+LV.01	Aizkraukles Rajons	56.5	25.16667
+LV.60	Dundaga	57.56667	22.39472
+LV.40	Alsunga	56.97556	21.55444
+LV.A5	Pavilostas	56.80639	21.22389
+LV.99	Nica	56.34917	21.09
+LV.B6	Rucavas	56.21167	21.20972
+LV.65	Grobina	56.48694	21.23556
+LV.61	Durbe	56.6075	21.39528
+LV.37	Aizpute	56.71667	21.56889
+LV.A8	Priekule	56.4325	21.565
+LV.D7	Vainode	56.45056	21.82833
+LV.C9	Skrunda	56.66111	21.98889
+LV.51	Broceni	56.71417	22.65667
+LV.B4	Rojas	57.5	22.73333
+LV.77	Kandava	56.95667	22.705
+LV.44	Auces Novads	56.46306	22.96278
+LV.73	Jaunpils	56.75917	22.92694
+LV.62	Engure	57.0275	23.28389
+LV.D5	Tervete	56.42611	23.31694
+LV.A3	Ozolnieku	56.65139	23.92806
+LV.B9	Rundales	56.41056	23.97472
+LV.45	Babite	56.88889	23.76611
+LV.95	Marupe	56.88639	23.95889
+LV.A2	Olaine	56.79139	23.94806
+LV.67	Lecava	56.60944	24.20667
+LV.80	Kekava	56.79806	24.22639
+LV.C3	Salaspils	56.87444	24.35056
+LV.46	Baldone	56.73111	24.3725
+LV.D2	Stopini	56.93778	24.32361
+LV.53	Carnikava	57.11722	24.24583
+LV.34	Adazi	57.10917	24.37944
+LV.64	Garkalne	57.01778	24.37056
+LV.E4	Vecumnieki	56.49611	24.63444
+LV.79	Kegums	56.66833	24.74722
+LV.87	Lielvarde	56.7175	24.95556
+LV.C8	Skriveri	56.6725	25.09694
+LV.71	Jaunjelgava	56.51417	25.29583
+LV.98	Nereta	56.31528	25.155
+LV.E6	Viesite	56.29889	25.51944
+LV.C2	Salas	56.48222	25.70639
+LV.74	Jekabpils	56.50111	25.86917
+LV.38	Akniste	56.14639	25.80889
+LV.69	Ilukste	56.01167	26.14833
+LV.E2	Varkava	56.22556	26.50278
+LV.90	Livani	56.37139	26.35056
+LV.E1	Varaklani	56.63333	26.63444
+LV.E8	Vilanu	56.56333	26.89611
+LV.B3	Riebinu	56.35806	26.82556
+LV.35	Aglona	56.10667	27.10056
+LV.56	Cibla	56.59278	27.86944
+LV.E9	Zilupes	56.3225	28.11111
+LV.E7	Vilaka	57.18222	27.65417
+LV.47	Baltinava	56.91694	27.61
+LV.57	Dagda	56.12028	27.64444
+LV.78	Karsava	56.76333	27.67639
+LV.B7	Rugaju	56.9825	27.0975
+LV.55	Cesvaine	57.0075	26.27667
+LV.91	Lubana	56.9275	26.73556
+LV.85	Krustpils	56.54917	26.17278
+LV.A6	Plavinu	56.67861	25.7225
+LV.82	Koknese	56.71028	25.46333
+LV.68	Ikskile	56.86028	24.58361
+LV.B5	Ropazu	56.96639	24.59639
+LV.70	Incukalns	57.10222	24.65083
+LV.84	Krimulda	57.21306	24.79306
+LV.C7	Sigulda	57.12972	24.86389
+LV.88	Ligatne	57.18917	25.05917
+LV.94	Malpils	56.99444	24.97306
+LV.C6	Seja	57.21222	24.54611
+LV.C5	Saulkrastu	57.25139	24.42611
+LV.C1	Salacgrivas	57.74028	24.45194
+LV.39	Aloja	57.80083	24.83528
+LV.97	Naukseni	57.915	25.45028
+LV.B8	Rujienas	57.93528	25.22417
+LV.96	Mazsalaca	57.91194	25.03306
+LV.52	Burtnieki	57.70056	25.35528
+LV.A4	Pargaujas	57.36833	25.06611
+LV.81	Koceni	57.5375	25.19056
+LV.42	Amatas Novads	57.10167	25.31556
+LV.A9	Priekuli	57.35417	25.46361
+LV.B1	Raunas	57.33222	25.65639
+LV.D3	Strenci	57.62611	25.78306
+LV.50	Beverina	57.52306	25.59444
+LV.D1	Smiltene	57.40667	26.01083
+LV.72	Jaunpiebalga	57.15	25.97361
+LV.63	Ergli	56.89806	25.67333
+LV.E3	Vecpiebalga	57.09917	25.70361
+LV.43	Apes Novads	57.46694	26.52056
+LV.F1	Mesraga	57.3333	23.0333
+LY.70	Darnah	32.05	22.53333
+LY.69	Banghazi	31.63333	20.65
+LY.66	Al Marj	31.93333	21.31667
+LY.65	Al Kufrah	24.0333	21.5
+LY.63	Al Jabal al Akhdar	32.2	21.75
+LY.77	Tripoli	32.88972	13.18472
+LY.76	Surt	30.33333	16.5
+LY.75	Sabha	27.18332	15.01664
+LY.74	Sha`biyat Nalut	30.33333	10.85
+LY.73	Murzuq	25.18333	15.48333
+LY.72	Misratah	31.41667	14.41667
+LY.71	Sha`biyat Ghat	26.1	10.33333
+LY.68	Az Zawiyah	32.66667	12.58333
+LY.78	Sha`biyat Wadi ash Shati'	27.88333	12.75
+LY.64	Al Jufrah	28	17.41667
+LY.67	An Nuqat al Khams	32.71667	11.81667
+LY.79	Sha`biyat al Butnan	30.23333	24.16667
+LY.80	Sha`biyat al Jabal al Gharbi	30.46666	13
+LY.81	Sha`biyat al Jafarah	32.65	13
+LY.82	Al Marqab	32.5	14
+LY.83	Sha`biyat al Wahat	28.93333	21.2
+LY.84	Sha`biyat Wadi al Hayat	26.55	12.85
+MA.49	Rabat-Sale-Zemmour-Zaer	33.75	-6.33333
+MA.48	Meknes-Tafilalet	32.16667	-4.8
+MA.47	Marrakech-Tensift-Al Haouz	31.5	-8.33333
+MA.46	Fes-Boulemane	33.33333	-4.25
+MA.45	Grand Casablanca	33.53333	-7.58333
+MA.50	Chaouia-Ouardigha	33	-7.16667
+MA.51	Doukkala-Abda	32.5	-8.75
+MA.52	Gharb-Chrarda-Beni Hssen	34.5	-6
+MA.53	Guelmim-Es Smara	28.83333	-9.16667
+MA.54	Oriental	33.66667	-2.5
+MA.55	Souss-Massa-Draa	30.66667	-7.5
+MA.56	Tadla-Azilal	32.16667	-6.41667
+MA.57	Tanger-Tetouan	35.25	-5.43333
+MA.58	Taza-Al Hoceima-Taounate	34.5	-4.16667
+MA.59	Laayoune-Boujdour-Sakia El Hamra	27.08358	-13.24127
+MA.EH	Oued ed Dahab-Lagouira	22.84644	-14.71241
+MC.00	Commune de Monaco	43.73216	7.41981
+MD.73	Raionul Edinet	48.16667	27.25
+MD.92	Ungheni	47.33333	27.91667
+MD.91	Telenesti	47.58333	28.5
+MD.90	Taraclia	45.91667	28.58333
+MD.88	Stefan-Voda	46.5	29.66667
+MD.89	Straseni	47.16667	28.58333
+MD.87	Raionul Soroca	48.16667	28.25
+MD.84	Riscani	47.92778	27.53509
+MD.83	Rezina	47.66667	28.83333
+MD.82	Orhei	47.41667	28.83333
+MD.81	Raionul Ocnita	48.41667	27.5
+MD.59	Anenii Noi	46.91667	29.25
+MD.80	Nisporeni	47.08333	28.16667
+MD.79	Leova	46.5	28.41667
+MD.85	Singerei	47.66667	28.16667
+MD.69	Criuleni	47.15861	29.03065
+MD.78	Laloveni	46.83333	28.83333
+MD.57	Chisinau	47	28.83333
+MD.67	Causeni	46.61884	29.3135
+MD.65	Cantemir	46.25	28.33333
+MD.66	Calarasi	47.29365	28.30836
+MD.64	Cahul	45.83333	28.33333
+MD.76	Glodeni	47.75	27.5
+MD.75	Floresti	47.87398	28.37775
+MD.74	Falesti	47.58333	27.75
+MD.72	Dubasari	47.25	29.11667
+MD.71	Drochia	48.08333	27.83333
+MD.70	Donduseni	48.2677	27.68616
+MD.68	Cimislia	46.58333	28.83333
+MD.63	Briceni	48.25	27
+MD.61	Basarabeasca	46.41667	28.91667
+MD.77	Hincesti	46.83333	28.41667
+MD.86	Soldanesti	47.83333	28.66667
+MD.58	Stinga Nistrului	47.36667	29.25
+MD.51	Gagauzia	46.16667	28.66667
+MD.62	Bender	46.83333	29.45
+MD.60	Balti	47.78333	27.91667
+ME.17	Opstina Rozaje	42.84278	20.15028
+ME.21	Opstina Zabljak	43.15722	19.12333
+ME.20	Ulcinj	41.95528	19.26833
+ME.19	Tivat	42.40556	18.65306
+ME.16	Podgorica	42.5	19.33333
+ME.18	Opstina Savnik	42.95639	19.09389
+ME.15	Opstina Pluzine	43.17417	18.81694
+ME.14	Pljevlja	43.33333	19.33333
+ME.13	Opstina Plav	42.58611	19.92833
+ME.12	Opstina Niksic	42.79944	18.92028
+ME.11	Mojkovac	42.95917	19.58833
+ME.10	Kotor	42.43333	18.76667
+ME.09	Opstina Kolasin	42.83722	19.51556
+ME.03	Berane	42.83907	19.87066
+ME.08	Herceg Novi	42.50667	18.5375
+ME.07	Danilovgrad	42.55861	19.09111
+ME.06	Cetinje	42.4	18.91972
+ME.05	Budva	42.3	18.84139
+ME.04	Bijelo Polje	43.04472	19.74333
+ME.02	Bar	42.16667	19.16667
+ME.01	Andrijevica	42.71833	19.75861
+MG.7670842	Diana	-13.5	49
+MG.7670846	Sava	-14.2	49.8
+MG.7670847	Sofia	-15.2	48.4
+MG.7670848	Analanjirofo	-16.5	49.5
+MG.7670849	Boeny	-16.3	46.1
+MG.7670850	Betsiboka	-17.2	47.1
+MG.7670851	Alaotra Mangoro	-17.9	48.4
+MG.7670852	Melaky	-17.6	44.8
+MG.7670853	Bongolava	-18.5	46.1
+MG.7670854	Vakinankaratra	-19.7	46.9
+MG.7670855	Itasy	-18.95	46.95
+MG.7670856	Analamanga	-18.45	47.5
+MG.7670857	Atsinanana	-19	48.9
+MG.7670902	Menabe	-20.2	45.07
+MG.7670904	Amoron'i Mania	-20.5	46.7
+MG.7670905	Upper Matsiatra	-21.37	46.5
+MG.7670906	Vatovavy Fitovinany	-21.3	47.9
+MG.7670907	Ihorombe	-22.3	46.2
+MG.7670908	Atsimo-Atsinanana	-23.2	47.4
+MG.7670910	Anosy	-24.1	46.3
+MG.7670911	Androy	-24.75	45.5
+MG.7670913	Atsimo-Andrefana	-23.2	44.4
+MH.007	Ailinginae Atoll	11.13333	166.4
+MH.010	Ailinglaplap Atoll	7.38333	168.76667
+MH.030	Ailuk Atoll	10.28621	169.92176
+MH.040	Arno Atoll	7.06137	171.78549
+MH.050	Aur Atoll	8.18702	171.13953
+MH.060	Bikar Atoll	12.25111	170.10303
+MH.070	Bikini Atoll	11.58363	165.37617
+MH.080	Ebon Atoll	4.63333	168.71667
+MH.090	Enewetak Atoll	11.5	162.25
+MH.100	Erikub Atoll	9.12515	169.9918
+MH.120	Jaluit Atoll	6	169.58333
+MH.150	Kwajalein Atoll	9.182	167.308
+MH.160	Lae Atoll	8.93333	166.23333
+MH.180	Likiep Atoll	9.88333	169.15
+MH.190	Majuro Atoll	7.15	171.2
+MH.300	Maloelap Atoll	8.75	171.05
+MH.320	Mili Atoll	6.13333	171.91667
+MH.330	Namdrik Atoll	5.6	168.11667
+MH.340	Namu Atoll	8	168.16667
+MH.350	Rongelap Atoll	11.33333	166.83333
+MH.360	Rongrik Atoll	11.35	167.43333
+MH.385	Taka Atoll	11.17301	169.58633
+MH.073	Bokak Atoll	14.61667	168.96667
+MH.390	Ujae Atoll	9.0804	165.62782
+MH.400	Ujelang	9.81667	160.91667
+MH.410	Utrik Atoll	11.26865	169.80967
+MH.420	Wotho Atoll	10.1	165.98333
+MH.430	Wotje Atoll	9.5134	170.02304
+MH.110	Jabat Island	7.75131	168.97676
+MH.130	Jemo Island	10.0792	169.524
+MH.140	Kili Island	5.64605	169.12654
+MH.170	Lib Island	8.3136	167.38
+MH.310	Mejit Island	10.2775	170.8692
+MK.E9	Valandovo	41.33444	22.53222
+MK.86	Resen	41.03333	21.01667
+MK.51	Kratovo	42.08333	22.16667
+MK.78	Pehcevo	41.78333	22.91667
+MK.72	Novo Selo	41.41667	22.9
+MK.11	Bosilovo	41.46667	22.78333
+MK.A9	Vasilevo	41.53333	22.66667
+MK.E5	Dojran	41.23333	22.7
+MK.08	Bogdanci	41.2	22.6
+MK.47	Konce	41.53333	22.4
+MK.62	Makedonska Kamenica	42.05	22.58333
+MK.C6	Zrnovci	41.83333	22.45
+MK.40	Karbinci	41.8	22.28333
+MK.25	Demir Kapija	41.38333	22.25
+MK.87	Rosoman	41.5	21.91667
+MK.35	Gradsko	41.6	21.91667
+MK.60	Lozovo	41.75	21.93333
+MK.19	Cesinovo-Oblesevo	41.9	22.26667
+MK.E1	Novaci	41.01944	21.6675
+MK.04	Berovo	41.7097	22.84796
+MK.06	Bitola	41.01667	21.31667
+MK.D9	Mogila	41.15806	21.43556
+MK.01	Aracinovo	42.05	21.58333
+MK.C7	Bogovinje	41.95028	20.88222
+MK.12	Brvenica	41.88333	21.03333
+MK.C8	Cair	42.07917	21.44389
+MK.C9	Caska	41.59833	21.59028
+MK.D1	Centar	42.005	21.42889
+MK.18	Centar Zupa	41.46667	20.58333
+MK.20	Cucer-Sandevo	42.16667	21.41667
+MK.D2	Debar	41.5325	20.58444
+MK.22	Delcevo	41.93333	22.76667
+MK.D3	Demir Hisar	41.28083	21.14389
+MK.28	Dolneni	41.48333	21.43333
+MK.29	Opstina Gjorce Petrov	42.06086	21.31927
+MK.30	Drugovo	41.46667	20.91667
+MK.32	Gazi Baba	42.05	21.51667
+MK.33	Gevgelija	41.2	22.4
+MK.D4	Gostivar	41.79306	20.83222
+MK.36	Ilinden	42	21.63333
+MK.D5	Jegunovce	42.11306	21.14528
+MK.41	Karpos	42	21.38333
+MK.D6	Kavadarci	41.285	22.00139
+MK.43	Kicevo	41.51667	20.95
+MK.44	Kisela Voda	41.95	21.51667
+MK.46	Kocani	41.98333	22.4
+MK.52	Kriva Palanka	42.25	22.33333
+MK.53	Krivogastani	41.33333	21.36667
+MK.54	Krusevo	41.36667	21.26667
+MK.D7	Kumanovo	42.08944	21.77278
+MK.59	Opstina Lipkovo	42.16667	21.6
+MK.D8	Makedonski Brod	41.65556	21.23333
+MK.69	Negotino	41.51667	22.15
+MK.E2	Ohrid	41.13083	20.87028
+MK.77	Oslomej	41.6	21.05
+MK.79	Petrovec	41.91667	21.71667
+MK.80	Plasnica	41.45	21.11667
+MK.E3	Prilep	41.28778	21.67583
+MK.83	Probistip	41.96667	22.15
+MK.84	Radovis	41.65	22.5
+MK.85	Opstina Rankovce	42.21667	22.15
+MK.E4	Opstina Rostusa	41.65778	20.68389
+MK.90	Saraj	41.98333	21.26667
+MK.92	Sopiste	41.9	21.31667
+MK.97	Staro Nagoricane	42.23333	21.93333
+MK.98	Stip	41.7	22.2
+MK.E6	Struga	41.28139	20.63361
+MK.E7	Strumica	41.41111	22.64639
+MK.A2	Studenicani	41.83333	21.43333
+MK.A3	Suto Orizari	42.05	21.41667
+MK.A4	Sveti Nikole	41.9	21.98333
+MK.A5	Tearce	42.1	21.05
+MK.E8	Tetovo	42.04444	20.9025
+MK.F1	Veles	41.77583	21.76278
+MK.B3	Vevcani	41.23333	20.58333
+MK.B4	Vinica	41.85917	22.58417
+MK.B6	Vranestica	41.5	21.05
+MK.B7	Vrapciste	41.85	20.85
+MK.C1	Zajas	41.6	20.9
+MK.C2	Zelenikovo	41.83333	21.58333
+MK.C3	Zelino	41.93333	21.13333
+MK.F3	Aerodrom	41.98806	21.45944
+MK.F4	Butel	42.08194	21.46889
+MK.F5	Debarca	41.33417	20.82222
+ML.08	Tombouctou	19.7	-3.6
+ML.06	Sikasso	11.3	-6.2
+ML.05	Segou	13.6	-5.9
+ML.04	Mopti	14.7	-3.4
+ML.07	Koulikoro	13.8	-7.5
+ML.03	Kayes	13.9	-10.1
+ML.09	Gao	16.6	1.6
+ML.01	Bamako	12.65	-8
+ML.10	Kidal	19.4	1.2
+MM.12	Tanintharyi	13	99
+MM.11	Shan	22	98
+MM.10	Sagain	23.5	95.5
+MM.17	Yangon	17	96.16667
+MM.01	Rakhine	19	94.25
+MM.16	Bago	18.25	96.25
+MM.13	Mon	16.25	97.75
+MM.08	Mandalay	21	96
+MM.15	Magway	20.5	94.75
+MM.06	Kayah	19.25	97.5
+MM.05	Kayin	17.5	97.75
+MM.04	Kachin	26	97.5
+MM.03	Ayeyarwady	17	95
+MM.02	Chin	22	93.5
+MN.19	Uvs	49.5	93
+MN.12	Hovd	47	92.5
+MN.10	Govi-Altay	45.5	96
+MN.09	Dzabkhan	48	96
+MN.03	Bayan-Olgiy	48.5	90
+MN.02	Bayanhongor	45.5	99.5
+MN.20	Ulaanbaatar	47.91667	106.91667
+MN.18	Central Aimak	47.5	106.5
+MN.17	Suhbaatar	46.25	113.5
+MN.16	Selenge	49.66667	106.41667
+MN.15	OEvoerhangay	46	102.5
+MN.14	OEmnoegovi	43	104
+MN.13	Hovsgol	50	100
+MN.11	Hentiy	48	110.5
+MN.08	Middle Govi	45.5	106.5
+MN.07	East Gobi Aymag	44.5	110
+MN.06	East Aimak	48	115
+MN.21	Bulgan	49	103.5
+MN.01	Arhangay	48	101.5
+MN.23	Darhan Uul	49.28056	106.11867
+MN.24	Govi-Sumber	46.5	108.5
+MN.25	Orhon	49.06306	104.1627
+MO.02	Macau	22.20028	113.54694
+MO.01	Ilhas	22.125	113.56583
+MP.100	Rota	14.154	145.201
+MP.110	Saipan	15.1355	145.701
+MP.120	Tinian	15.029	145.616
+MP.085	Northern Islands	18.11	145.771
+MQ.MQ	Martinique	14.66655	-60.99961
+MR.06	Trarza	17.8665	-14.65878
+MR.11	Tiris Zemmour	24.25	-9.5
+MR.09	Tagant	18.66667	-10.33333
+MR.NKC	Nouakchott	18.1	-15.95
+MR.12	Inchiri	20	-15.08333
+MR.02	Hodh el Gharbi	16.58333	-9.83333
+MR.01	Hodh ech Chargui	18.16667	-7.08333
+MR.10	Guidimaka	15.38333	-12.13333
+MR.04	Gorgol	16	-12.83333
+MR.08	Dakhlet Nouadhibou	20.83333	-16.08333
+MR.05	Brakna	17.25	-13.4
+MR.03	Assaba	16.58333	-11.58333
+MR.07	Adrar	20.75	-10.25
+MS.03	Saint Peter	16.78333	-62.205
+MS.02	Saint Georges	16.76667	-62.2
+MS.01	Saint Anthony	16.7	-62.2
+MT.01	Attard	35.89167	14.43194
+MT.02	Balzan	35.89722	14.45278
+MT.03	Il-Birgu	35.88611	14.52417
+MT.04	Birkirkara	35.89722	14.46528
+MT.05	Birzebbuga	35.82222	14.52278
+MT.06	Bormla	35.88056	14.52167
+MT.07	Dingli	35.85972	14.38333
+MT.08	Il-Fgura	35.87278	14.52028
+MT.09	Il-Furjana	35.89167	14.50417
+MT.10	Il-Fontana	36.0375	14.23611
+MT.11	Ghajnsielem	36.02667	14.28611
+MT.12	L-Gharb	36.06806	14.20139
+MT.13	Hal Gharghur	35.92361	14.455
+MT.14	L-Ghasri	36.06528	14.22167
+MT.15	Hal Ghaxaq	35.84583	14.51667
+MT.16	Il-Gudja	35.85139	14.50333
+MT.17	Il-Gzira	35.90556	14.49278
+MT.18	Il-Hamrun	35.88694	14.48833
+MT.19	L-Iklin	35.90972	14.45556
+MT.20	L-Imdina	35.88722	14.40528
+MT.21	L-Imgarr	35.91944	14.36389
+MT.22	L-Imqabba	35.845	14.4675
+MT.23	L-Imsida	35.89861	14.48389
+MT.24	L-Imtarfa	35.89056	14.39722
+MT.25	L-Isla	35.88778	14.51694
+MT.26	Il-Kalkara	35.89111	14.53278
+MT.27	Ta' Kercem	36.04389	14.21611
+MT.28	Kirkop	35.84417	14.48417
+MT.29	Lija	35.90139	14.44222
+MT.30	Luqa	35.85972	14.48333
+MT.31	Il-Marsa	35.87639	14.49222
+MT.32	Marsaskala	35.86056	14.55917
+MT.33	Marsaxlokk	35.84167	14.55139
+MT.34	Il-Mellieha	35.95833	14.35139
+MT.35	Il-Mosta	35.9125	14.42083
+MT.36	Il-Munxar	36.02917	14.22556
+MT.37	In-Nadur	36.04861	14.29444
+MT.38	In-Naxxar	35.93333	14.4375
+MT.39	Paola	35.87361	14.50611
+MT.40	Pembroke	35.93056	14.47639
+MT.41	Tal-Pieta	35.8925	14.49389
+MT.42	Il-Qala	36.0375	14.31667
+MT.43	Qormi	35.87917	14.46667
+MT.44	Il-Qrendi	35.83194	14.45139
+MT.45	Ir-Rabat	35.88258	14.39775
+MT.46	Victoria	36.04528	14.24167
+MT.47	Safi	35.83472	14.49167
+MT.48	Saint John	35.90889	14.475
+MT.49	Saint Julian	35.91722	14.48944
+MT.50	Saint Lawrence	36.04861	14.19778
+MT.51	Saint Lucia	35.86167	14.50639
+MT.52	Saint Paul's Bay	35.9375	14.39861
+MT.53	Saint Venera	35.89028	14.47778
+MT.54	Sannat	36.02306	14.25139
+MT.55	Is-Siggiewi	35.84861	14.42639
+MT.56	Tas-Sliema	35.9125	14.50222
+MT.57	Is-Swieqi	35.92167	14.46944
+MT.58	Tarxien	35.86667	14.51306
+MT.59	Ta' Xbiex	35.89944	14.49611
+MT.61	Ix-Xaghra	36.05417	14.26667
+MT.62	Ix-Xewkija	36.03333	14.26111
+MT.63	Ix-Xghajra	35.88472	14.54861
+MT.64	Haz-Zabbar	35.875	14.54167
+MT.65	Haz-Zebbug	35.87361	14.43611
+MT.66	Iz-Zebbug	36.06667	14.24444
+MT.67	Iz-Zejtun	35.85778	14.53333
+MT.68	Iz-Zurrieq	35.82222	14.48333
+MT.60	Il-Belt Valletta	35.89833	14.5125
+MU.21	Agalega Islands	-10.4	56.61667
+MU.20	Savanne	-20.46667	57.5
+MU.19	Riviere du Rempart	-20.05833	57.64167
+MU.18	Port Louis	-20.16667	57.525
+MU.17	Plaines Wilhems	-20.3	57.48333
+MU.16	Pamplemousses	-20.09583	57.55972
+MU.15	Moka	-20.25	57.56667
+MU.14	Grand Port	-20.41667	57.63333
+MU.13	Flacq	-20.23333	57.71667
+MU.12	Black River	-20.33333	57.41667
+MU.22	Cargados Carajos	-16.63333	59.63333
+MU.23	Rodrigues	-19.7	63.41667
+MV.47	Vaavu Atholhu	3.46667	73.46667
+MV.46	Thaa Atholhu	2.36667	73.11667
+MV.45	Shaviyani Atholhu	6.23333	73.1
+MV.01	Seenu	-0.63333	73.16667
+MV.44	Raa Atoll	5.63333	72.91667
+MV.43	Noonu Atoll	5.83333	73.3
+MV.42	Gnyaviyani Atoll	-0.29663	73.42472
+MV.41	Meemu Atholhu	3.01667	73.46667
+MV.39	Lhaviyani Atholhu	5.38333	73.48333
+MV.05	Laamu	1.93333	73.41667
+MV.38	Kaafu Atoll	4.36667	73.5
+MV.37	Haa Dhaalu Atholhu	6.61667	72.86667
+MV.36	Haa Alifu Atholhu	7	73
+MV.35	Gaafu Dhaalu Atholhu	0.41667	73.16667
+MV.34	Gaafu Alifu Atholhu	0.61667	73.28333
+MV.33	Faafu Atholhu	3.23333	72.93333
+MV.32	Dhaalu Atholhu	2.86667	72.95
+MV.31	Baa Atholhu	5.13333	72.95
+MV.30	Northern Ari Atoll	3.91667	72.83333
+MV.40	Maale	4.175	73.50833
+MV.48	South Province	-0.5	73.25
+MV.49	Upper South	0.5	73.25
+MV.50	Upper North	6.5	73
+MV.51	Central Province	3	73.16667
+MV.52	South Central	2.16667	73.25
+MV.53	North Central	4	73.16667
+MV.54	North Province	5.5	73.16667
+MW.S	Southern Region	-15.5	35
+MW.N	Northern Region	-11	34
+MW.C	Central Region	-13.5	34
+MX.31	Yucatan	20.75	-88.83333
+MX.30	Veracruz	19.33333	-96.66667
+MX.29	Tlaxcala	19.41667	-98.16667
+MX.28	Tamaulipas	24	-98.75
+MX.27	Tabasco	18	-92.66667
+MX.23	Quintana Roo	19.66667	-88.25
+MX.22	Queretaro	20.85	-99.85
+MX.21	Puebla	18.75	-97.91667
+MX.20	Oaxaca	17	-96.5
+MX.19	Nuevo Leon	25.58333	-99.75
+MX.17	Morelos	18.75	-99.06667
+MX.15	Mexico	19.36667	-99.66667
+MX.13	Hidalgo	20.5	-99
+MX.12	Guerrero	17.66667	-100
+MX.09	Mexico City	19.28333	-99.13333
+MX.05	Chiapas	16.5	-92.5
+MX.04	Campeche	18.83333	-90.25
+MX.32	Zacatecas	23.25	-103
+MX.26	Sonora	29.66667	-110.5
+MX.25	Sinaloa	25	-107.5
+MX.24	San Luis Potosi	22.5	-100.5
+MX.18	Nayarit	21.83333	-104.83333
+MX.16	Michoacan	19.16667	-101.83333
+MX.14	Jalisco	20.33333	-103.66667
+MX.11	Guanajuato	21	-101
+MX.10	Durango	24.83333	-104.83333
+MX.08	Colima	19.13333	-103.9
+MX.07	Coahuila	27.33333	-102
+MX.06	Chihuahua	28.75	-106.25
+MX.03	Baja California Sur	25.83333	-111.83333
+MX.02	Baja California	30	-115
+MX.01	Aguascalientes	22	-102.36667
+MY.04	Melaka	2.25	102.25
+MY.13	Terengganu	5	103
+MY.12	Selangor	3.16667	101.5
+MY.11	Sarawak	2.5	113.5
+MY.16	Sabah	5.5	117
+MY.08	Perlis	6.5	100.25
+MY.07	Perak	5	101
+MY.06	Pahang	3.5	102.75
+MY.05	Negeri Sembilan	2.75	102.16667
+MY.03	Kelantan	5.33333	102
+MY.14	Kuala Lumpur	3.14309	101.68653
+MY.09	Penang	5.37677	100.25848
+MY.02	Kedah	6	100.66667
+MY.01	Johor	2	103.5
+MY.15	Labuan	5.33333	115.2
+MY.17	Putrajaya	2.91667	101.7
+MZ.09	Zambezia	-17	37
+MZ.08	Tete	-15.5	33
+MZ.05	Sofala	-19.2	34.8
+MZ.07	Niassa	-13	36.7
+MZ.06	Nampula	-15	39
+MZ.04	Maputo	-25.5	32.33333
+MZ.10	Manica	-19	33.5
+MZ.03	Inhambane	-23	34.5
+MZ.02	Gaza	-23.5	33
+MZ.01	Cabo Delgado	-12.5	39.4
+MZ.11	Maputo City	-25.96528	32.58917
+NA.28	Zambezi	-17.83333	23.75
+NA.21	Khomas	-22.75	17.08333
+NA.29	Erongo	-22.08333	15.33333
+NA.30	Hardap	-24.5	17.25
+NA.31	Karas	-27	17.5
+NA.32	Kunene	-19.41667	13.75
+NA.33	Ohangwena	-17.58333	16.75
+NA.35	Omaheke	-21.75	19.41667
+NA.36	Omusati	-18.33333	14.83333
+NA.37	Oshana	-18.5	15.75
+NA.38	Oshikoto	-18.5	17.08333
+NA.39	Otjozondjupa	-20.33333	18
+NA.40	Kavango East	-18.33333	20.58333
+NA.41	Kavango West	-18.25	18.91667
+NC.02	South Province	-21.75	165.83333
+NC.01	North Province	-21.05	164.9
+NC.03	Loyalty Islands	-20.91911	167.26135
+NE.07	Zinder	15	10.5
+NE.06	Tahoua	16	5.5
+NE.04	Maradi	14.25	7.25
+NE.03	Dosso	13.2	3.6
+NE.02	Diffa	16	13.5
+NE.01	Agadez	19.75	10.25
+NE.09	Tillaberi	14.33333	2.08333
+NE.08	Niamey	13.52139	2.10528
+NG.51	Sokoto	13.08333	5.25
+NG.50	Rivers	4.74974	6.82766
+NG.49	Plateau	9.16667	9.75
+NG.32	Oyo	8	4
+NG.48	Ondo	7.16667	5.08333
+NG.16	Ogun	7	3.58333
+NG.31	Niger	10	6
+NG.05	Lagos	6.53774	3.3522
+NG.30	Kwara	8.5	5
+NG.24	Katsina	12.25	7.5
+NG.29	Kano	11.5	8.5
+NG.23	Kaduna	10.33333	7.75
+NG.28	Imo	5.5	7.16667
+NG.22	Cross River	5.75	8.5
+NG.27	Borno	11.5	13
+NG.26	Benue	7.33333	8.75
+NG.46	Bauchi	10.5	10
+NG.25	Anambra	6.33333	7
+NG.21	Akwa Ibom	5	7.83333
+NG.11	Abuja Federal Capital Territory	8.83333	7.16667
+NG.45	Abia	5.41667	7.5
+NG.36	Delta	5.5	6
+NG.35	Adamawa	9.33333	12.5
+NG.37	Edo	6.5	6
+NG.47	Enugu	6.5	7.5
+NG.39	Jigawa	12.1	9.56
+NG.52	Bayelsa	4.75	6.08333
+NG.53	Ebonyi	6.25	8.08333
+NG.54	Ekiti	7.66667	5.25
+NG.55	Gombe	10.25	11.16667
+NG.56	Nassarawa	8.5	8.25
+NG.57	Zamfara	12.16667	6.25
+NG.40	Kebbi	11.5	4
+NG.41	Kogi	7.75	6.75
+NG.42	Osun	7.5	4.5
+NG.43	Taraba	8	10.5
+NG.44	Yobe	12	11.5
+NI.15	Rivas	11.3	-85.75
+NI.14	Rio San Juan	11.33333	-84.58333
+NI.13	Nueva Segovia	13.7	-86.16667
+NI.12	Matagalpa	12.91667	-85.66667
+NI.11	Masaya	12	-86.16667
+NI.10	Managua	12	-86.41667
+NI.09	Madriz	13.5	-86.41667
+NI.08	Leon	12.58333	-86.58333
+NI.07	Jinotega	13.75	-85.58333
+NI.06	Granada	11.83333	-85.91667
+NI.05	Esteli	13.16667	-86.33333
+NI.04	Chontales	12.08333	-85.16667
+NI.03	Chinandega	12.83333	-87.08333
+NI.02	Carazo	11.75	-86.25
+NI.01	Boaco	12.5	-85.5
+NI.17	Atlantico Norte (RAAN)	14	-84.25
+NI.18	Atlantico Sur	12.25	-84.25
+NL.11	South Holland	52	4.66667
+NL.10	Zeeland	51.41667	3.75
+NL.09	Utrecht	52	5.25
+NL.15	Overijssel	52.41667	6.5
+NL.07	North Holland	52.58333	4.91667
+NL.06	North Brabant	51.66667	5
+NL.05	Limburg	51.25	6
+NL.04	Groningen	53.25	6.75
+NL.03	Gelderland	52	5.83333
+NL.02	Friesland	53.16667	5.83333
+NL.01	Drenthe	52.83333	6.58333
+NL.16	Flevoland	52.53333	5.66667
+NO.05	Finnmark Fylke	70.0815	29.7358
+NO.20	Vestfold	59.2654	10.4159
+NO.19	Vest-Agder	58.1513	7.9947
+NO.18	Troms	69.6442	18.9445
+NO.17	Telemark	59.2161	9.6112
+NO.16	Sor-Trondelag	63.4292	10.3945
+NO.15	Sogn og Fjordane	61.1826	6.8526
+NO.14	Rogaland	58.9647	5.7312
+NO.13	Ostfold	59.2752	11.1058
+NO.12	Oslo	59.9119	10.7336
+NO.11	Oppland	61.1163	10.4622
+NO.10	Nord-Trondelag	64.0144	11.4819
+NO.09	Nordland	67.2804	14.3764
+NO.08	More og Romsdal	62.7345	7.1506
+NO.07	Hordaland	60.3867	5.3325
+NO.06	Hedmark	60.7953	11.0827
+NO.04	Buskerud	59.7484	10.1891
+NO.02	Aust-Agder	58.4643	8.768
+NO.01	Akershus	60	11.16667
+NP.FR	Far Western	29.30915	80.91534
+NP.MR	Mid Western	29.05977	82.31335
+NP.CR	Central Region	27.45436	85.22301
+NP.ER	Eastern Region	27.23998	87.14802
+NP.WR	Western Region	28.17039	83.93829
+NR.14	Yaren	-0.54724	166.91599
+NR.13	Uaboe	-0.51463	166.92294
+NR.12	Nibok	-0.51971	166.91672
+NR.11	Meneng	-0.55242	166.93788
+NR.10	Ijuw	-0.52141	166.95798
+NR.09	Ewa	-0.5033	166.93453
+NR.08	Denigomodu	-0.52264	166.91358
+NR.07	Buada	-0.53532	166.92086
+NR.06	Boe	-0.54158	166.91421
+NR.05	Baiti	-0.50754	166.92969
+NR.04	Anibare	-0.53459	166.95032
+NR.03	Anetan	-0.5035	166.94348
+NR.02	Anabar	-0.50742	166.9524
+NR.01	Aiwo	-0.53422	166.90994
+NZ.G2	Wellington	-41.28333	174.76667
+NZ.F3	Manawatu-Wanganui	-39.95	175.01667
+NZ.G1	Waikato	-37.5	175.33333
+NZ.TAS	Tasman	-41.2	173.05
+NZ.F9	Taranaki	-39.16667	174.66667
+NZ.F8	Southland	-45.66667	168
+NZ.E8	Bay of Plenty	-38.1648	176.91284
+NZ.F6	Northland	-35.5	174
+NZ.F4	Marlborough	-41.66667	173.5
+NZ.F2	Hawke's Bay	-39.66667	176.5
+NZ.F1	Gisborne	-38.65	178
+NZ.E9	Canterbury	-43.5	171.5
+NZ.E7	Auckland	-36.85	174.78333
+NZ.10	Chatham Islands	-44	-176.5
+NZ.F5	Nelson	-41.27089	173.28401
+NZ.F7	Otago	-45.88445	170.51107
+NZ.G3	West Coast	-42.45658	171.22081
+OM.01	Muhafazat ad Dakhiliyah	22.5	57.33333
+OM.02	Al Batinah	23.45	57.7
+OM.03	Al Wusta	20.16667	56.61667
+OM.04	Ash Sharqiyah	21.65	59.1
+OM.09	Az Zahirah	22.9	55.95
+OM.06	Muhafazat Masqat	23.31667	58.66667
+OM.07	Musandam	26.03333	56.3
+OM.08	Zufar	18.48333	54.18333
+OM.10	Al Buraimi	24.21667	56.11667
+OM.12	Ash Sharqiyah	22.1	58.43333
+OM.11	Al Batinah	24	56.75
+PA.10	Veraguas	8.25	-81.13333
+PA.09	Guna Yala	9.25	-78.25
+PA.08	Panama	9.08333	-78.9
+PA.07	Los Santos	7.58333	-80.33333
+PA.06	Herrera	7.83333	-80.75
+PA.05	Darien	8.08333	-77.88333
+PA.04	Colon	9.16667	-80
+PA.03	Cocle	8.56667	-80.41667
+PA.02	Chiriqui	8.5	-82.41667
+PA.01	Bocas del Toro	9.25	-82.65
+PA.11	Embera	7.93003	-77.50443
+PA.12	Ngoebe-Bugle	8.48621	-81.73081
+PE.25	Ucayali	-9.75	-73.5
+PE.24	Tumbes	-3.83333	-80.5
+PE.22	San Martin	-7	-76.83333
+PE.20	Piura	-5	-80.33333
+PE.16	Loreto	-4	-74.5
+PE.14	Lambayeque	-6.33333	-80
+PE.13	La Libertad	-8	-78.5
+PE.10	Huanuco	-9.5	-76
+PE.06	Cajamarca	-6.25	-78.83333
+PE.02	Ancash	-9.5	-77.75
+PE.01	Amazonas	-5	-78.23333
+PE.23	Tacna	-17.66667	-70.33333
+PE.21	Puno	-15	-70
+PE.19	Pasco	-10.5	-75.25
+PE.18	Moquegua	-16.83662	-70.91992
+PE.17	Madre de Dios	-12	-70.25
+PE.LMA	Lima	-12	-76.83333
+PE.15	Lima	-11.85	-76.45
+PE.12	Junin	-11.5	-75
+PE.11	Ica	-14.3325	-75.49972
+PE.09	Huancavelica	-13	-75
+PE.08	Cusco	-13	-72.25
+PE.07	Callao	-12.05139	-77.125
+PE.05	Ayacucho	-14	-74.25
+PE.04	Arequipa	-16	-72.25
+PE.03	Apurimac	-14	-73
+PF.04	Iles Marquises	-9	-139.5
+PF.03	Iles Tuamotu-Gambier	-19	-139
+PF.02	Iles Sous-le-Vent	-16.66667	-151.5
+PF.01	Iles du Vent	-17.5	-149.5
+PF.05	Iles Australes	-23	-150
+PG.17	West New Britain	-5.87833	149.82605
+PG.06	Western Province	-7.5	142
+PG.16	Western Highlands	-5.75	144.25
+PG.05	Southern Highlands	-6.5	143.58333
+PG.18	Sandaun	-3.5	142
+PG.07	Bougainville	-6	155
+PG.04	Northern Province	-9	148.5
+PG.15	New Ireland	-3	151.5
+PG.20	National Capital	-9.41667	147.16667
+PG.14	Morobe	-7.0106	146.9672
+PG.13	Manus	-2	147
+PG.12	Madang	-5	145.5
+PG.02	Gulf	-7.7246	145.08545
+PG.19	Enga	-5.5	143.5
+PG.11	East Sepik	-4	143.75
+PG.10	East New Britain	-4.61283	151.88775
+PG.09	Eastern Highlands	-6.5	145.58333
+PG.08	Chimbu	-6.25	144.83333
+PG.03	Milne Bay	-10.55262	150.31494
+PG.01	Central Province	-10	148
+PG.21	Hela	-6.29824	142.84424
+PG.22	Jiwaka	-5.90224	144.67278
+PH.14	Autonomous Region in Muslim Mindanao	7.09544	124.38721
+PH.10	Northern Mindanao	8.5625	124.6125
+PH.41	Mimaropa	12.38333	120.99
+PH.02	Cagayan Valley	17.65667	121.73333
+PH.12	Soccsksargen	7.18889	124.45556
+PH.13	Caraga	9	125.74167
+PH.15	Cordillera	17.0852	121.03322
+PH.01	Ilocos	16.97917	120.52083
+PH.40	Calabarzon	14.31	121.09
+PH.06	Western Visayas	11.13	122.53
+PH.03	Central Luzon	15.30714	120.79762
+PH.07	Central Visayas	9.525	123.6
+PH.08	Eastern Visayas	11.41667	124.98333
+PH.09	Zamboanga Peninsula	7.49432	122.67366
+PH.11	Davao	6.81304	125.70848
+PH.05	Bicol	13.31389	123.56389
+PH.NCR	Metro Manila	14.59455	120.97175
+PK.08	Islamabad	33.71039	73.13382
+PK.05	Sindh	26.13456	68.7696
+PK.04	Punjab	30.86017	72.31976
+PK.03	Khyber Pakhtunkhwa	34.45993	72.50237
+PK.07	Gilgit-Baltistan	36	75
+PK.01	Federally Administered Tribal Areas	33.01455	69.99925
+PK.02	Balochistan	28.47849	65.64355
+PK.06	Azad Kashmir	33.94718	73.9104
+PL.75	Lublin Voivodeship	51.23333	22.9
+PL.77	Lesser Poland Voivodeship	49.86667	20.26667
+PL.78	Masovian Voivodeship	52.36667	21.1
+PL.80	Subcarpathian Voivodeship	50	22.16667
+PL.81	Podlasie	53.25	23
+PL.84	Swietokrzyskie	50.75	20.75
+PL.85	Warmian-Masurian Voivodeship	53.83333	20.83333
+PL.72	Lower Silesian Voivodeship	51.1	16.43333
+PL.74	Lodz Voivodeship	51.6	19.43333
+PL.76	Lubusz	52.2	15.33333
+PL.79	Opole Voivodeship	50.66667	17.9
+PL.82	Pomeranian Voivodeship	54.25	18
+PL.83	Silesian Voivodeship	50.33333	18.93333
+PL.86	Greater Poland Voivodeship	52.3	17.2
+PL.87	West Pomeranian Voivodeship	53.58333	15.58333
+PL.73	Kujawsko-Pomorskie	53.08333	18.5
+PM.97502	Saint-Pierre	46.78333	-56.2
+PM.97501	Miquelon-Langlade	47.0458	-56.32553
+PR.001	Adjuntas	18.16274	-66.72212
+PR.003	Aguada	18.3605	-67.17463
+PR.005	Aguadilla	18.42745	-67.15407
+PR.007	Aguas Buenas	18.2569	-66.10294
+PR.009	Aibonito	18.13996	-66.266
+PR.011	Anasco	18.28134	-67.1274
+PR.013	Arecibo	18.40411	-66.67462
+PR.015	Arroyo	18.0008	-66.05794
+PR.017	Barceloneta	18.45633	-66.54128
+PR.019	Barranquitas	18.20357	-66.31211
+PR.021	Bayamon	18.35217	-66.17044
+PR.023	Cabo Rojo	18.05635	-67.14685
+PR.025	Caguas	18.21329	-66.04961
+PR.027	Camuy	18.42578	-66.85934
+PR.029	Canovanas	18.33828	-65.88711
+PR.031	Carolina	18.37578	-65.95794
+PR.033	Catano	18.4355	-66.13711
+PR.035	Cayey	18.10357	-66.15378
+PR.037	Ceiba	18.26051	-65.67183
+PR.039	Ciales	18.29162	-66.51628
+PR.041	Cidra	18.17579	-66.16211
+PR.043	Coamo	18.09802	-66.36211
+PR.045	Comerio	18.22718	-66.22183
+PR.047	Corozal	18.30912	-66.326
+PR.049	Culebra	18.31884	-65.2871
+PR.051	Dorado	18.43967	-66.28295
+PR.053	Fajardo	18.31051	-65.676
+PR.054	Florida	18.36051	-66.56212
+PR.055	Guanica	17.9883	-66.91212
+PR.057	Guayama	18.01663	-66.13072
+PR.059	Guayanilla	18.05413	-66.7899
+PR.061	Guaynabo	18.34106	-66.11628
+PR.063	Gurabo	18.27162	-65.97183
+PR.065	Hatillo	18.40773	-66.79323
+PR.067	Hormigueros	18.14162	-67.11629
+PR.069	Humacao	18.14802	-65.81211
+PR.071	Isabela	18.50078	-67.02435
+PR.073	Municipio de Jayuya	18.21857	-66.59156
+PR.075	Juana Diaz	18.04802	-66.49267
+PR.077	Municipio de Juncos	18.22746	-65.921
+PR.079	Lajas	18.0133	-67.0399
+PR.081	Lares	18.27023	-66.86907
+PR.083	Las Marias	18.25087	-66.9924
+PR.085	Las Piedras	18.18829	-65.87044
+PR.087	Loiza	18.43411	-65.89266
+PR.089	Luquillo	18.33967	-65.72461
+PR.091	Manati	18.41884	-66.49267
+PR.093	Maricao	18.17301	-66.94546
+PR.095	Maunabo	18.01691	-65.92738
+PR.097	Mayaguez	18.20496	-67.1024
+PR.099	Moca	18.3855	-67.08435
+PR.101	Morovis	18.31884	-66.41767
+PR.103	Naguabo	18.23135	-65.75988
+PR.105	Naranjito	18.28968	-66.25517
+PR.107	Orocovis	18.21885	-66.43712
+PR.109	Patillas	18.04163	-66.01766
+PR.111	Penuelas	18.07024	-66.71767
+PR.113	Ponce	18.07302	-66.61851
+PR.117	Rincon	18.33967	-67.23713
+PR.115	Quebradillas	18.43967	-66.92462
+PR.119	Rio Grande	18.34162	-65.81766
+PR.121	Sabana Grande	18.09385	-66.94962
+PR.123	Salinas	18.01746	-66.25378
+PR.125	San German	18.11468	-67.03573
+PR.127	San Juan	18.45095	-66.09169
+PR.129	San Lorenzo	18.15496	-65.97461
+PR.131	San Sebastian	18.32912	-66.97462
+PR.133	Santa Isabel Municipio	17.99663	-66.38711
+PR.135	Toa Alta	18.36606	-66.25378
+PR.137	Toa Baja	18.44383	-66.25961
+PR.139	Trujillo Alto	18.34162	-66.00517
+PR.141	Utuado	18.27301	-66.69962
+PR.143	Vega Alta	18.4105	-66.33295
+PR.145	Vega Baja	18.42578	-66.39961
+PR.149	Villalba	18.12913	-66.47739
+PR.151	Yabucoa	18.07302	-65.88711
+PR.153	Yauco	18.07857	-66.85518
+PR.147	Vieques Municipality	18.12913	-65.4371
+PS.GZ	Gaza Strip	31.41667	34.33333
+PS.WE	West Bank	31.66667	35.25
+PT.19	Setubal	38.34957	-8.58651
+PT.18	Santarem	39.28881	-8.50192
+PT.16	Portalegre	39.25	-7.58333
+PT.14	Lisbon	39	-9.13333
+PT.13	Leiria	39.7205	-8.81403
+PT.09	Faro	37.2	-8.16667
+PT.08	Evora	38.58333	-7.83333
+PT.06	Castelo Branco	39.95658	-7.52323
+PT.03	Beja	37.84204	-7.91855
+PT.10	Madeira	32.66667	-16.75
+PT.22	Viseu	40.82747	-7.79816
+PT.21	Vila Real	41.54355	-7.59915
+PT.20	Viana do Castelo	41.89649	-8.5063
+PT.17	Porto	41.22852	-8.32691
+PT.11	Guarda	40.64223	-7.2185
+PT.07	Coimbra	40.1925	-8.32963
+PT.05	Braganca	41.83615	-6.76346
+PT.04	Braga	41.54821	-8.42545
+PT.02	Aveiro	40.72974	-8.4815
+PT.23	Azores	38.5	-28
+PW.11	Ngatpang	7.4869	134.51978
+PW.16	Sonsorol	5.331	132.2206
+PW.05	Kayangel	8.077	134.695
+PW.04	Hatohobei	3.009	131.1236
+PW.01	Aimeliik	7.445	134.49
+PW.02	Airai	7.36698	134.51866
+PW.03	Angaur	6.89	134.125
+PW.06	Koror	7.339	134.4785
+PW.07	Melekeok	7.494	134.6345
+PW.08	Ngaraard	7.62	134.625
+PW.12	Ngchesar	7.47	134.6
+PW.09	Ngarchelong	7.708	134.62
+PW.10	Ngardmau	7.6	134.573
+PW.13	Ngaremlengui	7.518	134.504
+PW.14	Ngiwal	7.558	134.621
+PW.15	Peleliu	6.993	134.231
+PY.17	San Pedro	-24.13333	-56.66667
+PY.16	Presidente Hayes	-23.5	-58.83333
+PY.15	Paraguari	-26	-57.16667
+PY.13	Neembucu	-26.66667	-57.91667
+PY.12	Misiones	-27	-57
+PY.11	Itapua	-26.83333	-55.66667
+PY.10	Guaira	-25.8	-56.26667
+PY.08	Cordillera	-25.25	-57
+PY.07	Concepcion	-22.83333	-57.16667
+PY.06	Central	-25.53333	-57.46667
+PY.19	Canindeyu	-24.25	-55.25
+PY.05	Caazapa	-26.25	-56.06667
+PY.04	Caaguazu	-25.2	-55.83333
+PY.02	Amambay	-22.83333	-55.95
+PY.01	Alto Parana	-25.5	-54.83333
+PY.23	Alto Paraguay	-20.5	-59.16667
+PY.22	Asuncion	-25.28207	-57.63539
+PY.24	Boqueron	-21.83333	-61.16667
+QA.08	Madinat ash Shamal	25.98333	51.2
+QA.04	Al Khawr	25.76667	51.31667
+QA.09	Baladiyat Umm Salal	25.46667	51.33333
+QA.06	Baladiyat ar Rayyan	25.2	51.05
+QA.01	Baladiyat ad Dawhah	25.3	51.5
+QA.10	Al Wakrah	24.85	51.33333
+QA.13	Baladiyat az Za`ayin	25.51667	51.45
+RE.RE	Reunion	-21.10044	55.60206
+RO.40	Vrancea	45.75	26.91667
+RO.39	Valcea	45.08333	24.16667
+RO.38	Vaslui	46.5	27.75
+RO.37	Tulcea	45	28.83333
+RO.36	Timis	45.66667	21.5
+RO.35	Teleorman	44.08333	25.16667
+RO.34	Suceava	47.58333	25.75
+RO.33	Sibiu	45.78428	24.14383
+RO.32	Satu Mare	47.75	23
+RO.31	Salaj	47.16667	23.25
+RO.30	Prahova	45.16667	26
+RO.29	Olt	44.33333	24.5
+RO.28	Neamt	47	26.5
+RO.27	Mures	46.66667	24.58333
+RO.26	Mehedinti	44.66667	22.83333
+RO.25	Maramures	47.66667	24
+RO.23	Iasi	47.25	27.25
+RO.22	Ialomita	44.66667	27
+RO.21	Hunedoara	45.75	23
+RO.20	Harghita	46.58333	25.41667
+RO.19	Gorj	45.04636	23.28278
+RO.42	Giurgiu	44.16667	25.91667
+RO.18	Galati	45.75	27.75
+RO.17	Dolj	44.16667	23.75
+RO.16	Dambovita	44.91667	25.5
+RO.15	Covasna	45.91667	26
+RO.14	Constanta	44.25	28.33333
+RO.13	Cluj	46.64944	23.81836
+RO.12	Caras-Severin	45.08333	22.08333
+RO.41	Calarasi	44.25	27
+RO.11	Buzau	45.41667	26.75
+RO.10	Bucuresti	44.5	26.08333
+RO.09	Brasov	45.75	25.33333
+RO.08	Braila	45.08333	27.66667
+RO.07	Botosani	47.83333	26.75
+RO.06	Bistrita-Nasaud	47.16667	24.58333
+RO.05	Bihor	47	22.33333
+RO.04	Bacau	46.41667	26.83333
+RO.03	Arges	45	24.83333
+RO.02	Arad	46.33333	21.75
+RO.01	Alba	46.06817	23.57245
+RO.43	Ilfov	44.58333	26.16667
+RS.VO	Autonomna Pokrajina Vojvodina	45	20
+RS.SE	Central Serbia	44	21
+RU.88	Jaroslavl	58	39.5
+RU.86	Voronezj	51	40.5
+RU.85	Vologda	60	42
+RU.84	Volgograd	49	44
+RU.81	Ulyanovsk	54	48
+RU.80	Udmurtiya	57	53
+RU.77	Tverskaya	57.00964	35.00488
+RU.76	Tula	54	37.5
+RU.73	Tatarstan	55.33333	51
+RU.72	Tambov	52.75	41.5
+RU.70	Stavropol'skiy	45	44
+RU.69	Smolensk	55	33
+RU.67	Saratov	51.5	47
+RU.65	Samara	53	50
+RU.62	Rjazan	54.25	40.5
+RU.61	Rostov	47.44032	41.08083
+RU.60	Pskov	57.5	29
+RU.90	Perm	59	57
+RU.57	Penza	53	44.5
+RU.56	Orjol	53	36.25
+RU.55	Orenburg	52	56
+RU.52	Novgorod	58.5	32.5
+RU.68	North Ossetia	43	44.25
+RU.50	Nenetskiy Avtonomnyy Okrug	67.5	54
+RU.49	Murmansk	68	34
+RU.48	Moscow	55.76167	37.60667
+RU.47	Moskovskaya	55.75	37.5
+RU.46	Mordoviya	54.5	44
+RU.45	Mariy-El	56.5	48
+RU.43	Lipetsk	52.5	39
+RU.42	Leningrad	60	32
+RU.66	St.-Petersburg	59.91667	30.25
+RU.41	Kursk	51.5	36
+RU.38	Krasnodarskiy	44.98811	38.97675
+RU.37	Kostroma	58.5	44
+RU.34	Komi Republic	64	54
+RU.33	Kirov	58	50
+RU.28	Republic of Karelia	64	32.5
+RU.27	Karachayevo-Cherkesiya	44	42
+RU.25	Kaluga	54.5	35.5
+RU.24	Kalmykiya	46.5	45.5
+RU.23	Kaliningrad	54.75	21.5
+RU.22	Kabardino-Balkariya	43.5	43.5
+RU.21	Ivanovo	57	41.75
+RU.19	Ingushetiya	43.16667	45
+RU.51	Nizjnij Novgorod	56	45
+RU.17	Dagestan	43	47
+RU.16	Chuvashia	55.5	47
+RU.12	Chechnya	43.25	45.83333
+RU.10	Brjansk	53	33.5
+RU.09	Belgorod	50.75	37.5
+RU.08	Bashkortostan	54	56
+RU.07	Astrakhan	47	48
+RU.06	Arkhangelskaya	64	44
+RU.01	Adygeya	45.0001	40.01045
+RU.83	Vladimir	56	40.5
+RU.87	Yamalo-Nenetskiy Avtonomnyy Okrug	66	76
+RU.78	Tjumen	57.33333	68.5
+RU.79	Tyva	51.5	95
+RU.75	Tomsk	58.5	82.5
+RU.71	Sverdlovsk	58	62
+RU.54	Omsk	56	73
+RU.53	Novosibirsk	55	80
+RU.40	Kurgan	55.5	64
+RU.91	Krasnoyarskiy	58	93
+RU.32	Khanty-Mansiyskiy Avtonomnyy Okrug	62	72
+RU.31	Khakasiya	53.33333	90
+RU.29	Kemerovo	55	86
+RU.03	Altay	51	87
+RU.13	Chelyabinsk	54	60.5
+RU.04	Altai Krai	52.5	83
+RU.63	Sakha	65	130
+RU.59	Primorskiy	45	135
+RU.30	Khabarovsk Krai	55	134
+RU.20	Irkutsk	56	106
+RU.89	Jewish Autonomous Oblast	48.5	132
+RU.05	Amur	54	128
+RU.11	Respublika Buryatiya	53	109
+RU.64	Sakhalin	50	143
+RU.44	Magadan	63	154
+RU.92	Kamtsjatka	55	159
+RU.15	Chukotskiy Avtonomnyy Okrug	67.5	172
+RU.93	Transbaikal Territory	52	117
+RW.11	Eastern Province	-1.75	30.5
+RW.12	Kigali	-1.91667	30.08333
+RW.13	Northern Province	-1.58333	29.91667
+RW.14	Western Province	-2.16667	29.33333
+RW.15	Southern Province	-2.33333	29.66667
+SA.19	Mintaqat Tabuk	27.9168	37.3332
+SA.16	Najran	18.25	45.85
+SA.14	Makkah	20.66667	41.33333
+SA.17	Jizan	17.33333	42.66667
+SA.13	Mintaqat Ha'il	27.4	41.45
+SA.11	Mintaqat `Asir	19.15	42.95
+SA.06	Eastern Province	22.95	50.15
+SA.10	Ar Riyad	23.05	45.55
+SA.08	Al-Qassim	27.08333	43.46667
+SA.05	Al Madinah al Munawwarah	24.9	39.5
+SA.20	Al Jawf	30.05	39.6
+SA.15	Northern Borders	30.05	42.1
+SA.02	Mintaqat al Bahah	20.2	41.5
+SB.11	Western Province	-8	157
+SB.03	Malaita	-9	161
+SB.07	Isabel	-8.05379	159.13696
+SB.06	Guadalcanal	-9.63333	160.2
+SB.10	Central Province	-9.09667	160.24109
+SB.09	Temotu	-10.72754	165.93884
+SB.08	Makira	-10.55751	161.78517
+SB.12	Choiseul	-6.99186	156.86279
+SB.13	Rennell and Bellona	-11.60516	160.15457
+SB.14	Honiara	-9.44167	159.96667
+SC.23	Takamaka	-4.78333	55.51667
+SC.22	Saint Louis	-4.63333	55.43333
+SC.27	Port Glaud	-4.65	55.4
+SC.20	Pointe Larue	-4.66667	55.51667
+SC.19	Plaisance	-4.65	55.45833
+SC.18	Mont Fleuri	-4.63333	55.45833
+SC.17	Mont Buxton	-4.61766	55.44096
+SC.26	English River	-4.61176	55.45409
+SC.25	Inner Islands	-4.66667	55.46667
+SC.24	Grand Anse Mahe	-4.68333	55.45833
+SC.14	Grand Anse Praslin	-4.31667	55.71667
+SC.12	Glacis	-4.575	55.44167
+SC.11	Cascade	-4.66667	55.48333
+SC.10	Bel Ombre	-4.61835	55.41787
+SC.09	Bel Air	-4.63333	55.45
+SC.08	Beau Vallon	-4.62014	55.4316
+SC.07	Baie Sainte Anne	-4.31667	55.73333
+SC.06	Baie Lazare	-4.74722	55.48333
+SC.05	Anse Royale	-4.74167	55.51667
+SC.03	Anse Etoile	-4.59167	55.45
+SC.02	Anse Boileau	-4.70833	55.48333
+SC.01	Anse-aux-Pins	-4.6875	55.51667
+SC.29	Les Mamelles	-4.61667	55.5
+SC.30	Roche Caiman	-4.65	55.46667
+SC.28	Au Cap	-4.7	55.51667
+SD.43	Northern State	19.3	29.5
+SD.29	Khartoum	15.8	33
+SD.36	Red Sea	19.96667	35.66667
+SD.38	Al Jazirah	14.6	33.35
+SD.39	Al Qadarif	14.05	35.35
+SD.41	White Nile	13.5	32.4
+SD.42	Blue Nile	11.15	34.1
+SD.47	Western Darfur	13.41667	22.66667
+SD.49	Southern Darfur	11.5	24.66667
+SD.50	Southern Kordofan	11.26667	30.83333
+SD.52	Kassala	15.9	35.65
+SD.53	River Nile	19	33.2
+SD.55	Northern Darfur	16	25.5
+SD.56	Shamal Kurdufan	14.68333	29.93333
+SD.58	Sinnar	13	34
+SD.60	Eastern Darfur	11.16667	26.5
+SD.61	Central Darfur	12.38333	23.3
+SE.14	Norrbotten	67	20
+SE.25	Vaestmanland	59.75	16.33333
+SE.24	Vaesternorrland	63	17.5
+SE.23	Vaesterbotten	65	17.5
+SE.22	Vaermland	59.75	13.25
+SE.21	Uppsala	60	17.75
+SE.26	Stockholm	59.5	18
+SE.18	Soedermanland	59.25	16.66667
+SE.16	OEstergoetland	58.41667	15.75
+SE.15	OErebro	59.5	15
+SE.12	Kronoberg	56.66667	14.66667
+SE.10	Dalarna	61	14.5
+SE.09	Kalmar	57.33333	16
+SE.08	Joenkoeping	57.5	14.5
+SE.07	Jaemtland	63	14.66667
+SE.06	Halland	56.75	13
+SE.05	Gotland	57.5	18.5
+SE.03	Gaevleborg	61.5	16.25
+SE.02	Blekinge	56.33333	15.33333
+SE.27	Skane	55.98333	13.5
+SE.28	Vaestra Goetaland	58	13
+SG.01	Central Singapore	1.29868	103.85367
+SG.02	North East	1.31421	103.85822
+SG.04	South East	1.30683	103.88698
+SG.05	South West	1.31464	103.83007
+SG.03	North West	1.29868	103.81986
+SH.01	Ascension	-7.94167	-14.3625
+SH.03	Tristan da Cunha	-37.25	-12.5
+SH.02	Saint Helena	-15.93183	-5.71817
+SI.N5	Zalec	46.25508	15.1727
+SI.E7	Zagorje ob Savi	46.12974	14.96583
+SI.E5	Vrhnika	45.9614	14.29265
+SI.D5	Trzic	46.38417	14.32361
+SI.D4	Trebnje	45.91091	14.98773
+SI.D3	Trbovlje	46.14167	15.04222
+SI.D2	Tolmin	46.17947	13.71162
+SI.D7	Velenje	46.36667	15.13333
+SI.C5	Smarje pri Jelsah	46.21074	15.52499
+SI.C4	Slovenska Konjice	46.325	15.45556
+SI.L8	Slovenska Bistrica	46.42516	15.50667
+SI.C2	Slovenj Gradec	46.48861	15.08361
+SI.B9	Skofja Loka	46.16306	14.28167
+SI.B7	Sezana	45.73472	13.88639
+SI.B6	Sevnica	46	15.3
+SI.L7	Sentjur pri Celju	46.17889	15.43056
+SI.L1	Ribnica	45.73738	14.71605
+SI.A3	Radovljica	46.33778	14.19417
+SI.A2	Radlje ob Dravi	46.60725	15.25093
+SI.K7	Ptuj	46.43417	15.87667
+SI.94	Postojna	45.78556	14.17083
+SI.J9	Piran-Pirano	45.48278	13.62694
+SI.87	Ormoz	46.43632	16.14099
+SI.J7	Novo Mesto	45.7851	15.19833
+SI.84	Nova Gorica	45.9652	13.72805
+SI.80	Murska Sobota	46.65139	16.16056
+SI.79	Mozirje	46.3612	14.95797
+SI.73	Metlika	45.65645	15.31075
+SI.J2	Maribor	46.55611	15.64306
+SI.64	Logatec	45.92139	14.19583
+SI.I6	Ljutomer	46.51347	16.144
+SI.I5	Litija	46.07445	14.90724
+SI.I3	Lenart	46.55799	15.81383
+SI.57	Lasko	46.13561	15.2529
+SI.54	Krsko	45.95137	15.46063
+SI.52	Kranj	46.24691	14.35646
+SI.50	Koper-Capodistria	45.51833	13.82667
+SI.H7	Kocevje	45.63028	14.90694
+SI.H6	Kamnik	46.24406	14.66721
+SI.H4	Jesenice	46.45253	14.07245
+SI.40	Izola-Isola	45.51123	13.65655
+SI.38	Ilirska Bistrica	45.5675	14.29056
+SI.36	Idrija	46	14
+SI.34	Hrastnik	46.13333	15.09972
+SI.32	Grosuplje	45.93639	14.66528
+SI.29	Gornja Radgona	46.63489	15.95943
+SI.25	Dravograd	46.58333	15.03333
+SI.G7	Domzale	46.14258	14.62277
+SI.17	Crnomelj	45.52389	15.19833
+SI.13	Cerknica	45.8	14.36667
+SI.11	Celje	46.25	15.27028
+SI.08	Brezice	45.92889	15.62806
+SI.01	Ajdovscina	45.90694	13.92861
+SI.35	Hrpelje-Kozina	45.57278	14.00472
+SI.19	Divaca	45.68444	14.0225
+SI.91	Pivka	45.68278	14.23556
+SI.I7	Loska Dolina	45.66611	14.50417
+SI.66	Loski Potok	45.66	14.64528
+SI.88	Osilnica	45.54889	14.72833
+SI.D8	Velike Lasce	45.83917	14.58583
+SI.C1	Skofljica	45.95833	14.57722
+SI.37	Ig	45.93583	14.51444
+SI.09	Brezovica	45.94889	14.42444
+SI.05	Borovnica	45.91444	14.37944
+SI.E1	Vipava	45.82361	13.98444
+SI.49	Komen	45.81861	13.74889
+SI.J5	Miren-Kostanjevica	45.85138	13.63931
+SI.07	Brda	46.0075	13.54333
+SI.44	Kanal	46.08972	13.64306
+SI.F2	Ziri	46.05167	14.11556
+SI.14	Cerkno	46.125	13.97306
+SI.F1	Zelezniki	46.2125	14.10583
+SI.27	Gorenja Vas-Poljane	46.11667	14.12556
+SI.G4	Dobrova-Horjul-Polhov Gradec	46.0635	14.30884
+SI.46	Kobarid	46.22492	13.64433
+SI.06	Bovec	46.33555	13.55644
+SI.04	Bohinj	46.295	13.92389
+SI.03	Bled	46.36825	14.11005
+SI.82	Naklo	46.29361	14.28667
+SI.53	Kranjska Gora	46.46028	13.83861
+SI.K5	Preddvor	46.32698	14.46444
+SI.12	Cerklje na Gorenjskem	46.25	14.5
+SI.B2	Sencur	46.23808	14.42326
+SI.E3	Vodice	46.17361	14.4925
+SI.71	Medvode	46.13049	14.40272
+SI.72	Menges	46.16146	14.56246
+SI.22	Dol pri Ljubljani	46.0975	14.67361
+SI.77	Moravce	46.13361	14.755
+SI.30	Gornji Grad	46.28917	14.80083
+SI.I9	Luce	46.35119	14.73303
+SI.K8	Ravne na Koroskem	46.53179	14.97543
+SI.74	Mezica	46.52278	14.855
+SI.81	Muta	46.63056	15.13611
+SI.E6	Vuzenica	46.56889	15.15222
+SI.16	Crna na Koroskem	46.46417	14.82139
+SI.62	Ljubno	46.37389	14.83944
+SI.C7	Sostanj	46.41306	15.00833
+SI.C6	Smartno ob Paki	46.34306	15.03056
+SI.68	Lukovica	46.18333	14.76861
+SI.99	Radece	46.06556	15.14083
+SI.39	Ivancna Gorica	45.91222	14.80722
+SI.20	Dobrepolje	45.80444	14.74833
+SI.B1	Semic	45.65139	15.13472
+SI.B4	Sentjernej	45.82361	15.33361
+SI.B8	Skocjan	45.91972	15.30139
+SI.C9	Store	46.20111	15.32722
+SI.N3	Vojnik	46.31713	15.31259
+SI.E2	Vitanje	46.40306	15.29472
+SI.F3	Zrece	46.39389	15.38
+SI.76	Mislinja	46.45111	15.22389
+SI.L3	Ruse	46.518	15.49044
+SI.55	Kungota	46.64944	15.60972
+SI.B3	Sentilj	46.68833	15.7175
+SI.89	Pesnica	46.62583	15.71278
+SI.26	Duplek	46.51556	15.77
+SI.98	Race-Fram	46.45172	15.63285
+SI.C8	Starse	46.4553	15.7552
+SI.45	Kidricevo	46.39889	15.75694
+SI.J1	Majsperk	46.33231	15.75815
+SI.N2	Videm	46.36414	15.88128
+SI.A7	Rogaska Slatina	46.24667	15.62944
+SI.A8	Rogatec	46.24194	15.74083
+SI.92	Podcetrtek	46.14476	15.57703
+SI.51	Kozje	46.07222	15.55694
+SI.28	Gorisnica	46.40498	16.01161
+SI.E9	Zavrc	46.35917	16.04528
+SI.24	Dornava	46.44544	15.99048
+SI.42	Jursinci	46.4875	15.97639
+SI.D1	Sveti Jurij	46.5675	16.02667
+SI.A1	Radenci	46.62722	16.04833
+SI.97	Puconci	46.74528	16.13889
+SI.A6	Rogasovci	46.8025	16.02444
+SI.I2	Kuzma	46.84111	16.09528
+SI.31	Gornji Petrovci	46.8175	16.21333
+SI.78	Moravske Toplice	46.7175	16.27361
+SI.47	Kobilje	46.68583	16.39333
+SI.02	Beltinci	46.61472	16.23222
+SI.D6	Turnisce	46.62194	16.31806
+SI.86	Odranci	46.58674	16.2731
+SI.15	Crensovci	46.55722	16.29944
+SI.83	Nazarje	46.28167	14.90917
+SI.61	Ljubljana	46.05918	14.50916
+SI.N7	Zirovnica	46.41235	14.17567
+SI.H5	Jezersko	46.38925	14.48352
+SI.M2	Solcava	46.40624	14.65911
+SI.H8	Komenda	46.20241	14.54456
+SI.H3	Horjul	46.02485	14.28471
+SI.L6	Sempeter-Vrtojba	45.91194	13.65222
+SI.F6	Bloke	45.78559	14.50663
+SI.M1	Sodrazica	45.75644	14.62213
+SI.M8	Trzin	46.12527	14.55256
+SI.K6	Prevalje	46.55199	14.90116
+SI.N4	Vransko	46.23508	14.94972
+SI.M5	Tabor	46.22235	15.01434
+SI.F7	Braslovce	46.27768	15.03682
+SI.K3	Polzela	46.30429	15.08452
+SI.K4	Prebold	46.2173	15.09265
+SI.H9	Kostel	45.48944	14.87111
+SI.N8	Zuzemberk	45.80472	14.94972
+SI.G6	Dolenjske Toplice	45.715	15.04972
+SI.J6	Mirna Pec	45.85343	15.08434
+SI.F5	Bistrica ob Sotli	46.06001	15.64725
+SI.G2	Dobje	46.13321	15.40135
+SI.G3	Dobrna	46.35437	15.22603
+SI.J8	Oplotnica	46.37877	15.45228
+SI.K2	Podvelka	46.60076	15.35586
+SI.L2	Ribnica na Pohorju	46.52533	15.26071
+SI.I8	Lovrenc na Pohorju	46.5227	15.38535
+SI.L5	Selnica ob Dravi	46.58168	15.49539
+SI.H1	Hoce-Slivnica	46.49114	15.62378
+SI.J4	Miklavz na Dravskem Polju	46.48627	15.70952
+SI.G9	Hajdina	46.41752	15.8272
+SI.N6	Zetale	46.28224	15.8058
+SI.K1	Podlehnik	46.31611	15.86653
+SI.J3	Markovci	46.39208	15.95065
+SI.G1	Destrnik	46.48102	15.88023
+SI.M7	Trnovska Vas	46.51778	15.90444
+SI.M4	Sveti Andraz v Slovenskih Goricah	46.52324	15.9528
+SI.F9	Cerkvenjak	46.56127	15.94199
+SI.F4	Benedikt	46.6174	15.88913
+SI.M3	Sveta Ana	46.64752	15.83903
+SI.I1	Krizevci	46.56581	16.11784
+SI.N1	Verzej	46.58184	16.17121
+SI.M9	Velika Polana	46.57861	16.35667
+SI.I4	Lendava-Lendva	46.5575	16.45694
+SI.G5	Dobrovnik-Dobronak	46.65056	16.35194
+SI.M6	Tisina	46.66044	16.08093
+SI.F8	Cankova	46.72889	16.03167
+SI.G8	Grad	46.78694	16.09833
+SI.H2	Hodos-Hodos	46.82639	16.325
+SI.K9	Razkrizje	46.52382	16.27194
+SI.L9	Smartno pri Litiji	46.02627	14.84264
+SI.L4	Salovci	46.83111	16.27833
+SI.N9	Apace	46.69445	15.87383
+SI.O1	Cirkulane	46.34065	15.99602
+SI.O3	Kostanjevica na Krki	45.83399	15.41912
+SI.O4	Log-Dragomer	46.01537	14.37474
+SI.O5	Makole	46.30956	15.67628
+SI.O7	Mokronog-Trebelno	45.91531	15.16111
+SI.O8	Poljcane	46.30275	15.59794
+SI.O9	Recica ob Savinji	46.32745	14.90523
+SI.P1	Rence-Vogrsko	45.8936	13.67564
+SI.P4	Sredisce ob Dravi	46.39983	16.25446
+SI.P5	Straza	45.77737	15.08873
+SI.P6	Sveta Trojica v Slovenskih Goricah	46.56885	15.88916
+SI.P8	Sveti Tomaz	46.47944	16.06202
+SI.P2	Sentrupert	45.98258	15.09001
+SI.P3	Smarjeske Toplice	45.88296	15.24499
+SI.P7	Sveti Jurij v Slovenskih Goricah	46.61313	15.79251
+SI.O2	Gorje	46.37924	14.06795
+SJ.22	Jan Mayen	70.98333	-8.5
+SJ.21	Svalbard	78.15706	15.86426
+SK.03	Kosicky	48.66667	21.33333
+SK.05	Presovsky	49.16667	21.25
+SK.08	Zilinsky	49.16667	19.16667
+SK.01	Banskobystricky	48.5	19.5
+SK.02	Bratislavsky	48.33333	17.16667
+SK.04	Nitriansky	48.16667	18.33333
+SK.06	Trenciansky	48.83333	18.25
+SK.07	Trnavsky	48.41667	17.66667
+SL.04	Western Area	8.33333	-13.11667
+SL.03	Southern Province	7.8	-12
+SL.02	Northern Province	9.13333	-12
+SL.01	Eastern Province	8.25	-11
+SM.09	Serravalle	43.96667	12.46667
+SM.02	Chiesanuova	43.91667	12.41667
+SM.07	San Marino	43.93333	12.45
+SM.01	Acquaviva	43.95	12.41667
+SM.06	Borgo Maggiore	43.94092	12.44562
+SM.03	Domagnano	43.95417	12.48333
+SM.04	Faetano	43.9251	12.49849
+SM.05	Fiorentino	43.91144	12.45652
+SM.08	Montegiardino	43.91131	12.48442
+SN.12	Ziguinchor	12.8	-16.36667
+SN.07	Thies	14.86667	-16.86667
+SN.05	Tambacounda	13.91667	-13.25
+SN.14	Saint-Louis	16.33333	-15
+SN.15	Matam	15.16667	-13.66667
+SN.13	Louga	15.41667	-15.5
+SN.11	Kolda	13	-14.41667
+SN.10	Kaolack	14	-16
+SN.09	Fatick	14.28333	-16.5
+SN.03	Diourbel	14.76667	-16.1
+SN.01	Dakar	14.76667	-17.28333
+SN.16	Kaffrine	14.10528	-15.54565
+SN.17	Kedougou	12.55146	-12.17586
+SN.18	Sedhiou	12.70683	-15.55801
+SO.20	Woqooyi Galbeed	10	44.5
+SO.19	Togdheer	9.33333	45.41667
+SO.14	Lower Shabeelle	1.83333	44.41667
+SO.13	Middle Shabele	3	46
+SO.12	Sanaag	10.5	48
+SO.18	Nugaal	8.16667	49
+SO.10	Mudug	7	48
+SO.09	Lower Juba	0	42
+SO.08	Middle Juba	1.33333	42.66667
+SO.07	Hiiraan	4	45.5
+SO.06	Gedo	3	42
+SO.05	Galguduud	5	47
+SO.04	Bay	3	43.5
+SO.03	Bari	10	50
+SO.02	Banaadir	2.11667	45.4
+SO.01	Bakool	4	44
+SO.21	Awdal	10.5	43.5
+SO.22	Sool	8.66667	47.5
+SR.19	Wanica	5.75	-55.25
+SR.18	Sipaliwini	4	-56
+SR.17	Saramacca	5.66667	-55.58333
+SR.16	Paramaribo	5.86667	-55.16667
+SR.15	Para	5.41667	-55.33333
+SR.14	Nickerie	5.66667	-56.83333
+SR.13	Marowijne	5.58333	-54.33333
+SR.12	Coronie	5.58333	-56.25
+SR.11	Commewijne	5.75	-54.91667
+SR.10	Brokopondo	4.75	-55.16667
+SS.07	Upper Nile	10	32.7
+SS.04	Lakes	6.75	30
+SS.06	Unity	8.65	29.85
+SS.01	Central Equatoria	4.75	31
+SS.10	Western Equatoria	5.4	28.4
+SS.09	Western Bahr al Ghazal	8.15	26
+SS.03	Jonglei	7.4	32.4
+SS.05	Northern Bahr al Ghazal	8.85	27
+SS.02	Eastern Equatoria	4.9	33.8
+SS.08	Warrap	8	28.85
+ST.02	Sao Tome Island	0.2	6.65
+ST.01	Principe	1.61667	7.41667
+SV.14	Usulutan	13.43333	-88.53333
+SV.13	Sonsonate	13.7	-89.7
+SV.12	San Vicente	13.51667	-88.75
+SV.11	Santa Ana	14.1	-89.58333
+SV.10	San Salvador	13.78333	-89.18333
+SV.09	San Miguel	13.53333	-88.28333
+SV.08	Morazan	13.8	-88.1
+SV.07	La Union	13.55	-87.9
+SV.06	La Paz	13.46667	-88.98333
+SV.05	La Libertad	13.75	-89.38333
+SV.04	Cuscatlan	13.83333	-89.03333
+SV.03	Chalatenango	14.13333	-89.01667
+SV.02	Cabanas	13.86667	-88.75
+SV.01	Ahuachapan	13.86667	-89.91667
+SY.14	Tartus	35.00427	36.15867
+SY.13	Dimashq	33.51667	36.28333
+SY.12	Idlib	35.76667	36.66667
+SY.11	Homs	34.46667	38.3
+SY.10	Hama	35.23333	37.2
+SY.09	Aleppo	36.25	37.61667
+SY.08	Rif-dimashq	33.5	37.38333
+SY.07	Deir ez-Zor	35.16667	40.28333
+SY.06	Daraa	32.85	36.21667
+SY.05	As-Suwayda	32.76667	36.85
+SY.04	Ar-Raqqah	36	38.93333
+SY.03	Quneitra	33.03333	35.78333
+SY.02	Latakia	35.56667	36.03333
+SY.01	Al-Hasakah	36.51667	40.9
+SZ.04	Shiselweni	-27.05	31.4
+SZ.03	Manzini	-26.58333	31.25
+SZ.02	Lubombo	-26.5	31.87
+SZ.01	Hhohho	-26.08333	31.33333
+TD.13	Salamat	11	20.5
+TD.12	Ouaddai	13.5	21.25
+TD.02	Biltine	15	21.5
+TD.14	Tandjile	9.5	16.5
+TD.17	Moyen-Chari	9.3333	18.5
+TD.16	Mayo-Kebbi Est	10	15.83
+TD.09	Logone Oriental	8.25	16.42
+TD.08	Logone Occidental	8.7529	15.87236
+TD.07	Lac	13.5	14.5
+TD.06	Kanem	15	15
+TD.05	Guera	11.5	18.5
+TD.15	Chari-Baguirmi	11.34	16.25
+TD.01	Batha	14	19
+TD.23	Borkou	18.25	18.5
+TD.18	Hadjer-Lamis	12.66667	16.16667
+TD.19	Mandoul	8.32941	17.91567
+TD.20	Mayo-Kebbi Ouest	9.33	14.75
+TD.21	Region de la Ville de N'Djamena	12.11666	15.06666
+TD.22	Barh el Gazel	14.66667	16.91667
+TD.25	Sila	12.25	21.5
+TD.26	Tibesti	20.33333	16.66667
+TD.28	Ennedi-Ouest	18.4	21.4
+TD.27	Ennedi-Est	17.75	23.16667
+TF.02	Crozet	-46.41667	51
+TF.03	Kerguelen	-49.25	69.16667
+TF.01	Saint-Paul-et-Amsterdam	-37.83333	77.55
+TF.05	Iles Eparses	-17.04333	42.7448
+TF.04	Terre-Adelie	-59.99856	138.9913
+TG.26	Savanes	10.5	0.5
+TG.25	Plateaux	7.5	1.16667
+TG.24	Maritime	6.5	1.33333
+TG.22	Centrale	8.66667	1
+TG.23	Kara	9.66667	0.91667
+TH.15	Uthai Thani	15.38333	99.55
+TH.65	Trang	7.50722	99.59811
+TH.08	Tak	16.58333	98.83333
+TH.60	Surat Thani	9.0011	99.0394
+TH.09	Sukhothai	17.25	99.66667
+TH.52	Ratchaburi	13.58333	99.53333
+TH.59	Ranong	10.1	98.75
+TH.57	Prachuap Khiri Khan	12.21667	99.75
+TH.62	Phuket	7.97152	98.35098
+TH.56	Phetchaburi	12.96667	99.58333
+TH.61	Phangnga	8.63333	98.41667
+TH.01	Mae Hong Son	18.75	97.91667
+TH.05	Lamphun	18.25	98.91667
+TH.06	Lampang	18.33333	99.5
+TH.63	Krabi	8.19793	99.00859
+TH.50	Kanchanaburi	14.63333	99.1
+TH.11	Kamphaeng Phet	16.25	99.5
+TH.58	Chumphon	10.4	99.06667
+TH.03	Chiang Rai	19.91667	99.91667
+TH.02	Chiang Mai	18.75	99
+TH.72	Yasothon	15.85	104.28333
+TH.70	Yala	6.33333	101.25
+TH.10	Uttaradit	17.66667	100.5
+TH.49	Trat	12.5	102.5
+TH.29	Surin	14.83333	103.75
+TH.51	Suphan Buri	14.46667	100.06667
+TH.68	Songkhla	6.83333	100.66667
+TH.30	Sisaket	14.83333	104.33333
+TH.33	Sing Buri	14.925	100.33333
+TH.67	Satun	6.83333	100
+TH.37	Sara Buri	14.60838	100.96822
+TH.54	Samut Songkhram	13.4	99.95833
+TH.55	Samut Sakhon	13.56667	100.21667
+TH.42	Samut Prakan	13.60442	100.70531
+TH.20	Sakon Nakhon	17.33333	103.83333
+TH.25	Roi Et	15.75	103.75
+TH.47	Rayong	12.83333	101.43333
+TH.36	Phra Nakhon Si Ayutthaya	14.28333	100.5
+TH.07	Phrae	18.08333	100
+TH.12	Phitsanulok	16.91667	100.5
+TH.13	Phichit	16.25	100.41667
+TH.14	Phetchabun	16.25	101.08333
+TH.41	Phayao	19.25	100.25
+TH.66	Phatthalung	7.5	100.08333
+TH.69	Pattani	6.74722	101.375
+TH.39	Pathum Thani	14.04554	100.63955
+TH.38	Nonthaburi	13.90433	100.40335
+TH.17	Nong Khai	17.75	102.75
+TH.31	Narathiwat	6.20336	101.72005
+TH.04	Nan	18.83333	100.66667
+TH.64	Nakhon Si Thammarat	8.39102	99.82203
+TH.16	Nakhon Sawan	15.7	100.08333
+TH.27	Nakhon Ratchasima	15	102.16667
+TH.73	Nakhon Phanom	17.48611	104.48333
+TH.53	Nakhon Pathom	13.98333	100.08333
+TH.43	Nakhon Nayok	14.16667	101.1
+TH.78	Mukdahan	16.58333	104.5
+TH.24	Maha Sarakham	16.00571	103.17233
+TH.34	Lop Buri	15.12191	100.88605
+TH.18	Loei	17.41667	101.5
+TH.40	Bangkok	13.87719	100.71991
+TH.22	Khon Kaen	16.43056	102.61667
+TH.23	Kalasin	16.5	103.5
+TH.46	Chon Buri	13.3	101.3
+TH.48	Chanthaburi	12.85798	102.15434
+TH.26	Chaiyaphum	16.01804	101.81249
+TH.32	Chai Nat	15.11667	100.1
+TH.44	Chachoengsao	13.63105	101.41666
+TH.28	Buriram	14.84823	102.99332
+TH.35	Ang Thong	14.6105	100.35845
+TH.76	Changwat Udon Thani	17.33333	102.83333
+TH.74	Prachin Buri	14.08333	101.66667
+TH.75	Changwat Ubon Ratchathani	15.16667	105.16667
+TH.77	Amnat Charoen	15.91667	104.75
+TH.79	Changwat Nong Bua Lamphu	17.25	102.25
+TH.80	Sa Kaeo	13.75	102.33333
+TH.81	Changwat Bueng Kan	18.16228	103.75085
+TJ.03	Viloyati Sughd	40	69
+TJ.01	Gorno-Badakhshan	38	73
+TJ.02	Khatlon	37.83333	69
+TJ.RR	Republican Subordination	38.86537	70.18066
+TJ.7280679	Dushanbe	38.5577	68.77974
+TK.N	Nukunonu	-9.169	-171.83
+TK.F	Fakaofo	-9.376	-171.233
+TK.A	Atafu	-8.558	-172.497
+TL.VI	Viqueque	-8.78722	126.36
+TL.MF	Manufahi	-8.99861	125.77778
+TL.MT	Manatuto	-8.71667	125.95
+TL.LI	Liquica	-8.65	125.31667
+TL.LA	Lautem	-8.51472	126.97
+TL.CO	Cova Lima	-9.26667	125.25
+TL.ER	Ermera	-8.83028	125.38778
+TL.DI	Dili	-8.55	125.66667
+TL.BO	Bobonaro	-8.95	125.21667
+TL.BA	Baucau	-8.54167	126.475
+TL.OE	Oecusse	-9.31361	124.29306
+TL.AN	Ainaro	-9.025	125.525
+TL.AL	Aileu	-8.69167	125.6375
+TM.02	Balkan	40	54.5
+TM.01	Ahal	38.25	59.75
+TM.03	Dasoguz	41	58.5
+TM.05	Mary	37	62.5
+TM.04	Lebap	39	63
+TN.37	Zaghwan	36.33333	10
+TN.36	Tunis	36.76667	10.13333
+TN.35	Tawzar	34	8.08333
+TN.34	Tataouine	32	10
+TN.23	Susah	35.91667	10.41667
+TN.22	Silyanah	36	9.33333
+TN.33	Sidi Bu Zayd	34.83333	9.5
+TN.32	Safaqis	34.75	10.41667
+TN.31	Qibili	33.5	8.83333
+TN.30	Gafsa	34.5	9
+TN.29	Qabis	33.83333	9.75
+TN.19	Nabul	36.66667	10.66667
+TN.28	Madanin	33.33333	11
+TN.06	Jundubah	36.66667	8.75
+TN.27	Bin 'Arus	36.63333	10.25
+TN.18	Banzart	37.08333	9.58333
+TN.17	Bajah	36.66667	9.25
+TN.38	Ariana	36.98333	10.11667
+TN.03	Al Qayrawan	35.58333	9.83333
+TN.02	Al Qasrayn	35.25	8.78333
+TN.16	Al Munastir	35.61667	10.75
+TN.15	Al Mahdiyah	35.33333	10.58333
+TN.14	Kef	36.08333	8.75
+TN.39	Manouba	36.83333	9.83333
+TO.03	Vava`u	-18.66667	-174
+TO.02	Tongatapu	-21.13333	-175.2
+TO.01	Ha`apai	-19.78333	-174.45
+TO.EU	'Eua	-21.3632	-174.92972
+TO.NI	Niuas	-15.9544	-173.78963
+TR.66	Yozgat	39.58333	35.33333
+TR.65	Van	38.40736	43.71779
+TR.64	Usak	38.5	29.41667
+TR.63	Sanliurfa	37.21283	38.78174
+TR.62	Tunceli	39.08333	39.5
+TR.58	Sivas	39.79165	37.00195
+TR.74	Siirt	37.96152	41.9458
+TR.73	Nigde	37.83333	34.75
+TR.50	Nevsehir	38.91667	34.66667
+TR.49	Mus	39	41.75
+TR.48	Mugla	37.23033	28.35571
+TR.72	Mardin	37.31775	40.71533
+TR.45	Manisa	38.83333	28.16667
+TR.44	Malatya	38.5	38
+TR.43	Kuetahya	39.25	29.5
+TR.71	Konya	38.16667	32.5
+TR.40	Kirsehir	39.33333	34.16667
+TR.38	Kayseri	38.73695	35.49683
+TR.46	Kahramanmaras	38	37
+TR.35	Izmir	38.46219	27.09229
+TR.33	Isparta	38	31
+TR.32	Mersin	36.86204	34.65088
+TR.31	Hatay	36.5	36.25
+TR.70	Hakkari	37.58333	44.16667
+TR.83	Gaziantep	37.08333	37.33333
+TR.26	Eskisehir	39.66667	31.16667
+TR.25	Erzurum	40	41.5
+TR.24	Erzincan	39.75	39.5
+TR.23	Elazig	38.73695	39.17725
+TR.21	Diyarbakir	37.96152	40.23193
+TR.20	Denizli	37.84016	29.06982
+TR.15	Burdur	37.5	30
+TR.13	Bitlis	38.34201	42.39134
+TR.12	Bingoel	39.08333	40.83333
+TR.11	Bilecik	40	30.16667
+TR.10	Balikesir	39.75	28
+TR.09	Aydin	37.75	28
+TR.07	Antalya	36.77409	30.71777
+TR.68	Ankara	39.91667	32.83333
+TR.04	Agri	39.66667	43.16667
+TR.03	Afyonkarahisar	38.75	30.66667
+TR.02	Adiyaman	37.75	38.25
+TR.81	Adana	36.985	35.28809
+TR.91	Osmaniye	37.23525	36.24596
+TR.88	Igdir	39.91667	44
+TR.75	Aksaray	38.36503	34.0142
+TR.76	Batman	38	41.33333
+TR.78	Karaman	37.08333	33.25
+TR.79	Kirikkale	39.83333	33.75
+TR.80	Sirnak	37.5	42.5
+TR.90	Kilis	36.73	37.14
+TR.85	Zonguldak	41.25	31.83333
+TR.61	Trabzon	40.86946	39.81255
+TR.60	Tokat	40.41667	36.58333
+TR.59	Tekirdag	41	27.5
+TR.57	Sinop	41.77106	34.87095
+TR.55	Samsun	41.25	36.33333
+TR.54	Sakarya	40.75	30.58333
+TR.53	Rize	40.90443	40.89489
+TR.52	Ordu	40.90858	37.68448
+TR.41	Kocaeli	40.91667	29.91667
+TR.39	Kirklareli	41.66667	27.5
+TR.37	Kastamonu	41.5	33.66667
+TR.84	Kars	40.41667	43.08333
+TR.34	Istanbul	41.03508	28.98331
+TR.69	Gumushane	40.25	39.58333
+TR.28	Giresun	40.5	38.5
+TR.22	Edirne	41.25	26.66667
+TR.19	Corum	40.5	34.75
+TR.82	Cankiri	40.66667	33.41667
+TR.17	Canakkale	40.08333	26.83333
+TR.16	Bursa	40.16667	29.08333
+TR.14	Bolu	40.64131	31.58216
+TR.08	Artvin	41.16667	41.83333
+TR.05	Amasya	40.72619	35.8867
+TR.87	Bartin	41.58333	32.5
+TR.89	Karabuk	41.25	32.5
+TR.92	Yalova	40.58333	29.16667
+TR.86	Ardahan	41.08333	42.83333
+TR.77	Bayburt	40.25	40.25
+TR.93	Duzce	40.83333	31.16667
+TT.11	Tobago	11.25	-60.66667
+TT.10	City of San Fernando	10.28127	-61.45037
+TT.05	City of Port of Spain	10.66389	-61.51667
+TT.03	Mayaro	10.16667	-61.08333
+TT.01	Borough of Arima	10.625	-61.27917
+TT.CHA	Chaguanas	10.51718	-61.41503
+TT.CTT	Couva-Tabaquite-Talparo	10.41792	-61.45117
+TT.DMN	Diego Martin	10.7005	-61.53417
+TT.ETO	Eastern Tobago	11.24988	-60.58419
+TT.PED	Penal/Debe	10.16778	-61.46524
+TT.PRT	Princes Town	10.26746	-61.38182
+TT.PTF	Point Fortin	10.184	-61.68197
+TT.SGE	Sangre Grande	10.5835	-61.11772
+TT.SIP	Siparia	10.13382	-61.50121
+TT.SJL	San Juan/Laventille	10.64964	-61.49752
+TT.TUP	Tunapuna/Piarco	10.63387	-61.38182
+TV.NUI	Nui	-7.23247	177.15205
+TV.NMA	Nanumea	-5.65545	176.08818
+TV.FUN	Funafuti	-8.51719	179.13054
+TV.NIT	Niutao	-6.10717	177.34215
+TV.NMG	Nanumanga	-6.2897	176.31958
+TV.VAI	Vaitupu	-7.4742	178.67456
+TV.NKF	Nukufetau	-8.00025	178.37111
+TV.NKL	Nukulaelae	-9.38412	179.84559
+TW.01	Fukien	24.46965	118.38593
+TW.02	Kaohsiung	22.63429	120.36621
+TW.03	Taipei	25.02588	121.65161
+TW.04	Taiwan	24.15114	120.70541
+TZ.19	Kagera	-1.91667	31.25
+TZ.25	Zanzibar Urban/West	-6.16667	39.25
+TZ.22	Zanzibar North	-5.91667	39.28333
+TZ.21	Zanzibar Central/South	-6.25	39.41667
+TZ.18	Tanga	-5.2	38.28333
+TZ.17	Tabora	-5.25	32.83333
+TZ.16	Singida	-5.75	34.66667
+TZ.15	Shinyanga	-3.66667	32.91667
+TZ.24	Rukwa	-8	31.41667
+TZ.02	Pwani	-7.25	38.83333
+TZ.20	Pemba South Region	-5.33333	39.75
+TZ.13	Pemba North	-5.05	39.76667
+TZ.12	Mwanza	-2.75	33.08333
+TZ.10	Morogoro	-7.91667	37.25
+TZ.09	Mbeya	-8.2	33.33333
+TZ.08	Mara	-1.83333	34.41667
+TZ.07	Lindi	-9.5	38.5
+TZ.06	Kilimanjaro	-3.75	37.63333
+TZ.05	Kigoma	-4.75	30.5
+TZ.04	Iringa	-7.85	35.55
+TZ.03	Dodoma	-5.91667	35.91667
+TZ.23	Dar es Salaam	-6.83523	39.19597
+TZ.26	Arusha	-3	36
+TZ.27	Manyara	-4.5	36.83333
+TZ.14	Ruvuma	-10.7	36.23333
+TZ.11	Mtwara	-10.8	39.13333
+TZ.31	Simiyu	-3	34.25
+TZ.28	Geita	-3.2	31.9
+TZ.29	Katavi	-6.4	31.33333
+TZ.30	Njombe	-9.41667	34.75
+UA.27	Zhytomyr	50.58333	28.5
+UA.26	Zaporizhia	47.25	35.66667
+UA.25	Zakarpattia	48.33333	23
+UA.24	Volyn	51.16667	24.86667
+UA.23	Vinnyts'ka	48.91667	28.66667
+UA.22	Ternopil	49.4	25.63333
+UA.21	Sumy	51	34
+UA.20	Misto Sevastopol'	44.58333	33.65
+UA.19	Rivne	51	26.5
+UA.18	Poltava	49.47705	33.81866
+UA.17	Odessa	46.75	30.25
+UA.16	Mykolaiv	47.41667	31.83333
+UA.15	Lviv	49.75	23.91667
+UA.14	Luhansk	49	39
+UA.13	Kiev	50.25	30.5
+UA.12	Kyiv City	50.4429	30.54896
+UA.11	Crimea	45	34
+UA.10	Kirovohrad	48.5	32
+UA.09	Khmelnytskyi	49.5	27
+UA.08	Kherson	46.75	33.66667
+UA.07	Kharkiv	49.5	36.5
+UA.06	Ivano-Frankivsk	48.7	24.61667
+UA.05	Donetsk	48	37.66667
+UA.04	Dnipropetrovsk	48.5	35
+UA.03	Chernivtsi	48.25	26
+UA.02	Chernihiv	51.33333	32
+UA.01	Cherkasy	49.25	31.33333
+UG.C	Central Region	0.5	32
+UG.E	Eastern Region	0.96675	33.82622
+UG.N	Northern Region	2.7373	31.88644
+UG.W	Western Region	-0.61179	30.55573
+UM.450	Wake Island	19.31	166.6
+UM.350	Navassa Island	18.403	-75.012
+UM.050	Baker Island	0.19472	-176.47944
+UM.100	Howland Island	0.81021	-176.61733
+UM.150	Jarvis Island	-0.375	-160.001
+UM.200	Johnston Atoll	16.72	-169.506
+UM.250	Kingman Reef	6.4	-162.4
+UM.300	Midway Islands	28.228	-177.392
+UM.400	Palmyra Atoll	5.875	-162.056
+US.AR	Arkansas	34.75037	-92.50044
+US.DC	Washington, D.C.	38.91706	-77.00025
+US.DE	Delaware	39.00039	-75.49992
+US.FL	Florida	28.75054	-82.5001
+US.GA	Georgia	32.75042	-83.50018
+US.KS	Kansas	38.50029	-98.50063
+US.LA	Louisiana	31.00047	-92.0004
+US.MD	Maryland	39.00039	-76.74997
+US.MO	Missouri	38.25031	-92.50046
+US.MS	Mississippi	32.75041	-89.75036
+US.NC	North Carolina	35.50069	-80.00032
+US.OK	Oklahoma	35.49209	-97.50328
+US.SC	South Carolina	34.00043	-81.00009
+US.TN	Tennessee	35.75035	-86.25027
+US.TX	Texas	31.25044	-99.25061
+US.WV	West Virginia	38.50038	-80.50009
+US.AL	Alabama	32.75041	-86.75026
+US.CT	Connecticut	41.66704	-72.66648
+US.IA	Iowa	42.00027	-93.50049
+US.IL	Illinois	40.00032	-89.25037
+US.IN	Indiana	40.00032	-86.25027
+US.ME	Maine	45.50032	-69.24977
+US.MI	Michigan	44.25029	-85.50033
+US.MN	Minnesota	46.25024	-94.25055
+US.NE	Nebraska	41.50028	-99.75067
+US.NH	New Hampshire	43.66702	-71.4998
+US.NJ	New Jersey	40.16706	-74.49987
+US.NY	New York	43.00035	-75.4999
+US.OH	Ohio	40.25034	-83.00018
+US.RI	Rhode Island	41.75038	-71.49978
+US.VT	Vermont	44.00034	-72.74983
+US.WI	Wisconsin	44.50024	-90.00041
+US.CA	California	37.25022	-119.75126
+US.CO	Colorado	39.00027	-105.50083
+US.NM	New Mexico	34.50034	-106.00085
+US.NV	Nevada	39.25021	-116.75119
+US.UT	Utah	39.25024	-111.75103
+US.AZ	Arizona	34.5003	-111.50098
+US.ID	Idaho	44.5002	-114.25118
+US.MT	Montana	47.00025	-109.75102
+US.ND	North Dakota	47.50027	-100.00068
+US.OR	Oregon	44.00013	-120.50139
+US.SD	South Dakota	44.50026	-100.25069
+US.WA	Washington	47.50012	-120.50147
+US.WY	Wyoming	43.00024	-107.5009
+US.HI	Hawaii	20.75028	-156.50028
+US.AK	Alaska	64.00028	-150.00028
+US.KY	Kentucky	38.20042	-84.87762
+US.MA	Massachusetts	42.36565	-71.10832
+US.PA	Pennsylvania	40.27245	-76.90567
+US.VA	Virginia	37.54812	-77.44675
+UY.19	Treinta y Tres	-33	-54.25
+UY.18	Tacuarembo	-32.08333	-55.75
+UY.17	Soriano	-33.5	-57.75
+UY.16	San Jose	-34.25	-56.75
+UY.15	Salto	-31.41667	-57
+UY.14	Rocha	-34	-54
+UY.13	Rivera	-31.5	-55.25
+UY.12	Rio Negro	-32.75	-57.33333
+UY.11	Paysandu	-32.08333	-57.25
+UY.10	Montevideo	-34.825	-56.2
+UY.09	Maldonado	-34.58333	-54.83333
+UY.08	Lavalleja	-34	-55
+UY.07	Florida	-33.83333	-55.91667
+UY.06	Flores	-33.58333	-56.83333
+UY.05	Durazno	-33.08333	-56.08333
+UY.04	Colonia	-34.16667	-57.66667
+UY.03	Cerro Largo	-32.33333	-54.33333
+UY.02	Canelones	-34.53333	-55.91667
+UY.01	Artigas	-30.58333	-57
+UZ.09	Karakalpakstan	44.21636	58.82986
+UZ.12	Surxondaryo	38	67.5
+UZ.10	Samarqand	39.58333	66.58333
+UZ.08	Qashqadaryo	38.58333	66
+UZ.02	Bukhara	40	64
+UZ.14	Toshkent	41	69.66667
+UZ.13	Toshkent Shahri	41.33333	69.25
+UZ.16	Sirdaryo	40.5	68.75
+UZ.07	Navoiy	42	64
+UZ.06	Namangan	40.99747	71.24784
+UZ.05	Xorazm	41.5	60.5
+UZ.15	Jizzax	40.33333	67.66667
+UZ.03	Fergana	40.5	71.25
+UZ.01	Andijon	40.75	72.33333
+VC.05	Saint Patrick	13.23333	-61.23333
+VC.04	Saint George	13.16667	-61.2
+VC.03	Saint David	13.3	-61.2
+VC.02	Saint Andrew	13.2	-61.23333
+VC.06	Grenadines	12.83333	-61.25
+VC.01	Charlotte	13.26667	-61.15
+VE.23	Zulia	10	-72.16667
+VE.22	Yaracuy	10.33974	-68.73734
+VE.21	Trujillo	9.43856	-70.50888
+VE.20	Tachira	7.83333	-72.08333
+VE.19	Sucre	10.41667	-63.5
+VE.18	Portuguesa	9.16667	-69.25
+VE.17	Nueva Esparta	11	-64
+VE.16	Monagas	9.33333	-63
+VE.15	Miranda	10.25	-66.41667
+VE.14	Merida	8.5	-71.16667
+VE.13	Lara	10.16667	-69.83333
+VE.12	Guarico	8.66667	-66.58333
+VE.24	Dependencias Federales	11.54731	-65.57739
+VE.25	Capital	10.47639	-66.98333
+VE.11	Falcon	11	-69.83333
+VE.09	Delta Amacuro	8.75	-61.33333
+VE.08	Cojedes	9.33333	-68.33333
+VE.07	Carabobo	10.16667	-68.08333
+VE.06	Bolivar	6.33333	-63.5
+VE.05	Barinas	8.16667	-69.83333
+VE.04	Aragua	10	-67.16667
+VE.03	Apure	7.16667	-68.83333
+VE.02	Anzoategui	9	-64.33333
+VE.01	Amazonas	3.5	-66
+VE.26	Vargas	10.56667	-66.9
+VI.010	Saint Croix Island	17.73563	-64.74795
+VI.020	Saint John Island	18.32758	-64.73771
+VI.030	Saint Thomas Island	18.32713	-64.96941
+VN.58	Nghe An	19.25	104.91667
+VN.59	Ninh Binh	20.23333	105.9
+VN.60	Ninh Thuan	11.75	108.83333
+VN.65	Soc Trang	9.55	105.91667
+VN.67	Tra Vinh	9.8	106.3
+VN.68	Tuyen Quang	22.11667	105.25
+VN.69	Vinh Long	10.1	106
+VN.70	Yen Bai	21.75	104.58333
+VN.90	Lao Cai	22.3	104.16667
+VN.37	Tien Giang	10.4	106.3
+VN.66	Thua Thien-Hue	16.33333	107.58333
+VN.55	Kon Tum	14.75	107.91667
+VN.34	Thanh Hoa	20.06667	105.33333
+VN.35	Thai Binh	20.5	106.36667
+VN.33	Tay Ninh	11.33333	106.16667
+VN.32	Son La	21.16667	104
+VN.64	Quang Tri	16.75	107
+VN.30	Quang Ninh	21.25	107.33333
+VN.63	Quang Ngai	15	108.66667
+VN.62	Quang Binh	17.5	106.33333
+VN.61	Phu Yen	13.16667	109.08333
+VN.53	Hoa Binh	20.66667	105.33333
+VN.24	Long An	10.7	106.16667
+VN.39	Lang Son	21.83333	106.58333
+VN.23	Lam Dong	11.66667	108.08333
+VN.89	Lai Chau	22.28333	103.25
+VN.21	Kien Giang	10	105.16667
+VN.54	Khanh Hoa	12.33333	109
+VN.20	Ho Chi Minh City	10.82327	106.62978
+VN.52	Ha Tinh	18.33333	105.75
+VN.50	Ha Giang	22.75	105
+VN.49	Gia Lai	13.75	108.25
+VN.44	Ha Noi	21	105.75
+VN.87	Can Tho	10.11667	105.5
+VN.13	Hai Phong	20.8	106.66667
+VN.47	Binh Thuan	11.08333	108.08333
+VN.09	Dong Thap	10.58333	105.63333
+VN.43	Dong Nai	11	107.16667
+VN.88	Dac Lak	12.75	108.25
+VN.45	Ba Ria-Vung Tau	10.58333	107.25
+VN.05	Cao Bang	22.75	106.08333
+VN.46	Binh Dinh	14.16667	109
+VN.03	Ben Tre	10.16667	106.5
+VN.01	An Giang	10.5	105.16667
+VN.91	Dak Nong	12.16667	107.75
+VN.92	Huyen Dien Bien	21.33333	102.93333
+VN.74	Bac Ninh	21.1	106.1
+VN.71	Bac Giang	21.33333	106.43333
+VN.78	Da Nang	16.08333	108.08333
+VN.75	Binh Duong	11.16667	106.66667
+VN.76	Binh Phuoc	11.75	106.91667
+VN.85	Thai Nguyen	21.66667	105.83333
+VN.84	Quang Nam	15.58333	107.91667
+VN.83	Phu Tho	21.33333	105.13333
+VN.82	Nam Dinh	20.25	106.25
+VN.80	Ha Nam	20.53333	105.96667
+VN.72	Bac Kan	22.25	105.83333
+VN.73	Bac Lieu	9.3	105.5
+VN.77	Ca Mau	9.08333	105.08333
+VN.79	Hai Duong	20.91667	106.33333
+VN.81	Hung Yen	20.81667	106.05
+VN.86	Vinh Phuc	21.33333	105.56667
+VN.93	Hau Giang	9.77605	105.46412
+VU.15	Tafea	-19.5	169.5
+VU.13	Sanma	-15.33333	166.75
+VU.07	Torba	-13.75	167.5
+VU.16	Malampa	-16.25	167.75
+VU.17	Penama	-15.5	168
+VU.18	Shefa	-17.33333	168.5
+WF.98613	Circonscription d'Uvea	-13.29884	-176.22053
+WF.98612	Circonscription de Sigave	-14.25	-178.15
+WF.98611	Circonscription d'Alo	-14.30664	-178.11876
+WS.11	Vaisigano	-13.53333	-172.73333
+WS.06	Va`a-o-Fonoti	-13.95	-171.53333
+WS.10	Tuamasaga	-13.91667	-171.8
+WS.09	Satupa`itea	-13.63333	-172.63333
+WS.08	Palauli	-13.7	-172.46667
+WS.07	Gagaifomauga	-13.5	-172.5
+WS.05	Gaga`emauga	-13.5	-172.25
+WS.04	Fa`asaleleaga	-13.66667	-172.25
+WS.03	Atua	-13.95	-171.63333
+WS.02	Aiga-i-le-Tai	-13.85	-172.25
+WS.01	A'ana	-13.88333	-171.96667
+XK.10096138	Ferizaj	42.36931	21.14735
+XK.10096859	Gjakova	42.38775	20.4235
+XK.10097357	Gjilan	42.46078	21.46716
+XK.10097358	Mitrovica	42.89574	20.876
+XK.10097359	Pec	42.6632	20.30072
+XK.10097360	Pristina	42.66308	21.16486
+XK.10097361	Prizren	42.21566	20.74232
+YE.25	Ta'izz	13.5	44
+YE.05	Shabwah	15	47
+YE.16	Sanaa	15.26069	44.42489
+YE.15	Sa'dah	17.0634	43.91488
+YE.27	Raymah	14.63333	43.66667
+YE.14	Ma'rib	15.4591	45.32534
+YE.10	Al Mahwit	15.39198	43.53616
+YE.21	Al Jawf	16.5974	45.5243
+YE.04	Muhafazat Hadramawt	16	49
+YE.11	Dhamar	14.68296	44.27294
+YE.03	Al Mahrah	17	51.5
+YE.08	Muhafazat al Hudaydah	14.91732	43.19279
+YE.20	Muhafazat al Bayda'	14.34166	45.39442
+YE.02	Aden	12.83333	44.91667
+YE.01	Abyan	13.6291	46.126
+YE.18	Ad Dali'	13.8924	44.7625
+YE.19	Omran	16.23022	43.90983
+YE.22	Hajjah	16	43.25
+YE.23	Ibb	14	44.16667
+YE.24	Lahij	13.16667	44.58333
+YE.26	Amanat Al Asimah	15.45037	44.221
+YE.28	Soqatra Governorate	12.50228	53.82065
+YT.97601	Acoua	-12.72215	45.05811
+YT.97602	Bandraboua	-12.70222	45.12197
+YT.97603	Bandrele	-12.91113	45.19389
+YT.97604	Boueni	-12.9092	45.07999
+YT.97605	Chiconi	-12.83072	45.11407
+YT.97606	Chirongui	-12.93497	45.15106
+YT.97607	Dembeni	-12.84302	45.18548
+YT.97608	Dzaoudzi	-12.77832	45.28367
+YT.97609	Kani-Keli	-12.95471	45.106
+YT.97610	Koungou	-12.73513	45.20591
+YT.97611	Mamoudzou	-12.77966	45.22831
+YT.97612	Mtsamboro	-12.70013	45.06918
+YT.97613	M'Tsangamouji	-12.75982	45.08454
+YT.97614	Ouangani	-12.84728	45.1369
+YT.97615	Pamandzi	-12.79489	45.28195
+YT.97616	Sada	-12.85046	45.10291
+YT.97617	Tsingoni	-12.78845	45.10463
+ZA.03	Orange Free State	-29	26
+ZA.02	KwaZulu-Natal	-29	30
+ZA.05	Eastern Cape	-32	26
+ZA.06	Gauteng	-26.08333	28.25
+ZA.07	Mpumalanga	-26	30
+ZA.08	Northern Cape	-29.5	22
+ZA.09	Limpopo	-24	29.5
+ZA.10	North-West	-26.5	26
+ZA.11	Western Cape	-34	20
+ZM.01	Western	-15	24
+ZM.07	Southern	-16.5	27
+ZM.06	North-Western	-13	25
+ZM.05	Northern	-9.75	30.75
+ZM.09	Lusaka	-15.41667	29
+ZM.04	Luapula	-11	29
+ZM.03	Eastern	-13.66667	32
+ZM.08	Copperbelt	-13	28
+ZM.02	Central	-14	29
+ZW.02	Midlands	-19.2	29.8
+ZW.07	Matabeleland South	-20.9	28.8
+ZW.06	Matabeleland North	-18.83333	27.41667
+ZW.08	Masvingo	-20.6	31.4
+ZW.05	Mashonaland West	-17.16667	29.75
+ZW.04	Mashonaland East	-17.96667	31.66667
+ZW.03	Mashonaland Central	-16.7	31.2
+ZW.01	Manicaland	-19	32.41667
+ZW.09	Bulawayo	-20.14167	28.55
+ZW.10	Harare	-17.85417	31.05833
