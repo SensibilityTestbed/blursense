@@ -1,0 +1,9 @@
+start = getruntime()
+
+for i in range(10):
+  try:
+    log(get_location())
+  except Exception: 
+    pass
+
+log("10 location requests in "+str(getruntime() - start)+" secs.\n")

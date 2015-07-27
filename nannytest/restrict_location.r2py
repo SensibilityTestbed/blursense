@@ -1,0 +1,27 @@
+nanny = dy_import_module('libnanny.r2py')
+
+# allow get_location 1 call/sec 
+resourcesdict = {'get_location': 1/30.0}  
+
+resourcetypedict = {'renewable_resources': ['get_location'], 'quantity_resources': ['get_location'],
+                    'fungible_item_resources':[], 'individual_item_resources':[]}
+nanny.start_resource_nanny(resourcesdict, resourcetypedict)
+
+
+def restricted_get_location():
+  nanny.tattle_quantity('get_location', 1/30.0)
+  location_data = get_location()
+  return location
+
+
+CHILD_CONTEXT_DEF["get_location"] = {
+    "type": "func",
+    "args": None,
+    "return": dict,
+    "exceptions": "any",
+    "target": restricted_get_location,
+}
+
+
+# Dispatch.
+secure_dispatch_module()
