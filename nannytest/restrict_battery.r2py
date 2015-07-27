@@ -1,0 +1,28 @@
+nanny = dy_import_module('libnanny.r2py')
+
+# allow get_location 1 call/10 sec 
+resourcesdict = {'get_battery_info': 1/10.0}  
+
+resourcetypedict = {'renewable_resources': ['get_battery_info'], 'quantity_resources': ['get_battery_info'],
+                    'fungible_item_resources':[], 'individual_item_resources':[]}
+
+nanny.start_resource_nanny(resourcesdict, resourcetypedict)
+
+
+def restricted_get_battery_info():
+  nanny.tattle_quantity('get_battery_info', 1)
+  battery_data = get_battery_info()
+  return battery_data
+
+
+CHILD_CONTEXT_DEF["get_battery_info"] = {
+    "type": "func",
+    "args": None,
+    "return": dict,
+    "exceptions": "any",
+    "target": restricted_get_battery_info,
+}
+
+
+# Dispatch.
+secure_dispatch_module()

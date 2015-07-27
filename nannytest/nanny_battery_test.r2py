@@ -1,0 +1,9 @@
+start = getruntime()
+
+for i in range(10):
+  try:
+    log(str(get_battery_info()) + '\n')
+  except Exception as e: 
+    log(str(i) + ": " + str(e) + "\n")
+
+log("10 battery requests in "+str(getruntime() - start)+" secs.\n")
