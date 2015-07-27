@@ -1,7 +1,13 @@
 nanny = dy_import_module('libnanny.r2py')
 
-# allow get_location 1 call/10 sec 
-resourcesdict = {'get_battery_info': 1/10.0}  
+seconds = argparse_scan_int(callargs, '-s')
+
+if seconds:
+  # allow get_battery_info 1 call/ x sec 
+  resourcesdict = {'get_battery_info': 1.0/int(seconds)}  
+else:
+  # if no -s specified, error
+  raise Exception
 
 resourcetypedict = {'renewable_resources': ['get_battery_info'], 'quantity_resources': ['get_battery_info'],
                     'fungible_item_resources':[], 'individual_item_resources':[]}
